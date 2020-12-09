@@ -81,8 +81,8 @@ class WaniKani :
     def ENoTabi_WaniKani(self, section, realm, level) :
         global driver
         options = Options()
-        options.add_argument('--headless')
-        options.add_argument('--disable-gpu')
+        #options.add_argument('--headless')
+        #options.add_argument('--disable-gpu')
         driver = webdriver.Chrome(executable_path='/Users/frederick/Documents/REPOS/WaniKani_Card_Generator/WaniKani_CardSet_Creator/chromedriver', chrome_options=options) 
         #initializing driver and driver options so it can run without opening chrome window 
 
@@ -110,7 +110,7 @@ class WaniKani :
 
     # Going to next Kanji/Vocab in level
     def Tsugi(self) :
-        driver.implicitly_wait(3)
+        driver.implicitly_wait(10)
         driver.find_element_by_css_selector('.next a').click()
 
 
@@ -124,7 +124,7 @@ class WaniKani :
                 Site.Tsugi()
             except:
                 print('No More Info In Current Level') 
-                driver.quit()
+                #driver.quit()
                 break
 
 
@@ -143,11 +143,11 @@ class WaniKani :
                     )
         else:
             for vocab in info_Collection : 
-                vocab.DuplCheck()
+                vocab.DuplCheck(vocab)
                 cards.write(
-                    f"{vocab.symbol} (Meaning)      {vocab.meaning}\n" +
-                    f"{vocab.symbol} (Reading 1)    {vocab.reading_one}\n" + 
-                    f"{vocab.symbol} (Reading 2)    {vocab.reading_two}\n" 
+                    f"{vocab.symbols} (Meaning)      {vocab.meaning}\n" +
+                    f"{vocab.symbols} (Reading 1)    {vocab.reading_one}\n" + 
+                    f"{vocab.symbols} (Reading 2)    {vocab.reading_two}\n" 
                     )
 
 
@@ -167,9 +167,9 @@ class WaniKani :
 #Script Run 
 Site = WaniKani()
 
-section = Site.Section[0]
+section = Site.Section[1]
 realm = Site.Realms[0]
-level = 2
+level = 1
 #Choose option here 
 
 Site.Atsumeru(section, realm, level)
