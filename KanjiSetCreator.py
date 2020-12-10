@@ -175,9 +175,9 @@ class WaniKani :
 #Script Run 
 Site = WaniKani()
 
-section = Site.Section[0]
-realm = Site.Realms[2]
-level = 21
+section = Site.Section[1]
+realm = Site.Realms[0]
+level = 1
 #Choose options here 
 
 Site.Atsumeru(section, realm, level)
@@ -198,4 +198,4 @@ Site.Create_Cards(section, realm, level, Site.Info_Collection)
     # 4 : paradise : 41 - 50 
     # 5 : reality : 51 - 60 
 
-#------Regex to get rid of empty lines : \W\s\(\w+\)\s+\n------#
+#------Regex to get rid of empty lines : ^\W+?\(.+\)\s+\n------#
