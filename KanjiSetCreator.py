@@ -1,28 +1,3 @@
-#------Psuedo Code----------#
-    #---Selenium Side---#
-        # Open Wani Kani
-        # Go to desired Kanji Level  
-        # Grab Kanji 
-        # Grab Onyomi - Unless it's None 
-        # Grab Kunyomi - Unless it's None 
-        # Grab Nanori - Unless it's None 
-        # Go To next Kanji 
-        # repeat from step 3 - Unless it's the last kanji in Level
-
-    #---Text Editor Side ---#
-        # Receive kanji collection
-        # Create New Document  
-        # Print in this format : 
-
-            #上 (Meaning)	Above
-            #上 (Onyomi)		じよう
-            #上（Kunyomi）	 うえ、 あ、 のぼ、 うわ、 かみ
-        #
-        # Save Document 
-        # Don't Profit 
-
-
-
 import os
 import re
 from selenium import webdriver
@@ -31,7 +6,6 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-
 
 
 
@@ -102,6 +76,7 @@ class WaniKani :
 
         meaning = driver.find_element_by_css_selector('header > h1').text
         meaning = meaning[:0] + meaning[3 + len(symbol):]
+        #Did this to rid of extra text that also comes from h1 element holding meaning text
 
         if section == 'kanji' : 
             readings = driver.find_elements_by_css_selector('.span4 > p')
@@ -109,14 +84,13 @@ class WaniKani :
             return kanji 
         else :
             readings = driver.find_elements_by_css_selector('.pronunciation-variant')
-            vocab = Vocab(symbol.lstrip(), meaning.lstrip(), readings[0].text, readings[-1].text)
+            vocab = Vocab(symbol, meaning.lstrip(), readings[0].text, readings[-1].text)
             return vocab
 
 
     # Going to next Kanji/Vocab in level
     def Tsugi(self) :
-        #driver.refresh()
-        # Has to wait for element to be clickable - method will fail for vocab if you remove it
+        # Has to wait for element to be clickable - method will fail for vocab if you don't
         nextButton = WebDriverWait(driver, 2).until(EC.element_to_be_clickable((By.CSS_SELECTOR, ".next a")))
         nextButton.click()
         
@@ -136,7 +110,7 @@ class WaniKani :
                 break
 
 
-    # Creating document in format for Quizlet
+    # Creating document in certain format for Quizlet
     def Create_Cards(self, section, realm, level, info_Collection) :
         cards = open(os.getcwd() + '/Quizlet_Cards/' + f"{section}_{realm}_{level}.rtf", "w+")
 
