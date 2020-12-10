@@ -26,7 +26,12 @@
 import os
 import re
 from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys 
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+
 
 
 
@@ -54,8 +59,8 @@ class Kanji :
 class Vocab :
 
 
-    def __init__(self, symbols, meaning, reading_one, reading_two) :
-        self.symbols = symbols
+    def __init__(self, symbol, meaning, reading_one, reading_two) :
+        self.symbol = symbol
         self.meaning = meaning
         self.reading_one = reading_one
         self.reading_two = reading_two
@@ -81,8 +86,8 @@ class WaniKani :
     def ENoTabi_WaniKani(self, section, realm, level) :
         global driver
         options = Options()
-        #options.add_argument('--headless')
-        #options.add_argument('--disable-gpu')
+        options.add_argument('--headless')
+        options.add_argument('--disable-gpu')
         driver = webdriver.Chrome(executable_path='/Users/frederick/Documents/REPOS/WaniKani_Card_Generator/WaniKani_CardSet_Creator/chromedriver', chrome_options=options) 
         #initializing driver and driver options so it can run without opening chrome window 
 
@@ -96,7 +101,7 @@ class WaniKani :
         symbol =  "".join(set(driver.find_element_by_css_selector(f'.{section}-icon').text.lstrip()))
 
         meaning = driver.find_element_by_css_selector('header > h1').text
-        meaning = meaning[:0] + meaning[4:]
+        meaning = meaning[:0] + meaning[3 + len(symbol):]
 
         if section == 'kanji' : 
             readings = driver.find_elements_by_css_selector('.span4 > p')
@@ -110,8 +115,11 @@ class WaniKani :
 
     # Going to next Kanji/Vocab in level
     def Tsugi(self) :
-        driver.implicitly_wait(10)
-        driver.find_element_by_css_selector('.next a').click()
+        #driver.refresh()
+        # Has to wait for element to be clickable - method will fail for vocab if you remove it
+        nextButton = WebDriverWait(driver, 2).until(EC.element_to_be_clickable((By.CSS_SELECTOR, ".next a")))
+        nextButton.click()
+        
 
 
     # Grabbing all Kanji/Vocab in the level
@@ -124,7 +132,7 @@ class WaniKani :
                 Site.Tsugi()
             except:
                 print('No More Info In Current Level') 
-                #driver.quit()
+                driver.quit()
                 break
 
 
@@ -145,9 +153,9 @@ class WaniKani :
             for vocab in info_Collection : 
                 vocab.DuplCheck(vocab)
                 cards.write(
-                    f"{vocab.symbols} (Meaning)      {vocab.meaning}\n" +
-                    f"{vocab.symbols} (Reading 1)    {vocab.reading_one}\n" + 
-                    f"{vocab.symbols} (Reading 2)    {vocab.reading_two}\n" 
+                    f"{vocab.symbol} (Meaning)      {vocab.meaning}\n" +
+                    f"{vocab.symbol} (Reading 1)    {vocab.reading_one}\n" + 
+                    f"{vocab.symbol} (Reading 2)    {vocab.reading_two}\n" 
                     )
 
 
@@ -168,8 +176,8 @@ class WaniKani :
 Site = WaniKani()
 
 section = Site.Section[1]
-realm = Site.Realms[0]
-level = 1
+realm = Site.Realms[2]
+level = 21
 #Choose option here 
 
 Site.Atsumeru(section, realm, level)
