@@ -98,7 +98,7 @@ class WaniKani :
 
     # Grabbing Kanji/Vocab Information and returning it 
     def Tsukamu(self, section) : 
-        symbol =  "".join(set(driver.find_element_by_css_selector(f'.{section}-icon').text.lstrip()))
+        symbol =  driver.find_element_by_css_selector(f'.{section}-icon').text
 
         meaning = driver.find_element_by_css_selector('header > h1').text
         meaning = meaning[:0] + meaning[3 + len(symbol):]
@@ -109,7 +109,7 @@ class WaniKani :
             return kanji 
         else :
             readings = driver.find_elements_by_css_selector('.pronunciation-variant')
-            vocab = Vocab(symbol, meaning.lstrip(), readings[0].text, readings[-1].text)
+            vocab = Vocab(symbol.lstrip(), meaning.lstrip(), readings[0].text, readings[-1].text)
             return vocab
 
 
@@ -175,10 +175,10 @@ class WaniKani :
 #Script Run 
 Site = WaniKani()
 
-section = Site.Section[1]
+section = Site.Section[0]
 realm = Site.Realms[2]
 level = 21
-#Choose option here 
+#Choose options here 
 
 Site.Atsumeru(section, realm, level)
 Site.Create_Cards(section, realm, level, Site.Info_Collection)
