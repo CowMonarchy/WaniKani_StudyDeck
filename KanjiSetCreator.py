@@ -149,13 +149,16 @@ class WaniKani :
 #Script Run 
 Site = WaniKani()
 
-section = Site.Section[1]
+section = Site.Section[0]
 realm = Site.Realms[0]
 level = 1
+runs = 1
 #Choose options here 
+for i in range(1,11) :
+    Site.Atsumeru(section, realm, i)
+    Site.Create_Cards(section, realm, i, Site.Info_Collection)
+    Site.Info_Collection.clear()
 
-Site.Atsumeru(section, realm, level)
-Site.Create_Cards(section, realm, level, Site.Info_Collection)
 
 
 # -------------Key------------- #
