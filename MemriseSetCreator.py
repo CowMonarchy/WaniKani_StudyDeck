@@ -9,35 +9,56 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 
-class Memrise : 
+class iKnow : 
 
     @classmethod
-    def ENoTabi_Memrise(self) :
+    def ENoTabi_iKnow(self, level, step) :
         global driver
-        global vocab
         options = Options()
         options.add_argument('--headless')
         options.add_argument('--disable-gpu')
-        driver = webdriver.Chrome(executable_path='/Users/frederick/Documents/REPOS/WaniKani_Card_Generator/WaniKani_CardSet_Creator/chromedriver', chrome_options=options) 
-        #initializing driver and driver options so it can run without opening chrome window 
-
-        driver.get(f"https://app.memrise.com/course/2022732/japanese-1/1/")
-        terms = driver.find_elements_by_css_selector('div.text > div.text')
-
-        vocab = np.array_split(terms, len(terms)/2)
-
-        for thing in vocab :
-            print(f"{thing[0].text.strip()}\t\t{thing[1].text.strip()}")
+        driver = webdriver.Chrome(executable_path='/Users/frederick/Documents/Repositories/CardSet_Creator/chromedriver', chrome_options=options) 
+        # initializing driver and driver options so it can run without opening chrome window 
 
 
+        # Go to site and correct level page
+        driver.get(f"https://iknow.jp/content/japanese")
+        driver.execute_script("window.scrollTo(0, 550)")
+        driver.find_element_by_css_selector(f"a[title *= 'Japanese Core {level}: Step {step}']").click()
 
-    def Create_Cards(self, vocabulary, level) :
-        cards = open(os.getcwd() + '/Memrise_Quizlet_Cards/' + f"Memrise_level_{level}.rtf", "w+")
-        for thing in vocab :
-            cards.write(f"{thing[0].text.strip()}\t\t{thing[1].text.strip()}\n")
+
+        # Collect Info
+        WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, "div.course-content")))
+        driver.execute_script("window.scrollTo(0, 550)")
+        terms = driver.find_elements_by_css_selector('li.item')
+
+
+        # Place information into file
+        cards = open("/Users/frederick/Documents/Repositories/CardSet_Creator/iKnow_Quizlet_Cards/" + f"iKnow_{level}_Set{step}" + ".rtf", "w+")
+
+        for thing in range(100) :
+
+            try:
+                kanji = terms[thing].find_element_by_css_selector('a.cue').text
+                reading = terms[thing].find_element_by_css_selector('span.transliteration').text
+                translation = terms[thing].find_element_by_css_selector('p.response').text
+                cards.write(f"{kanji} (Reading) \t{reading}\n{reading} (Meaning)\t{translation}\n")
+                print(f"{kanji} (Reading) \t{reading}\n{reading} (Meaning)\t{translation}\n")
+            except:
+                kanji = terms[thing].find_element_by_css_selector('a.cue').text
+                translation = terms[thing].find_element_by_css_selector('p.response').text
+                cards.write(f"{kanji} (Meaning)\t{translation}\n")
+                print(f"{kanji} (Meaning)\t{translation}\n")
+            
+
+        # Close File and Driver    
         cards.close() 
+        driver.quit()
 
 
-script = Memrise()
-script.ENoTabi_Memrise()
-script.Create_Cards(vocab, "01")
+
+step = 2
+script = iKnow()
+
+for x in range(1, 11):
+    script.ENoTabi_iKnow(f"6000", f"{x}")
