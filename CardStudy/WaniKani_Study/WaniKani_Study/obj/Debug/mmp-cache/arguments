@@ -1,0 +1,25 @@
+# Version: 7.0.0.15 (d16-8: 87a1b18d8
+/Library/Frameworks/Xamarin.Mac.framework/Versions/7.0.0.15/lib/mmp/mmp.exe \
+	/Library/Frameworks/Xamarin.Mac.framework/Versions/7.0.0.15/bin/../lib/mmp/mmp.exe \
+	--debug \
+	'/target-framework:Xamarin.Mac,Version=v4.5,Profile=Full' \
+	--http-message-handler=HttpClientHandler \
+	--cache=/Users/frederick/Documents/REPOS/WaniKani_Card_Generator/WaniKani_Study/WaniKani_Study/WaniKani_Study/obj/Debug/mmp-cache \
+	--root-assembly=/Users/frederick/Documents/REPOS/WaniKani_Card_Generator/WaniKani_Study/WaniKani_Study/WaniKani_Study/bin/Debug/WaniKani_Study.exe \
+	--sdkroot=/Applications/Xcode.app/Contents/Developer \
+	--targetver=10.14 \
+	-q \
+	-q \
+	-q \
+	-q \
+	/output:/Users/frederick/Documents/REPOS/WaniKani_Card_Generator/WaniKani_Study/WaniKani_Study/WaniKani_Study/bin/Debug/ \
+	/name:WaniKani_Study \
+	/arch:x86_64 \
+	/nolink \
+	/reference:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/4.5/mscorlib.dll \
+	/reference:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/4.5/System.Core.dll \
+	/reference:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/4.5/System.dll \
+	/reference:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/4.5/Facades/System.Drawing.Common.dll \
+	/reference:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/reference/full/Xamarin.Mac.dll \
+	/reference:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/reference/full/Xamarin.Mac.dll \
+	@/Users/frederick/Documents/REPOS/WaniKani_Card_Generator/WaniKani_Study/WaniKani_Study/WaniKani_Study/obj/Debug/response-file.rsp \

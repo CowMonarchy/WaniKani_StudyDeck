@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/frederick/Documents/REPOS/WaniKani_Card_Generator/WaniKani_Study/WaniKani_Study/WaniKani_Study_Console/WaniKani_Study_Console.csproj": {}
+  },
+  "projects": {
+    "/Users/frederick/Documents/REPOS/WaniKani_Card_Generator/WaniKani_Study/WaniKani_Study/WaniKani_Study_Console/WaniKani_Study_Console.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/frederick/Documents/REPOS/WaniKani_Card_Generator/WaniKani_Study/WaniKani_Study/WaniKani_Study_Console/WaniKani_Study_Console.csproj",
+        "projectName": "WaniKani_Study_Console",
+        "projectPath": "/Users/frederick/Documents/REPOS/WaniKani_Card_Generator/WaniKani_Study/WaniKani_Study/WaniKani_Study_Console/WaniKani_Study_Console.csproj",
+        "packagesPath": "/Users/frederick/.nuget/packages/",
+        "outputPath": "/Users/frederick/Documents/REPOS/WaniKani_Card_Generator/WaniKani_Study/WaniKani_Study/WaniKani_Study_Console/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/frederick/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Humanizer.Core.ja": {
+              "target": "Package",
+              "version": "[2.8.26, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

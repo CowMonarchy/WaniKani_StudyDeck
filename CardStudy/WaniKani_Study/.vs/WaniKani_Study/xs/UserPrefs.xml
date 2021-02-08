@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{30F98FFE-CDF4-4238-9C25-7500BC65106F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WaniKani_Study_Console/Review_Classes/Kana_Review.cs">
+    <Files>
+      <File FileName="WaniKani_Study_Console/Review_Classes/Kana_Review.cs" Line="103" Column="52" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WaniKani_Study" expanded="True">
+            <Node name="WaniKani_Study_Console" expanded="True">
+              <Node name="Review_Classes" expanded="True">
+                <Node name="Kana_Review.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WaniKani__Study__Console PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>WaniKani_Study/WaniKani_Study.csproj</String>
+    <String>WaniKani_Study_Site/WaniKani_Study_Site.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

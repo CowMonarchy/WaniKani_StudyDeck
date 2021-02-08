@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8BE4B859-C7C0-4310-85D2-A0814AE7C9EA}</ProjectGuid>
+    <ProjectTypeGuids>{A3F8F2AB-B479-4A4A-A458-A89E7DC349F1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>WaniKani_Study</RootNamespace>
+    <AssemblyName>WaniKani_Study</AssemblyName>
+    <MonoMacResourcePrefix>Resources</MonoMacResourcePrefix>
+    <UseXamMacFullFramework>true</UseXamMacFullFramework>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <EnableCodeSigning>false</EnableCodeSigning>
+    <CodeSigningKey>Mac Developer</CodeSigningKey>
+    <CreatePackage>false</CreatePackage>
+    <EnablePackageSigning>false</EnablePackageSigning>
+    <IncludeMonoRuntime>false</IncludeMonoRuntime>
+    <UseSGen>true</UseSGen>
+    <UseRefCounting>true</UseRefCounting>
+    <AOTMode>None</AOTMode>
+    <LinkMode>None</LinkMode>
+    <PackageSigningKey>3rd Party Mac Developer Installer</PackageSigningKey>
+    <XamMacArch>x86_64</XamMacArch>
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <EnableCodeSigning>false</EnableCodeSigning>
+    <CreatePackage>true</CreatePackage>
+    <EnablePackageSigning>false</EnablePackageSigning>
+    <IncludeMonoRuntime>true</IncludeMonoRuntime>
+    <UseSGen>true</UseSGen>
+    <UseRefCounting>true</UseRefCounting>
+    <CodeSignEntitlements>Entitlements.plist</CodeSignEntitlements>
+    <LinkMode>None</LinkMode>
+    <AOTMode>None</AOTMode>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="Xamarin.Mac" />
+  </ItemGroup>
+  <ItemGroup>
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\AppIcon-128.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\AppIcon-128%402x.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\AppIcon-16.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\AppIcon-16%402x.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\AppIcon-256.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\AppIcon-256%402x.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\AppIcon-32.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\AppIcon-32%402x.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\AppIcon-512.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\AppIcon-512%402x.png" />
+    <ImageAsset Include="Assets.xcassets\Contents.json" />
+    <ImageAsset Include="Resources\Assets.xcassets\Screen Shot 2020-12-24 at 8.08.20 PM.imageset\Screen Shot 2020-12-24 at 8.08.20 PM.png" />
+    <ImageAsset Include="Resources\Assets.xcassets\Screen Shot 2020-12-24 at 8.08.20 PM.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Assets.xcassets\Kanji_Section.imageset\Kanji_Section.png" />
+    <ImageAsset Include="Resources\Assets.xcassets\Kanji_Section.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Assets.xcassets\Vocab_Section.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Assets.xcassets\Vocab_Section.imageset\Vocab_Section.png" />
+    <ImageAsset Include="Resources\Assets.xcassets\Kana_Section.imageset\Kana_Section.png" />
+    <ImageAsset Include="Resources\Assets.xcassets\Kana_Section.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Assets.xcassets\Logo.imageset\Logo.png" />
+    <ImageAsset Include="Resources\Assets.xcassets\Logo.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Assets.xcassets\Katakana_Tab.imageset\Katakana_Tab.png" />
+    <ImageAsset Include="Resources\Assets.xcassets\Katakana_Tab.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Assets.xcassets\Hiragana_Tab.imageset\Hiragana_Tab.png" />
+    <ImageAsset Include="Resources\Assets.xcassets\Hiragana_Tab.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Assets.xcassets\KataKana_Tab_Off.imageset\KataKana_Tab_Off.png" />
+    <ImageAsset Include="Resources\Assets.xcassets\KataKana_Tab_Off.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Assets.xcassets\Hiragana_Tab_Off.imageset\Hiragana_Tab_Off.png" />
+    <ImageAsset Include="Resources\Assets.xcassets\Hiragana_Tab_Off.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Assets.xcassets\Katakana_Tab_Chart.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Assets.xcassets\Katakana_Tab_Chart.imageset\Katakana_Tab_Chart.png" />
+    <ImageAsset Include="Resources\Assets.xcassets\Checked_Btn_Off.imageset\Checked_Btn_Off.png" />
+    <ImageAsset Include="Resources\Assets.xcassets\Checked_Btn_Off.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Assets.xcassets\Checked_Btn_On.imageset\Checked_Btn_On.png" />
+    <ImageAsset Include="Resources\Assets.xcassets\Checked_Btn_On.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Assets.xcassets\Hiragana_Tab_Chart.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Assets.xcassets\Hiragana_Tab_Chart.imageset\Hiragana_Tab_Chart.png" />
+    <ImageAsset Include="Resources\Assets.xcassets\BackButton_Blue.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Assets.xcassets\BackButton_Blue.imageset\BackButton_Blue.png" />
+    <ImageAsset Include="Resources\Assets.xcassets\Kana_Page_Icon01.imageset\Kana_Page_Icon01.png" />
+    <ImageAsset Include="Resources\Assets.xcassets\Kana_Page_Icon01.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Assets.xcassets\Kana_Page_Start.imageset\Kana_Page_Start.png" />
+    <ImageAsset Include="Resources\Assets.xcassets\Kana_Page_Start.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Assets.xcassets\Kana_Goal_Banner.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Assets.xcassets\Kana_Goal_Banner.imageset\Kana_Goal_Banner.png" />
+    <ImageAsset Include="Resources\Assets.xcassets\Kana_Banner.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Assets.xcassets\Kana_Banner.imageset\Kana_Banner.png" />
+    <ImageAsset Include="Resources\Assets.xcassets\Kana_Home_Btn.imageset\Kana_Home_Btn.png" />
+    <ImageAsset Include="Resources\Assets.xcassets\Kana_Home_Btn.imageset\Contents.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\" />
+    <Folder Include="Object_Classes\" />
+    <Folder Include="Review_Games\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Info.plist" />
+    <None Include="Entitlements.plist" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Main.cs" />
+    <Compile Include="AppDelegate.cs" />
+    <Compile Include="ViewController.cs" />
+    <Compile Include="ViewController.designer.cs">
+      <DependentUpon>ViewController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Object_Classes\Kana.cs" />
+    <Compile Include="Review_Games\Kana_Review.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <InterfaceDefinition Include="Main.storyboard" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Xamarin\Mac\Xamarin.Mac.CSharp.targets" />
+</Project>
