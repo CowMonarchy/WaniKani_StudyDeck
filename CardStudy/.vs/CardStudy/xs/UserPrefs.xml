@@ -4,12 +4,7 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CardStudy" expanded="True">
-            <Node name="CardStudy_Console" expanded="True">
-              <Node name="Helper_Classes" expanded="True">
-                <Node name="ConsoleUtility.cs" selected="True" />
-              </Node>
-              <Node name="Review_Classes" expanded="True" />
-            </Node>
+            <Node name="CardStudy_Console" expanded="True" />
           </Node>
         </State>
       </Pad>

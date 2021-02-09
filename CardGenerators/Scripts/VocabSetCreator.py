@@ -11,13 +11,14 @@ from selenium.webdriver.support import expected_conditions as EC
 
 class iKnow : 
 
+
     @classmethod
     def ENoTabi_iKnow(self, level, step) :
         global driver
         options = Options()
         options.add_argument('--headless')
         options.add_argument('--disable-gpu')
-        driver = webdriver.Chrome(executable_path='/Users/frederick/Documents/Repositories/CardSet_Creator/chromedriver', chrome_options=options) 
+        driver = webdriver.Chrome(executable_path='/Users/frederick/Documents/Repositories/VocabCreatorStudy/CardGenerators/chromedriver', chrome_options=options) 
         # initializing driver and driver options so it can run without opening chrome window 
 
 
@@ -34,21 +35,38 @@ class iKnow :
 
 
         # Place information into file
-        cards = open("/Users/frederick/Documents/Repositories/CardSet_Creator/iKnow_Quizlet_Cards/" + f"iKnow_{level}_Set{step}" + ".rtf", "w+")
+        #this is For Quizlet
+        #cards = open("/Users/frederick/Documents/Repositories/CardSet_Creator/iKnow_Quizlet_Cards/" + f"iKnow_{level}_Set{step}" + ".rtf", "w+")
+        #This is For Database Tables
+        cards = open("/Users/frederick/Documents/Repositories/VocabCreatorStudy/Databases/ExcelSheets/" + "iKnow_6000_Vocab" + ".txt", "a")
+
 
         for thing in range(100) :
 
             try:
-                kanji = terms[thing].find_element_by_css_selector('a.cue').text
+                vocab = terms[thing].find_element_by_css_selector('a.cue').text
                 reading = terms[thing].find_element_by_css_selector('span.transliteration').text
                 translation = terms[thing].find_element_by_css_selector('p.response').text
-                cards.write(f"{kanji} (Reading) \t{reading}\n{reading} (Meaning)\t{translation}\n")
-                print(f"{kanji} (Reading) \t{reading}\n{reading} (Meaning)\t{translation}\n")
+
+                #This is For Quizlet Cards
+                #cards.write(f"{vocab} (Reading) \t{reading}\n{reading} (Meaning)\t{translation}\n")
+                #print(f"{vocab} (Reading) \t{reading}\n{reading} (Meaning)\t{translation}\n")
+
+                #This is For Database Tables 
+                cards.write(f"{vocab}\t{translation}\t{reading}\n")
+                print(f"{vocab}\t{translation}\t{reading}\n")
+
             except:
-                kanji = terms[thing].find_element_by_css_selector('a.cue').text
+                vocab = terms[thing].find_element_by_css_selector('a.cue').text
                 translation = terms[thing].find_element_by_css_selector('p.response').text
-                cards.write(f"{kanji} (Meaning)\t{translation}\n")
-                print(f"{kanji} (Meaning)\t{translation}\n")
+
+                #This is For Quizlet Cards
+                #cards.write(f"{vocab} (Meaning)\t{translation}\n")
+                #print(f"{vocab} (Meaning)\t{translation}\n")
+
+                #This is For Database Tables 
+                cards.write(f"{vocab}\t{translation}\n")
+                print(f"{vocab}\t{translation}\n")
             
 
         # Close File and Driver    
@@ -57,8 +75,13 @@ class iKnow :
 
 
 
-step = 2
+level = 1000
 script = iKnow()
 
-for x in range(1, 11):
-    script.ENoTabi_iKnow(f"6000", f"{x}")
+while level <= 6000:
+
+    for x in range(1, 11):
+        script.ENoTabi_iKnow(f"{level}", f"{x}")
+        continue
+    
+    level += 1000
