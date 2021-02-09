@@ -62,7 +62,7 @@ class WaniKani :
         options = Options()
         options.add_argument('--headless')
         options.add_argument('--disable-gpu')
-        driver = webdriver.Chrome(executable_path='/Users/frederick/Documents/REPOS/WaniKani_Card_Generator/WaniKani_CardSet_Creator/chromedriver', chrome_options=options) 
+        driver = webdriver.Chrome(executable_path='/Users/frederick/Documents/Repositories/VocabCreatorStudy/CardGenerators/chromedriver', chrome_options=options) 
         #initializing driver and driver options so it can run without opening chrome window 
 
         driver.get(f"https://www.wanikani.com/{section}?difficulty={realm}")
@@ -112,26 +112,14 @@ class WaniKani :
 
     # Creating document in certain format for Quizlet
     def Create_Cards(self, section, realm, level, info_Collection) :
-        cards = open(os.getcwd() + '/Quizlet_Cards/' + f"{section}_{realm}_{level}.rtf", "w+")
-
+        # For Quizlet Cards
+        #cards = open(os.getcwd() + '/Quizlet_Cards/' + f"{section}_{realm}_{level}.rtf", "w+")
+        cards = open('/Users/frederick/Documents/Repositories/VocabCreatorStudy/Databases/ExcelSheets/' + "WaniKani_Kanji.txt", "a")
         if section == 'kanji' : 
             for kanji in info_Collection : 
                 kanji.NoneCheck(kanji)
                 cards.write(
-                    f"{kanji.symbol} (Meaning)      {kanji.meaning}\n"+
-                    f"{kanji.symbol} (Onyomi)       {kanji.onyomi}\n" + 
-                    f"{kanji.symbol} (Kunyomi)      {kanji.kunyomi}\n"+
-                    f"{kanji.symbol} (Nanori)       {kanji.nanori}\n"  
-                    )
-        else:
-            for vocab in info_Collection : 
-                vocab.DuplCheck(vocab)
-                cards.write(
-                    f"{vocab.symbol} (Meaning)      {vocab.meaning}\n" +
-                    f"{vocab.symbol} (Reading 1)    {vocab.reading_one}\n" + 
-                    f"{vocab.symbol} (Reading 2)    {vocab.reading_two}\n" 
-                    )
-
+                    f"{kanji.symbol}\t{kanji.meaning}\n")
 
         cards.close() 
     
@@ -150,11 +138,12 @@ class WaniKani :
 Site = WaniKani()
 
 section = Site.Section[0]
-realm = Site.Realms[0]
-level = 1
-runs = 1
+realm = Site.Realms[5]
+level = 0
+
+
 #Choose options here 
-for i in range(1,11) :
+for i in range(51,60) :
     Site.Atsumeru(section, realm, i)
     Site.Create_Cards(section, realm, i, Site.Info_Collection)
     Site.Info_Collection.clear()
