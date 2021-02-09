@@ -3,12 +3,31 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node />
+          <Node name="CardStudy" expanded="True">
+            <Node name="CardStudy_Console" expanded="True">
+              <Node name="Helper_Classes" expanded="True">
+                <Node name="ConsoleUtility.cs" selected="True" />
+              </Node>
+              <Node name="Review_Classes" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="CardStudy" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>WaniKani_Study/CardStudy_Study.csproj</String>
+    <String>WaniKani_Study_Site/CardStudy_Site.csproj</String>
+  </DisabledProjects>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
