@@ -13,7 +13,7 @@ class iKnow :
 
 
     @classmethod
-    def ENoTabi_iKnow(self, level, step) :
+    def ENoTabi_iKnow(self, level) :
         global driver
         options = Options()
         options.add_argument('--headless')
@@ -23,50 +23,26 @@ class iKnow :
 
 
         # Go to site and correct level page
-        driver.get(f"https://iknow.jp/content/japanese")
-        driver.execute_script("window.scrollTo(0, 550)")
-        driver.find_element_by_css_selector(f"a[title *= 'Japanese Core {level}: Step {step}']").click()
+        driver.get(f"https://app.memrise.com/course/354117/2000-italian-words-by-frequency/{level}/")
 
 
         # Collect Info
-        WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, "div.course-content")))
+        WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, "div.things.clearfix")))
         driver.execute_script("window.scrollTo(0, 550)")
-        terms = driver.find_elements_by_css_selector('li.item')
+        terms = driver.find_elements_by_css_selector('.col_a')
+        meanings = driver.find_elements_by_css_selector('.col_b')
 
 
         # Place information into file
         #this is For Quizlet
         #cards = open("/Users/frederick/Documents/Repositories/CardSet_Creator/iKnow_Quizlet_Cards/" + f"iKnow_{level}_Set{step}" + ".rtf", "w+")
         #This is For Database Tables
-        cards = open("/Users/frederick/Documents/Repositories/VocabCreatorStudy/Databases/ExcelSheets/" + "iKnow_6000_Vocab" + ".txt", "a")
+        cards = open("/Users/frederick/Documents/Repositories/VocabCreatorStudy/Databases/ExcelSheets/Italian_Vocab/" + "MemriseVocab" + ".txt", "a")
 
 
-        for thing in range(100) :
-
-            try:
-                vocab = terms[thing].find_element_by_css_selector('a.cue').text
-                reading = terms[thing].find_element_by_css_selector('span.transliteration').text
-                translation = terms[thing].find_element_by_css_selector('p.response').text
-
-                #This is For Quizlet Cards
-                #cards.write(f"{vocab} (Reading) \t{reading}\n{reading} (Meaning)\t{translation}\n")
-                #print(f"{vocab} (Reading) \t{reading}\n{reading} (Meaning)\t{translation}\n")
-
-                #This is For Database Tables 
-                cards.write(f"{vocab}\t{translation}\t{reading}\n")
-                print(f"{vocab}\t{translation}\t{reading}\n")
-
-            except:
-                vocab = terms[thing].find_element_by_css_selector('a.cue').text
-                translation = terms[thing].find_element_by_css_selector('p.response').text
-
-                #This is For Quizlet Cards
-                #cards.write(f"{vocab} (Meaning)\t{translation}\n")
-                #print(f"{vocab} (Meaning)\t{translation}\n")
-
-                #This is For Database Tables 
-                cards.write(f"{vocab}\t{translation}\n")
-                print(f"{vocab}\t{translation}\n")
+        for x in range(len(terms)) :
+            cards.write(f"{terms[x].text}\t{meanings[x].text}\n")
+            print(f"{terms[x].text}\t{meanings[x].text}\n")
             
 
         # Close File and Driver    
@@ -75,13 +51,7 @@ class iKnow :
 
 
 
-level = 1000
 script = iKnow()
+script.ENoTabi_iKnow("40")
 
-while level <= 6000:
-
-    for x in range(1, 11):
-        script.ENoTabi_iKnow(f"{level}", f"{x}")
-        continue
     
-    level += 1000
