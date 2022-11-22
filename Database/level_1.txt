@@ -1,0 +1,110 @@
+上 (Onyomi),,,,じょう
+上 (Meaning),,,,Above
+下 (Onyomi),,,,か
+下 (Meaning),,,,Below
+大 (Onyomi),,,,たい
+大 (Meaning),,,,Big
+工 (Onyomi),,,,こう
+工 (Meaning),,,,Construction
+八 (Onyomi),,,,はち
+八 (Meaning),,,,Eight
+入 (Onyomi),,,,にゅう
+入 (Meaning),,,,Enter
+山 (Onyomi),,,,さん
+山 (Meaning),,,,Mountain
+口 (Onyomi),,,,こう
+口 (Meaning),,,,Mouth
+九 (Onyomi),,,,く
+九 (Meaning),,,,Nine
+一 (Onyomi),,,,いち
+一 (Meaning),,,,One
+人 (Onyomi),,,,にん
+人 (Meaning),,,,Person
+力 (Onyomi),,,,りょく
+力 (Meaning),,,,Power
+川 (Onyomi),,,,かわ
+川 (Meaning),,,,River
+七 (Onyomi),,,,しち
+七 (Meaning),,,,Seven
+十 (Onyomi),,,,じゅう
+十 (Meaning),,,,Ten
+三 (Onyomi),,,,さん
+三 (Meaning),,,,Three
+二 (Onyomi),,,,に
+二 (Meaning),,,,Two
+女 (Onyomi),,,,じょ
+女 (Meaning),,,,Woman
+大 (Furigana),,,,たい
+大 (Meaning),,,,ADULT (MATURE)
+一 (Furigana),,,,いち
+一 (Meaning),,,,ALONE (ONE PERSON)
+人 (Furigana),,,,にん
+人 (Meaning),,,,ARTIFICIAL (MAN MADE, HUMAN MADE)
+大 (Furigana),,,,たい
+大 (Meaning),,,,BIG (LARGE)
+下 (Furigana),,,,か
+下 (Meaning),,,,DOWN (BELOW, UNDER, BENEATH)
+八 (Furigana),,,,はち
+八 (Meaning),,,,EIGHT
+八 (Furigana),,,,はち
+八 (Meaning),,,,EIGHT THINGS
+入 (Furigana),,,,にゅう
+入 (Meaning),,,,ENTRANCE
+大 (Furigana),,,,たい
+大 (Meaning),,,,GREAT (CONSIDERABLE, IMPORTANT, BIG DEAL)
+山 (Furigana),,,,さん
+山 (Meaning),,,,MOUNTAIN
+口 (Furigana),,,,こう
+口 (Meaning),,,,MOUTH
+山 (Furigana),,,,さん
+山 (Meaning),,,,MT FUJI (MOUNT FUJI, MT. FUJI)
+九 (Furigana),,,,く
+九 (Meaning),,,,NINE
+九 (Furigana),,,,く
+九 (Meaning),,,,NINE THINGS
+一 (Furigana),,,,いち
+一 (Meaning),,,,ONE
+一 (Furigana),,,,いち
+一 (Meaning),,,,ONE THING
+人 (Furigana),,,,にん
+人 (Meaning),,,,PERSON
+下 (Furigana),,,,か
+下 (Meaning),,,,PLEASE GIVE ME (PLEASE)
+人 (Furigana),,,,にん
+人 (Meaning),,,,POPULATION
+力 (Furigana),,,,りょく
+力 (Meaning),,,,POWER (STRENGTH, ABILITY)
+川 (Furigana),,,,かわ
+川 (Meaning),,,,RIVER
+七 (Furigana),,,,しち
+七 (Meaning),,,,SEVEN
+七 (Furigana),,,,しち
+七 (Meaning),,,,SEVEN THINGS
+大 (Furigana),,,,たい
+大 (Meaning),,,,SIZE
+十 (Furigana),,,,じゅう
+十 (Meaning),,,,TEN
+三 (Furigana),,,,さん
+三 (Meaning),,,,THREE
+三 (Furigana),,,,さん
+三 (Meaning),,,,THREE PEOPLE (THREE PERSONS)
+三 (Furigana),,,,さん
+三 (Meaning),,,,THREE THINGS
+入 (Furigana),,,,にゅう
+入 (Meaning),,,,TO ENTER (TO GO IN)
+上 (Furigana),,,,じょう
+上 (Meaning),,,,TO LIFT SOMETHING (TO RAISE SOMETHING, TO INCREASE SOMETHING)
+下 (Furigana),,,,か
+下 (Meaning),,,,TO LOWER SOMETHING (TO HANG SOMETHING)
+二 (Furigana),,,,に
+二 (Meaning),,,,TWO
+二 (Furigana),,,,に
+二 (Meaning),,,,TWO PEOPLE (PAIR, COUPLE, TWO PERSONS)
+二 (Furigana),,,,に
+二 (Meaning),,,,TWO THINGS
+上 (Furigana),,,,じょう
+上 (Meaning),,,,UP (ABOVE, OVER)
+力 (Furigana),,,,りょく
+力 (Meaning),,,,WITH ALL ONE'S STRENGTH (FULL POWER, AS HARD AS ONE CAN)
+女 (Furigana),,,,じょ
+女 (Meaning),,,,WOMAN (FEMALE)

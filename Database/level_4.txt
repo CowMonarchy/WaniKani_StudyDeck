@@ -1,0 +1,298 @@
+竹 (Onyomi),,,,たけ
+竹 (Meaning),,,,Bamboo
+車 (Onyomi),,,,しゃ
+車 (Meaning),,,,Car
+央 (Onyomi),,,,おう
+央 (Meaning),,,,Center
+写 (Onyomi),,,,しゃ
+写 (Meaning),,,,Copy
+仕 (Onyomi),,,,し
+仕 (Meaning),,,,Doing
+耳 (Onyomi),,,,みみ
+耳 (Meaning),,,,Ear
+早 (Onyomi),,,,そう
+早 (Meaning),,,,Early
+気 (Onyomi),,,,き
+気 (Meaning),,,,Energy
+平 (Onyomi),,,,へい
+平 (Meaning),,,,Flat
+花 (Onyomi),,,,はな
+花 (Meaning),,,,Flower
+足 (Onyomi),,,,そく
+足 (Meaning),,,,Foot
+打 (Onyomi),,,,だ
+打 (Meaning),,,,Hit
+百 (Onyomi),,,,ひゃく
+百 (Meaning),,,,Hundred
+氷 (Onyomi),,,,こおり
+氷 (Meaning),,,,Ice
+虫 (Onyomi),,,,むし
+虫 (Meaning),,,,Insect
+字 (Onyomi),,,,じ
+字 (Meaning),,,,Letter
+男 (Onyomi),,,,だん
+男 (Meaning),,,,Man
+主 (Onyomi),,,,しゅ
+主 (Meaning),,,,Master
+名 (Onyomi),,,,めい
+名 (Meaning),,,,Name
+不 (Onyomi),,,,ふ
+不 (Meaning),,,,Not
+号 (Onyomi),,,,ごう
+号 (Meaning),,,,Number
+他 (Onyomi),,,,た
+他 (Meaning),,,,Other
+去 (Onyomi),,,,きょ
+去 (Meaning),,,,Past
+皿 (Onyomi),,,,さら
+皿 (Meaning),,,,Plate
+先 (Onyomi),,,,せん
+先 (Meaning),,,,Previous
+赤 (Onyomi),,,,あか
+赤 (Meaning),,,,Red
+休 (Onyomi),,,,きゅう
+休 (Meaning),,,,Rest
+申 (Onyomi),,,,もう
+申 (Meaning),,,,Say Humbly
+見 (Onyomi),,,,み
+見 (Meaning),,,,See
+貝 (Onyomi),,,,かい
+貝 (Meaning),,,,Shellfish
+石 (Onyomi),,,,せき
+石 (Meaning),,,,Stone
+代 (Onyomi),,,,だい
+代 (Meaning),,,,Substitute
+礼 (Onyomi),,,,れい
+礼 (Meaning),,,,Thanks
+糸 (Onyomi),,,,いと
+糸 (Meaning),,,,Thread
+町 (Onyomi),,,,ちょう
+町 (Meaning),,,,Town
+宝 (Onyomi),,,,ほう
+宝 (Meaning),,,,Treasure
+村 (Onyomi),,,,むら
+村 (Meaning),,,,Village
+世 (Onyomi),,,,せい
+世 (Meaning),,,,World
+年 (Onyomi),,,,ねん
+年 (Meaning),,,,Year
+他 (Furigana),,,,た
+他 (Meaning),,,,ANOTHER PERSON (OTHER PEOPLE, STRANGER)
+早 (Furigana),,,,そう
+早 (Meaning),,,,AS SOON AS (JUST AFTER, IMMEDIATELY AFTER, PROMPTLY, QUICKLY)
+大 (Furigana),,,,たい
+大 (Meaning),,,,ATMOSPHERE
+赤 (Furigana),,,,あか
+赤 (Meaning),,,,BABY
+竹 (Furigana),,,,たけ
+竹 (Meaning),,,,BAMBOO
+竹 (Furigana),,,,たけ
+竹 (Meaning),,,,BAMBOO SHOOT (BAMBOO SPROUT)
+太 (Furigana),,,,たい
+太 (Meaning),,,,BOLD LETTER (BOLD, BOLD CHARACTER, BOLD TEXT, BOLDFACE)
+少 (Furigana),,,,しょう
+少 (Meaning),,,,BOY (YOUNG BOY, JUVENILE, YOUTH)
+虫 (Furigana),,,,むし
+虫 (Meaning),,,,BUG (INSECT, CREEPY CRAWLY)
+年 (Furigana),,,,ねん
+年 (Meaning),,,,BY THE END OF THE YEAR (BEFORE THE END OF THIS YEAR, WITHIN THE YEAR)
+子 (Furigana),,,,し
+子 (Meaning),,,,CALF (BABY COW)
+平 (Furigana),,,,へい
+平 (Meaning),,,,CALM (COOL, ALL RIGHT, OKAY)
+車 (Furigana),,,,しゃ
+車 (Meaning),,,,CAR
+中 (Furigana),,,,ちゅう
+中 (Meaning),,,,CENTER (CENTRAL, CENTRE)
+字 (Furigana),,,,じ
+字 (Meaning),,,,CHARACTER (KANJI CHARACTER, LETTER, SYMBOL)
+耳 (Furigana),,,,みみ
+耳 (Meaning),,,,EAR (EARS)
+早 (Furigana),,,,そう
+早 (Meaning),,,,EARLY (FAST, QUICK)
+元 (Furigana),,,,げん
+元 (Meaning),,,,ENERGY (HEALTH, ENERGETIC, HEALTHY)
+名 (Furigana),,,,めい
+名 (Meaning),,,,EXPERT (MASTER)
+気 (Furigana),,,,き
+気 (Meaning),,,,FEELING (MOOD)
+花 (Furigana),,,,はな
+花 (Meaning),,,,FIREWORKS
+先 (Furigana),,,,せん
+先 (Meaning),,,,FIRST OF ALL (TO START WITH, FIRSTLY, TO BEGIN WITH)
+一 (Furigana),,,,いち
+一 (Meaning),,,,FIRST YEAR STUDENT
+五 (Furigana),,,,ご
+五 (Meaning),,,,FIVE HUNDRED
+平 (Furigana),,,,へい
+平 (Meaning),,,,FLAT
+花 (Furigana),,,,はな
+花 (Meaning),,,,FLOWER
+足 (Furigana),,,,そく
+足 (Meaning),,,,FOOT (LEG)
+四 (Furigana),,,,し
+四 (Meaning),,,,FORTY
+四 (Furigana),,,,し
+四 (Meaning),,,,FOUR HUNDRED
+四 (Furigana),,,,し
+四 (Meaning),,,,FOURTH DAY (DAY FOUR, FOUR DAYS)
+四 (Furigana),,,,し
+四 (Meaning),,,,FOUR THINGS
+四 (Furigana),,,,し
+四 (Meaning),,,,FOUR THOUSAND
+主 (Furigana),,,,しゅ
+主 (Meaning),,,,HEAD OF HOUSEHOLD (HUSBAND, HEAD OF A HOUSEHOLD, HEAD OF THE HOUSEHOLD, LANDLORD, MASTER)
+休 (Furigana),,,,きゅう
+休 (Meaning),,,,HOLIDAY
+百 (Furigana),,,,ひゃく
+百 (Meaning),,,,HUNDRED (ONE HUNDRED)
+氷 (Furigana),,,,こおり
+氷 (Meaning),,,,ICE
+丸 (Furigana),,,,まる
+丸 (Meaning),,,,IN ITS ENTIRETY (WHOLE, WHOLLY, ENTIRELY)
+不 (Furigana),,,,ふ
+不 (Meaning),,,,INJUSTICE (DISHONEST, UNAUTHORIZED)
+車 (Furigana),,,,しゃ
+車 (Meaning),,,,INSIDE THE CAR (INSIDE THE TRAIN, INSIDE THE BUS)
+宝 (Furigana),,,,ほう
+宝 (Meaning),,,,JEWEL (GEM)
+先 (Furigana),,,,せん
+先 (Meaning),,,,LAST MONTH
+去 (Furigana),,,,きょ
+去 (Meaning),,,,LAST YEAR
+左 (Furigana),,,,さ
+左 (Meaning),,,,LEFT HAND (LEFT ARM, LEFT-HAND SIDE)
+文 (Furigana),,,,ぶん
+文 (Meaning),,,,LETTER (OF THE ALPHABET) (CHARACTER, LETTER, TEXT)
+一 (Furigana),,,,いち
+一 (Meaning),,,,LIFETIME (ONE LIFETIME, GENERATION, ONE GENERATION)
+主 (Furigana),,,,しゅ
+主 (Meaning),,,,MAINLY (PRIMARILY)
+男 (Furigana),,,,だん
+男 (Meaning),,,,MAN
+仕 (Furigana),,,,し
+仕 (Meaning),,,,METHOD (WAY, WAY OF DOING)
+百 (Furigana),,,,ひゃく
+百 (Meaning),,,,MILLION (ONE MILLION)
+先 (Furigana),,,,せん
+先 (Meaning),,,,MONTH BEFORE LAST (THE MONTH BEFORE LAST)
+月 (Furigana),,,,げつ
+月 (Meaning),,,,MOON VIEWING
+名 (Furigana),,,,めい
+名 (Meaning),,,,NAME (REPUTATION)
+号 (Furigana),,,,ごう
+号 (Meaning),,,,NUMBER (EDITION, MODEL)
+一 (Furigana),,,,いち
+一 (Meaning),,,,ONE BREATH (ONE GO, ONE SITTING)
+一 (Furigana),,,,いち
+一 (Meaning),,,,ONE STRIKE (ONE STROKE, ONE HIT)
+一 (Furigana),,,,いち
+一 (Meaning),,,,ONE TRACK MIND (SINGLE MINDEDNESS)
+他 (Furigana),,,,た
+他 (Meaning),,,,OTHER
+休 (Furigana),,,,きゅう
+休 (Meaning),,,,PAUSE (REST, BREAK)
+皿 (Furigana),,,,さら
+皿 (Meaning),,,,PLATE (DISH)
+人 (Furigana),,,,にん
+人 (Meaning),,,,POPULAR (POPULARITY)
+切 (Furigana),,,,せつ
+切 (Meaning),,,,POSTAGE STAMP (STAMP)
+赤 (Furigana),,,,あか
+赤 (Meaning),,,,RED
+赤 (Furigana),,,,あか
+赤 (Meaning),,,,RED
+休 (Furigana),,,,きゅう
+休 (Meaning),,,,REST (BREAK, VACATION, HOLIDAY)
+右 (Furigana),,,,ゆう
+右 (Meaning),,,,RIGHT HAND (RIGHT ARM, RIGHT-HAND SIDE)
+二 (Furigana),,,,に
+二 (Meaning),,,,SECOND GENERATION
+本 (Furigana),,,,ほん
+本 (Meaning),,,,SERIOUS (SERIOUSNESS)
+氷 (Furigana),,,,こおり
+氷 (Meaning),,,,SHAVED ICE
+貝 (Furigana),,,,かい
+貝 (Meaning),,,,SHELL (SHELLFISH, CLAM)
+不 (Furigana),,,,ふ
+不 (Meaning),,,,SHORTAGE (PHYSICAL SHORTAGE, INSUFFICIENT, NOT SUFFICIENT, NOT ENOUGH)
+小 (Furigana),,,,しょう
+小 (Meaning),,,,SMALL PLATE (SMALL DISH, LITTLE PLATE, LITTLE DISH)
+気 (Furigana),,,,き
+気 (Meaning),,,,SPIRIT (ENERGY)
+石 (Furigana),,,,せき
+石 (Meaning),,,,STONE
+一 (Furigana),,,,いち
+一 (Meaning),,,,STRAIGHT LINE
+代 (Furigana),,,,だい
+代 (Meaning),,,,SUBSTITUTION
+名 (Furigana),,,,めい
+名 (Meaning),,,,SURNAME (LAST NAME, FAMILY NAME)
+先 (Furigana),,,,せん
+先 (Meaning),,,,TEACHER (MASTER, DOCTOR)
+申 (Furigana),,,,もう
+申 (Meaning),,,,TELEPHONE HELLO (HELLO, HELLO ON TELEPHONE)
+礼 (Furigana),,,,れい
+礼 (Meaning),,,,THANKS (GRATITUDE)
+先 (Furigana),,,,せん
+先 (Meaning),,,,THE OTHER DAY (A FEW DAYS AGO, OTHER DAY)
+三 (Furigana),,,,さん
+三 (Meaning),,,,THIRD GENERATION
+糸 (Furigana),,,,いと
+糸 (Meaning),,,,THREAD
+先 (Furigana),,,,せん
+先 (Meaning),,,,TIP (AHEAD, FIRST, FUTURE)
+足 (Furigana),,,,そく
+足 (Meaning),,,,TO BE ENOUGH (TO BE SUFFICIENT, TO SUFFICE)
+気 (Furigana),,,,き
+気 (Meaning),,,,TO BE PLEASED (TO BE SATISFIED, TO BE HAPPY)
+写 (Furigana),,,,しゃ
+写 (Meaning),,,,TO COPY (TO PHOTOGRAPH, TO TAKE A PICTURE)
+出 (Furigana),,,,しゅつ
+出 (Meaning),,,,TO GO OUT (TO LEAVE)
+打 (Furigana),,,,だ
+打 (Meaning),,,,TO HIT (TO POUND, TO TYPE)
+生 (Furigana),,,,せい
+生 (Meaning),,,,TO LIVE (TO BE ALIVE, TO EXIST)
+口 (Furigana),,,,こう
+口 (Meaning),,,,TO MENTION (TO SAY, TO EAT, TO DRINK)
+代 (Furigana),,,,だい
+代 (Meaning),,,,TO REPLACE (TO SUBSTITUTE FOR, TO SUBSTITUTE, TO BE REPLACED, TO BE SUBSTITUTED, TO BE SUBSTITUTED FOR)
+休 (Furigana),,,,きゅう
+休 (Meaning),,,,TO REST (TO TAKE TIME OFF)
+申 (Furigana),,,,もう
+申 (Meaning),,,,TO SAY HUMBLY (TO SAY)
+見 (Furigana),,,,み
+見 (Meaning),,,,TO SEE (TO LOOK)
+見 (Furigana),,,,み
+見 (Meaning),,,,TO SHOW
+町 (Furigana),,,,ちょう
+町 (Meaning),,,,TOWN
+宝 (Furigana),,,,ほう
+宝 (Meaning),,,,TREASURE
+二 (Furigana),,,,に
+二 (Meaning),,,,TWENTIETH DAY (DAY TWENTY, TWENTY DAYS)
+二 (Furigana),,,,に
+二 (Meaning),,,,TWO HUNDRED
+花 (Furigana),,,,はな
+花 (Meaning),,,,VIEWING CHERRY BLOSSOMS (SAKURA VIEWING, CHERRY BLOSSOM VIEWING)
+村 (Furigana),,,,むら
+村 (Meaning),,,,VILLAGE (RURAL TOWN)
+村 (Furigana),,,,むら
+村 (Meaning),,,,VILLAGER
+見 (Furigana),,,,み
+見 (Meaning),,,,WAY OF SEEING (POINT OF VIEW, PERSPECTIVE, VIEWPOINT)
+天 (Furigana),,,,てん
+天 (Meaning),,,,WEATHER
+平 (Furigana),,,,へい
+平 (Meaning),,,,WEEKDAYS
+白 (Furigana),,,,はく
+白 (Meaning),,,,WHITE
+世 (Furigana),,,,せい
+世 (Meaning),,,,WORLD (SOCIETY, AGE, GENERATION)
+年 (Furigana),,,,ねん
+年 (Meaning),,,,YEAR (AGE)
+年 (Furigana),,,,ねん
+年 (Meaning),,,,YEAR 2011 (2011, THE YEAR 2011)
+年 (Furigana),,,,ねん
+年 (Meaning),,,,YEAR ROUND (ALL YEAR, WHOLE YEAR, THROUGHOUT THE YEAR)

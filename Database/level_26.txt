@@ -1,0 +1,320 @@
+接 (Onyomi),,,,せつ
+接 (Meaning),,,,Adjoin
+再 (Onyomi),,,,さ
+再 (Meaning),,,,Again
+独 (Onyomi),,,,どく
+独 (Meaning),,,,Alone
+獣 (Onyomi),,,,じゅう
+獣 (Meaning),,,,Beast
+菓 (Onyomi),,,,か
+菓 (Meaning),,,,Cake
+討 (Onyomi),,,,とう
+討 (Meaning),,,,Chastise
+故 (Onyomi),,,,こ
+故 (Meaning),,,,Circumstance
+較 (Onyomi),,,,かく
+較 (Meaning),,,,Contrast
+創 (Onyomi),,,,そう
+創 (Meaning),,,,Create
+造 (Onyomi),,,,ぞう
+造 (Meaning),,,,Create
+励 (Onyomi),,,,れい
+励 (Meaning),,,,Encourage
+激 (Onyomi),,,,げき
+激 (Meaning),,,,Fierce
+占 (Onyomi),,,,せん
+占 (Meaning),,,,Fortune
+障 (Onyomi),,,,しょう
+障 (Meaning),,,,Hinder
+我 (Onyomi),,,,が
+我 (Meaning),,,,I
+徴 (Onyomi),,,,ちょう
+徴 (Meaning),,,,Indication
+授 (Onyomi),,,,じゅ
+授 (Meaning),,,,Instruct
+往 (Onyomi),,,,おう
+往 (Meaning),,,,Journey
+鉛 (Onyomi),,,,えん
+鉛 (Meaning),,,,Lead
+郵 (Onyomi),,,,ゆう
+郵 (Meaning),,,,Mail
+針 (Onyomi),,,,しん
+針 (Meaning),,,,Needle
+従 (Onyomi),,,,じゅう
+従 (Meaning),,,,Obey
+豚 (Onyomi),,,,ぶた
+豚 (Meaning),,,,Pork
+復 (Onyomi),,,,ふく
+復 (Meaning),,,,Restore
+河 (Onyomi),,,,か
+河 (Meaning),,,,River
+貯 (Onyomi),,,,ちょ
+貯 (Meaning),,,,Savings
+印 (Onyomi),,,,いん
+印 (Meaning),,,,Seal
+振 (Onyomi),,,,しん
+振 (Meaning),,,,Shake
+刺 (Onyomi),,,,し
+刺 (Meaning),,,,Stab
+突 (Onyomi),,,,とつ
+突 (Meaning),,,,Stab
+怪 (Onyomi),,,,かい
+怪 (Meaning),,,,Suspicious
+汗 (Onyomi),,,,あせ
+汗 (Meaning),,,,Sweat
+筆 (Onyomi),,,,ひつ
+筆 (Meaning),,,,Writing Brush
+事 (Furigana),,,,じ
+事 (Meaning),,,,ACCIDENT
+針 (Furigana),,,,しん
+針 (Meaning),,,,ACUPUNCTURIST
+再 (Furigana),,,,さ
+再 (Meaning),,,,AGAIN (A SECOND TIME, TWICE)
+再 (Furigana),,,,さ
+再 (Meaning),,,,AGAIN (ONCE AGAIN)
+独 (Furigana),,,,どく
+独 (Meaning),,,,ALONE
+間 (Furigana),,,,かん
+間 (Meaning),,,,A MISTAKE (MISTAKE)
+人 (Furigana),,,,にん
+人 (Meaning),,,,ARTIFICIAL (SYNTHETIC, IMITATION, MAN MADE)
+獣 (Furigana),,,,じゅう
+獣 (Meaning),,,,BEAST (A BEAST)
+獣 (Furigana),,,,じゅう
+獣 (Meaning),,,,BEASTS (ANIMALS)
+大 (Furigana),,,,たい
+大 (Meaning),,,,BIG DIFFERENCE (MAJOR MISTAKE)
+酒 (Furigana),,,,しゅ
+酒 (Meaning),,,,BREWING (DISTILLING)
+名 (Furigana),,,,めい
+名 (Meaning),,,,BUSINESS CARD
+運 (Furigana),,,,うん
+運 (Meaning),,,,CANAL
+特 (Furigana),,,,とく
+特 (Meaning),,,,CHARACTERISTIC (DISTINCTIVE FEATURE)
+比 (Furigana),,,,ひ
+比 (Meaning),,,,COMPARISON
+祝 (Furigana),,,,しゅく
+祝 (Meaning),,,,CONGRATULATION (CONGRATULATIONS, CELEBRATION, FESTIVAL, CONGRATULATORY GIFT)
+株 (Furigana),,,,かぶ
+株 (Meaning),,,,CORPORATION
+気 (Furigana),,,,き
+気 (Meaning),,,,CRAZY
+創 (Furigana),,,,そう
+創 (Meaning),,,,CREATION
+討 (Furigana),,,,とう
+討 (Meaning),,,,DEBATE (DISCUSSION)
+独 (Furigana),,,,どく
+独 (Meaning),,,,DICTATORSHIP (DESPOTISM)
+直 (Furigana),,,,ちょく
+直 (Meaning),,,,DIRECT
+障 (Furigana),,,,しょう
+障 (Meaning),,,,DISABILITY (HANDICAP)
+不 (Furigana),,,,ふ
+不 (Meaning),,,,DULLNESS (SLUMP, STAGNATION)
+従 (Furigana),,,,じゅう
+従 (Meaning),,,,EMPLOYMENT
+激 (Furigana),,,,げき
+激 (Meaning),,,,ENCOURAGEMENT
+創 (Furigana),,,,そう
+創 (Meaning),,,,ESTABLISHMENT (FOUNDING)
+第 (Furigana),,,,だい
+第 (Meaning),,,,FIRST IMPRESSION
+占 (Furigana),,,,せん
+占 (Meaning),,,,FORTUNE TELLING
+万 (Furigana),,,,まん
+万 (Meaning),,,,FOUNTAIN PEN
+河 (Furigana),,,,か
+河 (Meaning),,,,FUGU (BLOWFISH, PUFFERFISH)
+怪 (Furigana),,,,かい
+怪 (Meaning),,,,GHOST STORY
+怪 (Furigana),,,,かい
+怪 (Meaning),,,,GIANT MONSTER (KAIJU)
+氷 (Furigana),,,,こおり
+氷 (Meaning),,,,GLACIER
+誕 (Furigana),,,,たん
+誕 (Meaning),,,,HAPPY BIRTHDAY
+我 (Furigana),,,,が
+我 (Meaning),,,,I (ME)
+輸 (Furigana),,,,ゆ
+輸 (Meaning),,,,IMPORT
+独 (Furigana),,,,どく
+独 (Meaning),,,,INDEPENDENCE
+人 (Furigana),,,,にん
+人 (Meaning),,,,INDEX FINGER (POINTER FINGER)
+間 (Furigana),,,,かん
+間 (Meaning),,,,INDIRECT
+激 (Furigana),,,,げき
+激 (Meaning),,,,INTENSE (VIOLENT, FIERCE)
+故 (Furigana),,,,こ
+故 (Meaning),,,,INTENTION (PREMEDITATION, PURPOSE, INTENT)
+面 (Furigana),,,,めん
+面 (Meaning),,,,INTERVIEW
+障 (Furigana),,,,しょう
+障 (Meaning),,,,JAPANESE SLIDING DOOR (SLIDING DOOR, SHOJI)
+河 (Furigana),,,,か
+河 (Meaning),,,,KAPPA
+造 (Furigana),,,,ぞう
+造 (Meaning),,,,LANDSCAPE GARDENING
+鉛 (Furigana),,,,えん
+鉛 (Meaning),,,,LEAD
+鉛 (Furigana),,,,えん
+鉛 (Meaning),,,,LEAD PIPE
+鉛 (Furigana),,,,えん
+鉛 (Meaning),,,,LEAD POISONING
+授 (Furigana),,,,じゅ
+授 (Meaning),,,,LESSON (CLASS, TEACHING)
+郵 (Furigana),,,,ゆう
+郵 (Meaning),,,,MAIL (POST)
+故 (Furigana),,,,こ
+故 (Meaning),,,,MALFUNCTION (OUT OF ORDER)
+管 (Furigana),,,,かん
+管 (Meaning),,,,MANAGER
+製 (Furigana),,,,せい
+製 (Meaning),,,,MANUFACTURING
+印 (Furigana),,,,いん
+印 (Meaning),,,,MARK (LOGO, SYMBOL)
+読 (Furigana),,,,よ
+読 (Meaning),,,,MISREADING (MISREAD)
+人 (Furigana),,,,にん
+人 (Meaning),,,,MISTAKEN IDENTITY
+独 (Furigana),,,,どく
+独 (Meaning),,,,MONOPOLY (MONOPOLIZE)
+怪 (Furigana),,,,かい
+怪 (Meaning),,,,MONSTER (GHOST, GOBLIN)
+再 (Furigana),,,,さ
+再 (Meaning),,,,MONTH AFTER NEXT (THE MONTH AFTER NEXT)
+従 (Furigana),,,,じゅう
+従 (Meaning),,,,OBEDIENT (GENTLE, MEEK, TAME)
+独 (Furigana),,,,どく
+独 (Meaning),,,,ORIGINALITY (CREATIVITY)
+鉛 (Furigana),,,,えん
+鉛 (Meaning),,,,PENCIL
+豚 (Furigana),,,,ぶた
+豚 (Meaning),,,,PIG
+豚 (Furigana),,,,ぶた
+豚 (Meaning),,,,PORK (PIG MEAT)
+故 (Furigana),,,,こ
+故 (Meaning),,,,REASON (CIRCUMSTANCE, CAUSE)
+再 (Furigana),,,,さ
+再 (Meaning),,,,REBUILDING (RECONSTRUCTION)
+回 (Furigana),,,,かい
+回 (Meaning),,,,RECOVERY
+改 (Furigana),,,,かい
+改 (Meaning),,,,REMODELING (RENEWAL, RESHUFFLE)
+再 (Furigana),,,,さ
+再 (Meaning),,,,REOPENING (RESUMPTION)
+復 (Furigana),,,,ふく
+復 (Meaning),,,,REVIEW
+右 (Furigana),,,,ゆう
+右 (Meaning),,,,RIGHT ARM
+河 (Furigana),,,,か
+河 (Meaning),,,,RIVER (SUFFIX FOR RIVERS, RIVER SUFFIX)
+往 (Furigana),,,,おう
+往 (Meaning),,,,ROUND TRIP
+貯 (Furigana),,,,ちょ
+貯 (Meaning),,,,SAVINGS
+秒 (Furigana),,,,びょう
+秒 (Meaning),,,,SECOND HAND (SECONDS HAND)
+保 (Furigana),,,,ほ
+保 (Meaning),,,,SECURITY (SAFEGUARDING)
+無 (Furigana),,,,む
+無 (Meaning),,,,SELFLESSNESS
+独 (Furigana),,,,どく
+独 (Meaning),,,,SELF STUDY (SELF EDUCATION)
+独 (Furigana),,,,どく
+独 (Meaning),,,,SINGLE (UNMARRIED)
+菓 (Furigana),,,,か
+菓 (Meaning),,,,SNACK FOODS (CANDY, PASTRIES, SWEETS)
+刺 (Furigana),,,,し
+刺 (Meaning),,,,STIMULATION (ENCOURAGE, EXCITE)
+株 (Furigana),,,,かぶ
+株 (Meaning),,,,STOCK MARKET
+怪 (Furigana),,,,かい
+怪 (Meaning),,,,STRANGE MYSTERY (MYSTERY CASE)
+構 (Furigana),,,,こう
+構 (Meaning),,,,STRUCTURE
+突 (Furigana),,,,とつ
+突 (Meaning),,,,SUDDENLY
+怪 (Furigana),,,,かい
+怪 (Meaning),,,,SUSPICIOUS (SHADY)
+汗 (Furigana),,,,あせ
+汗 (Meaning),,,,SWEAT
+汗 (Furigana),,,,あせ
+汗 (Meaning),,,,SWEATY-SMELLING (SMELLING OF SWEAT, SMELLING LIKE SWEAT)
+象 (Furigana),,,,ぞう
+象 (Meaning),,,,SYMBOL
+教 (Furigana),,,,きょう
+教 (Meaning),,,,TEACHING (PROFESSOR, PEDAGOGY)
+替 (Furigana),,,,か
+替 (Meaning),,,,TO BE REPLACED (TO BE SUBSTITUTED, TO BE SWITCHED)
+燃 (Furigana),,,,ねん
+燃 (Meaning),,,,TO CATCH FIRE (TO CATCH ON FIRE)
+届 (Furigana),,,,とど
+届 (Meaning),,,,TO DELIVER
+差 (Furigana),,,,さ
+差 (Meaning),,,,TO DISCRIMINATE
+励 (Furigana),,,,れい
+励 (Meaning),,,,TO ENCOURAGE SOMEONE (TO CHEER UP SOMEONE, TO ENCOURAGE)
+任 (Furigana),,,,にん
+任 (Meaning),,,,TO ENTRUST SOMETHING (TO DELEGATE SOMETHING, TO LEAVE SOMETHING TO)
+検 (Furigana),,,,けん
+検 (Meaning),,,,TO EXAMINE (TO STUDY, TO LOOK INTO)
+輸 (Furigana),,,,ゆ
+輸 (Meaning),,,,TO EXPORT
+触 (Furigana),,,,しょく
+触 (Meaning),,,,TO FEEL (TO TOUCH, TO TOUCH ON, TO REFER TO, TO MENTION)
+燃 (Furigana),,,,ねん
+燃 (Meaning),,,,TO GET BURNED (TO BE BURNED, TO BURN, TO GET BURNT, TO BE BURNT)
+差 (Furigana),,,,さ
+差 (Meaning),,,,TO GIVE (TO RAISE UP)
+渡 (Furigana),,,,わた
+渡 (Meaning),,,,TO HAND OVER
+障 (Furigana),,,,しょう
+障 (Meaning),,,,TO IRRITATE (TO ANNOY, TO AFFECT NEGATIVELY, TO BE BAD FOR)
+造 (Furigana),,,,ぞう
+造 (Meaning),,,,TO MANUFACTURE (TO MAKE, TO CREATE, TO BREW, TO PREPARE)
+狭 (Furigana),,,,せま
+狭 (Meaning),,,,TO NARROW SOMETHING (TO REDUCE SOMETHING)
+従 (Furigana),,,,じゅう
+従 (Meaning),,,,TO OBEY
+占 (Furigana),,,,せん
+占 (Meaning),,,,TO OCCUPY
+載 (Furigana),,,,さい
+載 (Meaning),,,,TO PUBLISH (TO PLACE ON TOP)
+貯 (Furigana),,,,ちょ
+貯 (Meaning),,,,TO SAVE (TO PUT SOMETHING ASIDE)
+振 (Furigana),,,,しん
+振 (Meaning),,,,TO SHAKE SOMETHING (TO WAVE SOMETHING, TO SWING SOMETHING, TO BREAK UP WITH SOMEONE)
+過 (Furigana),,,,か
+過 (Meaning),,,,TO SPEND TIME ON
+突 (Furigana),,,,とつ
+突 (Meaning),,,,TO STAB (TO POKE, TO JAB)
+刺 (Furigana),,,,し
+刺 (Meaning),,,,TO STAB (TO PIERCE, TO POKE, TO STING, TO STICK, TO SHANK)
+担 (Furigana),,,,たん
+担 (Meaning),,,,TO TAKE RESPONSIBILITY (TO ASSUME RESPONSIBILITY, TO TAKE ON A BURDEN, TO CARRY)
+独 (Furigana),,,,どく
+独 (Meaning),,,,UNIQUE
+従 (Furigana),,,,じゅう
+従 (Meaning),,,,UP TO NOW (SO FAR, USUAL, TRADITIONAL)
+自 (Furigana),,,,じ
+自 (Meaning),,,,VENDING MACHINE
+獣 (Furigana),,,,じゅう
+獣 (Meaning),,,,VETERINARIAN (VET)
+振 (Furigana),,,,しん
+振 (Meaning),,,,VIBRATION (OSCILLATION)
+違 (Furigana),,,,ちが
+違 (Meaning),,,,VIOLATION (TRANSGRESSION, BREACH)
+気 (Furigana),,,,き
+気 (Meaning),,,,WEATHER AGENCY (METEOROLOGICAL AGENCY)
+再 (Furigana),,,,さ
+再 (Meaning),,,,WEEK AFTER NEXT (THE WEEK AFTER NEXT)
+何 (Furigana),,,,なに
+何 (Meaning),,,,WHY (HOW)
+野 (Furigana),,,,や
+野 (Meaning),,,,WILD BEAST (WILD ANIMAL)
+筆 (Furigana),,,,ひつ
+筆 (Meaning),,,,WRITING BRUSH (BRUSH)
+再 (Furigana),,,,さ
+再 (Meaning),,,,YEAR AFTER NEXT (THE YEAR AFTER NEXT)

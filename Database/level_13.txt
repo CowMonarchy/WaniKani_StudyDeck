@@ -1,0 +1,322 @@
+皆 (Onyomi),,,,みな
+皆 (Meaning),,,,All
+謝 (Onyomi),,,,しゃ
+謝 (Meaning),,,,Apologize
+整 (Onyomi),,,,せい
+整 (Meaning),,,,Arrange
+橋 (Onyomi),,,,はし
+橋 (Meaning),,,,Bridge
+選 (Onyomi),,,,せん
+選 (Meaning),,,,Choose
+想 (Onyomi),,,,そう
+想 (Meaning),,,,Concept
+器 (Onyomi),,,,き
+器 (Meaning),,,,Container
+暗 (Onyomi),,,,あん
+暗 (Meaning),,,,Dark
+疑 (Onyomi),,,,ぎ
+疑 (Meaning),,,,Doubt
+料 (Onyomi),,,,りょう
+料 (Meaning),,,,Fee
+情 (Onyomi),,,,じょう
+情 (Meaning),,,,Feeling
+感 (Onyomi),,,,かん
+感 (Meaning),,,,Feeling
+様 (Onyomi),,,,さま
+様 (Meaning),,,,Formal Name Title
+養 (Onyomi),,,,よう
+養 (Meaning),,,,Foster
+緑 (Onyomi),,,,みどり
+緑 (Meaning),,,,Green
+熱 (Onyomi),,,,ねつ
+熱 (Meaning),,,,Heat
+億 (Onyomi),,,,おく
+億 (Meaning),,,,Hundred Million
+殺 (Onyomi),,,,さつ
+殺 (Meaning),,,,Kill
+宿 (Onyomi),,,,しゅく
+宿 (Meaning),,,,Lodge
+福 (Onyomi),,,,ふく
+福 (Meaning),,,,Luck
+鏡 (Onyomi),,,,かがみ
+鏡 (Meaning),,,,Mirror
+然 (Onyomi),,,,ぜん
+然 (Meaning),,,,Nature
+詩 (Onyomi),,,,し
+詩 (Meaning),,,,Poem
+練 (Onyomi),,,,れん
+練 (Meaning),,,,Practice
+賞 (Onyomi),,,,しょう
+賞 (Meaning),,,,Prize
+問 (Onyomi),,,,もん
+問 (Meaning),,,,Problem
+館 (Onyomi),,,,かん
+館 (Meaning),,,,Public Building
+映 (Onyomi),,,,えい
+映 (Meaning),,,,Reflect
+願 (Onyomi),,,,がん
+願 (Meaning),,,,Request
+士 (Onyomi),,,,し
+士 (Meaning),,,,Samurai
+課 (Onyomi),,,,か
+課 (Meaning),,,,Section
+標 (Onyomi),,,,ひょう
+標 (Meaning),,,,Signpost
+銀 (Onyomi),,,,ぎん
+銀 (Meaning),,,,Silver
+駅 (Onyomi),,,,えき
+駅 (Meaning),,,,Station
+像 (Onyomi),,,,ぞう
+像 (Meaning),,,,Statue
+題 (Onyomi),,,,だい
+題 (Meaning),,,,Topic
+輪 (Onyomi),,,,りん
+輪 (Meaning),,,,Wheel
+感 (Furigana),,,,かん
+感 (Meaning),,,,ADMIRATION
+入 (Furigana),,,,にゅう
+入 (Meaning),,,,ADMISSION FEE (ENTRANCE FEE, ENTRY FEE)
+養 (Furigana),,,,よう
+養 (Meaning),,,,ADOPTED CHILD
+整 (Furigana),,,,せい
+整 (Meaning),,,,ARRANGEMENT (SORTING, ORGANIZATION, ADJUSTMENT)
+放 (Furigana),,,,ほう
+放 (Meaning),,,,AS MUCH AS YOU WANT (ALL YOU CAN)
+暗 (Furigana),,,,あん
+暗 (Meaning),,,,ASSASSINATION
+銀 (Furigana),,,,ぎん
+銀 (Meaning),,,,BANK
+初 (Furigana),,,,しょ
+初 (Meaning),,,,BEGINNING (IN THE BEGINNING, FIRST OF ALL, TO BEGIN WITH)
+橋 (Furigana),,,,はし
+橋 (Meaning),,,,BRIDGE
+賞 (Furigana),,,,しょう
+賞 (Meaning),,,,CASH PRIZE (PRIZE MONEY)
+事 (Furigana),,,,じ
+事 (Meaning),,,,CIRCUMSTANCES (REASON, SITUATION)
+器 (Furigana),,,,き
+器 (Meaning),,,,CONTAINER (BOWL, VESSEL)
+暗 (Furigana),,,,あん
+暗 (Meaning),,,,DARK
+器 (Furigana),,,,き
+器 (Meaning),,,,DEXTROUS (SKILLFUL)
+疑 (Furigana),,,,ぎ
+疑 (Meaning),,,,DOUBT (QUESTION)
+酒 (Furigana),,,,しゅ
+酒 (Meaning),,,,DRINKER (ALCOHOLIC)
+飲 (Furigana),,,,の
+飲 (Meaning),,,,DRINKING PARTY
+熱 (Furigana),,,,ねつ
+熱 (Meaning),,,,ENTHUSIASM (PASSION, ZEAL)
+全 (Furigana),,,,ぜん
+全 (Meaning),,,,ENTIRELY (COMPLETELY, NOT AT ALL)
+皆 (Furigana),,,,みな
+皆 (Meaning),,,,EVERYONE (EVERYBODY, ALL)
+皆 (Furigana),,,,みな
+皆 (Meaning),,,,EVERYONE (ALL, EVERYBODY)
+予 (Furigana),,,,よ
+予 (Meaning),,,,EXPECTATION (ANTICIPATION, EXPECT, ANTICIPATE, PREDICTION)
+表 (Furigana),,,,ひょう
+表 (Meaning),,,,FACIAL EXPRESSION
+料 (Furigana),,,,りょう
+料 (Meaning),,,,FEE (BILLS, FEES, BILL)
+感 (Furigana),,,,かん
+感 (Meaning),,,,FEELING (EMOTION)
+感 (Furigana),,,,かん
+感 (Meaning),,,,FEELING (SENSE, IMPRESSION)
+熱 (Furigana),,,,ねつ
+熱 (Meaning),,,,FEVER (HEAT)
+指 (Furigana),,,,し
+指 (Meaning),,,,FINGERTIP (TIP OF THE TOE)
+様 (Furigana),,,,さま
+様 (Meaning),,,,FORMAL NAME ENDER (FORMAL NAME TITLE, SAMA)
+初 (Furigana),,,,しょ
+初 (Meaning),,,,FOR THE FIRST TIME (FIRST TIME)
+仲 (Furigana),,,,なか
+仲 (Meaning),,,,FRIENDLY (GOOD TERMS)
+駅 (Furigana),,,,えき
+駅 (Meaning),,,,FRONT OF STATION (IN FRONT OF STATION, FRONT OF THE STATION, IN FRONT OF THE STATION, STATION FRONT)
+福 (Furigana),,,,ふく
+福 (Meaning),,,,FUKUSHIMA
+目 (Furigana),,,,め
+目 (Meaning),,,,GOAL (TARGET, OBJECTIVE)
+神 (Furigana),,,,しん
+神 (Meaning),,,,GOD (GODS)
+女 (Furigana),,,,じょ
+女 (Meaning),,,,GODDESS (FEMALE DEITY)
+仲 (Furigana),,,,なか
+仲 (Meaning),,,,GOOD FRIEND (INTIMATE FRIEND, CLOSE FRIEND)
+緑 (Furigana),,,,みどり
+緑 (Meaning),,,,GREEN (COLOR GREEN, GREEN COLOR)
+緑 (Furigana),,,,みどり
+緑 (Meaning),,,,GREEN
+心 (Furigana),,,,しん
+心 (Meaning),,,,HEARTFELT DESIRE (HEARTFELT WISH, PRAYER, HEART'S DESIRE)
+宿 (Furigana),,,,しゅく
+宿 (Meaning),,,,HOMEWORK
+熱 (Furigana),,,,ねつ
+熱 (Meaning),,,,HOT THING (HOT)
+人 (Furigana),,,,にん
+人 (Meaning),,,,HUMAN FEELINGS (HUMANITY, EMPATHY, KINDNESS, SYMPATHY)
+億 (Furigana),,,,おく
+億 (Meaning),,,,HUNDRED MILLION
+想 (Furigana),,,,そう
+想 (Meaning),,,,HYPOTHESIS (SUPPOSITION, ASSUMPTION)
+画 (Furigana),,,,が
+画 (Meaning),,,,IMAGE (PORTRAIT, PICTURE)
+感 (Furigana),,,,かん
+感 (Meaning),,,,IMPRESSIONS (ONE'S IMPRESSIONS, THOUGHTS)
+旅 (Furigana),,,,りょ
+旅 (Meaning),,,,JAPANESE INN (JAPANESE HOTEL, INN, RYOKAN, JAPANESE STYLE INN, JAPANESE STYLE HOTEL)
+神 (Furigana),,,,しん
+神 (Meaning),,,,KAMIKAZE (DIVINE WINDS)
+王 (Furigana),,,,おう
+王 (Meaning),,,,KING
+左 (Furigana),,,,さ
+左 (Meaning),,,,LEFT HANDED
+小 (Furigana),,,,しょう
+小 (Meaning),,,,LITTLE FINGER (PINKY FINGER, PINKY, LITTLE TOE, PINKY TOE)
+宿 (Furigana),,,,しゅく
+宿 (Meaning),,,,LODGING (INN, HOTEL, LODGE)
+本 (Furigana),,,,ほん
+本 (Meaning),,,,MAIN BUILDING
+暗 (Furigana),,,,あん
+暗 (Meaning),,,,MEMORIZATION (MEMORIZE)
+水 (Furigana),,,,すい
+水 (Meaning),,,,MERCURY (QUICKSILVER)
+中 (Furigana),,,,ちゅう
+中 (Meaning),,,,MIDDLE FINGER (SECOND FINGER, MIDDLE TOE)
+鏡 (Furigana),,,,かがみ
+鏡 (Meaning),,,,MIRROR
+映 (Furigana),,,,えい
+映 (Meaning),,,,MOVIE (FILM)
+殺 (Furigana),,,,さつ
+殺 (Meaning),,,,MURDER
+楽 (Furigana),,,,らく
+楽 (Meaning),,,,MUSICAL INSTRUMENT
+当 (Furigana),,,,とう
+当 (Meaning),,,,NATURAL (OBVIOUS)
+自 (Furigana),,,,じ
+自 (Meaning),,,,NATURE (NATURAL)
+一 (Furigana),,,,いち
+一 (Meaning),,,,ONE HUNDRED MILLION
+一 (Furigana),,,,いち
+一 (Meaning),,,,ONE HUNDRED MILLION YEN
+整 (Furigana),,,,せい
+整 (Meaning),,,,ORDERLY (SYSTEMATIC, WELL ORGANIZED, NATURAL ORDER)
+情 (Furigana),,,,じょう
+情 (Meaning),,,,PASSION (ENTHUSIASM)
+体 (Furigana),,,,たい
+体 (Meaning),,,,PE CLASS (PE, PHYSICAL EDUCATION, GYM CLASS)
+映 (Furigana),,,,えい
+映 (Meaning),,,,PICTURE (IMAGE, VIDEO, REFLECTION)
+情 (Furigana),,,,じょう
+情 (Meaning),,,,PITY (SYMPATHY, MERCY, COMPASSION)
+願 (Furigana),,,,がん
+願 (Meaning),,,,PLEASE HELP ME (PLEASE, IF YOU WOULD BE SO KIND)
+詩 (Furigana),,,,し
+詩 (Meaning),,,,POEM
+詩 (Furigana),,,,し
+詩 (Meaning),,,,POET
+詩 (Furigana),,,,し
+詩 (Meaning),,,,POETRY
+練 (Furigana),,,,れん
+練 (Meaning),,,,PRACTICE (TRAINING, DRILL)
+選 (Furigana),,,,せん
+選 (Meaning),,,,PRO ATHLETE (SPORTS PLAYER, PROFESSIONAL ATHLETE)
+問 (Furigana),,,,もん
+問 (Meaning),,,,PROBLEM (QUESTION)
+実 (Furigana),,,,じつ
+実 (Meaning),,,,REALIZATION (REAL FEELING, ACTUAL FEELING)
+大 (Furigana),,,,たい
+大 (Meaning),,,,REALLY LIKE (LOVE, LIKE A LOT, LOVABLE)
+回 (Furigana),,,,かい
+回 (Meaning),,,,RETROSPECTION (REMINISCENCE)
+右 (Furigana),,,,ゆう
+右 (Meaning),,,,RIGHT HANDED
+輪 (Furigana),,,,りん
+輪 (Meaning),,,,RING (WHEEL, LOOP, CIRCLE)
+学 (Furigana),,,,がく
+学 (Meaning),,,,SCHOOLING (STUDY, LEARNING, SCHOLARSHIP)
+課 (Furigana),,,,か
+課 (Meaning),,,,SECTION MANAGER (SECTION CHIEF)
+新 (Furigana),,,,しん
+新 (Meaning),,,,SHINJUKU
+銀 (Furigana),,,,ぎん
+銀 (Meaning),,,,SILVER (SILVER COLOR, COLOR SILVER)
+銀 (Furigana),,,,ぎん
+銀 (Meaning),,,,SILVER
+特 (Furigana),,,,とく
+特 (Meaning),,,,SPECIAL SELECTION (SPECIAL CHOICE, SPECIAL PRIZE)
+駅 (Furigana),,,,えき
+駅 (Meaning),,,,STATION (TRAIN STATION)
+駅 (Furigana),,,,えき
+駅 (Meaning),,,,STATION MASTER (STATIONMASTER, TRAIN STATION MASTER, TRAIN STATIONMASTER)
+自 (Furigana),,,,じ
+自 (Meaning),,,,SUICIDE
+力 (Furigana),,,,りょく
+力 (Meaning),,,,SUMO WRESTLER
+同 (Furigana),,,,どう
+同 (Meaning),,,,SYMPATHY (SAME SENTIMENT, CONCURRENCE, AGREE, EMPATHY)
+食 (Furigana),,,,しょく
+食 (Meaning),,,,TABLEWARE (EATING UTENSILS, SERVING UTENSILS)
+感 (Furigana),,,,かん
+感 (Meaning),,,,THANKS (GRATITUDE)
+五 (Furigana),,,,ご
+五 (Meaning),,,,THE FIVE SENSES (FIVE SENSES)
+思 (Furigana),,,,おも
+思 (Meaning),,,,THOUGHT (IDEA, IDEOLOGY)
+親 (Furigana),,,,しん
+親 (Meaning),,,,THUMB (BIG TOE)
+車 (Furigana),,,,しゃ
+車 (Meaning),,,,TIRE (CAR WHEEL, WHEEL)
+謝 (Furigana),,,,しゃ
+謝 (Meaning),,,,TO APOLOGIZE
+着 (Furigana),,,,ちゃく
+着 (Meaning),,,,TO ARRIVE
+感 (Furigana),,,,かん
+感 (Meaning),,,,TO BE EMOTIONALLY MOVED (TO BE MOVED EMOTIONALLY, TO BE MOVING)
+映 (Furigana),,,,えい
+映 (Meaning),,,,TO BE REFLECTED (TO BE PROJECTED)
+放 (Furigana),,,,ほう
+放 (Meaning),,,,TO BE RELEASED
+育 (Furigana),,,,いく
+育 (Meaning),,,,TO BRING UP (TO RAISE, TO CULTIVATE)
+追 (Furigana),,,,お
+追 (Meaning),,,,TO CATCH UP WITH (TO OVERTAKE, TO KEEP UP WITH)
+選 (Furigana),,,,せん
+選 (Meaning),,,,TO CHOOSE
+感 (Furigana),,,,かん
+感 (Meaning),,,,TO FEEL
+戦 (Furigana),,,,せん
+戦 (Meaning),,,,TO FIGHT (TO BATTLE, TO COMBAT)
+養 (Furigana),,,,よう
+養 (Meaning),,,,TO FOSTER (TO RAISE, TO DEVELOP, TO CULTIVATE)
+受 (Furigana),,,,じゅ
+受 (Meaning),,,,TO GET ACCEPTED (TO SUCCEED, TO PASS)
+温 (Furigana),,,,おん
+温 (Meaning),,,,TO HEAT SOMETHING UP (TO WARM SOMETHING UP)
+手 (Furigana),,,,て
+手 (Meaning),,,,TO HELP (TO ASSIST, TO LEND A HAND)
+想 (Furigana),,,,そう
+想 (Meaning),,,,TO IMAGINE
+殺 (Furigana),,,,さつ
+殺 (Meaning),,,,TO KILL
+見 (Furigana),,,,み
+見 (Meaning),,,,TO LOOK BACK AT (TO LOOK BACK ON, TO LOOK BACK)
+注 (Furigana),,,,ちゅう
+注 (Meaning),,,,TO ORDER (TO REQUEST)
+話 (Furigana),,,,わ
+話 (Meaning),,,,TOPIC (SUBJECT)
+追 (Furigana),,,,お
+追 (Meaning),,,,TO CHASE (TO PURSUE, TO RUN AFTER, TO FOLLOW)
+別 (Furigana),,,,べつ
+別 (Meaning),,,,TO SEPARATE (TO BE DIVIDED, TO PART FROM, TO BREAK UP)
+共 (Furigana),,,,きょう
+共 (Meaning),,,,TO SHARE (TO OWN JOINTLY, TO CO OWN)
+駅 (Furigana),,,,えき
+駅 (Meaning),,,,TRAIN STATION EMPLOYEE (TRAIN STATION STAFF, TRAIN STATION ATTENDANT, STATION ATTENDANT, STATION EMPLOYEE)
+天 (Furigana),,,,てん
+天 (Meaning),,,,URANUS
+様 (Furigana),,,,さま
+様 (Meaning),,,,VARIOUS (MANY)

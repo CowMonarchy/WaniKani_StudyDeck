@@ -1,0 +1,228 @@
+玉 (Onyomi),,,,たま
+玉 (Meaning),,,,Ball
+本 (Onyomi),,,,ほん
+本 (Meaning),,,,Book
+子 (Onyomi),,,,し
+子 (Meaning),,,,Child
+丸 (Onyomi),,,,まる
+丸 (Meaning),,,,Circle
+正 (Onyomi),,,,せい
+正 (Meaning),,,,Correct
+土 (Onyomi),,,,ど
+土 (Meaning),,,,Dirt
+犬 (Onyomi),,,,いぬ
+犬 (Meaning),,,,Dog
+夕 (Onyomi),,,,ゆう
+夕 (Meaning),,,,Evening
+出 (Onyomi),,,,しゅつ
+出 (Meaning),,,,Exit
+目 (Onyomi),,,,め
+目 (Meaning),,,,Eye
+了 (Onyomi),,,,りょう
+了 (Meaning),,,,Finish
+火 (Onyomi),,,,か
+火 (Meaning),,,,Fire
+五 (Onyomi),,,,ご
+五 (Meaning),,,,Five
+四 (Onyomi),,,,し
+四 (Meaning),,,,Four
+才 (Onyomi),,,,さい
+才 (Meaning),,,,Genius
+手 (Onyomi),,,,て
+手 (Meaning),,,,Hand
+天 (Onyomi),,,,てん
+天 (Meaning),,,,Heaven
+王 (Onyomi),,,,おう
+王 (Meaning),,,,King
+左 (Onyomi),,,,さ
+左 (Meaning),,,,Left
+中 (Onyomi),,,,ちゅう
+中 (Meaning),,,,Middle
+月 (Onyomi),,,,げつ
+月 (Meaning),,,,Moon
+々 (Onyomi),,,,のま
+々 (Meaning),,,,Repeater
+田 (Onyomi),,,,た
+田 (Meaning),,,,Rice Paddy
+右 (Onyomi),,,,ゆう
+右 (Meaning),,,,Right
+六 (Onyomi),,,,ろく
+六 (Meaning),,,,Six
+小 (Onyomi),,,,しょう
+小 (Meaning),,,,Small
+立 (Onyomi),,,,りつ
+立 (Meaning),,,,Stand
+丁 (Onyomi),,,,ちょう
+丁 (Meaning),,,,Street
+日 (Onyomi),,,,にち
+日 (Meaning),,,,Sun
+刀 (Onyomi),,,,とう
+刀 (Meaning),,,,Sword
+千 (Onyomi),,,,せん
+千 (Meaning),,,,Thousand
+木 (Onyomi),,,,もく
+木 (Meaning),,,,Tree
+水 (Onyomi),,,,すい
+水 (Meaning),,,,Water
+白 (Onyomi),,,,はく
+白 (Meaning),,,,White
+文 (Onyomi),,,,ぶん
+文 (Meaning),,,,Writing
+円 (Onyomi),,,,えん
+円 (Meaning),,,,Yen
+四 (Furigana),,,,し
+四 (Meaning),,,,APRIL
+玉 (Furigana),,,,たま
+玉 (Meaning),,,,BALL
+本 (Furigana),,,,ほん
+本 (Meaning),,,,BOOK
+丸 (Furigana),,,,まる
+丸 (Meaning),,,,CIRCLE (ROUND, CIRCULAR)
+丸 (Furigana),,,,まる
+丸 (Meaning),,,,CIRCULAR (ROUND, SPHERICAL)
+正 (Furigana),,,,せい
+正 (Meaning),,,,CORRECT (TRUE, RIGHT)
+犬 (Furigana),,,,いぬ
+犬 (Meaning),,,,DOG
+八 (Furigana),,,,はち
+八 (Meaning),,,,EIGHTH DAY (EIGHT DAYS, DAY EIGHT)
+夕 (Furigana),,,,ゆう
+夕 (Meaning),,,,EVENING (LAST NIGHT)
+出 (Furigana),,,,しゅつ
+出 (Meaning),,,,EXIT
+目 (Furigana),,,,め
+目 (Meaning),,,,EYE
+目 (Furigana),,,,め
+目 (Meaning),,,,EYEBALL
+二 (Furigana),,,,に
+二 (Meaning),,,,FEBRUARY
+五 (Furigana),,,,ご
+五 (Meaning),,,,FIFTH DAY (DAY FIVE, FIVE DAYS)
+五 (Furigana),,,,ご
+五 (Meaning),,,,FIFTY
+火 (Furigana),,,,か
+火 (Meaning),,,,FIRE
+五 (Furigana),,,,ご
+五 (Meaning),,,,FIVE
+五 (Furigana),,,,ご
+五 (Meaning),,,,FIVE THINGS
+四 (Furigana),,,,し
+四 (Meaning),,,,FOUR
+天 (Furigana),,,,てん
+天 (Meaning),,,,GENIUS
+女 (Furigana),,,,じょ
+女 (Meaning),,,,GIRL (WOMAN)
+女 (Furigana),,,,じょ
+女 (Meaning),,,,GIRL (YOUNG GIRL, YOUNG LADY, YOUNG WOMAN)
+上 (Furigana),,,,じょう
+上 (Meaning),,,,GOOD AT (SKILLFUL, SKILLED AT, SKILLED)
+手 (Furigana),,,,て
+手 (Meaning),,,,HAND (ARM)
+天 (Furigana),,,,てん
+天 (Meaning),,,,HEAVEN
+入 (Furigana),,,,にゅう
+入 (Meaning),,,,INPUT (ENTER, ENTRY)
+中 (Furigana),,,,ちゅう
+中 (Meaning),,,,INSIDE (IN, MIDDLE, CENTER)
+一 (Furigana),,,,いち
+一 (Meaning),,,,JANUARY
+日 (Furigana),,,,にち
+日 (Meaning),,,,JAPAN
+六 (Furigana),,,,ろく
+六 (Meaning),,,,JUNE
+子 (Furigana),,,,し
+子 (Meaning),,,,KID (CHILD)
+王 (Furigana),,,,おう
+王 (Meaning),,,,KING
+左 (Furigana),,,,さ
+左 (Meaning),,,,LEFT AND RIGHT (BOTH WAYS, INFLUENCE, CONTROL)
+左 (Furigana),,,,さ
+左 (Meaning),,,,LEFT DIRECTION (LEFT)
+五 (Furigana),,,,ご
+五 (Meaning),,,,MAY
+円 (Furigana),,,,えん
+円 (Meaning),,,,MONEY (YEN)
+月 (Furigana),,,,げつ
+月 (Meaning),,,,MOON (MONTH)
+九 (Furigana),,,,く
+九 (Meaning),,,,NINTH DAY (NINE DAYS, DAY NINE)
+十 (Furigana),,,,じゅう
+十 (Meaning),,,,OCTOBER
+一 (Furigana),,,,いち
+一 (Meaning),,,,ONE DAY (DAY ONE, FIRST DAY)
+一 (Furigana),,,,いち
+一 (Meaning),,,,ONE THOUSAND
+千 (Furigana),,,,せん
+千 (Meaning),,,,ONE THOUSAND YEN (A THOUSAND YEN, THOUSAND YEN)
+玉 (Furigana),,,,たま
+玉 (Meaning),,,,ONION (ROUND ONION)
+人 (Furigana),,,,にん
+人 (Meaning),,,,PEOPLE (EVERYBODY)
+王 (Furigana),,,,おう
+王 (Meaning),,,,PRINCE
+王 (Furigana),,,,おう
+王 (Meaning),,,,PRINCESS
+子 (Furigana),,,,し
+子 (Meaning),,,,PUPPY
+女 (Furigana),,,,じょ
+女 (Meaning),,,,QUEEN
+田 (Furigana),,,,た
+田 (Meaning),,,,RICE FIELD (RICE PADDY)
+右 (Furigana),,,,ゆう
+右 (Meaning),,,,RIGHT DIRECTION (RIGHT)
+円 (Furigana),,,,えん
+円 (Meaning),,,,ROUND (CIRCULAR)
+二 (Furigana),,,,に
+二 (Meaning),,,,SECOND DAY (DAY TWO, TWO DAYS)
+七 (Furigana),,,,しち
+七 (Meaning),,,,SEVENTH DAY (DAY SEVEN, SEVEN DAYS)
+六 (Furigana),,,,ろく
+六 (Meaning),,,,SIX
+十 (Furigana),,,,じゅう
+十 (Meaning),,,,SIXTEEN
+六 (Furigana),,,,ろく
+六 (Meaning),,,,SIXTH DAY (DAY SIX, SIX DAYS)
+六 (Furigana),,,,ろく
+六 (Meaning),,,,SIX THINGS
+小 (Furigana),,,,しょう
+小 (Meaning),,,,SMALL (LITTLE)
+土 (Furigana),,,,ど
+土 (Meaning),,,,SOIL (EARTH, GROUND, DIRT)
+日 (Furigana),,,,にち
+日 (Meaning),,,,SUN (DAY)
+刀 (Furigana),,,,とう
+刀 (Meaning),,,,SWORD (KATANA)
+十 (Furigana),,,,じゅう
+十 (Meaning),,,,TENTH DAY (TEN DAYS, DAY TEN)
+三 (Furigana),,,,さん
+三 (Meaning),,,,THIRD DAY (DAY THREE, THREE DAYS)
+千 (Furigana),,,,せん
+千 (Meaning),,,,THOUSAND
+上 (Furigana),,,,じょう
+上 (Meaning),,,,TO CLIMB (TO GO UP)
+正 (Furigana),,,,せい
+正 (Meaning),,,,TO CORRECT
+出 (Furigana),,,,しゅつ
+出 (Meaning),,,,TO EXIT (TO LEAVE, TO ATTEND, TO COME OUT, TO GO OUT)
+立 (Furigana),,,,りつ
+立 (Meaning),,,,TO STAND (TO STAND UP, TO RISE)
+木 (Furigana),,,,もく
+木 (Meaning),,,,TREE (WOOD)
+水 (Furigana),,,,すい
+水 (Meaning),,,,UNDERWATER
+下 (Furigana),,,,か
+下 (Meaning),,,,UNSKILLFUL (UNSKILLED, BAD AT, NOT GOOD AT, NOT SKILLED)
+中 (Furigana),,,,ちゅう
+中 (Meaning),,,,VERY (CONSIDERABLY, QUITE)
+火 (Furigana),,,,か
+火 (Meaning),,,,VOLCANO
+水 (Furigana),,,,すい
+水 (Meaning),,,,WATER
+白 (Furigana),,,,はく
+白 (Meaning),,,,WHITE
+白 (Furigana),,,,はく
+白 (Meaning),,,,WHITE PERSON (CAUCASIAN)
+文 (Furigana),,,,ぶん
+文 (Meaning),,,,WRITING (SENTENCE)
+才 (Furigana),,,,さい
+才 (Meaning),,,,YEARS OLD (AGE)

@@ -1,0 +1,278 @@
+慣 (Onyomi),,,,かん
+慣 (Meaning),,,,Accustomed
+居 (Onyomi),,,,きょ
+居 (Meaning),,,,Alive
+逮 (Onyomi),,,,たい
+逮 (Meaning),,,,Apprehend
+票 (Onyomi),,,,ひょう
+票 (Meaning),,,,Ballot
+属 (Onyomi),,,,ぞく
+属 (Meaning),,,,Belong
+捉 (Onyomi),,,,とら
+捉 (Meaning),,,,Catch
+捕 (Onyomi),,,,ほ
+捕 (Meaning),,,,Catch
+候 (Onyomi),,,,こう
+候 (Meaning),,,,Climate
+輩 (Onyomi),,,,はい
+輩 (Meaning),,,,Comrade
+況 (Onyomi),,,,きょう
+況 (Meaning),,,,Condition
+響 (Onyomi),,,,きょう
+響 (Meaning),,,,Echo
+効 (Onyomi),,,,こう
+効 (Meaning),,,,Effective
+莫 (Onyomi),,,,ばく
+莫 (Meaning),,,,Endless
+抜 (Onyomi),,,,ぬ
+抜 (Meaning),,,,Extract
+鮮 (Onyomi),,,,せん
+鮮 (Meaning),,,,Fresh
+満 (Onyomi),,,,まん
+満 (Meaning),,,,Full
+与 (Onyomi),,,,よ
+与 (Meaning),,,,Give
+掛 (Onyomi),,,,か
+掛 (Meaning),,,,Hang
+隠 (Onyomi),,,,いん
+隠 (Meaning),,,,Hide
+模 (Onyomi),,,,も
+模 (Meaning),,,,Imitation
+含 (Onyomi),,,,がん
+含 (Meaning),,,,Include
+訟 (Onyomi),,,,しょう
+訟 (Meaning),,,,Lawsuit
+限 (Onyomi),,,,げん
+限 (Meaning),,,,Limit
+肥 (Onyomi),,,,ひ
+肥 (Meaning),,,,Obese
+豊 (Onyomi),,,,ほう
+豊 (Meaning),,,,Plentiful
+替 (Onyomi),,,,か
+替 (Meaning),,,,Replace
+景 (Onyomi),,,,けい
+景 (Meaning),,,,Scene
+巻 (Onyomi),,,,かん
+巻 (Meaning),,,,Scroll
+捜 (Onyomi),,,,そう
+捜 (Meaning),,,,Search
+構 (Onyomi),,,,こう
+構 (Meaning),,,,Set Up
+影 (Onyomi),,,,えい
+影 (Meaning),,,,Shadow
+絞 (Onyomi),,,,こう
+絞 (Meaning),,,,Strangle
+訴 (Onyomi),,,,そ
+訴 (Meaning),,,,Sue
+補 (Onyomi),,,,ほ
+補 (Meaning),,,,Supplement
+渡 (Onyomi),,,,わた
+渡 (Meaning),,,,Transit
+告 (Furigana),,,,こく
+告 (Meaning),,,,ACCUSATION (CHARGE)
+女 (Furigana),,,,じょ
+女 (Meaning),,,,ACTRESS
+効 (Furigana),,,,こう
+効 (Meaning),,,,AN EFFECT (EFFECT)
+逮 (Furigana),,,,たい
+逮 (Meaning),,,,ARREST (CAPTURE, APPREHENSION)
+所 (Furigana),,,,しょ
+所 (Meaning),,,,ATTACHED TO (BELONG TO)
+票 (Furigana),,,,ひょう
+票 (Meaning),,,,BALLOT (A VOTE, VOTE)
+賞 (Furigana),,,,しょう
+賞 (Meaning),,,,BONUS
+景 (Furigana),,,,けい
+景 (Meaning),,,,BUSINESS CLIMATE (ECONOMIC CLIMATE, SITUATION)
+候 (Furigana),,,,こう
+候 (Meaning),,,,CANDIDATE (APPLICANT)
+気 (Furigana),,,,き
+気 (Meaning),,,,CLIMATE
+全 (Furigana),,,,ぜん
+全 (Meaning),,,,COMPLETE VIEW (FULL VIEW, PANORAMIC VIEW, PANORAMA)
+状 (Furigana),,,,じょう
+状 (Meaning),,,,CONDITION (CIRCUMSTANCES, SITUATION)
+捜 (Furigana),,,,そう
+捜 (Meaning),,,,CRIMINAL INVESTIGATION (MANHUNT)
+習 (Furigana),,,,しゅう
+習 (Meaning),,,,CUSTOM (HABIT)
+絞 (Furigana),,,,こう
+絞 (Meaning),,,,DEATH BY STRANGLING (STRANGLED TO DEATH, STRANGLING)
+割 (Furigana),,,,わり
+割 (Meaning),,,,DISCOUNT
+反 (Furigana),,,,はん
+反 (Meaning),,,,ECHO (REVERBERATION, INFLUENCE, REPERCUSSION, REACTION)
+効 (Furigana),,,,こう
+効 (Meaning),,,,EFFECTIVENESS (IN EFFECT)
+効 (Furigana),,,,こう
+効 (Meaning),,,,EFFICIENCY
+年 (Furigana),,,,ねん
+年 (Meaning),,,,ELDERLY PERSON (OLD PERSON, ELDERLY)
+結 (Furigana),,,,けつ
+結 (Meaning),,,,FINE (FAIRLY, ALRIGHT, QUITE, PRETTY)
+上 (Furigana),,,,じょう
+上 (Meaning),,,,FIRST VOLUME
+前 (Furigana),,,,ぜん
+前 (Meaning),,,,FOREGROUND
+新 (Furigana),,,,しん
+新 (Meaning),,,,FRESH
+鮮 (Furigana),,,,せん
+鮮 (Meaning),,,,FRESH FISH
+満 (Furigana),,,,まん
+満 (Meaning),,,,FULL HOUSE (NO VACANCY, SOLD OUT)
+満 (Furigana),,,,まん
+満 (Meaning),,,,FULL MOON
+莫 (Furigana),,,,ばく
+莫 (Meaning),,,,HUGE (ENORMOUS)
+含 (Furigana),,,,がん
+含 (Meaning),,,,IMPLICATION (HINT AT, SUGGESTION)
+無 (Furigana),,,,む
+無 (Meaning),,,,INFINITE (LIMITLESS)
+影 (Furigana),,,,えい
+影 (Meaning),,,,INFLUENCE
+不 (Furigana),,,,ふ
+不 (Meaning),,,,IRREGULARITY (UNSTEADINESS, DISORDERLY, IRREGULAR, ERRATIC, INCONSISTENT)
+後 (Furigana),,,,ご
+後 (Meaning),,,,JUNIOR (ONE'S JUNIOR)
+下 (Furigana),,,,か
+下 (Meaning),,,,LAST VOLUME (FINAL VOLUME)
+訴 (Furigana),,,,そ
+訴 (Meaning),,,,LAWSUIT (LITIGATION)
+革 (Furigana),,,,かく
+革 (Meaning),,,,LEATHER JACKET
+限 (Furigana),,,,げん
+限 (Meaning),,,,LIMIT
+限 (Furigana),,,,げん
+限 (Meaning),,,,LIMIT
+限 (Furigana),,,,げん
+限 (Meaning),,,,LIMIT (BOUNDARY)
+肥 (Furigana),,,,ひ
+肥 (Meaning),,,,MANURE (FERTILIZER)
+金 (Furigana),,,,きん
+金 (Meaning),,,,METAL
+掛 (Furigana),,,,か
+掛 (Meaning),,,,MULTIPLICATION
+長 (Furigana),,,,ちょう
+長 (Meaning),,,,NAGASAKI PREFECTURE
+肥 (Furigana),,,,ひ
+肥 (Meaning),,,,OBESITY
+一 (Furigana),,,,いち
+一 (Meaning),,,,ONE VOLUME (FIRST VOLUME)
+構 (Furigana),,,,こう
+構 (Meaning),,,,ORGANIZATION (STRUCTURE, COMPOSITION)
+模 (Furigana),,,,も
+模 (Meaning),,,,PATTERN
+満 (Furigana),,,,まん
+満 (Meaning),,,,PERFECT SCORE
+模 (Furigana),,,,も
+模 (Meaning),,,,PLASTIC MODEL (MODEL, DUMMY, SCALE MODEL)
+豊 (Furigana),,,,ほう
+豊 (Meaning),,,,PLUMP (FULL-FIGURED, VOLUPTUOUS)
+不 (Furigana),,,,ふ
+不 (Meaning),,,,RECESSION
+規 (Furigana),,,,き
+規 (Meaning),,,,REGULAR (WELL REGULATED, SYSTEMATIC)
+隠 (Furigana),,,,いん
+隠 (Meaning),,,,RETIREMENT (RETREAT)
+革 (Furigana),,,,かく
+革 (Meaning),,,,REVOLUTIONARY (A REVOLUTIONARY)
+律 (Furigana),,,,りつ
+律 (Meaning),,,,RHYTHMICAL (RHYTHMIC)
+豊 (Furigana),,,,ほう
+豊 (Meaning),,,,RICH (PLENTIFUL, WEALTHY)
+満 (Furigana),,,,まん
+満 (Meaning),,,,SATISFIED (TOTALLY SATISFIED, SATISFACTION)
+規 (Furigana),,,,き
+規 (Meaning),,,,SCALE (SCOPE, SIZE)
+景 (Furigana),,,,けい
+景 (Meaning),,,,SCENERY (SCENE, LANDSCAPE)
+景 (Furigana),,,,けい
+景 (Meaning),,,,SCENERY (SPECTACULAR VIEW, LANDSCAPE)
+時 (Furigana),,,,じ
+時 (Meaning),,,,SEASON (TIME OF YEAR, WEATHER)
+二 (Furigana),,,,に
+二 (Meaning),,,,SECOND VOLUME (TWO VOLUMES)
+先 (Furigana),,,,せん
+先 (Meaning),,,,SENIOR (OLDER GRADUATE, SUPERIOR)
+影 (Furigana),,,,えい
+影 (Meaning),,,,SHADOW
+光 (Furigana),,,,こう
+光 (Meaning),,,,SPECTACLE (SIGHT)
+期 (Furigana),,,,き
+期 (Meaning),,,,TERM (DEADLINE, DUE DATE)
+天 (Furigana),,,,てん
+天 (Meaning),,,,THE WEATHER (WEATHER)
+時 (Furigana),,,,じ
+時 (Meaning),,,,TIME LIMIT (PERIOD)
+吸 (Furigana),,,,きゅう
+吸 (Meaning),,,,TO ABSORB
+呼 (Furigana),,,,よ
+呼 (Meaning),,,,TO BE CALLED
+捕 (Furigana),,,,ほ
+捕 (Meaning),,,,TO BE CAUGHT (TO GET CAUGHT)
+慣 (Furigana),,,,かん
+慣 (Meaning),,,,TO BECOME ACCUSTOMED TO (TO GET USED TO)
+割 (Furigana),,,,わり
+割 (Meaning),,,,TO BE DIVIDED (TO BE SEPARATED, TO BREAK)
+効 (Furigana),,,,こう
+効 (Meaning),,,,TO BE EFFECTIVE
+属 (Furigana),,,,ぞく
+属 (Meaning),,,,TO BELONG TO (TO FALL UNDER)
+構 (Furigana),,,,こう
+構 (Meaning),,,,TO CARE ABOUT (TO MIND)
+捉 (Furigana),,,,とら
+捉 (Meaning),,,,TO CATCH (TO GRASP, TO PERCEIVE, TO CAPTIVATE)
+渡 (Furigana),,,,わた
+渡 (Meaning),,,,TO CROSS (TO CROSS OVER, TO GO ACROSS)
+響 (Furigana),,,,きょう
+響 (Meaning),,,,TO ECHO (TO REVERBERATE, TO RESOUND)
+居 (Furigana),,,,きょ
+居 (Meaning),,,,TO EXIST (TO BE)
+抜 (Furigana),,,,ぬ
+抜 (Meaning),,,,TO EXTRACT (TO PLUCK)
+与 (Furigana),,,,よ
+与 (Meaning),,,,TO GIVE (TO GRANT, TO BESTOW)
+掛 (Furigana),,,,か
+掛 (Meaning),,,,TO HANG (TO HANG SOMETHING)
+隠 (Furigana),,,,いん
+隠 (Meaning),,,,TO HIDE SOMETHING (TO CONCEAL SOMETHING)
+含 (Furigana),,,,がん
+含 (Meaning),,,,TO INCLUDE
+増 (Furigana),,,,ぞう
+増 (Meaning),,,,TO INCREASE (TO GROW)
+限 (Furigana),,,,げん
+限 (Meaning),,,,TO LIMIT
+見 (Furigana),,,,み
+見 (Meaning),,,,TO LOOK OUT OVER (TO SURVEY, TO SWEEP, TO GLANCE OVER, TO TAKE AN EXTENSIVE VIEW OF)
+頑 (Furigana),,,,がん
+頑 (Meaning),,,,TO PERSEVERE (TO DO ONE'S BEST)
+準 (Furigana),,,,じゅん
+準 (Meaning),,,,TO PREPARE
+替 (Furigana),,,,か
+替 (Meaning),,,,TO REPLACE (TO SUBSTITUTE, TO SWITCH, TO EXCHANGE)
+巻 (Furigana),,,,かん
+巻 (Meaning),,,,TO ROLL (TO ROLL UP)
+捜 (Furigana),,,,そう
+捜 (Meaning),,,,TO SEARCH FOR (TO SEEK)
+現 (Furigana),,,,げん
+現 (Meaning),,,,TO SHOW (TO REVEAL)
+収 (Furigana),,,,しゅう
+収 (Meaning),,,,TO STORE (TO ACHIEVE, TO SCORE, TO FINISH)
+絞 (Furigana),,,,こう
+絞 (Meaning),,,,TO STRANGLE
+訴 (Furigana),,,,そ
+訴 (Meaning),,,,TO SUE (TO ACCUSE, TO APPEAL, TO COMPLAIN)
+補 (Furigana),,,,ほ
+補 (Meaning),,,,TO SUPPLEMENT (TO COMPENSATE FOR)
+優 (Furigana),,,,ゆう
+優 (Meaning),,,,TO SURPASS (TO OUTSTRIP, TO EXCEL)
+投 (Furigana),,,,とう
+投 (Meaning),,,,TO VOTE
+絞 (Furigana),,,,こう
+絞 (Meaning),,,,TO WRING OUT (TO SQUEEZE, TO NARROW DOWN)
+家 (Furigana),,,,か
+家 (Meaning),,,,TUTOR (COACH, PRIVATE TEACHER)
+鮮 (Furigana),,,,せん
+鮮 (Meaning),,,,VIVID (SPLENDID, BRILLIANT)
+人 (Furigana),,,,にん
+人 (Meaning),,,,WEREWOLF

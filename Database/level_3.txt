@@ -1,0 +1,200 @@
+矢 (Onyomi),,,,や
+矢 (Meaning),,,,Arrow
+市 (Onyomi),,,,し
+市 (Meaning),,,,City
+牛 (Onyomi),,,,ぎゅう
+牛 (Meaning),,,,Cow
+切 (Onyomi),,,,せつ
+切 (Meaning),,,,Cut
+方 (Onyomi),,,,ほう
+方 (Meaning),,,,Direction
+戸 (Onyomi),,,,と
+戸 (Meaning),,,,Door
+太 (Onyomi),,,,たい
+太 (Meaning),,,,Fat
+父 (Onyomi),,,,ちち
+父 (Meaning),,,,Father
+少 (Onyomi),,,,しょう
+少 (Meaning),,,,Few
+友 (Onyomi),,,,ゆう
+友 (Meaning),,,,Friend
+毛 (Onyomi),,,,もう
+毛 (Meaning),,,,Fur
+半 (Onyomi),,,,はん
+半 (Meaning),,,,Half
+心 (Onyomi),,,,しん
+心 (Meaning),,,,Heart
+内 (Onyomi),,,,ない
+内 (Meaning),,,,Inside
+生 (Onyomi),,,,せい
+生 (Meaning),,,,Life
+台 (Onyomi),,,,だい
+台 (Meaning),,,,Machine
+母 (Onyomi),,,,はは
+母 (Meaning),,,,Mother
+午 (Onyomi),,,,ご
+午 (Meaning),,,,Noon
+北 (Onyomi),,,,ほく
+北 (Meaning),,,,North
+今 (Onyomi),,,,こん
+今 (Meaning),,,,Now
+古 (Onyomi),,,,こ
+古 (Meaning),,,,Old
+元 (Onyomi),,,,げん
+元 (Meaning),,,,Origin
+外 (Onyomi),,,,がい
+外 (Meaning),,,,Outside
+分 (Onyomi),,,,ぶん
+分 (Meaning),,,,Part
+公 (Onyomi),,,,こう
+公 (Meaning),,,,Public
+引 (Onyomi),,,,ひ
+引 (Meaning),,,,Pull
+止 (Onyomi),,,,し
+止 (Meaning),,,,Stop
+用 (Onyomi),,,,よう
+用 (Meaning),,,,Task
+万 (Onyomi),,,,まん
+万 (Meaning),,,,Ten Thousand
+広 (Onyomi),,,,ひろ
+広 (Meaning),,,,Wide
+冬 (Onyomi),,,,ふゆ
+冬 (Meaning),,,,Winter
+少 (Furigana),,,,しょう
+少 (Meaning),,,,A LITTLE (A FEW, FEW)
+人 (Furigana),,,,にん
+人 (Meaning),,,,AMERICAN (AMERICAN PERSON)
+矢 (Furigana),,,,や
+矢 (Meaning),,,,ARROW
+台 (Furigana),,,,だい
+台 (Meaning),,,,BIG MACHINE COUNTER (MACHINE COUNTER, NUMBER OF MACHINES)
+人 (Furigana),,,,にん
+人 (Meaning),,,,BRITISH PERSON (BRIT)
+市 (Furigana),,,,し
+市 (Meaning),,,,CITY
+牛 (Furigana),,,,ぎゅう
+牛 (Meaning),,,,COW (BULL, OX)
+戸 (Furigana),,,,と
+戸 (Meaning),,,,DOORWAY
+山 (Furigana),,,,さん
+山 (Meaning),,,,ECHO (MOUNTAIN ECHO)
+外 (Furigana),,,,がい
+外 (Meaning),,,,EXTREMITY (FURTHEST POINT, END, OUTSKIRTS, OUTER LIMITS, EDGE, MISS, FAILURE)
+太 (Furigana),,,,たい
+太 (Meaning),,,,FAT (THICK)
+父 (Furigana),,,,ちち
+父 (Meaning),,,,FATHER (DAD)
+父 (Furigana),,,,ちち
+父 (Meaning),,,,FATHER (DAD, PAPA)
+少 (Furigana),,,,しょう
+少 (Meaning),,,,FEW (SCARCE, NOT MUCH, NOT MANY)
+五 (Furigana),,,,ご
+五 (Meaning),,,,FIVE MACHINES
+外 (Furigana),,,,がい
+外 (Meaning),,,,FOREIGNER (OUTSIDER)
+人 (Furigana),,,,にん
+人 (Meaning),,,,FRENCH PERSON (FRENCHMAN)
+生 (Furigana),,,,せい
+生 (Meaning),,,,FRESH (RAW, LIVE)
+友 (Furigana),,,,ゆう
+友 (Meaning),,,,FRIEND
+毛 (Furigana),,,,もう
+毛 (Meaning),,,,FUR (HAIR)
+少 (Furigana),,,,しょう
+少 (Meaning),,,,GIRL (YOUNG LADY)
+公 (Furigana),,,,こう
+公 (Meaning),,,,GOVERNMENT BUSINESS (OFFICIAL BUSINESS)
+半 (Furigana),,,,はん
+半 (Meaning),,,,HALF
+半 (Furigana),,,,はん
+半 (Meaning),,,,HALF
+心 (Furigana),,,,しん
+心 (Meaning),,,,HEART (MIND, FEELING)
+大 (Furigana),,,,たい
+大 (Meaning),,,,IMPORTANT (PRECIOUS, VALUABLE)
+内 (Furigana),,,,ない
+内 (Meaning),,,,INSIDE (WITHIN)
+戸 (Furigana),,,,と
+戸 (Meaning),,,,JAPANESE STYLE DOOR (DOOR)
+玉 (Furigana),,,,たま
+玉 (Meaning),,,,MARBLE
+母 (Furigana),,,,はは
+母 (Meaning),,,,MOTHER (MOM)
+母 (Furigana),,,,はは
+母 (Meaning),,,,MOTHER (MOM)
+市 (Furigana),,,,し
+市 (Meaning),,,,MUNICIPAL (CITY)
+北 (Furigana),,,,ほく
+北 (Meaning),,,,NORTH
+今 (Furigana),,,,こん
+今 (Meaning),,,,NOW
+人 (Furigana),,,,にん
+人 (Meaning),,,,NUMBER OF PEOPLE (PEOPLE, COUNTER FOR PEOPLE)
+大 (Furigana),,,,たい
+大 (Meaning),,,,OBEDIENT (QUIET, CALM)
+古 (Furigana),,,,こ
+古 (Meaning),,,,OLD (ANCIENT, OUT-OF-DATE)
+十 (Furigana),,,,じゅう
+十 (Meaning),,,,ONE HUNDRED THOUSAND (HUNDRED THOUSAND)
+一 (Furigana),,,,いち
+一 (Meaning),,,,ONE MACHINE
+人 (Furigana),,,,にん
+人 (Meaning),,,,ONE'S LIFE (HUMAN LIFE, LIFE)
+上 (Furigana),,,,じょう
+上 (Meaning),,,,ON THE TABLE (TABLETOP)
+元 (Furigana),,,,げん
+元 (Meaning),,,,ORIGIN (EX, FORMER)
+外 (Furigana),,,,がい
+外 (Meaning),,,,OUTSIDE
+分 (Furigana),,,,ぶん
+分 (Meaning),,,,PART (PORTION, CONTENT)
+市 (Furigana),,,,し
+市 (Meaning),,,,SEATTLE (CITY OF SEATTLE)
+中 (Furigana),,,,ちゅう
+中 (Meaning),,,,SECONDHAND (USED)
+中 (Furigana),,,,ちゅう
+中 (Meaning),,,,SUSPENSION (CANCELLATION, DISCONTINUATION)
+用 (Furigana),,,,よう
+用 (Meaning),,,,TASK (USE, DUTY, SERVICE, BUSINESS, PURPOSE)
+十 (Furigana),,,,じゅう
+十 (Meaning),,,,TEN MACHINES
+万 (Furigana),,,,まん
+万 (Meaning),,,,TEN THOUSAND
+一 (Furigana),,,,いち
+一 (Meaning),,,,TEN THOUSAND
+今 (Furigana),,,,こん
+今 (Meaning),,,,THIS MONTH (CURRENT MONTH)
+生 (Furigana),,,,せい
+生 (Meaning),,,,TO BE BORN
+切 (Furigana),,,,せつ
+切 (Meaning),,,,TO CUT
+今 (Furigana),,,,こん
+今 (Meaning),,,,TODAY
+外 (Furigana),,,,がい
+外 (Meaning),,,,TO DISCONNECT SOMETHING (TO MISS SOMETHING, TO EXCLUDE SOMETHING, TO REMOVE SOMETHING)
+太 (Furigana),,,,たい
+太 (Meaning),,,,TO GET FAT (TO GAIN WEIGHT, TO GROW FAT, TO BECOME FAT)
+引 (Furigana),,,,ひ
+引 (Meaning),,,,TO PULL (TO SUBTRACT, TO ATTRACT)
+広 (Furigana),,,,ひろ
+広 (Meaning),,,,TO SPREAD SOMETHING (TO UNFOLD SOMETHING, TO OPEN SOMETHING UP)
+止 (Furigana),,,,し
+止 (Meaning),,,,TO STOP SOMETHING (TO PREVENT SOMETHING)
+分 (Furigana),,,,ぶん
+分 (Meaning),,,,TO UNDERSTAND (TO BE UNDERSTANDABLE)
+用 (Furigana),,,,よう
+用 (Meaning),,,,TO UTILIZE (TO USE)
+二 (Furigana),,,,に
+二 (Meaning),,,,TWENTY THOUSAND
+二 (Furigana),,,,に
+二 (Meaning),,,,TWO MACHINES
+下 (Furigana),,,,か
+下 (Meaning),,,,UNDER THE BED (BELOW THE BED, BENEATH THE BED)
+方 (Furigana),,,,ほう
+方 (Meaning),,,,WAY (DIRECTION)
+広 (Furigana),,,,ひろ
+広 (Meaning),,,,WIDE (SPACIOUS)
+冬 (Furigana),,,,ふゆ
+冬 (Meaning),,,,WINTER
+女 (Furigana),,,,じょ
+女 (Meaning),,,,WOMAN

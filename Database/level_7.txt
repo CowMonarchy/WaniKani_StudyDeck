@@ -1,0 +1,290 @@
+辺 (Onyomi),,,,へん
+辺 (Meaning),,,,Area
+付 (Onyomi),,,,つ
+付 (Meaning),,,,Attach
+札 (Onyomi),,,,さつ
+札 (Meaning),,,,Bill
+鳥 (Onyomi),,,,ちょう
+鳥 (Meaning),,,,Bird
+黒 (Onyomi),,,,こく
+黒 (Meaning),,,,Black
+船 (Onyomi),,,,せん
+船 (Meaning),,,,Boat
+必 (Onyomi),,,,ひつ
+必 (Meaning),,,,Certain
+末 (Onyomi),,,,まつ
+末 (Meaning),,,,End
+氏 (Onyomi),,,,し
+氏 (Meaning),,,,Family Name
+失 (Onyomi),,,,しつ
+失 (Meaning),,,,Fault
+魚 (Onyomi),,,,ぎょ
+魚 (Meaning),,,,Fish
+以 (Onyomi),,,,い
+以 (Meaning),,,,From
+組 (Onyomi),,,,そ
+組 (Meaning),,,,Group
+家 (Onyomi),,,,か
+家 (Meaning),,,,House
+欠 (Onyomi),,,,けつ
+欠 (Meaning),,,,Lack
+未 (Onyomi),,,,み
+未 (Meaning),,,,Not Yet
+紙 (Onyomi),,,,かみ
+紙 (Meaning),,,,Paper
+通 (Onyomi),,,,つう
+通 (Meaning),,,,Pass Through
+民 (Onyomi),,,,みん
+民 (Meaning),,,,Peoples
+由 (Onyomi),,,,ゆう
+由 (Meaning),,,,Reason
+理 (Onyomi),,,,り
+理 (Meaning),,,,Reason
+校 (Onyomi),,,,こう
+校 (Meaning),,,,School
+雪 (Onyomi),,,,ゆき
+雪 (Meaning),,,,Snow
+強 (Onyomi),,,,きょう
+強 (Meaning),,,,Strong
+夏 (Onyomi),,,,なつ
+夏 (Meaning),,,,Summer
+高 (Onyomi),,,,こう
+高 (Meaning),,,,Tall
+教 (Onyomi),,,,きょう
+教 (Meaning),,,,Teach
+時 (Onyomi),,,,じ
+時 (Meaning),,,,Time
+弱 (Onyomi),,,,じゃく
+弱 (Meaning),,,,Weak
+週 (Onyomi),,,,しゅう
+週 (Meaning),,,,Week
+風 (Onyomi),,,,ふう
+風 (Meaning),,,,Wind
+記 (Onyomi),,,,き
+記 (Meaning),,,,Write Down
+黄 (Onyomi),,,,き
+黄 (Meaning),,,,Yellow
+以 (Furigana),,,,い
+以 (Meaning),,,,AFTER THIS (FROM NOW ON, AFTER, SINCE)
+辺 (Furigana),,,,へん
+辺 (Meaning),,,,AREA (VICINITY, REGION)
+辺 (Furigana),,,,へん
+辺 (Meaning),,,,AREA (VICINITY, NEIGHBORHOOD)
+辺 (Furigana),,,,へん
+辺 (Meaning),,,,AROUND HERE (THIS AREA)
+先 (Furigana),,,,せん
+先 (Meaning),,,,ARRIVING AHEAD (GOING AHEAD, ANTICIPATION)
+作 (Furigana),,,,さく
+作 (Meaning),,,,AUTHOR (WRITER, NOVELIST)
+風 (Furigana),,,,ふう
+風 (Meaning),,,,BALLOON
+札 (Furigana),,,,さつ
+札 (Meaning),,,,BILL (NOTE)
+鳥 (Furigana),,,,ちょう
+鳥 (Meaning),,,,BIRD
+黒 (Furigana),,,,こく
+黒 (Meaning),,,,BLACK
+黒 (Furigana),,,,こく
+黒 (Meaning),,,,BLACK PERSON (BLACK PEOPLE)
+青 (Furigana),,,,せい
+青 (Meaning),,,,BLUE SKY
+船 (Furigana),,,,せん
+船 (Meaning),,,,BOAT (SHIP)
+教 (Furigana),,,,きょう
+教 (Meaning),,,,CLASSROOM
+活 (Furigana),,,,かつ
+活 (Meaning),,,,CONJUGATED FORM
+日 (Furigana),,,,にち
+日 (Meaning),,,,DIARY (JOURNAL)
+丁 (Furigana),,,,ちょう
+丁 (Meaning),,,,DISTRICT OF A TOWN (CITY BLOCK, TOWN DISTRICT, DISTRICT)
+人 (Furigana),,,,にん
+人 (Meaning),,,,DOLL (PUPPET)
+小 (Furigana),,,,しょう
+小 (Meaning),,,,ELEMENTARY SCHOOL STUDENT (PRIMARY SCHOOL STUDENT, ELEMENTARY SCHOOLER, PRIMARY SCHOOLER, GRADE SCHOOLER, GRADE SCHOOL STUDENT)
+月 (Furigana),,,,げつ
+月 (Meaning),,,,END OF THE MONTH (MONTH END)
+魚 (Furigana),,,,ぎょ
+魚 (Meaning),,,,FISH
+必 (Furigana),,,,ひつ
+必 (Meaning),,,,FRANTIC (DESPERATE, CERTAIN DEATH, SURE DEATH)
+自 (Furigana),,,,じ
+自 (Meaning),,,,FREEDOM (LIBERTY)
+氏 (Furigana),,,,し
+氏 (Meaning),,,,FULL NAME (FIRST AND LAST NAME)
+未 (Furigana),,,,み
+未 (Meaning),,,,FUTURE (THE FUTURE, DISTANT FUTURE, THE DISTANT FUTURE)
+地 (Furigana),,,,ち
+地 (Meaning),,,,GEOGRAPHY
+金 (Furigana),,,,きん
+金 (Meaning),,,,GOLDFISH
+組 (Furigana),,,,そ
+組 (Meaning),,,,GROUP (TEAM, CLASS)
+手 (Furigana),,,,て
+手 (Meaning),,,,HANDMADE (HOMEMADE)
+大 (Furigana),,,,たい
+大 (Meaning),,,,HEAVENS (FIRMAMENT, SKY, SKIES)
+高 (Furigana),,,,こう
+高 (Meaning),,,,HIGH SCHOOL (SENIOR HIGH SCHOOL)
+家 (Furigana),,,,か
+家 (Meaning),,,,HOME (HOUSE)
+作 (Furigana),,,,さく
+作 (Meaning),,,,HOW TO MAKE (WAY TO MAKE, WAY OF MAKING)
+船 (Furigana),,,,せん
+船 (Meaning),,,,HULL (SHIP HULL)
+人 (Furigana),,,,にん
+人 (Meaning),,,,HUMAN HABITATION (VILLAGE)
+大 (Furigana),,,,たい
+大 (Meaning),,,,IN A BIG WAY (ON A GRAND SCALE)
+内 (Furigana),,,,ない
+内 (Meaning),,,,INSIDE POCKET
+近 (Furigana),,,,きん
+近 (Meaning),,,,IN THE NEAR FUTURE (SOON)
+木 (Furigana),,,,もく
+木 (Meaning),,,,JUPITER
+先 (Furigana),,,,せん
+先 (Meaning),,,,LAST WEEK
+以 (Furigana),,,,い
+以 (Meaning),,,,LESS THAN (OR LESS, NOT EXCEEDING, BELOW)
+手 (Furigana),,,,て
+手 (Meaning),,,,LETTER
+小 (Furigana),,,,しょう
+小 (Meaning),,,,LOW VOICE (WHISPER)
+火 (Furigana),,,,か
+火 (Meaning),,,,MARS
+心 (Furigana),,,,しん
+心 (Meaning),,,,MENTAL STATE (PSYCHOLOGY)
+中 (Furigana),,,,ちゅう
+中 (Meaning),,,,MIDDLE SCHOOL STUDENT (JUNIOR HIGH SCHOOL STUDENT, MIDDLE SCHOOLER, JUNIOR HIGH SCHOOLER, JUNIOR HIGH STUDENT)
+分 (Furigana),,,,ぶん
+分 (Meaning),,,,MINUTE (MINUTES)
+氏 (Furigana),,,,し
+氏 (Meaning),,,,MISTER (MADAM, MISS, MIXTER)
+以 (Furigana),,,,い
+以 (Meaning),,,,MORE THAN (OR MORE, THAT'S ALL)
+三 (Furigana),,,,さん
+三 (Meaning),,,,NAPOLEON THE THIRD (NAPOLEON III)
+近 (Furigana),,,,きん
+近 (Meaning),,,,NEAR (NEIGHBORHOOD, VICINITY, NEARLY, SHORTLY)
+海 (Furigana),,,,かい
+海 (Meaning),,,,NEPTUNE
+来 (Furigana),,,,らい
+来 (Meaning),,,,NEXT WEEK
+未 (Furigana),,,,み
+未 (Meaning),,,,NOT YET (STILL)
+海 (Furigana),,,,かい
+海 (Meaning),,,,OCEAN FISH (SALTWATER FISH)
+時 (Furigana),,,,じ
+時 (Meaning),,,,O'CLOCK
+兄 (Furigana),,,,きょう
+兄 (Meaning),,,,OLDER BROTHER (GUY)
+一 (Furigana),,,,いち
+一 (Meaning),,,,ONE LOAF OF BREAD (ONE LOAF)
+一 (Furigana),,,,いち
+一 (Meaning),,,,ONE O'CLOCK
+以 (Furigana),,,,い
+以 (Meaning),,,,OTHER THAN (EXCEPTING, EXCEPT FOR)
+紙 (Furigana),,,,かみ
+紙 (Meaning),,,,PAPER
+時 (Furigana),,,,じ
+時 (Meaning),,,,PERIOD (EPOCH, ERA, TIME PERIOD)
+以 (Furigana),,,,い
+以 (Meaning),,,,PREVIOUSLY (BEFORE)
+心 (Furigana),,,,しん
+心 (Meaning),,,,PSYCHOLOGY
+本 (Furigana),,,,ほん
+本 (Meaning),,,,REALLY (TRULY)
+理 (Furigana),,,,り
+理 (Meaning),,,,REASON (MOTIVE, EXCUSE)
+号 (Furigana),,,,ごう
+号 (Meaning),,,,ROOM NUMBER (SUFFIX FOR ROOM NUMBERS)
+失 (Furigana),,,,しつ
+失 (Meaning),,,,RUDE (RUDENESS, IMPOLITENESS, EXCUSE ME)
+同 (Furigana),,,,どう
+同 (Meaning),,,,SAME TIME
+学 (Furigana),,,,がく
+学 (Meaning),,,,SCHOOL
+形 (Furigana),,,,けい
+形 (Meaning),,,,SHAPE (APPEARANCE, FORM)
+欠 (Furigana),,,,けつ
+欠 (Meaning),,,,SHORTCOMING (FAULT, DEFECT, FLAW, WEAKNESS, WEAK POINT)
+雪 (Furigana),,,,ゆき
+雪 (Meaning),,,,SNOW
+社 (Furigana),,,,しゃ
+社 (Meaning),,,,SOCIETY
+強 (Furigana),,,,きょう
+強 (Meaning),,,,STRONG (STRENGTH, POWERFUL)
+強 (Furigana),,,,きょう
+強 (Meaning),,,,STRONG
+夏 (Furigana),,,,なつ
+夏 (Meaning),,,,SUMMER
+夏 (Furigana),,,,なつ
+夏 (Meaning),,,,SUMMER VACATION (SUMMER BREAK, SUMMER HOLIDAY)
+必 (Furigana),,,,ひつ
+必 (Meaning),,,,SURELY (CERTAINLY, WITHOUT EXCEPTION, ALWAYS, DEFINITELY)
+白 (Furigana),,,,はく
+白 (Meaning),,,,SWAN
+札 (Furigana),,,,さつ
+札 (Meaning),,,,TAG (AMULET, LABEL, PLAYING CARD)
+高 (Furigana),,,,こう
+高 (Meaning),,,,TALL (HIGH, EXPENSIVE)
+末 (Furigana),,,,まつ
+末 (Meaning),,,,THE END (END)
+一 (Furigana),,,,いち
+一 (Meaning),,,,THE HECK (IN THE WORLD, ON EARTH)
+国 (Furigana),,,,こく
+国 (Meaning),,,,THE PEOPLE (CITIZENS, NATIONAL)
+今 (Furigana),,,,こん
+今 (Meaning),,,,THIS WEEK
+考 (Furigana),,,,こう
+考 (Meaning),,,,THOUGHT (A THOUGHT)
+時 (Furigana),,,,じ
+時 (Meaning),,,,TIME (HOUR)
+付 (Furigana),,,,つ
+付 (Meaning),,,,TO ATTACH SOMETHING (TO ATTACH)
+直 (Furigana),,,,ちょく
+直 (Meaning),,,,TO BE FIXED (TO FIX)
+見 (Furigana),,,,み
+見 (Meaning),,,,TO BE FOUND (TO COME UPON, TO COME ACROSS)
+失 (Furigana),,,,しつ
+失 (Meaning),,,,TO LOSE (TO PART WITH, TO LOSE SOMETHING, TO PART WITH SOMETHING)
+通 (Furigana),,,,つう
+通 (Meaning),,,,TO PASS (TO PASS THROUGH, TO TRAVEL ALONG, TO STOP BY)
+光 (Furigana),,,,こう
+光 (Meaning),,,,TO SHINE (TO GLITTER)
+教 (Furigana),,,,きょう
+教 (Meaning),,,,TO TEACH (TO TELL)
+町 (Furigana),,,,ちょう
+町 (Meaning),,,,TOWNSPEOPLE (TOWNSPERSON, TOWNSFOLK)
+交 (Furigana),,,,こう
+交 (Meaning),,,,TRAFFIC (TRANSPORT, TRANSIT)
+三 (Furigana),,,,さん
+三 (Meaning),,,,TRIANGLE
+二 (Furigana),,,,に
+二 (Meaning),,,,TWO LOAVES OF BREAD (TWO LOAVES)
+二 (Furigana),,,,に
+二 (Meaning),,,,TWO THIRTY (HALF PAST TWO)
+台 (Furigana),,,,だい
+台 (Meaning),,,,TYPHOON (HURRICANE)
+大 (Furigana),,,,たい
+大 (Meaning),,,,UNIVERSITY STUDENT (COLLEGE STUDENT, UNI STUDENT)
+不 (Furigana),,,,ふ
+不 (Meaning),,,,UNPOPULAR (NOT POPULAR)
+言 (Furigana),,,,げん
+言 (Meaning),,,,WAY OF SAYING (WAY OF TALKING, SPEAKING STYLE)
+考 (Furigana),,,,こう
+考 (Meaning),,,,WAY OF THINKING (THOUGHT PROCESS)
+弱 (Furigana),,,,じゃく
+弱 (Meaning),,,,WEAK
+弱 (Furigana),,,,じゃく
+弱 (Meaning),,,,WEAK POINT (WEAKNESS)
+週 (Furigana),,,,しゅう
+週 (Meaning),,,,WEEKEND
+何 (Furigana),,,,なに
+何 (Meaning),,,,WHAT TIME
+風 (Furigana),,,,ふう
+風 (Meaning),,,,WIND
+年 (Furigana),,,,ねん
+年 (Meaning),,,,YEAR END (END OF THE YEAR, END OF YEAR)
+黄 (Furigana),,,,き
+黄 (Meaning),,,,YELLOW (YELLOW COLOR, COLOR YELLOW)

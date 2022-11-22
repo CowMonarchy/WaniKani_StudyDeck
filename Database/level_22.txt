@@ -1,0 +1,304 @@
+援 (Onyomi),,,,えん
+援 (Meaning),,,,Aid
+態 (Onyomi),,,,たい
+態 (Meaning),,,,Appearance
+誕 (Onyomi),,,,たん
+誕 (Meaning),,,,Birth
+状 (Onyomi),,,,じょう
+状 (Meaning),,,,Condition
+賀 (Onyomi),,,,が
+賀 (Meaning),,,,Congratulations
+各 (Onyomi),,,,かく
+各 (Meaning),,,,Each
+費 (Onyomi),,,,ひ
+費 (Meaning),,,,Expense
+姿 (Onyomi),,,,し
+姿 (Meaning),,,,Figure
+勢 (Onyomi),,,,せい
+勢 (Meaning),,,,Force
+諦 (Onyomi),,,,あきら
+諦 (Meaning),,,,Give Up
+示 (Onyomi),,,,じ
+示 (Meaning),,,,Indicate
+寝 (Onyomi),,,,ね
+寝 (Meaning),,,,Lie Down
+営 (Onyomi),,,,えい
+営 (Meaning),,,,Manage
+坊 (Onyomi),,,,ぼう
+坊 (Meaning),,,,Monk
+罰 (Onyomi),,,,ばつ
+罰 (Meaning),,,,Penalty
+案 (Onyomi),,,,あん
+案 (Meaning),,,,Plan
+策 (Onyomi),,,,さく
+策 (Meaning),,,,Plan
+提 (Onyomi),,,,てい
+提 (Meaning),,,,Present
+置 (Onyomi),,,,ち
+置 (Meaning),,,,Put
+域 (Onyomi),,,,いき
+域 (Meaning),,,,Region
+応 (Onyomi),,,,おう
+応 (Meaning),,,,Respond
+宮 (Onyomi),,,,みや
+宮 (Meaning),,,,Shinto Shrine
+袖 (Onyomi),,,,しゅう
+袖 (Meaning),,,,Sleeve
+吸 (Onyomi),,,,きゅう
+吸 (Meaning),,,,Suck
+過 (Onyomi),,,,か
+過 (Meaning),,,,Surpass
+領 (Onyomi),,,,りょう
+領 (Meaning),,,,Territory
+脱 (Onyomi),,,,だつ
+脱 (Meaning),,,,Undress
+統 (Onyomi),,,,とう
+統 (Meaning),,,,Unite
+価 (Onyomi),,,,か
+価 (Meaning),,,,Value
+値 (Onyomi),,,,ち
+値 (Meaning),,,,Value
+副 (Onyomi),,,,ふく
+副 (Meaning),,,,Vice
+観 (Onyomi),,,,かん
+観 (Meaning),,,,View
+藤 (Onyomi),,,,ふじ
+藤 (Meaning),,,,Wisteria
+副 (Furigana),,,,ふく
+副 (Meaning),,,,ADVERB
+罰 (Furigana),,,,ばつ
+罰 (Meaning),,,,A FINE (FINE)
+待 (Furigana),,,,たい
+待 (Meaning),,,,ALERT (STANDBY)
+策 (Furigana),,,,さく
+策 (Meaning),,,,A PLAN (PLAN, SCHEME)
+反 (Furigana),,,,はん
+反 (Meaning),,,,A RESPONSE (RESPONSE, A REACTION, REACTION)
+援 (Furigana),,,,えん
+援 (Meaning),,,,ASSISTANCE (AID)
+態 (Furigana),,,,たい
+態 (Meaning),,,,ATTITUDE (MANNER, BEHAVIOR)
+観 (Furigana),,,,かん
+観 (Meaning),,,,AUDIENCE (SPECTATORS)
+赤 (Furigana),,,,あか
+赤 (Meaning),,,,BABY
+不 (Furigana),,,,ふ
+不 (Meaning),,,,BAD MOOD (GRUMPY, SULLEN)
+罰 (Furigana),,,,ばつ
+罰 (Meaning),,,,BATSU GAME (PENALTY GAME)
+誕 (Furigana),,,,たん
+誕 (Meaning),,,,BIRTH
+失 (Furigana),,,,しつ
+失 (Meaning),,,,BLUNDER (DISGRACE)
+区 (Furigana),,,,く
+区 (Meaning),,,,BOUNDARY (ZONE)
+坊 (Furigana),,,,ぼう
+坊 (Meaning),,,,BUDDHIST PRIEST (SHAVED HEAD, CLOSE-CROPPED HAIR)
+営 (Furigana),,,,えい
+営 (Meaning),,,,BUSINESS (SALES)
+社 (Furigana),,,,しゃ
+社 (Meaning),,,,COMPANY EXPENSES
+状 (Furigana),,,,じょう
+状 (Meaning),,,,CONDITION (STATE)
+消 (Furigana),,,,しょう
+消 (Meaning),,,,CONSUMPTION (EXPENDITURE)
+防 (Furigana),,,,ぼう
+防 (Meaning),,,,CRIME PREVENTION
+大 (Furigana),,,,たい
+大 (Meaning),,,,CROWD (A LARGE NUMBER)
+脱 (Furigana),,,,だつ
+脱 (Meaning),,,,DIGRESSION (DERAILMENT, BE DERAILED)
+領 (Furigana),,,,りょう
+領 (Meaning),,,,DOMAIN (TERRITORY)
+各 (Furigana),,,,かく
+各 (Meaning),,,,EACH (EVERY, VARIOUS)
+各 (Furigana),,,,かく
+各 (Meaning),,,,EACH (EVERY, RESPECTIVELY)
+各 (Furigana),,,,かく
+各 (Meaning),,,,EACH AREA (VARIOUS AREAS)
+各 (Furigana),,,,かく
+各 (Meaning),,,,EACH PERSON (INDIVIDUAL)
+評 (Furigana),,,,ひょう
+評 (Meaning),,,,EVALUATION (APPRAISAL, VERDICT, VALUATION, ASSESSMENT, RATING)
+費 (Furigana),,,,ひ
+費 (Meaning),,,,EXPENSE (COST)
+経 (Furigana),,,,けい
+経 (Meaning),,,,EXPERIENCED PERSON
+外 (Furigana),,,,がい
+外 (Meaning),,,,EXTERNAL APPEARANCE (OUTWARD APPEARANCE)
+姿 (Furigana),,,,し
+姿 (Meaning),,,,FIGURE (SHAPE, FORM)
+勢 (Furigana),,,,せい
+勢 (Meaning),,,,FORCE (VIGOR)
+官 (Furigana),,,,かん
+官 (Meaning),,,,GOVERNMENT MANAGEMENT (GOVERNMENT OPERATION, RUN BY THE GOVERNMENT, GOVERNMENT RUN)
+案 (Furigana),,,,あん
+案 (Meaning),,,,GUIDE (INFORMATION, INVITATION)
+大 (Furigana),,,,たい
+大 (Meaning),,,,HATE (REALLY HATE, DETESTABLE)
+高 (Furigana),,,,こう
+高 (Meaning),,,,HIGH BLOOD PRESSURE (HYPERTENSION)
+嫌 (Furigana),,,,けん
+嫌 (Meaning),,,,HURTFUL WORDS (HURTFUL SPEECH, SARCASM, DISAGREEABLENESS)
+観 (Furigana),,,,かん
+観 (Meaning),,,,IDEA (NOTION)
+不 (Furigana),,,,ふ
+不 (Meaning),,,,IMPOSSIBLE (NOT POSSIBLE)
+産 (Furigana),,,,さん
+産 (Meaning),,,,INDUSTRY (HEAVY INDUSTRY)
+勢 (Furigana),,,,せい
+勢 (Meaning),,,,INFLUENCE (FORCE)
+指 (Furigana),,,,し
+指 (Meaning),,,,INSTRUCTIONS (DIRECTIONS, ADVICE)
+対 (Furigana),,,,たい
+対 (Meaning),,,,INTERACTION (CORRESPONDENCE, COPING WITH, DEALING WITH, SUPPORT, SOFTWARE SUPPORT)
+寝 (Furigana),,,,ね
+寝 (Meaning),,,,LACK OF SLEEP
+地 (Furigana),,,,ち
+地 (Meaning),,,,LAND VALUE
+領 (Furigana),,,,りょう
+領 (Meaning),,,,LEADER (BOSS, CHIEF)
+坊 (Furigana),,,,ぼう
+坊 (Meaning),,,,MONK
+昼 (Furigana),,,,ひる
+昼 (Meaning),,,,NAP
+年 (Furigana),,,,ねん
+年 (Meaning),,,,NEW YEAR'S CARD (NEW YEAR'S GREETING CARD)
+脱 (Furigana),,,,だつ
+脱 (Meaning),,,,OMITTED CHARACTER (OMITTED WORD)
+態 (Furigana),,,,たい
+態 (Meaning),,,,ON PURPOSE (DELIBERATELY, INTENTIONALLY)
+機 (Furigana),,,,き
+機 (Meaning),,,,OPPORTUNITY (CHANCE)
+寝 (Furigana),,,,ね
+寝 (Meaning),,,,OVERSLEEPING (LATE RISER)
+宮 (Furigana),,,,みや
+宮 (Meaning),,,,PALACE (SHRINE, PRINCE, PRINCESS)
+過 (Furigana),,,,か
+過 (Meaning),,,,PAST (THE PAST)
+罰 (Furigana),,,,ばつ
+罰 (Meaning),,,,PENALTY (PUNISHMENT)
+変 (Furigana),,,,へん
+変 (Meaning),,,,PERVERT (ABNORMAL, TRANSFORMATION, METAMORPHOSIS)
+政 (Furigana),,,,せい
+政 (Meaning),,,,POLICY (A POLICY)
+位 (Furigana),,,,い
+位 (Meaning),,,,POSITION (LOCATION, PLACE)
+姿 (Furigana),,,,し
+姿 (Meaning),,,,POSTURE (ATTITUDE)
+提 (Furigana),,,,てい
+提 (Meaning),,,,PRESENTATION (SUBMISSION, FILING, HANDING IN)
+大 (Furigana),,,,たい
+大 (Meaning),,,,PRESIDENT
+価 (Furigana),,,,か
+価 (Meaning),,,,PRICE (VALUE, COST)
+物 (Furigana),,,,ぶつ
+物 (Meaning),,,,PRICES (PRICES OF COMMODITIES, COST OF LIVING)
+私 (Furigana),,,,し
+私 (Meaning),,,,PRIVATE (PRIVATELY RUN, RUN PRIVATELY)
+提 (Furigana),,,,てい
+提 (Meaning),,,,PROPOSITION (PROPOSAL, SUGGESTION)
+公 (Furigana),,,,こう
+公 (Meaning),,,,PUBLIC (GOVERNMENT RUN, RUN BY THE GOVERNMENT)
+公 (Furigana),,,,こう
+公 (Meaning),,,,PUBLIC ANNOUNCEMENT
+受 (Furigana),,,,じゅ
+受 (Meaning),,,,RECEIPT (DOCKET)
+地 (Furigana),,,,ち
+地 (Meaning),,,,REGION (AREA, ZONE)
+諦 (Furigana),,,,あきら
+諦 (Meaning),,,,RESIGNATION
+市 (Furigana),,,,し
+市 (Meaning),,,,RUN BY THE CITY (CITY-RUN)
+県 (Furigana),,,,けん
+県 (Meaning),,,,RUN BY THE PREFECTURE (PREFECTURE RUN, PREFECTURAL)
+副 (Furigana),,,,ふく
+副 (Meaning),,,,SIDE BUSINESS
+観 (Furigana),,,,かん
+観 (Meaning),,,,SIGHTSEEING (TOURISM)
+袖 (Furigana),,,,しゅう
+袖 (Meaning),,,,SLEEVE
+土 (Furigana),,,,ど
+土 (Meaning),,,,SOUVENIR (PRESENT)
+主 (Furigana),,,,しゅ
+主 (Meaning),,,,SUBJECTIVITY
+副 (Furigana),,,,ふく
+副 (Meaning),,,,SUBTITLE (SUBHEADING)
+応 (Furigana),,,,おう
+応 (Meaning),,,,SUPPORT (ROOT FOR, AID)
+支 (Furigana),,,,し
+支 (Meaning),,,,SUPPORT
+尻 (Furigana),,,,しり
+尻 (Meaning),,,,TAIL
+脱 (Furigana),,,,だつ
+脱 (Meaning),,,,TAX EVASION
+一 (Furigana),,,,いち
+一 (Meaning),,,,TENTATIVELY (FOR NOW, JUST IN CASE)
+領 (Furigana),,,,りょう
+領 (Meaning),,,,TERRITORY
+有 (Furigana),,,,ゆう
+有 (Meaning),,,,THANK YOU (THANKS)
+混 (Furigana),,,,こん
+混 (Meaning),,,,TO BE CROWDED (TO BE PACKED)
+非 (Furigana),,,,ひ
+非 (Meaning),,,,TO CRITICIZE (TO BLAME)
+脱 (Furigana),,,,だつ
+脱 (Meaning),,,,TO ESCAPE (TO FLEE)
+存 (Furigana),,,,そん
+存 (Meaning),,,,TO EXIST
+倒 (Furigana),,,,とう
+倒 (Meaning),,,,TO GET KNOCKED OVER (TO GET KNOCKED DOWN, TO COLLAPSE)
+諦 (Furigana),,,,あきら
+諦 (Meaning),,,,TO GIVE UP (TO ABANDON)
+手 (Furigana),,,,て
+手 (Meaning),,,,TOILET (RESTROOM, BATHROOM, LAVATORY)
+示 (Furigana),,,,じ
+示 (Meaning),,,,TO INDICATE (TO SHOW SOMETHING, TO DEMONSTRATE)
+飛 (Furigana),,,,ひ
+飛 (Meaning),,,,TO LET SOMETHING FLY (TO SEND SOMETHING FLYING, TO SKIP OVER SOMETHING)
+確 (Furigana),,,,かく
+確 (Meaning),,,,TO MAKE SURE OF (TO VERIFY, TO CONFIRM)
+圧 (Furigana),,,,あつ
+圧 (Meaning),,,,TO OVERWHELM
+過 (Furigana),,,,か
+過 (Meaning),,,,TO PASS (TO BE OVER, TO BE TOO MUCH)
+罰 (Furigana),,,,ばつ
+罰 (Meaning),,,,TO PUNISH (TO PENALIZE)
+置 (Furigana),,,,ち
+置 (Meaning),,,,TO PUT DOWN (TO SET DOWN, TO PLACE, TO PUT)
+在 (Furigana),,,,ざい
+在 (Meaning),,,,TO RESIDE (TO STAY, TO REMAIN)
+応 (Furigana),,,,おう
+応 (Meaning),,,,TO RESPOND
+営 (Furigana),,,,えい
+営 (Meaning),,,,TO RUN A BUSINESS (TO MANAGE A BUSINESS)
+震 (Furigana),,,,しん
+震 (Meaning),,,,TO SHAKE (TO SHIVER, TO QUAKE, TO TREMBLE, TO QUAVER, TO QUIVER)
+寝 (Furigana),,,,ね
+寝 (Meaning),,,,TO SLEEP (TO GO TO BED, TO LIE DOWN)
+吸 (Furigana),,,,きゅう
+吸 (Meaning),,,,TO SMOKE (TO SUCK, TO INHALE)
+脱 (Furigana),,,,だつ
+脱 (Meaning),,,,TO UNDRESS (TO TAKE OFF CLOTHES)
+観 (Furigana),,,,かん
+観 (Meaning),,,,TO VIEW (TO WATCH, TO SEE)
+伝 (Furigana),,,,でん
+伝 (Meaning),,,,TRADITION
+面 (Furigana),,,,めん
+面 (Meaning),,,,TROUBLESOME (A BOTHER, ANNOYING)
+案 (Furigana),,,,あん
+案 (Meaning),,,,UNEXPECTEDLY (MORE THAN EXPECTED)
+統 (Furigana),,,,とう
+統 (Meaning),,,,UNIFICATION (INTEGRATION, CONSOLIDATION)
+嫌 (Furigana),,,,けん
+嫌 (Meaning),,,,UNPLEASANT FEELINGS
+価 (Furigana),,,,か
+価 (Meaning),,,,VALUE (WORTH, MERIT)
+価 (Furigana),,,,か
+価 (Meaning),,,,VALUE (PRICE)
+値 (Furigana),,,,ち
+値 (Meaning),,,,VALUE (PRICE)
+被 (Furigana),,,,ひ
+被 (Meaning),,,,VICTIM (VICTIMS)
+藤 (Furigana),,,,ふじ
+藤 (Meaning),,,,WISTERIA

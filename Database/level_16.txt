@@ -1,0 +1,296 @@
+浴 (Onyomi),,,,よく
+浴 (Meaning),,,,Bathe
+箱 (Onyomi),,,,はこ
+箱 (Meaning),,,,Box
+係 (Onyomi),,,,けい
+係 (Meaning),,,,Connection
+治 (Onyomi),,,,じ
+治 (Meaning),,,,Cure
+危 (Onyomi),,,,き
+危 (Meaning),,,,Dangerous
+冒 (Onyomi),,,,ぼう
+冒 (Meaning),,,,Dare
+留 (Onyomi),,,,る
+留 (Meaning),,,,Detain
+弁 (Onyomi),,,,べん
+弁 (Meaning),,,,Dialect
+証 (Onyomi),,,,しょう
+証 (Meaning),,,,Evidence
+存 (Onyomi),,,,そん
+存 (Meaning),,,,Exist
+面 (Onyomi),,,,めん
+面 (Meaning),,,,Face
+遠 (Onyomi),,,,えん
+遠 (Meaning),,,,Far
+園 (Onyomi),,,,えん
+園 (Meaning),,,,Garden
+門 (Onyomi),,,,もん
+門 (Meaning),,,,Gates
+府 (Onyomi),,,,ふ
+府 (Meaning),,,,Government
+幸 (Onyomi),,,,こう
+幸 (Meaning),,,,Happiness
+阪 (Onyomi),,,,はん
+阪 (Meaning),,,,Heights
+急 (Onyomi),,,,きゅう
+急 (Meaning),,,,Hurry
+笑 (Onyomi),,,,わら
+笑 (Meaning),,,,Laugh
+荷 (Onyomi),,,,に
+荷 (Meaning),,,,Luggage
+政 (Onyomi),,,,せい
+政 (Meaning),,,,Politics
+品 (Onyomi),,,,ひん
+品 (Meaning),,,,Product
+守 (Onyomi),,,,す
+守 (Meaning),,,,Protect
+辞 (Onyomi),,,,じ
+辞 (Meaning),,,,Quit
+真 (Onyomi),,,,しん
+真 (Meaning),,,,Reality
+関 (Onyomi),,,,かん
+関 (Meaning),,,,Related
+険 (Onyomi),,,,けん
+険 (Meaning),,,,Risky
+典 (Onyomi),,,,てん
+典 (Meaning),,,,Rule
+専 (Onyomi),,,,せん
+専 (Meaning),,,,Specialty
+冗 (Onyomi),,,,じょう
+冗 (Meaning),,,,Superfluous
+取 (Onyomi),,,,しゅ
+取 (Meaning),,,,Take
+曜 (Onyomi),,,,よう
+曜 (Meaning),,,,Weekday
+書 (Onyomi),,,,しょ
+書 (Meaning),,,,Write
+留 (Furigana),,,,る
+留 (Meaning),,,,ABSENCE (AWAY FROM HOME)
+料 (Furigana),,,,りょう
+料 (Meaning),,,,A COOK (COOK, CHEF)
+入 (Furigana),,,,にゅう
+入 (Meaning),,,,ADMISSION (ENTRANCE)
+冒 (Furigana),,,,ぼう
+冒 (Meaning),,,,ADVENTURE
+技 (Furigana),,,,ぎ
+技 (Meaning),,,,ART (CRAFT, TECHNIQUE, TECHNOLOGY)
+品 (Furigana),,,,ひん
+品 (Meaning),,,,ARTICLE (ITEM, GOODS)
+芸 (Furigana),,,,げい
+芸 (Meaning),,,,ARTIST
+自 (Furigana),,,,じ
+自 (Meaning),,,,AUTOMATIC
+自 (Furigana),,,,じ
+自 (Meaning),,,,AUTOMOBILE (CAR)
+作 (Furigana),,,,さく
+作 (Meaning),,,,A WORK (WORK, PRODUCTION)
+弁 (Furigana),,,,べん
+弁 (Meaning),,,,BENTO (BOX LUNCH)
+箱 (Furigana),,,,はこ
+箱 (Meaning),,,,BOX
+新 (Furigana),,,,しん
+新 (Meaning),,,,BRAND NEW (NEW ITEM, NEW PRODUCT)
+仏 (Furigana),,,,ぶつ
+仏 (Meaning),,,,BUDDHIST SCRIPTURES (BUDDHIST WRITING)
+字 (Furigana),,,,じ
+字 (Meaning),,,,CHARACTER DICTIONARY (KANJI DICTIONARY)
+古 (Furigana),,,,こ
+古 (Meaning),,,,CLASSICAL
+全 (Furigana),,,,ぜん
+全 (Meaning),,,,COMPLETE RECOVERY (HEALED, FULLY RECOVERED, FULLY RECOVER, HEALED COMPLETELY, HEAL COMPLETELY, COMPLETELY CURED, FULLY CURED, FULLY HEALED)
+関 (Furigana),,,,かん
+関 (Meaning),,,,CONCERN (INTEREST)
+関 (Furigana),,,,かん
+関 (Meaning),,,,CONNECTION (RELATION)
+保 (Furigana),,,,ほ
+保 (Meaning),,,,CONSERVATIVE
+取 (Furigana),,,,しゅ
+取 (Meaning),,,,COVERING AN EVENT (DATA COLLECTION, INTERVIEW)
+下 (Furigana),,,,か
+下 (Meaning),,,,CRUDE (VULGAR, VULGARITY)
+危 (Furigana),,,,き
+危 (Meaning),,,,DANGEROUS (RISKY)
+曜 (Furigana),,,,よう
+曜 (Meaning),,,,DAY OF THE WEEK (WEEKDAY)
+弁 (Furigana),,,,べん
+弁 (Meaning),,,,DIALECT
+辞 (Furigana),,,,じ
+辞 (Meaning),,,,DICTIONARY
+辞 (Furigana),,,,じ
+辞 (Meaning),,,,DICTIONARY (LEXICON)
+事 (Furigana),,,,じ
+事 (Meaning),,,,ENCYCLOPEDIA
+証 (Furigana),,,,しょう
+証 (Meaning),,,,EVIDENCE (PROOF)
+遠 (Furigana),,,,えん
+遠 (Meaning),,,,EXCURSION (OUTING, TRIP)
+生 (Furigana),,,,せい
+生 (Meaning),,,,EXISTENCE (LIFE, SURVIVAL)
+急 (Furigana),,,,きゅう
+急 (Meaning),,,,EXPRESS
+外 (Furigana),,,,がい
+外 (Meaning),,,,EXTERIOR (SURFACE, OUTSIDE)
+顔 (Furigana),,,,かお
+顔 (Meaning),,,,FACE OF A PERSON (PERSON'S FACE, FACE)
+不 (Furigana),,,,ふ
+不 (Meaning),,,,FAIL A TEST (FAILURE, REJECTION)
+遠 (Furigana),,,,えん
+遠 (Meaning),,,,FAR (FAR AWAY)
+世 (Furigana),,,,せい
+世 (Meaning),,,,FLATTERY (COMPLIMENT)
+折 (Furigana),,,,せつ
+折 (Meaning),,,,FOLD (CREASE)
+前 (Furigana),,,,ぜん
+前 (Meaning),,,,FRONT (FRONT SIDE, FORE, FOREFRONT)
+基 (Furigana),,,,き
+基 (Meaning),,,,FUNDAMENTAL (BASIC, STANDARD)
+箱 (Furigana),,,,はこ
+箱 (Meaning),,,,GARBAGE CAN (GARBAGE BIN, TRASH CAN, TRASH BIN, WASTE CAN, WASTE BIN, RUBBISH BIN)
+園 (Furigana),,,,えん
+園 (Meaning),,,,GARDEN (PARK)
+門 (Furigana),,,,もん
+門 (Meaning),,,,GATE
+幸 (Furigana),,,,こう
+幸 (Meaning),,,,GOOD LUCK (FORTUNE)
+政 (Furigana),,,,せい
+政 (Meaning),,,,GOVERNMENT
+卒 (Furigana),,,,そつ
+卒 (Meaning),,,,GRADUATION CEREMONY (GRADUATION)
+食 (Furigana),,,,しょく
+食 (Meaning),,,,GROCERIES (FOODSTUFF)
+地 (Furigana),,,,ち
+地 (Meaning),,,,GROUND (EARTH'S SURFACE)
+保 (Furigana),,,,ほ
+保 (Meaning),,,,GUARANTEE (ASSURANCE, WARRANTY)
+阪 (Furigana),,,,はん
+阪 (Meaning),,,,HANSHIN
+幸 (Furigana),,,,こう
+幸 (Meaning),,,,HAPPINESS
+幸 (Furigana),,,,こう
+幸 (Meaning),,,,HAPPINESS
+記 (Furigana),,,,き
+記 (Meaning),,,,HOLIDAY (ANNIVERSARY, MEMORIAL DAY)
+不 (Furigana),,,,ふ
+不 (Meaning),,,,INCOMPLETE (IMPERFECT)
+不 (Furigana),,,,ふ
+不 (Meaning),,,,INCURABILITY (INCURABLE)
+保 (Furigana),,,,ほ
+保 (Meaning),,,,INSURANCE
+面 (Furigana),,,,めん
+面 (Meaning),,,,INTERESTING (AMUSING, FUNNY)
+冗 (Furigana),,,,じょう
+冗 (Meaning),,,,JOKE
+関 (Furigana),,,,かん
+関 (Meaning),,,,KANSAI
+図 (Furigana),,,,ず
+図 (Meaning),,,,LIBRARY
+特 (Furigana),,,,とく
+特 (Meaning),,,,LIMITED EXPRESS TRAIN (LIMITED EXPRESS)
+荷 (Furigana),,,,に
+荷 (Meaning),,,,LUGGAGE (BAGGAGE, LOAD)
+仮 (Furigana),,,,か
+仮 (Meaning),,,,MASK
+明 (Furigana),,,,めい
+明 (Meaning),,,,MEIJI ERA (MEIJI EMPEROR, MEIJI)
+商 (Furigana),,,,しょう
+商 (Meaning),,,,MERCHANDISE (PRODUCT, GOODS)
+美 (Furigana),,,,び
+美 (Meaning),,,,MUSEUM (ART MUSEUM, ART GALLERY)
+折 (Furigana),,,,せつ
+折 (Meaning),,,,ORIGAMI (ART OF PAPER FOLDING)
+大 (Furigana),,,,たい
+大 (Meaning),,,,OSAKA (OOSAKA)
+写 (Furigana),,,,しゃ
+写 (Meaning),,,,PHOTO (PHOTOGRAPH, PICTURE)
+真 (Furigana),,,,しん
+真 (Meaning),,,,PITCH BLACK (PURE BLACK)
+政 (Furigana),,,,せい
+政 (Meaning),,,,POLITICS (GOVERNMENT)
+保 (Furigana),,,,ほ
+保 (Meaning),,,,PRESERVATION (CONSERVATION, SAVING)
+証 (Furigana),,,,しょう
+証 (Meaning),,,,PROOF (VERIFICATION)
+治 (Furigana),,,,じ
+治 (Meaning),,,,PUBLIC ORDER (PUBLIC SAFETY, PUBLIC PEACE)
+公 (Furigana),,,,こう
+公 (Meaning),,,,PUBLIC PARK (PARK)
+危 (Furigana),,,,き
+危 (Meaning),,,,RISKY (UNSAFE, DANGEROUS, DANGER, PERIL, HAZARD)
+場 (Furigana),,,,じょう
+場 (Meaning),,,,SCENE (SETTING, LOCALE)
+画 (Furigana),,,,が
+画 (Meaning),,,,SCREEN (MONITOR)
+笑 (Furigana),,,,わら
+笑 (Meaning),,,,SMILE (SMILING FACE)
+専 (Furigana),,,,せん
+専 (Meaning),,,,SPECIALTY (SPECIALITY, AREA OF STUDY, MAJOR)
+仏 (Furigana),,,,ぶつ
+仏 (Meaning),,,,STATUE OF BUDDHA (IMAGE OF BUDDHA)
+留 (Furigana),,,,る
+留 (Meaning),,,,STUDY ABROAD (STUDYING ABROAD)
+急 (Furigana),,,,きゅう
+急 (Meaning),,,,SUDDEN (URGENT, EMERGENCY, STEEP)
+急 (Furigana),,,,きゅう
+急 (Meaning),,,,SUDDEN DEATH
+急 (Furigana),,,,きゅう
+急 (Meaning),,,,SUDDENLY (IMMEDIATELY, ABRUPTLY)
+日 (Furigana),,,,にち
+日 (Meaning),,,,SUNBATHE
+荷 (Furigana),,,,に
+荷 (Meaning),,,,TAG (SHIPPING LABEL, LABEL)
+証 (Furigana),,,,しょう
+証 (Meaning),,,,TESTIMONY (VERBAL EVIDENCE)
+教 (Furigana),,,,きょう
+教 (Meaning),,,,TEXTBOOK
+浴 (Furigana),,,,よく
+浴 (Meaning),,,,TO BATHE IN (TO BE EXPOSED TO)
+関 (Furigana),,,,かん
+関 (Meaning),,,,TO BE CONNECTED TO (TO BE RELATED)
+係 (Furigana),,,,けい
+係 (Meaning),,,,TO BE INVOLVED WITH (TO BE CONNECTED WITH, TO BE AFFECTED, TO HAVE TO DO WITH)
+折 (Furigana),,,,せつ
+折 (Meaning),,,,TO BREAK (TO SNAP, TO FRACTURE)
+取 (Furigana),,,,しゅ
+取 (Meaning),,,,TO COME OFF (TO BE REMOVED, TO FALL OFF)
+妥 (Furigana),,,,だ
+妥 (Meaning),,,,TO COMPROMISE
+卒 (Furigana),,,,そつ
+卒 (Meaning),,,,TO GRADUATE
+急 (Furigana),,,,きゅう
+急 (Meaning),,,,TO HURRY
+存 (Furigana),,,,そん
+存 (Meaning),,,,TO KNOW (TO BE AWARE OF)
+東 (Furigana),,,,とう
+東 (Meaning),,,,TOKYO DIALECT
+笑 (Furigana),,,,わら
+笑 (Meaning),,,,TO LAUGH
+残 (Furigana),,,,ざん
+残 (Meaning),,,,TO LEAVE BEHIND (TO LEAVE OVER)
+固 (Furigana),,,,こ
+固 (Meaning),,,,TO MAKE SOMETHING HARD (TO HARDEN SOMETHING, TO STRENGTHEN SOMETHING)
+約 (Furigana),,,,やく
+約 (Meaning),,,,TO PROMISE
+守 (Furigana),,,,す
+守 (Meaning),,,,TO PROTECT (TO DEFEND, TO OBEY)
+辞 (Furigana),,,,じ
+辞 (Meaning),,,,TO QUIT (TO RESIGN AS)
+希 (Furigana),,,,き
+希 (Meaning),,,,TO REQUEST (TO WISH, TO HOPE, TO EXPECT)
+帰 (Furigana),,,,かえ
+帰 (Meaning),,,,TO SEND SOMEONE BACK (TO SEND SOMEONE HOME)
+取 (Furigana),,,,しゅ
+取 (Meaning),,,,TO TAKE (TO TAKE SOMETHING)
+書 (Furigana),,,,しょ
+書 (Meaning),,,,TO WRITE
+真 (Furigana),,,,しん
+真 (Meaning),,,,TRUTH (REALITY)
+不 (Furigana),,,,ふ
+不 (Meaning),,,,UNHAPPINESS (MISFORTUNE, MISERY, DEATH)
+残 (Furigana),,,,ざん
+残 (Meaning),,,,UNSOLD MERCHANDISE (REMAINING STOCK)
+待 (Furigana),,,,たい
+待 (Meaning),,,,WAITING ROOM
+証 (Furigana),,,,しょう
+証 (Meaning),,,,WITNESS
+動 (Furigana),,,,どう
+動 (Meaning),,,,ZOO (ZOOLOGICAL GARDENS, MENAGERIE)

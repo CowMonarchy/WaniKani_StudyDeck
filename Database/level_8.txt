@@ -1,0 +1,328 @@
+答 (Onyomi),,,,こた
+答 (Meaning),,,,Answer
+反 (Onyomi),,,,はん
+反 (Meaning),,,,Anti
+君 (Onyomi),,,,くん
+君 (Meaning),,,,Buddy
+局 (Onyomi),,,,きょく
+局 (Meaning),,,,Bureau
+買 (Onyomi),,,,か
+買 (Meaning),,,,Buy
+雲 (Onyomi),,,,くも
+雲 (Meaning),,,,Cloud
+楽 (Onyomi),,,,らく
+楽 (Meaning),,,,Comfort
+数 (Onyomi),,,,すう
+数 (Meaning),,,,Count
+決 (Onyomi),,,,けつ
+決 (Meaning),,,,Decide
+絵 (Onyomi),,,,え
+絵 (Meaning),,,,Drawing
+住 (Onyomi),,,,じゅう
+住 (Meaning),,,,Dwelling
+電 (Onyomi),,,,でん
+電 (Meaning),,,,Electricity
+森 (Onyomi),,,,もり
+森 (Meaning),,,,Forest
+助 (Onyomi),,,,じょ
+助 (Meaning),,,,Help
+馬 (Onyomi),,,,ば
+馬 (Meaning),,,,Horse
+間 (Onyomi),,,,かん
+間 (Meaning),,,,Interval
+場 (Onyomi),,,,じょう
+場 (Meaning),,,,Location
+医 (Onyomi),,,,い
+医 (Meaning),,,,Medicine
+朝 (Onyomi),,,,あさ
+朝 (Meaning),,,,Morning
+番 (Onyomi),,,,ばん
+番 (Meaning),,,,Number In A Series
+所 (Onyomi),,,,しょ
+所 (Meaning),,,,Place
+池 (Onyomi),,,,ち
+池 (Meaning),,,,Pond
+究 (Onyomi),,,,きゅう
+究 (Meaning),,,,Research
+道 (Onyomi),,,,どう
+道 (Meaning),,,,Road
+役 (Onyomi),,,,やく
+役 (Meaning),,,,Service
+研 (Onyomi),,,,けん
+研 (Meaning),,,,Sharpen
+身 (Onyomi),,,,しん
+身 (Meaning),,,,Somebody
+者 (Onyomi),,,,しゃ
+者 (Meaning),,,,Someone
+支 (Onyomi),,,,し
+支 (Meaning),,,,Support
+話 (Onyomi),,,,わ
+話 (Meaning),,,,Talk
+投 (Onyomi),,,,とう
+投 (Meaning),,,,Throw
+対 (Onyomi),,,,たい
+対 (Meaning),,,,Versus
+地 (Furigana),,,,ち
+地 (Meaning),,,,ABOVE GROUND (ON THE GROUND)
+住 (Furigana),,,,じゅう
+住 (Meaning),,,,ADDRESS
+入 (Furigana),,,,にゅう
+入 (Meaning),,,,ADMISSION (ENTRANCE, IMPRISONMENT, INTERNMENT)
+助 (Furigana),,,,じょ
+助 (Meaning),,,,ADVICE
+全 (Furigana),,,,ぜん
+全 (Meaning),,,,ALL AMERICA
+思 (Furigana),,,,おも
+思 (Meaning),,,,A MEMORY (MEMORIES, MEMORY)
+間 (Furigana),,,,かん
+間 (Meaning),,,,AMOUNT OF TIME (INTERVAL OF TIME, TIME INTERVAL, PERIOD OF TIME)
+他 (Furigana),,,,た
+他 (Meaning),,,,ANOTHER PLACE (SOMEWHERE ELSE, OTHER PLACE, ELSEWHERE)
+答 (Furigana),,,,こた
+答 (Meaning),,,,ANSWER (REPLY, RESPONSE)
+助 (Furigana),,,,じょ
+助 (Meaning),,,,ASSISTANCE (SUPPORT)
+作 (Furigana),,,,さく
+作 (Meaning),,,,AUTHOR (WRITER)
+電 (Furigana),,,,でん
+電 (Meaning),,,,BATTERY
+身 (Furigana),,,,しん
+身 (Meaning),,,,BODY (ONESELF)
+心 (Furigana),,,,しん
+心 (Meaning),,,,BODY AND MIND (MIND AND BODY)
+両 (Furigana),,,,りょう
+両 (Meaning),,,,BOTH PEOPLE
+君 (Furigana),,,,くん
+君 (Meaning),,,,BOY NAME ENDER (MALE NAME ENDER, KUN)
+支 (Furigana),,,,し
+支 (Meaning),,,,BRANCH OFFICE (BRANCH STORE)
+支 (Furigana),,,,し
+支 (Meaning),,,,BRANCH OFFICE
+朝 (Furigana),,,,あさ
+朝 (Meaning),,,,BREAKFAST
+局 (Furigana),,,,きょく
+局 (Meaning),,,,BUREAU (DEPARTMENT, STATION, OFFICE)
+雲 (Furigana),,,,くも
+雲 (Meaning),,,,CLOUD
+楽 (Furigana),,,,らく
+楽 (Meaning),,,,COMFORT (EASE, PLEASURE)
+全 (Furigana),,,,ぜん
+全 (Meaning),,,,COMPLETELY (ENTIRELY, TRULY, REALLY, WHOLLY)
+対 (Furigana),,,,たい
+対 (Meaning),,,,CONFRONTATION (OPPOSITION)
+会 (Furigana),,,,かい
+会 (Meaning),,,,CONVERSATION (DIALOGUE)
+決 (Furigana),,,,けつ
+決 (Meaning),,,,DECISION
+決 (Furigana),,,,けつ
+決 (Meaning),,,,DETERMINATION (RESOLUTION, CONVICTION)
+医 (Furigana),,,,い
+医 (Meaning),,,,DOCTOR (PHYSICIAN)
+役 (Furigana),,,,やく
+役 (Meaning),,,,DUTY (BUSINESS, ROLE)
+東 (Furigana),,,,とう
+東 (Meaning),,,,EAST EXIT (EAST ENTRANCE, EASTERN EXIT, EASTERN ENTRANCE, EAST GATE)
+電 (Furigana),,,,でん
+電 (Meaning),,,,ELECTRICITY (LIGHT)
+電 (Furigana),,,,でん
+電 (Meaning),,,,ELECTRIC POWER
+電 (Furigana),,,,でん
+電 (Meaning),,,,ELECTRON (ELECTRONIC)
+絵 (Furigana),,,,え
+絵 (Meaning),,,,EMOJI
+工 (Furigana),,,,こう
+工 (Meaning),,,,ENGINEER
+入 (Furigana),,,,にゅう
+入 (Meaning),,,,ENTRANCE (ADMISSION, ENTERING)
+毎 (Furigana),,,,まい
+毎 (Meaning),,,,EVERY MORNING
+工 (Furigana),,,,こう
+工 (Meaning),,,,FACTORY
+名 (Furigana),,,,めい
+名 (Meaning),,,,FAMOUS PLACE
+対 (Furigana),,,,たい
+対 (Meaning),,,,FOREIGN (OVERSEAS)
+楽 (Furigana),,,,らく
+楽 (Meaning),,,,FUN
+北 (Furigana),,,,ほく
+北 (Meaning),,,,HOKKAIDO (HOKKAIDOU)
+馬 (Furigana),,,,ば
+馬 (Meaning),,,,HORSE
+馬 (Furigana),,,,ば
+馬 (Meaning),,,,HORSEPOWER
+人 (Furigana),,,,にん
+人 (Meaning),,,,HUMAN (HUMAN BEING)
+大 (Furigana),,,,たい
+大 (Meaning),,,,IMPORTANT TASK (GREAT DUTY, IMPORTANT ROLE)
+間 (Furigana),,,,かん
+間 (Meaning),,,,INTERVAL (INTERVAL OF TIME, TIME INTERVAL, BETWEEN, ROOM)
+究 (Furigana),,,,きゅう
+究 (Meaning),,,,INVESTIGATION
+研 (Furigana),,,,けん
+研 (Meaning),,,,RESEARCH (INVESTIGATION, STUDY)
+前 (Furigana),,,,ぜん
+前 (Meaning),,,,LAST TIME (PREVIOUS TIME)
+長 (Furigana),,,,ちょう
+長 (Meaning),,,,LENGTH
+生 (Furigana),,,,せい
+生 (Meaning),,,,MATERIAL (CLOTH, FABRIC, DOUGH, BATTER)
+数 (Furigana),,,,すう
+数 (Meaning),,,,MATHEMATICS (MATH, MATHS)
+医 (Furigana),,,,い
+医 (Meaning),,,,MEDICAL SCIENCE (MEDICINE)
+医 (Furigana),,,,い
+医 (Meaning),,,,MEDICAL UNIVERSITY (MEDICAL SCHOOL, MED SCHOOL)
+地 (Furigana),,,,ち
+地 (Meaning),,,,MEDITERRANEAN SEA
+道 (Furigana),,,,どう
+道 (Meaning),,,,METHOD OF (WAY, STYLE, WAY OF)
+君 (Furigana),,,,くん
+君 (Meaning),,,,MONARCHY
+朝 (Furigana),,,,あさ
+朝 (Meaning),,,,MORNING
+朝 (Furigana),,,,あさ
+朝 (Meaning),,,,MORNING SUN (RISING SUN)
+音 (Furigana),,,,おん
+音 (Meaning),,,,MUSIC
+名 (Furigana),,,,めい
+名 (Meaning),,,,NAME (FIRST NAME, FULL NAME, GIVEN NAME)
+当 (Furigana),,,,とう
+当 (Meaning),,,,NATURAL (REASONABLE, OBVIOUS, USUAL, COMMON)
+知 (Furigana),,,,ち
+知 (Meaning),,,,NOTICE (NOTIFICATION, FLIER)
+数 (Furigana),,,,すう
+数 (Meaning),,,,NUMBER (COUNT, AMOUNT)
+番 (Furigana),,,,ばん
+番 (Meaning),,,,NUMBER (SERIES OF DIGITS)
+一 (Furigana),,,,いち
+一 (Meaning),,,,NUMBER ONE (THE FIRST, FIRST, THE BEST, BEST, THE MOST, MOST)
+二 (Furigana),,,,に
+二 (Meaning),,,,NUMBER TWO (SECOND)
+数 (Furigana),,,,すう
+数 (Meaning),,,,NUMERAL (DIGIT)
+次 (Furigana),,,,じ
+次 (Meaning),,,,ONE BY ONE (IN SUCCESSION, ONE AFTER THE OTHER)
+反 (Furigana),,,,はん
+反 (Meaning),,,,OPPOSITION (OPPOSITE)
+向 (Furigana),,,,こう
+向 (Meaning),,,,OVER THERE (OPPOSITE SIDE, OTHER SIDE, FAR AWAY)
+絵 (Furigana),,,,え
+絵 (Meaning),,,,PAINTING (DRAWING, PICTURE)
+未 (Furigana),,,,み
+未 (Meaning),,,,PENDING (UNSETTLED, UNDECIDED, NOT YET DECIDED)
+私 (Furigana),,,,し
+私 (Meaning),,,,PERSONALLY (AS FOR ME, MYSELF)
+投 (Furigana),,,,とう
+投 (Meaning),,,,PITCHER
+所 (Furigana),,,,しょ
+所 (Meaning),,,,PLACE (SPOT, SCENE)
+場 (Furigana),,,,じょう
+場 (Meaning),,,,PLACE (LOCATION, SPOT)
+点 (Furigana),,,,てん
+点 (Meaning),,,,POINTS (SCORE)
+交 (Furigana),,,,こう
+交 (Meaning),,,,POLICE BOX (KOBAN)
+池 (Furigana),,,,ち
+池 (Meaning),,,,POND
+私 (Furigana),,,,し
+私 (Meaning),,,,PRIVATE COLLEGE (PRIVATE UNIVERSITY)
+番 (Furigana),,,,ばん
+番 (Meaning),,,,PROGRAM (PROGRAMME)
+役 (Furigana),,,,やく
+役 (Meaning),,,,PUBLIC OFFICIAL (GOVERNMENT OFFICIAL, PUBLIC SERVANT)
+住 (Furigana),,,,じゅう
+住 (Meaning),,,,RESIDENT (INHABITANT, DWELLER)
+道 (Furigana),,,,どう
+道 (Meaning),,,,ROAD (STREET, PATH, WAY)
+役 (Furigana),,,,やく
+役 (Meaning),,,,ROLE (PART, DUTY, SERVICE)
+学 (Furigana),,,,がく
+学 (Meaning),,,,SCHOLAR
+数 (Furigana),,,,すう
+数 (Meaning),,,,SEVERAL YEARS
+歩 (Furigana),,,,ほ
+歩 (Meaning),,,,SIDEWALK (FOOTPATH, PAVEMENT)
+間 (Furigana),,,,かん
+間 (Meaning),,,,SOON (BEFORE LONG, SHORTLY)
+出 (Furigana),,,,しゅつ
+出 (Meaning),,,,RELEASE FROM PRISON (SOURCE, ORIGIN)
+南 (Furigana),,,,なん
+南 (Meaning),,,,SOUTH AMERICA
+南 (Furigana),,,,なん
+南 (Meaning),,,,SOUTH EXIT (SOUTH ENTRANCE, SOUTHERN EXIT, SOUTHERN ENTRANCE, SOUTH GATE)
+空 (Furigana),,,,くう
+空 (Meaning),,,,SPACE
+科 (Furigana),,,,か
+科 (Meaning),,,,SUBJECT (COURSE, CURRICULUM)
+自 (Furigana),,,,じ
+自 (Meaning),,,,SUICIDE (SELF DETERMINATION)
+電 (Furigana),,,,でん
+電 (Meaning),,,,TELEPHONE (PHONE)
+身 (Furigana),,,,しん
+身 (Meaning),,,,THE BODY (HEALTH, BODY)
+人 (Furigana),,,,にん
+人 (Meaning),,,,THE NUMBER OF PEOPLE (NUMBER OF PEOPLE, THE AMOUNT OF PEOPLE, AMOUNT OF PEOPLE)
+前 (Furigana),,,,ぜん
+前 (Meaning),,,,THE OTHER DAY (RECENTLY, IN FRONT OF THIS)
+時 (Furigana),,,,じ
+時 (Meaning),,,,TIME
+答 (Furigana),,,,こた
+答 (Meaning),,,,TO ANSWER (TO REPLY, TO RESPOND)
+出 (Furigana),,,,しゅつ
+出 (Meaning),,,,TO BE FINISHED (TO BE COMPLETED)
+点 (Furigana),,,,てん
+点 (Meaning),,,,TO BE LIT (TO BE IGNITED, TO BE ON, TO COME ON)
+交 (Furigana),,,,こう
+交 (Meaning),,,,TO BE MIXED (TO BE BLENDED WITH, TO JOIN)
+曲 (Furigana),,,,きょく
+曲 (Meaning),,,,TO BEND (TO BEND SOMETHING)
+役 (Furigana),,,,やく
+役 (Meaning),,,,TO BE USEFUL (TO BE OF USE, TO BE HELPFUL, TO BE OF SERVICE)
+買 (Furigana),,,,か
+買 (Meaning),,,,TO BUY
+対 (Furigana),,,,たい
+対 (Meaning),,,,TO COMPARE WITH (TO FACE EACH OTHER, TO OPPOSE, TO COMPARE, TO CONTRAST, TO CONTRAST WITH)
+数 (Furigana),,,,すう
+数 (Meaning),,,,TO COUNT
+決 (Furigana),,,,けつ
+決 (Meaning),,,,TO DECIDE
+近 (Furigana),,,,きん
+近 (Meaning),,,,TO GET CLOSE (TO APPROACH, TO DRAW NEAR, TO NEAR, TO BRING NEAR)
+当 (Furigana),,,,とう
+当 (Meaning),,,,TO GUESS (TO HIT, TO PUT)
+助 (Furigana),,,,じょ
+助 (Meaning),,,,TO HELP (TO SAVE, TO RESCUE)
+住 (Furigana),,,,じゅう
+住 (Meaning),,,,TO LIVE (TO DWELL, TO RESIDE)
+明 (Furigana),,,,めい
+明 (Meaning),,,,TOMORROW
+見 (Furigana),,,,み
+見 (Meaning),,,,TO REEVALUATE (TO LOOK AGAIN, TO REASSESS)
+思 (Furigana),,,,おも
+思 (Meaning),,,,TO REMEMBER (TO RECALL)
+走 (Furigana),,,,そう
+走 (Meaning),,,,TO RUN AROUND
+話 (Furigana),,,,わ
+話 (Meaning),,,,TO SPEAK (TO TALK)
+支 (Furigana),,,,し
+支 (Meaning),,,,TO SUPPORT
+投 (Furigana),,,,とう
+投 (Meaning),,,,TO THROW (TO THROW SOMETHING)
+化 (Furigana),,,,か
+化 (Meaning),,,,TO TRANSFORM ONESELF (TO BE TRANSFORMED)
+回 (Furigana),,,,かい
+回 (Meaning),,,,TO TURN SOMETHING (TO ROTATE SOMETHING, TO SPIN SOMETHING)
+向 (Furigana),,,,こう
+向 (Meaning),,,,TO TURN SOMETHING TOWARDS (TO POINT SOMETHING AT)
+電 (Furigana),,,,でん
+電 (Meaning),,,,TRAIN
+水 (Furigana),,,,すい
+水 (Meaning),,,,WATER SUPPLY (WATER SERVICE, WATERWORKS, AQUEDUCT, CONDUIT, WATER LINE)
+全 (Furigana),,,,ぜん
+全 (Meaning),,,,WHOLE BODY (ENTIRE BODY)
+森 (Furigana),,,,もり
+森 (Meaning),,,,WOODS (FOREST)
+前 (Furigana),,,,ぜん
+前 (Meaning),,,,YOU
+君 (Furigana),,,,くん
+君 (Meaning),,,,YOU (BUDDY)

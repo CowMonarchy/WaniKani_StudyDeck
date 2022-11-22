@@ -1,0 +1,314 @@
+庁 (Onyomi),,,,ちょう
+庁 (Meaning),,,,Agency
+額 (Onyomi),,,,がく
+額 (Meaning),,,,Amount
+腕 (Onyomi),,,,うで
+腕 (Meaning),,,,Arm
+境 (Onyomi),,,,きょう
+境 (Meaning),,,,Boundary
+燃 (Onyomi),,,,ねん
+燃 (Meaning),,,,Burn
+担 (Onyomi),,,,たん
+担 (Meaning),,,,Carry
+祝 (Onyomi),,,,しゅく
+祝 (Meaning),,,,Celebrate
+届 (Onyomi),,,,とど
+届 (Meaning),,,,Deliver
+違 (Onyomi),,,,ちが
+違 (Meaning),,,,Different
+差 (Onyomi),,,,さ
+差 (Meaning),,,,Distinction
+象 (Onyomi),,,,ぞう
+象 (Meaning),,,,Elephant
+展 (Onyomi),,,,てん
+展 (Meaning),,,,Expand
+層 (Onyomi),,,,そう
+層 (Meaning),,,,Layer
+視 (Onyomi),,,,し
+視 (Meaning),,,,Look At
+環 (Onyomi),,,,かん
+環 (Meaning),,,,Loop
+製 (Onyomi),,,,せい
+製 (Meaning),,,,Manufacture
+述 (Onyomi),,,,じゅつ
+述 (Meaning),,,,Mention
+武 (Onyomi),,,,ぶ
+武 (Meaning),,,,Military
+型 (Onyomi),,,,けい
+型 (Meaning),,,,Model
+狭 (Onyomi),,,,せま
+狭 (Meaning),,,,Narrow
+管 (Onyomi),,,,かん
+管 (Meaning),,,,Pipe
+載 (Onyomi),,,,さい
+載 (Meaning),,,,Publish
+質 (Onyomi),,,,しつ
+質 (Meaning),,,,Quality
+量 (Onyomi),,,,りょう
+量 (Meaning),,,,Quantity
+販 (Onyomi),,,,はん
+販 (Meaning),,,,Sell
+供 (Onyomi),,,,きょう
+供 (Meaning),,,,Servant
+肩 (Onyomi),,,,かた
+肩 (Meaning),,,,Shoulder
+株 (Onyomi),,,,かぶ
+株 (Meaning),,,,Stocks
+触 (Onyomi),,,,しょく
+触 (Meaning),,,,Touch
+輸 (Onyomi),,,,ゆ
+輸 (Meaning),,,,Transport
+腰 (Onyomi),,,,こし
+腰 (Meaning),,,,Waist
+上 (Furigana),,,,じょう
+上 (Meaning),,,,ABOVE MENTIONED (THE ABOVE MENTIONED)
+年 (Furigana),,,,ねん
+年 (Meaning),,,,ANNUAL AMOUNT (YEARLY AMOUNT)
+触 (Furigana),,,,しょく
+触 (Meaning),,,,ANTENNA
+腕 (Furigana),,,,うで
+腕 (Meaning),,,,ARM
+誕 (Furigana),,,,たん
+誕 (Meaning),,,,BIRTHDAY
+輸 (Furigana),,,,ゆ
+輸 (Meaning),,,,BLOOD TRANSFUSION
+血 (Furigana),,,,けつ
+血 (Meaning),,,,BLOOD VESSEL
+両 (Furigana),,,,りょう
+両 (Meaning),,,,BOTH ARMS
+境 (Furigana),,,,きょう
+境 (Meaning),,,,BOUNDARY
+境 (Furigana),,,,きょう
+境 (Meaning),,,,BOUNDARY
+負 (Furigana),,,,ふ
+負 (Meaning),,,,BURDEN (RESPONSIBILITY)
+可 (Furigana),,,,か
+可 (Meaning),,,,BURNABLE GARBAGE (BURNABLE TRASH, BURNABLE RUBBISH)
+特 (Furigana),,,,とく
+特 (Meaning),,,,CHARACTERISTIC (TRAIT)
+子 (Furigana),,,,し
+子 (Meaning),,,,CHILD (KID, CHILDREN, KIDS)
+親 (Furigana),,,,しん
+親 (Meaning),,,,CONFIDENTIAL
+対 (Furigana),,,,たい
+対 (Meaning),,,,COUNTER PLAN (COUNTERMEASURE)
+記 (Furigana),,,,き
+記 (Meaning),,,,DESCRIPTION (ACCOUNT)
+違 (Furigana),,,,ちが
+違 (Meaning),,,,DIFFERENCE
+差 (Furigana),,,,さ
+差 (Meaning),,,,DISCRIMINATION (DISTINCTION)
+象 (Furigana),,,,ぞう
+象 (Meaning),,,,ELEPHANT
+環 (Furigana),,,,かん
+環 (Meaning),,,,ENVIRONMENT
+本 (Furigana),,,,ほん
+本 (Meaning),,,,ESSENCE (TRUE NATURE, SUBSTANCE, REALITY)
+輸 (Furigana),,,,ゆ
+輸 (Meaning),,,,EXPORT
+遠 (Furigana),,,,えん
+遠 (Meaning),,,,FARSIGHTEDNESS (LONGSIGHTEDNESS, HYPEROPIA)
+定 (Furigana),,,,てい
+定 (Meaning),,,,FIXED AMOUNT (FIXED SUM, FLAT RATE)
+定 (Furigana),,,,てい
+定 (Meaning),,,,FIXED QUANTITY (MEASUREMENT, FIXED AMOUNT, SET QUANTITY, SET AMOUNT)
+額 (Furigana),,,,がく
+額 (Meaning),,,,FRAMED PICTURE (PICTURE, FRAME)
+燃 (Furigana),,,,ねん
+燃 (Meaning),,,,FUEL
+良 (Furigana),,,,りょう
+良 (Meaning),,,,GOOD QUALITY (HIGH QUALITY, SUPERIOR QUALITY)
+官 (Furigana),,,,かん
+官 (Meaning),,,,GOVERNMENT OFFICE (GOVERNMENT AUTHORITIES, GOVERNMENT AGENCY)
+半 (Furigana),,,,はん
+半 (Meaning),,,,HALF PRICE
+高 (Furigana),,,,こう
+高 (Meaning),,,,HIGH PRICE (EXPENSIVE PRICE)
+自 (Furigana),,,,じ
+自 (Meaning),,,,HOMEMADE (HOME BREWED, MADE AT HOME)
+担 (Furigana),,,,たん
+担 (Meaning),,,,IN CHARGE
+交 (Furigana),,,,こう
+交 (Meaning),,,,INTERSECTION
+多 (Furigana),,,,た
+多 (Meaning),,,,LARGE AMOUNT (LARGE SUM)
+大 (Furigana),,,,たい
+大 (Meaning),,,,LARGE QUANTITY (LARGE NUMBER, HUGE AMOUNT)
+朝 (Furigana),,,,あさ
+朝 (Meaning),,,,LATE RISER (OVERSLEEP)
+法 (Furigana),,,,ほう
+法 (Meaning),,,,LAWS (REGULATIONS)
+層 (Furigana),,,,そう
+層 (Meaning),,,,LAYER OF (LAYER, DEMOGRAPHIC)
+左 (Furigana),,,,さ
+左 (Meaning),,,,LEFT ARM
+長 (Furigana),,,,ちょう
+長 (Meaning),,,,LONG SLEEVES
+安 (Furigana),,,,あん
+安 (Meaning),,,,LOW PRICE (CHEAP PRICE)
+中 (Furigana),,,,ちゅう
+中 (Meaning),,,,MADE IN CHINA
+日 (Furigana),,,,にち
+日 (Meaning),,,,MADE IN JAPAN
+製 (Furigana),,,,せい
+製 (Meaning),,,,MADE IN USA (MADE IN AMERICA)
+通 (Furigana),,,,つう
+通 (Meaning),,,,MAIL ORDER
+管 (Furigana),,,,かん
+管 (Meaning),,,,MANAGEMENT (ADMINISTRATION)
+製 (Furigana),,,,せい
+製 (Meaning),,,,MANUFACTURING (PRODUCTION)
+武 (Furigana),,,,ぶ
+武 (Meaning),,,,MARTIAL ARTS
+品 (Furigana),,,,ひん
+品 (Meaning),,,,MATERIAL QUALITY (ITEM QUALITY, PRODUCT QUALITY, QUALITY)
+都 (Furigana),,,,と
+都 (Meaning),,,,METROPOLITAN GOVERNMENT (METRO GOVERNMENT)
+警 (Furigana),,,,けい
+警 (Meaning),,,,METROPOLITAN POLICE DEPARTMENT (METRO POLICE DEPARTMENT)
+型 (Furigana),,,,けい
+型 (Meaning),,,,MODEL (TYPE, MOLD, PATTERN)
+月 (Furigana),,,,げつ
+月 (Meaning),,,,MONTHLY AMOUNT
+一 (Furigana),,,,いち
+一 (Meaning),,,,MUCH MORE (ALL THE MORE, EVEN MORE)
+狭 (Furigana),,,,せま
+狭 (Meaning),,,,NARROW
+国 (Furigana),,,,こく
+国 (Meaning),,,,NATIONAL BORDER
+祝 (Furigana),,,,しゅく
+祝 (Meaning),,,,NATIONAL HOLIDAY (PUBLIC HOLIDAY)
+警 (Furigana),,,,けい
+警 (Meaning),,,,NATIONAL POLICE AGENCY
+近 (Furigana),,,,きん
+近 (Meaning),,,,NEARSIGHTEDNESS (SHORTSIGHTEDNESS, MYOPIA)
+不 (Furigana),,,,ふ
+不 (Meaning),,,,NONBURNABLE GARBAGE (UNBURNABLE GARBAGE, NONBURNABLE TRASH, UNBURNABLE TRASH, NONBURNABLE RUBBISH, UNBURNABLE RUBBISH)
+提 (Furigana),,,,てい
+提 (Meaning),,,,OFFER (PROGRAM SPONSORING)
+営 (Furigana),,,,えい
+営 (Meaning),,,,OPEN FOR BUSINESS
+過 (Furigana),,,,か
+過 (Meaning),,,,PAST TENSE
+現 (Furigana),,,,げん
+現 (Meaning),,,,PHENOMENON
+管 (Furigana),,,,かん
+管 (Meaning),,,,PIPE (TUBE)
+置 (Furigana),,,,ち
+置 (Meaning),,,,PLACE TO PUT SOMETHING (PLACE TO PUT DOWN, LOCATION TO PUT SOMETHING, LOCATION TO PUT DOWN)
+値 (Furigana),,,,ち
+値 (Meaning),,,,PRICE TAG
+所 (Furigana),,,,しょ
+所 (Meaning),,,,PRINTED (PUBLISHED)
+製 (Furigana),,,,せい
+製 (Meaning),,,,PRODUCT (MANUFACTURED GOODS)
+原 (Furigana),,,,げん
+原 (Meaning),,,,PROTOTYPE (MODEL)
+質 (Furigana),,,,しつ
+質 (Meaning),,,,QUALITY
+量 (Furigana),,,,りょう
+量 (Meaning),,,,QUANTITY (AMOUNT)
+質 (Furigana),,,,しつ
+質 (Meaning),,,,QUESTION
+記 (Furigana),,,,き
+記 (Meaning),,,,RECORD (REPORT)
+残 (Furigana),,,,ざん
+残 (Meaning),,,,REMAINING AMOUNT (BALANCE)
+応 (Furigana),,,,おう
+応 (Meaning),,,,ROOTING SECTION (CHEERLEADERS, CHEERING SECTION)
+販 (Furigana),,,,はん
+販 (Meaning),,,,SALES (SELLING, MARKETING)
+武 (Furigana),,,,ぶ
+武 (Meaning),,,,SAMURAI
+視 (Furigana),,,,し
+視 (Meaning),,,,SENSE OF SIGHT (SIGHT)
+半 (Furigana),,,,はん
+半 (Meaning),,,,SHORT SLEEVES
+肩 (Furigana),,,,かた
+肩 (Meaning),,,,SHOULDER
+規 (Furigana),,,,き
+規 (Meaning),,,,STANDARD (CRITERION)
+株 (Furigana),,,,かぶ
+株 (Meaning),,,,STOCK (SHARE)
+株 (Furigana),,,,かぶ
+株 (Meaning),,,,STOCK (SHARE, STOCKS, SHARES)
+主 (Furigana),,,,しゅ
+主 (Meaning),,,,SUBJECTIVE
+対 (Furigana),,,,たい
+対 (Meaning),,,,TARGET (SUBJECT)
+時 (Furigana),,,,じ
+時 (Meaning),,,,TIME DIFFERENCE
+援 (Furigana),,,,えん
+援 (Meaning),,,,TO ASSIST (TO AID)
+届 (Furigana),,,,とど
+届 (Meaning),,,,TO BE DELIVERED (TO ARRIVE, TO REACH)
+違 (Furigana),,,,ちが
+違 (Meaning),,,,TO BE DIFFERENT (TO BE WRONG, TO BE MISTAKEN, TO VARY, TO DIFFER)
+載 (Furigana),,,,さい
+載 (Meaning),,,,TO BE PUBLISHED (TO BE REPORTED, TO BE PRINTED)
+燃 (Furigana),,,,ねん
+燃 (Meaning),,,,TO BURN SOMETHING (TO BURN)
+担 (Furigana),,,,たん
+担 (Meaning),,,,TO CARRY (TO SHOULDER)
+祝 (Furigana),,,,しゅく
+祝 (Meaning),,,,TO CELEBRATE
+発 (Furigana),,,,はつ
+発 (Meaning),,,,TO DEVELOP
+無 (Furigana),,,,む
+無 (Meaning),,,,TO IGNORE (TO DISREGARD)
+供 (Furigana),,,,きょう
+供 (Meaning),,,,TO MAKE AN OFFERING (TO OFFER)
+量 (Furigana),,,,りょう
+量 (Meaning),,,,TO MEASURE (TO WEIGH)
+述 (Furigana),,,,じゅつ
+述 (Meaning),,,,TO MENTION (TO STATE, TO EXPLAIN)
+過 (Furigana),,,,か
+過 (Meaning),,,,TOO MUCH (AFTER, PAST)
+寝 (Furigana),,,,ね
+寝 (Meaning),,,,TO OVERSLEEP
+指 (Furigana),,,,し
+指 (Meaning),,,,TO POINT AT (TO POINT TO)
+提 (Furigana),,,,てい
+提 (Meaning),,,,TO PROPOSE
+応 (Furigana),,,,おう
+応 (Meaning),,,,TO ROOT FOR (TO CHEER ON, TO CHEER FOR)
+営 (Furigana),,,,えい
+営 (Meaning),,,,TO RUN A BUSINESS (TO MANAGE A BUSINESS)
+差 (Furigana),,,,さ
+差 (Meaning),,,,TO SHINE AT (TO SHINE ON)
+支 (Furigana),,,,し
+支 (Meaning),,,,TO SUPPORT (TO BACK, TO AID)
+全 (Furigana),,,,ぜん
+全 (Meaning),,,,TOTAL (FULL AMOUNT, SUM, TOTAL AMOUNT, ENTIRETY, GRAND TOTAL)
+触 (Furigana),,,,しょく
+触 (Meaning),,,,TO TOUCH
+感 (Furigana),,,,かん
+感 (Meaning),,,,TOUCH (FEEL, TOUCH SENSE, SENSE OF TOUCH)
+観 (Furigana),,,,かん
+観 (Meaning),,,,TOURIST (SIGHTSEER)
+展 (Furigana),,,,てん
+展 (Meaning),,,,TRADE SHOW (EXHIBITION)
+伝 (Furigana),,,,でん
+伝 (Meaning),,,,TRADITIONAL
+輸 (Furigana),,,,ゆ
+輸 (Meaning),,,,TRANSPORT (TRANSPORTATION)
+典 (Furigana),,,,てん
+典 (Meaning),,,,TYPICAL
+展 (Furigana),,,,てん
+展 (Meaning),,,,UNFOLDING (DEVELOPMENT)
+価 (Furigana),,,,か
+価 (Meaning),,,,VALUES (SENSE OF VALUES, MORAL VALUES)
+自 (Furigana),,,,じ
+自 (Meaning),,,,VENDING MACHINE
+副 (Furigana),,,,ふく
+副 (Meaning),,,,VICE PRESIDENT
+腰 (Furigana),,,,こし
+腰 (Meaning),,,,WAIST
+武 (Furigana),,,,ぶ
+武 (Meaning),,,,WEAPON
+気 (Furigana),,,,き
+気 (Meaning),,,,WEATHER
+木 (Furigana),,,,もく
+木 (Meaning),,,,WOODEN (MADE FROM WOOD, MADE OF WOOD)
+腕 (Furigana),,,,うで
+腕 (Meaning),,,,WRISTWATCH (WATCH)

@@ -1,0 +1,284 @@
+得 (Onyomi),,,,とく
+得 (Meaning),,,,Acquire
+加 (Onyomi),,,,か
+加 (Meaning),,,,Add
+冊 (Onyomi),,,,さつ
+冊 (Meaning),,,,Book Counter
+履 (Onyomi),,,,り
+履 (Meaning),,,,Boots
+忙 (Onyomi),,,,ぼう
+忙 (Meaning),,,,Busy
+閥 (Onyomi),,,,ばつ
+閥 (Meaning),,,,Clique
+布 (Onyomi),,,,ふ
+布 (Meaning),,,,Cloth
+比 (Onyomi),,,,ひ
+比 (Meaning),,,,Compare
+歴 (Onyomi),,,,れき
+歴 (Meaning),,,,Continuation
+続 (Onyomi),,,,ぞく
+続 (Meaning),,,,Continue
+減 (Onyomi),,,,げん
+減 (Meaning),,,,Decrease
+易 (Onyomi),,,,い
+易 (Meaning),,,,Easy
+絡 (Onyomi),,,,らく
+絡 (Meaning),,,,Entangle
+笛 (Onyomi),,,,てき
+笛 (Meaning),,,,Flute
+容 (Onyomi),,,,よう
+容 (Meaning),,,,Form
+団 (Onyomi),,,,だん
+団 (Meaning),,,,Group
+史 (Onyomi),,,,し
+史 (Meaning),,,,History
+昆 (Onyomi),,,,こん
+昆 (Meaning),,,,Insect
+徒 (Onyomi),,,,と
+徒 (Meaning),,,,Junior
+宙 (Onyomi),,,,ちゅう
+宙 (Meaning),,,,Midair
+混 (Onyomi),,,,こん
+混 (Meaning),,,,Mix
+善 (Onyomi),,,,ぜん
+善 (Meaning),,,,Morally Good
+順 (Onyomi),,,,じゅん
+順 (Meaning),,,,Order
+宇 (Onyomi),,,,う
+宇 (Meaning),,,,Outer Space
+詞 (Onyomi),,,,し
+詞 (Meaning),,,,Part Of Speech
+改 (Onyomi),,,,かい
+改 (Meaning),,,,Renew
+乱 (Onyomi),,,,らん
+乱 (Meaning),,,,Riot
+節 (Onyomi),,,,せつ
+節 (Meaning),,,,Season
+連 (Onyomi),,,,れん
+連 (Meaning),,,,Take Along
+舌 (Onyomi),,,,した
+舌 (Meaning),,,,Tongue
+暴 (Onyomi),,,,ぼう
+暴 (Meaning),,,,Violence
+財 (Onyomi),,,,さい
+財 (Meaning),,,,Wealth
+若 (Onyomi),,,,わか
+若 (Meaning),,,,Young
+学 (Furigana),,,,がく
+学 (Meaning),,,,ACADEMIC HISTORY (ACADEMIC BACKGROUND, ACADEMIC RECORD)
+形 (Furigana),,,,けい
+形 (Meaning),,,,ADJECTIVE
+五 (Furigana),,,,ご
+五 (Meaning),,,,AIUEO ORDER (SYLLABARY ORDER)
+猫 (Furigana),,,,ねこ
+猫 (Meaning),,,,AVERSION TO HOT FOODS
+信 (Furigana),,,,しん
+信 (Meaning),,,,BELIEVER (FOLLOWER)
+得 (Furigana),,,,とく
+得 (Meaning),,,,BENEFIT (PROFIT, ADVANTAGE, GAIN)
+毛 (Furigana),,,,もう
+毛 (Meaning),,,,BLANKET
+冊 (Furigana),,,,さつ
+冊 (Meaning),,,,BOOK COUNTER (COUNTER FOR BOOKS, BOOKS, COUNTER FOR VOLUMES)
+仏 (Furigana),,,,ぶつ
+仏 (Meaning),,,,BUDDHIST
+多 (Furigana),,,,た
+多 (Meaning),,,,BUSY
+忙 (Furigana),,,,ぼう
+忙 (Meaning),,,,BUSY
+年 (Furigana),,,,ねん
+年 (Meaning),,,,CHRONOLOGICAL ORDER
+布 (Furigana),,,,ふ
+布 (Meaning),,,,CLOTH (FABRIC)
+混 (Furigana),,,,こん
+混 (Meaning),,,,CONFUSION (DISORDER, CHAOS)
+内 (Furigana),,,,ない
+内 (Meaning),,,,CONTENTS (SUBSTANCE)
+対 (Furigana),,,,たい
+対 (Meaning),,,,CONTRAST (COMPARISON)
+大 (Furigana),,,,たい
+大 (Meaning),,,,DECREASING ORDER (DESCENDING ORDER, LARGEST FIRST)
+細 (Furigana),,,,さい
+細 (Meaning),,,,DETAILED (SMALL, FINE, TRIVIAL)
+劇 (Furigana),,,,げき
+劇 (Meaning),,,,DRAMA TROUPE (THEATRICAL COMPANY)
+飲 (Furigana),,,,の
+飲 (Meaning),,,,DRINKING ALCOHOL (DRINKING)
+容 (Furigana),,,,よう
+容 (Meaning),,,,EASE (EASILY, EASY, SIMPLE)
+易 (Furigana),,,,い
+易 (Meaning),,,,EASY (SIMPLE TO DO)
+八 (Furigana),,,,はち
+八 (Meaning),,,,EIGHT BOOKS (EIGHT VOLUMES)
+非 (Furigana),,,,ひ
+非 (Meaning),,,,EMERGENCY EXIT
+入 (Furigana),,,,にゅう
+入 (Meaning),,,,ENROLLMENT (JOINING, ENLISTMENT)
+連 (Furigana),,,,れん
+連 (Meaning),,,,EVERY DAY (DAY AFTER DAY, FOR DAYS ON END, DAILY, PROLONGED)
+笛 (Furigana),,,,てき
+笛 (Meaning),,,,FLUTE (WHISTLE)
+二 (Furigana),,,,に
+二 (Meaning),,,,FORKED TONGUE (DUPLICITY)
+布 (Furigana),,,,ふ
+布 (Meaning),,,,FUTON (BEDDING, SLEEPING MAT)
+善 (Furigana),,,,ぜん
+善 (Meaning),,,,GOOD AND EVIL (RIGHT AND WRONG)
+得 (Furigana),,,,とく
+得 (Meaning),,,,GOOD AT (SKILLED AT, STRONG POINT, SPECIALTY, FORTE)
+助 (Furigana),,,,じょ
+助 (Meaning),,,,GRAMMAR PARTICLE (PARTICLE, POSTPOSITION)
+集 (Furigana),,,,しゅう
+集 (Meaning),,,,GROUP (CROWD)
+歴 (Furigana),,,,れき
+歴 (Meaning),,,,HISTORY
+改 (Furigana),,,,かい
+改 (Meaning),,,,IMPROVEMENT (BETTERMENT)
+小 (Furigana),,,,しょう
+小 (Meaning),,,,INCREASING ORDER (ASCENDING ORDER, SMALLEST FIRST)
+昆 (Furigana),,,,こん
+昆 (Meaning),,,,INSECT (BUG)
+自 (Furigana),,,,じ
+自 (Meaning),,,,INTRANSITIVE VERB
+加 (Furigana),,,,か
+加 (Meaning),,,,IRRESPONSIBLE (POINTLESS, UNFOUNDED, CARELESS)
+喜 (Furigana),,,,き
+喜 (Meaning),,,,JOY (DELIGHT, GLEE, RAPTURE)
+昆 (Furigana),,,,こん
+昆 (Meaning),,,,KONBU (KOMBU, KONBU SEAWEED, KOMBU SEAWEED)
+恋 (Furigana),,,,れん
+恋 (Meaning),,,,LOVER (SIGNIFICANT OTHER, BOYFRIEND, GIRLFRIEND)
+乱 (Furigana),,,,らん
+乱 (Meaning),,,,MELEE (FREE FOR ALL)
+宙 (Furigana),,,,ちゅう
+宙 (Meaning),,,,MIDAIR (AIR, SPACE)
+混 (Furigana),,,,こん
+混 (Meaning),,,,MIXED RACE (MIXED PARENTAGE)
+名 (Furigana),,,,めい
+名 (Meaning),,,,NOUN
+原 (Furigana),,,,げん
+原 (Meaning),,,,NUCLEAR POWER (NUCLEAR ENERGY, ATOMIC POWER, ATOMIC ENERGY)
+数 (Furigana),,,,すう
+数 (Meaning),,,,NUMERAL (NUMBER WORD)
+続 (Furigana),,,,ぞく
+続 (Meaning),,,,ONE AFTER ANOTHER (SUCCESSIVELY, IN SUCCESSION)
+一 (Furigana),,,,いち
+一 (Meaning),,,,ONE BOOK (ONE VOLUME)
+一 (Furigana),,,,いち
+一 (Meaning),,,,ONE SMALL ANIMAL
+順 (Furigana),,,,じゅん
+順 (Meaning),,,,ORDER (ONE'S TURN)
+宇 (Furigana),,,,う
+宇 (Meaning),,,,OUTER SPACE (SPACE, UNIVERSE)
+参 (Furigana),,,,さん
+参 (Meaning),,,,PARTICIPATION
+品 (Furigana),,,,ひん
+品 (Meaning),,,,PART OF SPEECH
+履 (Furigana),,,,り
+履 (Meaning),,,,PERSONAL HISTORY (RESUME, RESUMÉ, CURRICULUM VITAE, CV)
+説 (Furigana),,,,せつ
+説 (Meaning),,,,PERSUASION (CONVINCE)
+梅 (Furigana),,,,うめ
+梅 (Meaning),,,,PICKLED PLUMS (PICKLED UME, UMEBOSHI)
+財 (Furigana),,,,さい
+財 (Meaning),,,,PLUTOCRATS (FINANCIAL CLIQUE, ZAIBATSU)
+警 (Furigana),,,,けい
+警 (Meaning),,,,POLICE OFFICER (POLICEMAN, COP)
+警 (Furigana),,,,けい
+警 (Meaning),,,,POLICE STATION
+私 (Furigana),,,,し
+私 (Meaning),,,,PRIVATE FUNDS (OWN FUNDS, PRIVATE PROPERTY, PERSONAL FUNDS)
+比 (Furigana),,,,ひ
+比 (Meaning),,,,PROPORTION (RATIO)
+順 (Furigana),,,,じゅん
+順 (Meaning),,,,RANKING (STANDING)
+果 (Furigana),,,,か
+果 (Meaning),,,,REALLY (AS WAS EXPECTED, JUST AS I THOUGHT, AS EXPECTED)
+関 (Furigana),,,,かん
+関 (Meaning),,,,RELATION (CONNECTION, RELEVANCE, CORRELATION)
+改 (Furigana),,,,かい
+改 (Meaning),,,,REVISION (AMENDMENT, ALTERATION)
+暴 (Furigana),,,,ぼう
+暴 (Meaning),,,,RUN WILD (RUN OUT OF CONTROL)
+悲 (Furigana),,,,ひ
+悲 (Meaning),,,,SAD
+悲 (Furigana),,,,ひ
+悲 (Meaning),,,,SADNESS (SORROW, GRIEF, UNHAPPINESS, DISTRESS)
+季 (Furigana),,,,き
+季 (Meaning),,,,SEASON
+節 (Furigana),,,,せつ
+節 (Meaning),,,,SEASONAL FESTIVAL
+席 (Furigana),,,,せき
+席 (Meaning),,,,SEATING ORDER
+別 (Furigana),,,,べつ
+別 (Meaning),,,,SEPARATE VOLUME
+連 (Furigana),,,,れん
+連 (Meaning),,,,SERIAL (CONSECUTIVE, SUCCESSIVE, SERIES)
+歌 (Furigana),,,,か
+歌 (Meaning),,,,SONG LYRICS (LYRICS)
+汽 (Furigana),,,,き
+汽 (Meaning),,,,STEAM WHISTLE
+生 (Furigana),,,,せい
+生 (Meaning),,,,STUDENT (PUPIL, FOLLOWER)
+減 (Furigana),,,,げん
+減 (Meaning),,,,SUBTRACTION
+容 (Furigana),,,,よう
+容 (Meaning),,,,SUSPICION (CHARGE)
+連 (Furigana),,,,れん
+連 (Meaning),,,,THE GANG (GUYS, BUNCH, COMPANY)
+三 (Furigana),,,,さん
+三 (Meaning),,,,THREE BOOKS (THREE VOLUMES)
+得 (Furigana),,,,とく
+得 (Meaning),,,,TO ACQUIRE (TO GAIN, TO OBTAIN)
+暴 (Furigana),,,,ぼう
+暴 (Meaning),,,,TO ACT VIOLENTLY (TO RAGE)
+加 (Furigana),,,,か
+加 (Meaning),,,,TO ADD (TO INCLUDE)
+減 (Furigana),,,,げん
+減 (Meaning),,,,TO BE DECREASED (TO GET DECREASED, TO DECREASE)
+絡 (Furigana),,,,らく
+絡 (Meaning),,,,TO BE ENTANGLED (TO BE TANGLED, TO PICK A FIGHT, TO BE INVOLVED WITH, TO GET ENTANGLED)
+乱 (Furigana),,,,らん
+乱 (Meaning),,,,TO BE IN DISORDER (TO BE IN DISARRAY, TO BE DISORDERED, TO BE DISTURBED)
+改 (Furigana),,,,かい
+改 (Meaning),,,,TO CHANGE SOMETHING (TO REVISE SOMETHING, TO CORRECT SOMETHING, TO CHECK SOMETHING)
+比 (Furigana),,,,ひ
+比 (Meaning),,,,TO COMPARE
+連 (Furigana),,,,れん
+連 (Meaning),,,,TO CONTACT (TO GET IN TOUCH, TO GET IN CONTACT)
+続 (Furigana),,,,ぞく
+続 (Meaning),,,,TO CONTINUE
+覚 (Furigana),,,,かく
+覚 (Meaning),,,,TO MEMORIZE (TO REMEMBER, TO LEARN, TO PICK UP)
+混 (Furigana),,,,こん
+混 (Meaning),,,,TO MIX SOMETHING (TO STIR SOMETHING, TO BLEND SOMETHING)
+舌 (Furigana),,,,した
+舌 (Meaning),,,,TONGUE
+履 (Furigana),,,,り
+履 (Meaning),,,,TO PUT ON SHOES (TO PUT ON PANTS, TO PUT ON BOOTS)
+連 (Furigana),,,,れん
+連 (Meaning),,,,TO TAKE ALONG (TO BRING A PERSON, TO BE ACCOMPANIED BY)
+大 (Furigana),,,,たい
+大 (Meaning),,,,TOTAL FAILURE (HUGE MISTAKE, DEBACLE, EPIC FAIL)
+無 (Furigana),,,,む
+無 (Meaning),,,,UNCONSCIOUSNESS (UNCONSCIOUSLY, INVOLUNTARY)
+動 (Furigana),,,,どう
+動 (Meaning),,,,VERB
+非 (Furigana),,,,ひ
+非 (Meaning),,,,VERY (EXTREMELY, EXCEEDINGLY)
+暴 (Furigana),,,,ぼう
+暴 (Meaning),,,,VIOLENCE (FORCE)
+乱 (Furigana),,,,らん
+乱 (Meaning),,,,VIOLENT (VIOLENCE, ASSAULT)
+若 (Furigana),,,,わか
+若 (Meaning),,,,WAKAME (WAKAME SEAWEED)
+財 (Furigana),,,,さい
+財 (Meaning),,,,WALLET (PURSE)
+説 (Furigana),,,,せつ
+説 (Meaning),,,,WRITTEN EXPLANATION (INSTRUCTIONS, MANUAL)
+若 (Furigana),,,,わか
+若 (Meaning),,,,YOUNG
+若 (Furigana),,,,わか
+若 (Meaning),,,,YOUNG PERSON
+若 (Furigana),,,,わか
+若 (Meaning),,,,YOUTHFUL (YOUNG LOOKING)
