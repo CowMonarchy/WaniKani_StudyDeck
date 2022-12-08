@@ -62,267 +62,267 @@
 投 (Meaning),,,,Throw
 対 (Onyomi),,,,たい
 対 (Meaning),,,,Versus
-地 (Furigana),,,,ち
-地 (Meaning),,,,ABOVE GROUND (ON THE GROUND)
-住 (Furigana),,,,じゅう
-住 (Meaning),,,,ADDRESS
-入 (Furigana),,,,にゅう
-入 (Meaning),,,,ADMISSION (ENTRANCE, IMPRISONMENT, INTERNMENT)
-助 (Furigana),,,,じょ
-助 (Meaning),,,,ADVICE
-全 (Furigana),,,,ぜん
-全 (Meaning),,,,ALL AMERICA
-思 (Furigana),,,,おも
-思 (Meaning),,,,A MEMORY (MEMORIES, MEMORY)
-間 (Furigana),,,,かん
-間 (Meaning),,,,AMOUNT OF TIME (INTERVAL OF TIME, TIME INTERVAL, PERIOD OF TIME)
-他 (Furigana),,,,た
-他 (Meaning),,,,ANOTHER PLACE (SOMEWHERE ELSE, OTHER PLACE, ELSEWHERE)
-答 (Furigana),,,,こた
-答 (Meaning),,,,ANSWER (REPLY, RESPONSE)
-助 (Furigana),,,,じょ
-助 (Meaning),,,,ASSISTANCE (SUPPORT)
-作 (Furigana),,,,さく
-作 (Meaning),,,,AUTHOR (WRITER)
-電 (Furigana),,,,でん
-電 (Meaning),,,,BATTERY
-身 (Furigana),,,,しん
+地上 (Furigana),,,,ちじょう
+地上 (Meaning),,,,ABOVE GROUND (ON THE GROUND)
+住所 (Furigana),,,,じゅうしょ
+住所 (Meaning),,,,ADDRESS
+入所 (Furigana),,,,にゅうしょ
+入所 (Meaning),,,,ADMISSION (ENTRANCE, IMPRISONMENT, INTERNMENT)
+助言 (Furigana),,,,じょげん
+助言 (Meaning),,,,ADVICE
+全米 (Furigana),,,,ぜんべい
+全米 (Meaning),,,,ALL AMERICA
+思い出 (Furigana),,,,おもいで
+思い出 (Meaning),,,,A MEMORY (MEMORIES, MEMORY)
+〜間 (Furigana),,,,かん
+〜間 (Meaning),,,,AMOUNT OF TIME (INTERVAL OF TIME, TIME INTERVAL, PERIOD OF TIME)
+他所 (Furigana),,,,たしょ
+他所 (Meaning),,,,ANOTHER PLACE (SOMEWHERE ELSE, OTHER PLACE, ELSEWHERE)
+答え (Furigana),,,,こたえ
+答え (Meaning),,,,ANSWER (REPLY, RESPONSE)
+助力 (Furigana),,,,じょりょく
+助力 (Meaning),,,,ASSISTANCE (SUPPORT)
+作者 (Furigana),,,,さくしゃ
+作者 (Meaning),,,,AUTHOR (WRITER)
+電池 (Furigana),,,,でんち
+電池 (Meaning),,,,BATTERY
+身 (Furigana),,,,み
 身 (Meaning),,,,BODY (ONESELF)
-心 (Furigana),,,,しん
-心 (Meaning),,,,BODY AND MIND (MIND AND BODY)
-両 (Furigana),,,,りょう
-両 (Meaning),,,,BOTH PEOPLE
-君 (Furigana),,,,くん
-君 (Meaning),,,,BOY NAME ENDER (MALE NAME ENDER, KUN)
-支 (Furigana),,,,し
-支 (Meaning),,,,BRANCH OFFICE (BRANCH STORE)
-支 (Furigana),,,,し
-支 (Meaning),,,,BRANCH OFFICE
-朝 (Furigana),,,,あさ
-朝 (Meaning),,,,BREAKFAST
+心身 (Furigana),,,,しんしん
+心身 (Meaning),,,,BODY AND MIND (MIND AND BODY)
+両者 (Furigana),,,,りょうしゃ
+両者 (Meaning),,,,BOTH PEOPLE
+〜君 (Furigana),,,,くん
+〜君 (Meaning),,,,BOY NAME ENDER (MALE NAME ENDER, KUN)
+支局 (Furigana),,,,しきょく
+支局 (Meaning),,,,BRANCH OFFICE
+支店 (Furigana),,,,してん
+支店 (Meaning),,,,BRANCH OFFICE (BRANCH STORE)
+朝ごはん (Furigana),,,,あさごはん
+朝ごはん (Meaning),,,,BREAKFAST
 局 (Furigana),,,,きょく
 局 (Meaning),,,,BUREAU (DEPARTMENT, STATION, OFFICE)
 雲 (Furigana),,,,くも
 雲 (Meaning),,,,CLOUD
 楽 (Furigana),,,,らく
 楽 (Meaning),,,,COMFORT (EASE, PLEASURE)
-全 (Furigana),,,,ぜん
-全 (Meaning),,,,COMPLETELY (ENTIRELY, TRULY, REALLY, WHOLLY)
-対 (Furigana),,,,たい
-対 (Meaning),,,,CONFRONTATION (OPPOSITION)
-会 (Furigana),,,,かい
-会 (Meaning),,,,CONVERSATION (DIALOGUE)
+全く (Furigana),,,,まったく
+全く (Meaning),,,,COMPLETELY (ENTIRELY, TRULY, REALLY, WHOLLY)
+対立 (Furigana),,,,たいりつ
+対立 (Meaning),,,,CONFRONTATION (OPPOSITION)
+会話 (Furigana),,,,かいわ
+会話 (Meaning),,,,CONVERSATION (DIALOGUE)
 決 (Furigana),,,,けつ
 決 (Meaning),,,,DECISION
-決 (Furigana),,,,けつ
-決 (Meaning),,,,DETERMINATION (RESOLUTION, CONVICTION)
-医 (Furigana),,,,い
-医 (Meaning),,,,DOCTOR (PHYSICIAN)
-役 (Furigana),,,,やく
-役 (Meaning),,,,DUTY (BUSINESS, ROLE)
-東 (Furigana),,,,とう
-東 (Meaning),,,,EAST EXIT (EAST ENTRANCE, EASTERN EXIT, EASTERN ENTRANCE, EAST GATE)
-電 (Furigana),,,,でん
-電 (Meaning),,,,ELECTRICITY (LIGHT)
-電 (Furigana),,,,でん
-電 (Meaning),,,,ELECTRIC POWER
-電 (Furigana),,,,でん
-電 (Meaning),,,,ELECTRON (ELECTRONIC)
-絵 (Furigana),,,,え
-絵 (Meaning),,,,EMOJI
-工 (Furigana),,,,こう
-工 (Meaning),,,,ENGINEER
-入 (Furigana),,,,にゅう
-入 (Meaning),,,,ENTRANCE (ADMISSION, ENTERING)
-毎 (Furigana),,,,まい
-毎 (Meaning),,,,EVERY MORNING
-工 (Furigana),,,,こう
-工 (Meaning),,,,FACTORY
-名 (Furigana),,,,めい
-名 (Meaning),,,,FAMOUS PLACE
-対 (Furigana),,,,たい
-対 (Meaning),,,,FOREIGN (OVERSEAS)
-楽 (Furigana),,,,らく
-楽 (Meaning),,,,FUN
-北 (Furigana),,,,ほく
-北 (Meaning),,,,HOKKAIDO (HOKKAIDOU)
-馬 (Furigana),,,,ば
+決心 (Furigana),,,,けっしん
+決心 (Meaning),,,,DETERMINATION (RESOLUTION, CONVICTION)
+医者 (Furigana),,,,いしゃ
+医者 (Meaning),,,,DOCTOR (PHYSICIAN)
+役目 (Furigana),,,,やくめ
+役目 (Meaning),,,,DUTY (BUSINESS, ROLE)
+東口 (Furigana),,,,ひがしぐち
+東口 (Meaning),,,,EAST EXIT (EAST ENTRANCE, EASTERN EXIT, EASTERN ENTRANCE, EAST GATE)
+電気 (Furigana),,,,でんき
+電気 (Meaning),,,,ELECTRICITY (LIGHT)
+電力 (Furigana),,,,でんりょく
+電力 (Meaning),,,,ELECTRIC POWER
+電子 (Furigana),,,,でんし
+電子 (Meaning),,,,ELECTRON (ELECTRONIC)
+絵文字 (Furigana),,,,えもじ
+絵文字 (Meaning),,,,EMOJI
+工学者 (Furigana),,,,こうがくしゃ
+工学者 (Meaning),,,,ENGINEER
+入場 (Furigana),,,,にゅうじょう
+入場 (Meaning),,,,ENTRANCE (ADMISSION, ENTERING)
+毎朝 (Furigana),,,,まいあさ
+毎朝 (Meaning),,,,EVERY MORNING
+工場 (Furigana),,,,こうじょう
+工場 (Meaning),,,,FACTORY
+名所 (Furigana),,,,めいしょ
+名所 (Meaning),,,,FAMOUS PLACE
+対外 (Furigana),,,,たいがい
+対外 (Meaning),,,,FOREIGN (OVERSEAS)
+楽しい (Furigana),,,,たのしい
+楽しい (Meaning),,,,FUN
+北海道 (Furigana),,,,ほっかいどう
+北海道 (Meaning),,,,HOKKAIDO (HOKKAIDOU)
+馬 (Furigana),,,,うま
 馬 (Meaning),,,,HORSE
-馬 (Furigana),,,,ば
-馬 (Meaning),,,,HORSEPOWER
-人 (Furigana),,,,にん
-人 (Meaning),,,,HUMAN (HUMAN BEING)
-大 (Furigana),,,,たい
-大 (Meaning),,,,IMPORTANT TASK (GREAT DUTY, IMPORTANT ROLE)
-間 (Furigana),,,,かん
+馬力 (Furigana),,,,ばりき
+馬力 (Meaning),,,,HORSEPOWER
+人間 (Furigana),,,,にんげん
+人間 (Meaning),,,,HUMAN (HUMAN BEING)
+大役 (Furigana),,,,たいやく
+大役 (Meaning),,,,IMPORTANT TASK (GREAT DUTY, IMPORTANT ROLE)
+間 (Furigana),,,,あいだ
 間 (Meaning),,,,INTERVAL (INTERVAL OF TIME, TIME INTERVAL, BETWEEN, ROOM)
-究 (Furigana),,,,きゅう
-究 (Meaning),,,,INVESTIGATION
-研 (Furigana),,,,けん
-研 (Meaning),,,,RESEARCH (INVESTIGATION, STUDY)
-前 (Furigana),,,,ぜん
-前 (Meaning),,,,LAST TIME (PREVIOUS TIME)
-長 (Furigana),,,,ちょう
-長 (Meaning),,,,LENGTH
-生 (Furigana),,,,せい
-生 (Meaning),,,,MATERIAL (CLOTH, FABRIC, DOUGH, BATTER)
-数 (Furigana),,,,すう
-数 (Meaning),,,,MATHEMATICS (MATH, MATHS)
-医 (Furigana),,,,い
-医 (Meaning),,,,MEDICAL SCIENCE (MEDICINE)
-医 (Furigana),,,,い
-医 (Meaning),,,,MEDICAL UNIVERSITY (MEDICAL SCHOOL, MED SCHOOL)
-地 (Furigana),,,,ち
-地 (Meaning),,,,MEDITERRANEAN SEA
-道 (Furigana),,,,どう
-道 (Meaning),,,,METHOD OF (WAY, STYLE, WAY OF)
-君 (Furigana),,,,くん
-君 (Meaning),,,,MONARCHY
+研究 (Furigana),,,,けんきゅう
+研究 (Meaning),,,,RESEARCH (INVESTIGATION, STUDY)
+究明 (Furigana),,,,きゅうめい
+究明 (Meaning),,,,INVESTIGATION
+前回 (Furigana),,,,ぜんかい
+前回 (Meaning),,,,LAST TIME (PREVIOUS TIME)
+長さ (Furigana),,,,ながさ
+長さ (Meaning),,,,LENGTH
+生地 (Furigana),,,,きじ
+生地 (Meaning),,,,MATERIAL (CLOTH, FABRIC, DOUGH, BATTER)
+数学 (Furigana),,,,すうがく
+数学 (Meaning),,,,MATHEMATICS (MATH, MATHS)
+医学 (Furigana),,,,いがく
+医学 (Meaning),,,,MEDICAL SCIENCE (MEDICINE)
+医大 (Furigana),,,,いだい
+医大 (Meaning),,,,MEDICAL UNIVERSITY (MEDICAL SCHOOL, MED SCHOOL)
+地中海 (Furigana),,,,ちちゅうかい
+地中海 (Meaning),,,,MEDITERRANEAN SEA
+〜道 (Furigana),,,,どう
+〜道 (Meaning),,,,METHOD OF (WAY, STYLE, WAY OF)
+君主国 (Furigana),,,,くんしゅこく
+君主国 (Meaning),,,,MONARCHY
 朝 (Furigana),,,,あさ
 朝 (Meaning),,,,MORNING
-朝 (Furigana),,,,あさ
-朝 (Meaning),,,,MORNING SUN (RISING SUN)
-音 (Furigana),,,,おん
-音 (Meaning),,,,MUSIC
-名 (Furigana),,,,めい
-名 (Meaning),,,,NAME (FIRST NAME, FULL NAME, GIVEN NAME)
-当 (Furigana),,,,とう
-当 (Meaning),,,,NATURAL (REASONABLE, OBVIOUS, USUAL, COMMON)
-知 (Furigana),,,,ち
-知 (Meaning),,,,NOTICE (NOTIFICATION, FLIER)
-数 (Furigana),,,,すう
+朝日 (Furigana),,,,あさひ
+朝日 (Meaning),,,,MORNING SUN (RISING SUN)
+音楽 (Furigana),,,,おんがく
+音楽 (Meaning),,,,MUSIC
+名前 (Furigana),,,,なまえ
+名前 (Meaning),,,,NAME (FIRST NAME, FULL NAME, GIVEN NAME)
+当たり前 (Furigana),,,,あたりまえ
+当たり前 (Meaning),,,,NATURAL (REASONABLE, OBVIOUS, USUAL, COMMON)
+お知らせ (Furigana),,,,おしらせ
+お知らせ (Meaning),,,,NOTICE (NOTIFICATION, FLIER)
+番号 (Furigana),,,,ばんごう
+番号 (Meaning),,,,NUMBER (SERIES OF DIGITS)
+数 (Furigana),,,,かず
 数 (Meaning),,,,NUMBER (COUNT, AMOUNT)
-番 (Furigana),,,,ばん
-番 (Meaning),,,,NUMBER (SERIES OF DIGITS)
-一 (Furigana),,,,いち
-一 (Meaning),,,,NUMBER ONE (THE FIRST, FIRST, THE BEST, BEST, THE MOST, MOST)
-二 (Furigana),,,,に
-二 (Meaning),,,,NUMBER TWO (SECOND)
-数 (Furigana),,,,すう
-数 (Meaning),,,,NUMERAL (DIGIT)
-次 (Furigana),,,,じ
-次 (Meaning),,,,ONE BY ONE (IN SUCCESSION, ONE AFTER THE OTHER)
-反 (Furigana),,,,はん
-反 (Meaning),,,,OPPOSITION (OPPOSITE)
-向 (Furigana),,,,こう
-向 (Meaning),,,,OVER THERE (OPPOSITE SIDE, OTHER SIDE, FAR AWAY)
+一番 (Furigana),,,,いちばん
+一番 (Meaning),,,,NUMBER ONE (THE FIRST, FIRST, THE BEST, BEST, THE MOST, MOST)
+二番 (Furigana),,,,にばん
+二番 (Meaning),,,,NUMBER TWO (SECOND)
+数字 (Furigana),,,,すうじ
+数字 (Meaning),,,,NUMERAL (DIGIT)
+次々 (Furigana),,,,つぎつぎ
+次々 (Meaning),,,,ONE BY ONE (IN SUCCESSION, ONE AFTER THE OTHER)
+反対 (Furigana),,,,はんたい
+反対 (Meaning),,,,OPPOSITION (OPPOSITE)
+向こう (Furigana),,,,むこう
+向こう (Meaning),,,,OVER THERE (OPPOSITE SIDE, OTHER SIDE, FAR AWAY)
 絵 (Furigana),,,,え
 絵 (Meaning),,,,PAINTING (DRAWING, PICTURE)
-未 (Furigana),,,,み
-未 (Meaning),,,,PENDING (UNSETTLED, UNDECIDED, NOT YET DECIDED)
-私 (Furigana),,,,し
-私 (Meaning),,,,PERSONALLY (AS FOR ME, MYSELF)
-投 (Furigana),,,,とう
-投 (Meaning),,,,PITCHER
-所 (Furigana),,,,しょ
+未決 (Furigana),,,,みけつ
+未決 (Meaning),,,,PENDING (UNSETTLED, UNDECIDED, NOT YET DECIDED)
+私自身 (Furigana),,,,わたしじしん
+私自身 (Meaning),,,,PERSONALLY (AS FOR ME, MYSELF)
+投手 (Furigana),,,,とうしゅ
+投手 (Meaning),,,,PITCHER
+所 (Furigana),,,,ところ
 所 (Meaning),,,,PLACE (SPOT, SCENE)
-場 (Furigana),,,,じょう
-場 (Meaning),,,,PLACE (LOCATION, SPOT)
-点 (Furigana),,,,てん
-点 (Meaning),,,,POINTS (SCORE)
-交 (Furigana),,,,こう
-交 (Meaning),,,,POLICE BOX (KOBAN)
-池 (Furigana),,,,ち
+場所 (Furigana),,,,ばしょ
+場所 (Meaning),,,,PLACE (LOCATION, SPOT)
+点数 (Furigana),,,,てんすう
+点数 (Meaning),,,,POINTS (SCORE)
+交番 (Furigana),,,,こうばん
+交番 (Meaning),,,,POLICE BOX (KOBAN)
+池 (Furigana),,,,いけ
 池 (Meaning),,,,POND
-私 (Furigana),,,,し
-私 (Meaning),,,,PRIVATE COLLEGE (PRIVATE UNIVERSITY)
-番 (Furigana),,,,ばん
-番 (Meaning),,,,PROGRAM (PROGRAMME)
-役 (Furigana),,,,やく
-役 (Meaning),,,,PUBLIC OFFICIAL (GOVERNMENT OFFICIAL, PUBLIC SERVANT)
-住 (Furigana),,,,じゅう
-住 (Meaning),,,,RESIDENT (INHABITANT, DWELLER)
-道 (Furigana),,,,どう
+私立大学 (Furigana),,,,しりつだいがく
+私立大学 (Meaning),,,,PRIVATE COLLEGE (PRIVATE UNIVERSITY)
+番組 (Furigana),,,,ばんぐみ
+番組 (Meaning),,,,PROGRAM (PROGRAMME)
+役人 (Furigana),,,,やくにん
+役人 (Meaning),,,,PUBLIC OFFICIAL (GOVERNMENT OFFICIAL, PUBLIC SERVANT)
+住人 (Furigana),,,,じゅうにん
+住人 (Meaning),,,,RESIDENT (INHABITANT, DWELLER)
+道 (Furigana),,,,みち
 道 (Meaning),,,,ROAD (STREET, PATH, WAY)
 役 (Furigana),,,,やく
 役 (Meaning),,,,ROLE (PART, DUTY, SERVICE)
-学 (Furigana),,,,がく
-学 (Meaning),,,,SCHOLAR
-数 (Furigana),,,,すう
-数 (Meaning),,,,SEVERAL YEARS
-歩 (Furigana),,,,ほ
-歩 (Meaning),,,,SIDEWALK (FOOTPATH, PAVEMENT)
-間 (Furigana),,,,かん
-間 (Meaning),,,,SOON (BEFORE LONG, SHORTLY)
-出 (Furigana),,,,しゅつ
-出 (Meaning),,,,RELEASE FROM PRISON (SOURCE, ORIGIN)
-南 (Furigana),,,,なん
-南 (Meaning),,,,SOUTH AMERICA
-南 (Furigana),,,,なん
-南 (Meaning),,,,SOUTH EXIT (SOUTH ENTRANCE, SOUTHERN EXIT, SOUTHERN ENTRANCE, SOUTH GATE)
-空 (Furigana),,,,くう
-空 (Meaning),,,,SPACE
-科 (Furigana),,,,か
-科 (Meaning),,,,SUBJECT (COURSE, CURRICULUM)
-自 (Furigana),,,,じ
-自 (Meaning),,,,SUICIDE (SELF DETERMINATION)
-電 (Furigana),,,,でん
-電 (Meaning),,,,TELEPHONE (PHONE)
-身 (Furigana),,,,しん
-身 (Meaning),,,,THE BODY (HEALTH, BODY)
-人 (Furigana),,,,にん
-人 (Meaning),,,,THE NUMBER OF PEOPLE (NUMBER OF PEOPLE, THE AMOUNT OF PEOPLE, AMOUNT OF PEOPLE)
-前 (Furigana),,,,ぜん
-前 (Meaning),,,,THE OTHER DAY (RECENTLY, IN FRONT OF THIS)
-時 (Furigana),,,,じ
-時 (Meaning),,,,TIME
-答 (Furigana),,,,こた
-答 (Meaning),,,,TO ANSWER (TO REPLY, TO RESPOND)
-出 (Furigana),,,,しゅつ
-出 (Meaning),,,,TO BE FINISHED (TO BE COMPLETED)
-点 (Furigana),,,,てん
-点 (Meaning),,,,TO BE LIT (TO BE IGNITED, TO BE ON, TO COME ON)
-交 (Furigana),,,,こう
-交 (Meaning),,,,TO BE MIXED (TO BE BLENDED WITH, TO JOIN)
-曲 (Furigana),,,,きょく
-曲 (Meaning),,,,TO BEND (TO BEND SOMETHING)
-役 (Furigana),,,,やく
-役 (Meaning),,,,TO BE USEFUL (TO BE OF USE, TO BE HELPFUL, TO BE OF SERVICE)
-買 (Furigana),,,,か
-買 (Meaning),,,,TO BUY
-対 (Furigana),,,,たい
-対 (Meaning),,,,TO COMPARE WITH (TO FACE EACH OTHER, TO OPPOSE, TO COMPARE, TO CONTRAST, TO CONTRAST WITH)
-数 (Furigana),,,,すう
-数 (Meaning),,,,TO COUNT
-決 (Furigana),,,,けつ
-決 (Meaning),,,,TO DECIDE
-近 (Furigana),,,,きん
-近 (Meaning),,,,TO GET CLOSE (TO APPROACH, TO DRAW NEAR, TO NEAR, TO BRING NEAR)
-当 (Furigana),,,,とう
-当 (Meaning),,,,TO GUESS (TO HIT, TO PUT)
-助 (Furigana),,,,じょ
-助 (Meaning),,,,TO HELP (TO SAVE, TO RESCUE)
-住 (Furigana),,,,じゅう
-住 (Meaning),,,,TO LIVE (TO DWELL, TO RESIDE)
-明 (Furigana),,,,めい
-明 (Meaning),,,,TOMORROW
-見 (Furigana),,,,み
-見 (Meaning),,,,TO REEVALUATE (TO LOOK AGAIN, TO REASSESS)
-思 (Furigana),,,,おも
-思 (Meaning),,,,TO REMEMBER (TO RECALL)
-走 (Furigana),,,,そう
-走 (Meaning),,,,TO RUN AROUND
-話 (Furigana),,,,わ
-話 (Meaning),,,,TO SPEAK (TO TALK)
-支 (Furigana),,,,し
-支 (Meaning),,,,TO SUPPORT
-投 (Furigana),,,,とう
-投 (Meaning),,,,TO THROW (TO THROW SOMETHING)
-化 (Furigana),,,,か
-化 (Meaning),,,,TO TRANSFORM ONESELF (TO BE TRANSFORMED)
-回 (Furigana),,,,かい
-回 (Meaning),,,,TO TURN SOMETHING (TO ROTATE SOMETHING, TO SPIN SOMETHING)
-向 (Furigana),,,,こう
-向 (Meaning),,,,TO TURN SOMETHING TOWARDS (TO POINT SOMETHING AT)
-電 (Furigana),,,,でん
-電 (Meaning),,,,TRAIN
-水 (Furigana),,,,すい
-水 (Meaning),,,,WATER SUPPLY (WATER SERVICE, WATERWORKS, AQUEDUCT, CONDUIT, WATER LINE)
-全 (Furigana),,,,ぜん
-全 (Meaning),,,,WHOLE BODY (ENTIRE BODY)
+学者 (Furigana),,,,がくしゃ
+学者 (Meaning),,,,SCHOLAR
+数年 (Furigana),,,,すうねん
+数年 (Meaning),,,,SEVERAL YEARS
+歩道 (Furigana),,,,ほどう
+歩道 (Meaning),,,,SIDEWALK (FOOTPATH, PAVEMENT)
+間もなく (Furigana),,,,まもなく
+間もなく (Meaning),,,,SOON (BEFORE LONG, SHORTLY)
+出所 (Furigana),,,,しゅっしょ
+出所 (Meaning),,,,RELEASE FROM PRISON (SOURCE, ORIGIN)
+南米 (Furigana),,,,なんべい
+南米 (Meaning),,,,SOUTH AMERICA
+南口 (Furigana),,,,みなみぐち
+南口 (Meaning),,,,SOUTH EXIT (SOUTH ENTRANCE, SOUTHERN EXIT, SOUTHERN ENTRANCE, SOUTH GATE)
+空間 (Furigana),,,,くうかん
+空間 (Meaning),,,,SPACE
+科目 (Furigana),,,,かもく
+科目 (Meaning),,,,SUBJECT (COURSE, CURRICULUM)
+自決 (Furigana),,,,じけつ
+自決 (Meaning),,,,SUICIDE (SELF DETERMINATION)
+電話 (Furigana),,,,でんわ
+電話 (Meaning),,,,TELEPHONE (PHONE)
+身体 (Furigana),,,,しんたい
+身体 (Meaning),,,,THE BODY (HEALTH, BODY)
+人数 (Furigana),,,,にんずう
+人数 (Meaning),,,,THE NUMBER OF PEOPLE (NUMBER OF PEOPLE, THE AMOUNT OF PEOPLE, AMOUNT OF PEOPLE)
+この前 (Furigana),,,,このまえ
+この前 (Meaning),,,,THE OTHER DAY (RECENTLY, IN FRONT OF THIS)
+時間 (Furigana),,,,じかん
+時間 (Meaning),,,,TIME
+答える (Furigana),,,,こたえる
+答える (Meaning),,,,TO ANSWER (TO REPLY, TO RESPOND)
+出来上がる (Furigana),,,,できあがる
+出来上がる (Meaning),,,,TO BE FINISHED (TO BE COMPLETED)
+点く (Furigana),,,,つく
+点く (Meaning),,,,TO BE LIT (TO BE IGNITED, TO BE ON, TO COME ON)
+交じる (Furigana),,,,まじる
+交じる (Meaning),,,,TO BE MIXED (TO BE BLENDED WITH, TO JOIN)
+曲げる (Furigana),,,,まげる
+曲げる (Meaning),,,,TO BEND (TO BEND SOMETHING)
+役に立つ (Furigana),,,,やくにたつ
+役に立つ (Meaning),,,,TO BE USEFUL (TO BE OF USE, TO BE HELPFUL, TO BE OF SERVICE)
+買う (Furigana),,,,かう
+買う (Meaning),,,,TO BUY
+対する (Furigana),,,,たいする
+対する (Meaning),,,,TO COMPARE WITH (TO FACE EACH OTHER, TO OPPOSE, TO COMPARE, TO CONTRAST, TO CONTRAST WITH)
+数える (Furigana),,,,かぞえる
+数える (Meaning),,,,TO COUNT
+決める (Furigana),,,,きめる
+決める (Meaning),,,,TO DECIDE
+近づく (Furigana),,,,ちかづく
+近づく (Meaning),,,,TO GET CLOSE (TO APPROACH, TO DRAW NEAR, TO NEAR, TO BRING NEAR)
+当てる (Furigana),,,,あてる
+当てる (Meaning),,,,TO GUESS (TO HIT, TO PUT)
+助ける (Furigana),,,,たすける
+助ける (Meaning),,,,TO HELP (TO SAVE, TO RESCUE)
+住む (Furigana),,,,すむ
+住む (Meaning),,,,TO LIVE (TO DWELL, TO RESIDE)
+明日 (Furigana),,,,あした
+明日 (Meaning),,,,TOMORROW
+見直す (Furigana),,,,みなおす
+見直す (Meaning),,,,TO REEVALUATE (TO LOOK AGAIN, TO REASSESS)
+思い出す (Furigana),,,,おもいだす
+思い出す (Meaning),,,,TO REMEMBER (TO RECALL)
+走り回る (Furigana),,,,はしりまわる
+走り回る (Meaning),,,,TO RUN AROUND
+話す (Furigana),,,,はなす
+話す (Meaning),,,,TO SPEAK (TO TALK)
+支える (Furigana),,,,ささえる
+支える (Meaning),,,,TO SUPPORT
+投げる (Furigana),,,,なげる
+投げる (Meaning),,,,TO THROW (TO THROW SOMETHING)
+化ける (Furigana),,,,ばける
+化ける (Meaning),,,,TO TRANSFORM ONESELF (TO BE TRANSFORMED)
+回す (Furigana),,,,まわす
+回す (Meaning),,,,TO TURN SOMETHING (TO ROTATE SOMETHING, TO SPIN SOMETHING)
+向ける (Furigana),,,,むける
+向ける (Meaning),,,,TO TURN SOMETHING TOWARDS (TO POINT SOMETHING AT)
+電車 (Furigana),,,,でんしゃ
+電車 (Meaning),,,,TRAIN
+水道 (Furigana),,,,すいどう
+水道 (Meaning),,,,WATER SUPPLY (WATER SERVICE, WATERWORKS, AQUEDUCT, CONDUIT, WATER LINE)
+全身 (Furigana),,,,ぜんしん
+全身 (Meaning),,,,WHOLE BODY (ENTIRE BODY)
 森 (Furigana),,,,もり
 森 (Meaning),,,,WOODS (FOREST)
-前 (Furigana),,,,ぜん
-前 (Meaning),,,,YOU
-君 (Furigana),,,,くん
+お前 (Furigana),,,,おまえ
+お前 (Meaning),,,,YOU
+君 (Furigana),,,,きみ
 君 (Meaning),,,,YOU (BUDDY)

@@ -62,221 +62,221 @@
 悩 (Meaning),,,,Worry
 屈 (Onyomi),,,,くつ
 屈 (Meaning),,,,Yield
-給 (Furigana),,,,きゅう
-給 (Meaning),,,,ALLOWANCE (WAGES, PAY, SALARY, GROSS PAY)
-健 (Furigana),,,,けん
-健 (Meaning),,,,AMNESIA (LOSS OF MEMORY)
-南 (Furigana),,,,なん
-南 (Meaning),,,,ANTARCTICA
-訪 (Furigana),,,,ほう
-訪 (Meaning),,,,A VISIT (VISIT)
-悩 (Furigana),,,,なや
-悩 (Meaning),,,,A WORRY (WORRY, A TROUBLE, TROUBLE)
-悪 (Furigana),,,,あく
-悪 (Meaning),,,,BAD INFLUENCE (EVIL INFLUENCE)
-野 (Furigana),,,,や
-野 (Meaning),,,,BASTARD (GUY, FELLOW)
-腹 (Furigana),,,,ふく
+給与 (Furigana),,,,きゅうよ
+給与 (Meaning),,,,ALLOWANCE (WAGES, PAY, SALARY, GROSS PAY)
+健忘症 (Furigana),,,,けんぼうしょう
+健忘症 (Meaning),,,,AMNESIA (LOSS OF MEMORY)
+南極 (Furigana),,,,なんきょく
+南極 (Meaning),,,,ANTARCTICA
+訪問 (Furigana),,,,ほうもん
+訪問 (Meaning),,,,A VISIT (VISIT)
+悩み (Furigana),,,,なやみ
+悩み (Meaning),,,,A WORRY (WORRY, A TROUBLE, TROUBLE)
+悪影響 (Furigana),,,,あくえいきょう
+悪影響 (Meaning),,,,BAD INFLUENCE (EVIL INFLUENCE)
+野郎 (Furigana),,,,やろう
+野郎 (Meaning),,,,BASTARD (GUY, FELLOW)
+腹 (Furigana),,,,はら
 腹 (Meaning),,,,BELLY (ABDOMEN, STOMACH)
-長 (Furigana),,,,ちょう
-長 (Meaning),,,,BOOTS (RUBBER BOOTS, RAIN BOOTS)
-退 (Furigana),,,,たい
-退 (Meaning),,,,BORING (BOREDOM, TEDIUM)
-着 (Furigana),,,,ちゃく
-着 (Meaning),,,,CHANGE OF CLOTHES
-手 (Furigana),,,,て
-手 (Meaning),,,,CLUE (A CLUE)
-腰 (Furigana),,,,こし
-腰 (Meaning),,,,COWARD
-濃 (Furigana),,,,のう
-濃 (Meaning),,,,DENSITY (CONCENTRATION)
-症 (Furigana),,,,しょう
-症 (Meaning),,,,DISEASE (SICKNESS)
-構 (Furigana),,,,こう
-構 (Meaning),,,,DON'T WORRY ABOUT IT (DON'T WORRY)
-頑 (Furigana),,,,がん
-頑 (Meaning),,,,DO YOUR BEST (GOOD LUCK)
-端 (Furigana),,,,たん
+長靴 (Furigana),,,,ながぐつ
+長靴 (Meaning),,,,BOOTS (RUBBER BOOTS, RAIN BOOTS)
+退屈 (Furigana),,,,たいくつ
+退屈 (Meaning),,,,BORING (BOREDOM, TEDIUM)
+着替え (Furigana),,,,きがえ
+着替え (Meaning),,,,CHANGE OF CLOTHES
+手掛かり (Furigana),,,,てがかり
+手掛かり (Meaning),,,,CLUE (A CLUE)
+腰抜け (Furigana),,,,こしぬけ
+腰抜け (Meaning),,,,COWARD
+濃度 (Furigana),,,,のうど
+濃度 (Meaning),,,,DENSITY (CONCENTRATION)
+〜症 (Furigana),,,,しょう
+〜症 (Meaning),,,,DISEASE (SICKNESS)
+お構いなく (Furigana),,,,おかまいなく
+お構いなく (Meaning),,,,DON'T WORRY ABOUT IT (DON'T WORRY)
+頑張れ (Furigana),,,,がんばれ
+頑張れ (Meaning),,,,DO YOUR BEST (GOOD LUCK)
+端 (Furigana),,,,はし
 端 (Meaning),,,,EDGE
-効 (Furigana),,,,こう
-効 (Meaning),,,,EFFECTIVE
-就 (Furigana),,,,しゅう
-就 (Meaning),,,,EMPLOYMENT
-極 (Furigana),,,,きょく
-極 (Meaning),,,,EXTREME
-就 (Furigana),,,,しゅう
-就 (Meaning),,,,FINDING EMPLOYMENT (FINDING A JOB, GETTING A JOB, ACCEPTING A JOB)
-段 (Furigana),,,,だん
-段 (Meaning),,,,GRADUALLY (STEPS)
-中 (Furigana),,,,ちゅう
-中 (Meaning),,,,HALF FINISHED (HALF ASSED)
-頭 (Furigana),,,,あたま
-頭 (Meaning),,,,HEADACHE
-健 (Furigana),,,,けん
-健 (Meaning),,,,HEALTH
-休 (Furigana),,,,きゅう
-休 (Meaning),,,,HOLIDAY (TIME OFF, DAY OFF)
-間 (Furigana),,,,かん
-間 (Meaning),,,,IDIOT
-不 (Furigana),,,,ふ
-不 (Meaning),,,,INSOMNIA
-居 (Furigana),,,,きょ
-居 (Meaning),,,,IZAKAYA (JAPANESE STYLE BAR)
-昇 (Furigana),,,,しょう
-昇 (Meaning),,,,JOB PROMOTION (PROMOTION)
-大 (Furigana),,,,たい
-大 (Meaning),,,,LARGE SCALE
-早 (Furigana),,,,そう
-早 (Meaning),,,,LEAVE EARLY
-任 (Furigana),,,,にん
-任 (Meaning),,,,LEAVING DECISIONS TO SOMEONE ELSE (CHEF'S CHOICE, OMAKASE)
-限 (Furigana),,,,げん
-限 (Meaning),,,,LIMITED EDITION
-居 (Furigana),,,,きょ
-居 (Meaning),,,,LIVING ROOM (SITTING ROOM, PARLOR, PARLOUR)
-迷 (Furigana),,,,めい
-迷 (Meaning),,,,LOST CHILD (LOST KID, LOST PERSON)
-迷 (Furigana),,,,めい
-迷 (Meaning),,,,MAZE
-両 (Furigana),,,,りょう
-両 (Meaning),,,,MONEY EXCHANGE (MAKE CHANGE, CURRENCY EXCHANGE)
-結 (Furigana),,,,けつ
-結 (Meaning),,,,NO THANK YOU (NO THANKS)
-途 (Furigana),,,,と
-途 (Meaning),,,,ON THE WAY (EN ROUTE)
-組 (Furigana),,,,そ
-組 (Meaning),,,,ORGANIZATION
-痛 (Furigana),,,,つう
-痛 (Meaning),,,,PAINFUL (OW, IT HURTS, OUCH)
-極 (Furigana),,,,きょく
-極 (Meaning),,,,PARADISE
-減 (Furigana),,,,げん
-減 (Meaning),,,,PAY CUT
-昇 (Furigana),,,,しょう
-昇 (Meaning),,,,PAY RAISE (SALARY RAISE, RAISE)
-迫 (Furigana),,,,はく
-迫 (Meaning),,,,PERSECUTION (OPPRESSION)
-圧 (Furigana),,,,あつ
-圧 (Meaning),,,,PRESSURE
-値 (Furigana),,,,ち
-値 (Meaning),,,,PRICE (COST)
-貸 (Furigana),,,,か
-貸 (Meaning),,,,RESERVED (RESERVATION)
-引 (Furigana),,,,ひ
-引 (Meaning),,,,RETIRING (RETIREMENT, WITHDRAWING FROM PUBLIC LIFE)
-巻 (Furigana),,,,かん
-巻 (Meaning),,,,ROLLED SUSHI (SUSHI ROLL, MAKIZUSHI)
-切 (Furigana),,,,せつ
-切 (Meaning),,,,SEPPUKU (RITUAL SUICIDE)
+効果的 (Furigana),,,,こうかてき
+効果的 (Meaning),,,,EFFECTIVE
+就業 (Furigana),,,,しゅうぎょう
+就業 (Meaning),,,,EMPLOYMENT
+極端 (Furigana),,,,きょくたん
+極端 (Meaning),,,,EXTREME
+就職 (Furigana),,,,しゅうしょく
+就職 (Meaning),,,,FINDING EMPLOYMENT (FINDING A JOB, GETTING A JOB, ACCEPTING A JOB)
+段々 (Furigana),,,,だんだん
+段々 (Meaning),,,,GRADUALLY (STEPS)
+中途半端 (Furigana),,,,ちゅうとはんぱ
+中途半端 (Meaning),,,,HALF FINISHED (HALF ASSED)
+頭痛 (Furigana),,,,ずつう
+頭痛 (Meaning),,,,HEADACHE
+健康 (Furigana),,,,けんこう
+健康 (Meaning),,,,HEALTH
+休暇 (Furigana),,,,きゅうか
+休暇 (Meaning),,,,HOLIDAY (TIME OFF, DAY OFF)
+間抜け (Furigana),,,,まぬけ
+間抜け (Meaning),,,,IDIOT
+不眠症 (Furigana),,,,ふみんしょう
+不眠症 (Meaning),,,,INSOMNIA
+居酒屋 (Furigana),,,,いざかや
+居酒屋 (Meaning),,,,IZAKAYA (JAPANESE STYLE BAR)
+昇進 (Furigana),,,,しょうしん
+昇進 (Meaning),,,,JOB PROMOTION (PROMOTION)
+大規模 (Furigana),,,,だいきぼ
+大規模 (Meaning),,,,LARGE SCALE
+早退 (Furigana),,,,そうたい
+早退 (Meaning),,,,LEAVE EARLY
+お任せ (Furigana),,,,おまかせ
+お任せ (Meaning),,,,LEAVING DECISIONS TO SOMEONE ELSE (CHEF'S CHOICE, OMAKASE)
+限定販売 (Furigana),,,,げんていはんばい
+限定販売 (Meaning),,,,LIMITED EDITION
+居間 (Furigana),,,,いま
+居間 (Meaning),,,,LIVING ROOM (SITTING ROOM, PARLOR, PARLOUR)
+迷子 (Furigana),,,,まいご
+迷子 (Meaning),,,,LOST CHILD (LOST KID, LOST PERSON)
+迷路 (Furigana),,,,めいろ
+迷路 (Meaning),,,,MAZE
+両替 (Furigana),,,,りょうがえ
+両替 (Meaning),,,,MONEY EXCHANGE (MAKE CHANGE, CURRENCY EXCHANGE)
+結構です (Furigana),,,,けっこうです
+結構です (Meaning),,,,NO THANK YOU (NO THANKS)
+途中 (Furigana),,,,とちゅう
+途中 (Meaning),,,,ON THE WAY (EN ROUTE)
+組織 (Furigana),,,,そしき
+組織 (Meaning),,,,ORGANIZATION
+痛い (Furigana),,,,いたい
+痛い (Meaning),,,,PAINFUL (OW, IT HURTS, OUCH)
+極楽 (Furigana),,,,ごくらく
+極楽 (Meaning),,,,PARADISE
+減給 (Furigana),,,,げんきゅう
+減給 (Meaning),,,,PAY CUT
+昇給 (Furigana),,,,しょうきゅう
+昇給 (Meaning),,,,PAY RAISE (SALARY RAISE, RAISE)
+迫害 (Furigana),,,,はくがい
+迫害 (Meaning),,,,PERSECUTION (OPPRESSION)
+圧迫 (Furigana),,,,あっぱく
+圧迫 (Meaning),,,,PRESSURE
+値段 (Furigana),,,,ねだん
+値段 (Meaning),,,,PRICE (COST)
+貸し切り (Furigana),,,,かしきり
+貸し切り (Meaning),,,,RESERVED (RESERVATION)
+引退 (Furigana),,,,いんたい
+引退 (Meaning),,,,RETIRING (RETIREMENT, WITHDRAWING FROM PUBLIC LIFE)
+巻きずし (Furigana),,,,まきずし
+巻きずし (Meaning),,,,ROLLED SUSHI (SUSHI ROLL, MAKIZUSHI)
+切腹 (Furigana),,,,せっぷく
+切腹 (Meaning),,,,SEPPUKU (RITUAL SUICIDE)
 靴 (Furigana),,,,くつ
 靴 (Meaning),,,,SHOES
-靴 (Furigana),,,,くつ
-靴 (Meaning),,,,SHOE STORE (SHOE SHOP)
-睡 (Furigana),,,,すい
-睡 (Meaning),,,,SLEEP
-眠 (Furigana),,,,みん
-眠 (Meaning),,,,SLEEPY
-小 (Furigana),,,,しょう
-小 (Meaning),,,,SMALL SCALE
-靴 (Furigana),,,,くつ
-靴 (Meaning),,,,SOCKS
-暇 (Furigana),,,,か
+靴屋 (Furigana),,,,くつや
+靴屋 (Meaning),,,,SHOE STORE (SHOE SHOP)
+睡眠 (Furigana),,,,すいみん
+睡眠 (Meaning),,,,SLEEP
+眠い (Furigana),,,,ねむい
+眠い (Meaning),,,,SLEEPY
+小規模 (Furigana),,,,しょうきぼ
+小規模 (Meaning),,,,SMALL SCALE
+靴下 (Furigana),,,,くつした
+靴下 (Meaning),,,,SOCKS
+暇 (Furigana),,,,ひま
 暇 (Meaning),,,,SPARE TIME (FREE TIME)
-春 (Furigana),,,,はる
-春 (Meaning),,,,SPRING ROLLS
-段 (Furigana),,,,だん
-段 (Meaning),,,,STAGE (PHASE)
-階 (Furigana),,,,かい
-階 (Meaning),,,,STAIRS (STAIRWAY)
-構 (Furigana),,,,こう
-構 (Meaning),,,,STANCE
+春巻き (Furigana),,,,はるまき
+春巻き (Meaning),,,,SPRING ROLLS
+段階 (Furigana),,,,だんかい
+段階 (Meaning),,,,STAGE (PHASE)
+階段 (Furigana),,,,かいだん
+階段 (Meaning),,,,STAIRS (STAIRWAY)
+構え (Furigana),,,,かまえ
+構え (Meaning),,,,STANCE
 胃 (Furigana),,,,い
 胃 (Meaning),,,,STOMACH
-胃 (Furigana),,,,い
-胃 (Meaning),,,,STOMACHACHE
-迷 (Furigana),,,,めい
-迷 (Meaning),,,,SUPERSTITION
-供 (Furigana),,,,きょう
-供 (Meaning),,,,SUPPLY
-症 (Furigana),,,,しょう
-症 (Meaning),,,,SYMPTOM
-誘 (Furigana),,,,ゆう
-誘 (Meaning),,,,TEMPTATION (SEDUCTION)
-第 (Furigana),,,,だい
-第 (Meaning),,,,THE FIRST STEP (FIRST STEP)
-理 (Furigana),,,,り
-理 (Meaning),,,,THEORY (REASON, ARGUMENT)
-濃 (Furigana),,,,のう
-濃 (Meaning),,,,THICK (DENSE, CONCENTRATED, DEEP, STRONG)
-先 (Furigana),,,,せん
-先 (Meaning),,,,TIP (THE LATEST, CUTTING EDGE)
-逮 (Furigana),,,,たい
-逮 (Meaning),,,,TO ARREST (TO CAPTURE, TO APPREHEND)
-昇 (Furigana),,,,しょう
-昇 (Meaning),,,,TO ASCEND
-従 (Furigana),,,,じゅう
-従 (Meaning),,,,TO BE ACCOMPANIED BY (TO PRESIDE OVER, TO SUBDUE)
-招 (Furigana),,,,しょう
-招 (Meaning),,,,TO BECKON (TO INVITE, TO SUMMON)
-退 (Furigana),,,,たい
-退 (Meaning),,,,TO BE DISCHARGED (TO LEAVE THE HOSPITAL)
-抜 (Furigana),,,,ぬ
-抜 (Meaning),,,,TO BE EXTRACTED (TO FALL OUT, TO BE MISSING, TO LEAVE)
-隠 (Furigana),,,,いん
-隠 (Meaning),,,,TO BE HIDDEN
-掛 (Furigana),,,,か
-掛 (Meaning),,,,TO BE HUNG (TO GET HUNG, TO HANG)
-惑 (Furigana),,,,わく
-惑 (Meaning),,,,TO BE MISGUIDED (TO BE LED ASTRAY, TO BE PERPLEXED, TO BE PUZZLED)
-屈 (Furigana),,,,くつ
-屈 (Meaning),,,,TO BEND DOWN (TO LEAN OVER, TO CROUCH, TO BOW)
-刺 (Furigana),,,,し
-刺 (Meaning),,,,TO BE PIERCED (TO GET PRICKED, TO BE STABBED)
-極 (Furigana),,,,きょく
-極 (Meaning),,,,TO CARRY TO EXTREMES (TO MASTER)
-捕 (Furigana),,,,ほ
-捕 (Meaning),,,,TO CATCH (TO CAPTURE, TO SEIZE, TO GRAB)
-取 (Furigana),,,,しゅ
-取 (Meaning),,,,TO EXCHANGE
-怒 (Furigana),,,,ど
-怒 (Meaning),,,,TO GET ANGRY (TO GET MAD)
-迷 (Furigana),,,,めい
-迷 (Meaning),,,,TO GET LOST (TO GO ASTRAY, TO WAVER, TO HESITATE, TO WANDER)
-手 (Furigana),,,,て
-手 (Meaning),,,,TO HAND OVER (TO SURRENDER)
-招 (Furigana),,,,しょう
-招 (Meaning),,,,TO INVITE (TO SUMMON)
-誘 (Furigana),,,,ゆう
-誘 (Meaning),,,,TO INVITE (TO ASK, TO TEMPT, TO ENTICE)
-貸 (Furigana),,,,か
-貸 (Meaning),,,,TO LEND (TO RENT)
-締 (Furigana),,,,てい
-締 (Meaning),,,,TO RATIFY (TO BIND)
-隠 (Furigana),,,,いん
-隠 (Meaning),,,,TO RETIRE (TO BE RETIRED, TO GO INTO RETIREMENT)
-見 (Furigana),,,,み
-見 (Meaning),,,,TO SEE SOMETHING'S TRUE NATURE (TO SEE THROUGH, TO FIND OUT)
-抜 (Furigana),,,,ぬ
-抜 (Meaning),,,,TO SELECT (TO EXTRACT, TO START TO PULL OUT)
-就 (Furigana),,,,しゅう
-就 (Meaning),,,,TO SETTLE IN (TO TAKE A SEAT, TO TAKE A POSITION)
-怒 (Furigana),,,,ど
-怒 (Meaning),,,,TO SHOUT AT (TO YELL AT)
-締 (Furigana),,,,てい
-締 (Meaning),,,,TO TIGHTEN (TO TIE)
-迫 (Furigana),,,,はく
-迫 (Meaning),,,,TO URGE (TO COERCE, TO PRESS, TO DRAW NEAR)
-訪 (Furigana),,,,ほう
-訪 (Meaning),,,,TO VISIT
-織 (Furigana),,,,しき
-織 (Meaning),,,,TO WEAVE (TO KNIT)
-悩 (Furigana),,,,なや
-悩 (Meaning),,,,TO WORRY (TO BE TROUBLED)
-迷 (Furigana),,,,めい
-迷 (Meaning),,,,TROUBLE (ANNOYANCE, INCONVENIENCE, NUISANCE)
-究 (Furigana),,,,きゅう
-究 (Meaning),,,,ULTIMATE
-切 (Furigana),,,,せつ
-切 (Meaning),,,,URGENCY (PRESSURE, DRAW NEAR, BE IMMINENT)
-給 (Furigana),,,,きゅう
-給 (Meaning),,,,WAGES (PAY, SALARY, NET PAY, BASE WAGES, BASE SALARY)
+胃痛 (Furigana),,,,いつう
+胃痛 (Meaning),,,,STOMACHACHE
+迷信 (Furigana),,,,めいしん
+迷信 (Meaning),,,,SUPERSTITION
+供給 (Furigana),,,,きょうきゅう
+供給 (Meaning),,,,SUPPLY
+症状 (Furigana),,,,しょうじょう
+症状 (Meaning),,,,SYMPTOM
+誘惑 (Furigana),,,,ゆうわく
+誘惑 (Meaning),,,,TEMPTATION (SEDUCTION)
+第一段 (Furigana),,,,だいいちだん
+第一段 (Meaning),,,,THE FIRST STEP (FIRST STEP)
+理屈 (Furigana),,,,りくつ
+理屈 (Meaning),,,,THEORY (REASON, ARGUMENT)
+濃い (Furigana),,,,こい
+濃い (Meaning),,,,THICK (DENSE, CONCENTRATED, DEEP, STRONG)
+先端 (Furigana),,,,せんたん
+先端 (Meaning),,,,TIP (THE LATEST, CUTTING EDGE)
+逮捕する (Furigana),,,,たいほする
+逮捕する (Meaning),,,,TO ARREST (TO CAPTURE, TO APPREHEND)
+昇る (Furigana),,,,のぼる
+昇る (Meaning),,,,TO ASCEND
+従える (Furigana),,,,したがえる
+従える (Meaning),,,,TO BE ACCOMPANIED BY (TO PRESIDE OVER, TO SUBDUE)
+招く (Furigana),,,,まねく
+招く (Meaning),,,,TO BECKON (TO INVITE, TO SUMMON)
+退院する (Furigana),,,,たいいんする
+退院する (Meaning),,,,TO BE DISCHARGED (TO LEAVE THE HOSPITAL)
+抜ける (Furigana),,,,ぬける
+抜ける (Meaning),,,,TO BE EXTRACTED (TO FALL OUT, TO BE MISSING, TO LEAVE)
+隠れる (Furigana),,,,かくれる
+隠れる (Meaning),,,,TO BE HIDDEN
+掛かる (Furigana),,,,かかる
+掛かる (Meaning),,,,TO BE HUNG (TO GET HUNG, TO HANG)
+惑う (Furigana),,,,まどう
+惑う (Meaning),,,,TO BE MISGUIDED (TO BE LED ASTRAY, TO BE PERPLEXED, TO BE PUZZLED)
+屈む (Furigana),,,,かがむ
+屈む (Meaning),,,,TO BEND DOWN (TO LEAN OVER, TO CROUCH, TO BOW)
+刺さる (Furigana),,,,ささる
+刺さる (Meaning),,,,TO BE PIERCED (TO GET PRICKED, TO BE STABBED)
+極める (Furigana),,,,きわめる
+極める (Meaning),,,,TO CARRY TO EXTREMES (TO MASTER)
+捕える (Furigana),,,,とらえる
+捕える (Meaning),,,,TO CATCH (TO CAPTURE, TO SEIZE, TO GRAB)
+取り替える (Furigana),,,,とりかえる
+取り替える (Meaning),,,,TO EXCHANGE
+怒る (Furigana),,,,おこる
+怒る (Meaning),,,,TO GET ANGRY (TO GET MAD)
+迷う (Furigana),,,,まよう
+迷う (Meaning),,,,TO GET LOST (TO GO ASTRAY, TO WAVER, TO HESITATE, TO WANDER)
+手渡す (Furigana),,,,てわたす
+手渡す (Meaning),,,,TO HAND OVER (TO SURRENDER)
+誘う (Furigana),,,,さそう
+誘う (Meaning),,,,TO INVITE (TO ASK, TO TEMPT, TO ENTICE)
+招待する (Furigana),,,,しょうたいする
+招待する (Meaning),,,,TO INVITE (TO SUMMON)
+貸す (Furigana),,,,かす
+貸す (Meaning),,,,TO LEND (TO RENT)
+締結する (Furigana),,,,ていけつする
+締結する (Meaning),,,,TO RATIFY (TO BIND)
+隠居する (Furigana),,,,いんきょする
+隠居する (Meaning),,,,TO RETIRE (TO BE RETIRED, TO GO INTO RETIREMENT)
+見抜く (Furigana),,,,みぬく
+見抜く (Meaning),,,,TO SEE SOMETHING'S TRUE NATURE (TO SEE THROUGH, TO FIND OUT)
+抜き出す (Furigana),,,,ぬきだす
+抜き出す (Meaning),,,,TO SELECT (TO EXTRACT, TO START TO PULL OUT)
+就く (Furigana),,,,つく
+就く (Meaning),,,,TO SETTLE IN (TO TAKE A SEAT, TO TAKE A POSITION)
+怒鳴る (Furigana),,,,どなる
+怒鳴る (Meaning),,,,TO SHOUT AT (TO YELL AT)
+締める (Furigana),,,,しめる
+締める (Meaning),,,,TO TIGHTEN (TO TIE)
+迫る (Furigana),,,,せまる
+迫る (Meaning),,,,TO URGE (TO COERCE, TO PRESS, TO DRAW NEAR)
+訪ねる (Furigana),,,,たずねる
+訪ねる (Meaning),,,,TO VISIT
+織る (Furigana),,,,おる
+織る (Meaning),,,,TO WEAVE (TO KNIT)
+悩む (Furigana),,,,なやむ
+悩む (Meaning),,,,TO WORRY (TO BE TROUBLED)
+迷惑 (Furigana),,,,めいわく
+迷惑 (Meaning),,,,TROUBLE (ANNOYANCE, INCONVENIENCE, NUISANCE)
+究極 (Furigana),,,,きゅうきょく
+究極 (Meaning),,,,ULTIMATE
+切迫 (Furigana),,,,せっぱく
+切迫 (Meaning),,,,URGENCY (PRESSURE, DRAW NEAR, BE IMMINENT)
+給料 (Furigana),,,,きゅうりょう
+給料 (Meaning),,,,WAGES (PAY, SALARY, NET PAY, BASE WAGES, BASE SALARY)

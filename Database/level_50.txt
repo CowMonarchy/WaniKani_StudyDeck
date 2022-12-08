@@ -68,183 +68,183 @@
 搬 (Meaning),,,,Transport
 邪 (Onyomi),,,,じゃ
 邪 (Meaning),,,,Wicked
-帳 (Furigana),,,,ちょう
-帳 (Meaning),,,,ACCOUNT BOOK (REGISTER)
-巧 (Furigana),,,,こう
-巧 (Meaning),,,,ADEPT (SKILLFUL, CLEVER)
+帳簿 (Furigana),,,,ちょうぼ
+帳簿 (Meaning),,,,ACCOUNT BOOK (REGISTER)
+巧い (Furigana),,,,うまい
+巧い (Meaning),,,,ADEPT (SKILLFUL, CLEVER)
 鰐 (Furigana),,,,わに
 鰐 (Meaning),,,,ALLIGATOR (CROCODILE)
-古 (Furigana),,,,こ
-古 (Meaning),,,,ANCIENT TOMB (KOFUN)
-伯 (Furigana),,,,はく
-伯 (Meaning),,,,AUNT
-銘 (Furigana),,,,めい
-銘 (Meaning),,,,BRAND (MAKE)
-偶 (Furigana),,,,ぐう
-偶 (Meaning),,,,BY CHANCE (UNEXPECTEDLY, COINCIDENCE)
-搬 (Furigana),,,,はん
-搬 (Meaning),,,,CARRY OUT
-洞 (Furigana),,,,どう
+古墳 (Furigana),,,,こふん
+古墳 (Meaning),,,,ANCIENT TOMB (KOFUN)
+伯母 (Furigana),,,,おば
+伯母 (Meaning),,,,AUNT
+銘柄 (Furigana),,,,めいがら
+銘柄 (Meaning),,,,BRAND (MAKE)
+偶然 (Furigana),,,,ぐうぜん
+偶然 (Meaning),,,,BY CHANCE (UNEXPECTEDLY, COINCIDENCE)
+搬出 (Furigana),,,,はんしゅつ
+搬出 (Meaning),,,,CARRY OUT
+洞穴 (Furigana),,,,どうけつ
+洞穴 (Meaning),,,,CAVE (DEN)
+洞 (Furigana),,,,ほら
 洞 (Meaning),,,,CAVE (DEN)
-洞 (Furigana),,,,どう
-洞 (Meaning),,,,CAVE (DEN)
-翻 (Furigana),,,,ほん
-翻 (Meaning),,,,CHANGE ONE'S MIND (CHANGE YOUR MIND)
+翻意 (Furigana),,,,ほんい
+翻意 (Meaning),,,,CHANGE ONE'S MIND (CHANGE YOUR MIND)
 伯 (Furigana),,,,はく
 伯 (Meaning),,,,CHIEF (COUNT, EARL)
-風 (Furigana),,,,ふう
-風 (Meaning),,,,COLD (COMMON COLD)
-彩 (Furigana),,,,さい
-彩 (Meaning),,,,COLORING (COLOR SCHEME, MAKEUP)
-漫 (Furigana),,,,まん
-漫 (Meaning),,,,COMIC DIALOGUE (TWO MAN COMEDY ACT)
-訂 (Furigana),,,,てい
-訂 (Meaning),,,,CORRECTION (REVISION)
-把 (Furigana),,,,は
-把 (Meaning),,,,COUNTER FOR BUNDLES (COUNTER FOR BUNCHES, BUNDLE COUNTER, BUNCH COUNTER)
-法 (Furigana),,,,ほう
-法 (Meaning),,,,COURTROOM
+風邪 (Furigana),,,,かぜ
+風邪 (Meaning),,,,COLD (COMMON COLD)
+彩り (Furigana),,,,いろどり
+彩り (Meaning),,,,COLORING (COLOR SCHEME, MAKEUP)
+漫才 (Furigana),,,,まんざい
+漫才 (Meaning),,,,COMIC DIALOGUE (TWO MAN COMEDY ACT)
+訂正 (Furigana),,,,ていせい
+訂正 (Meaning),,,,CORRECTION (REVISION)
+〜把 (Furigana),,,,わ
+〜把 (Meaning),,,,COUNTER FOR BUNDLES (COUNTER FOR BUNCHES, BUNDLE COUNTER, BUNCH COUNTER)
+法廷 (Furigana),,,,ほうてい
+法廷 (Meaning),,,,COURTROOM
 蟹 (Furigana),,,,かに
 蟹 (Meaning),,,,CRAB
-水 (Furigana),,,,すい
-水 (Meaning),,,,CRYSTAL
+水晶 (Furigana),,,,すいしょう
+水晶 (Meaning),,,,CRYSTAL
 堰 (Furigana),,,,せき
 堰 (Meaning),,,,DAM
-感 (Furigana),,,,かん
-感 (Meaning),,,,DEEP IMPRESSION
-悪 (Furigana),,,,あく
-悪 (Meaning),,,,DEVIOUS (CUNNING, CRAFTY, WILY)
-漂 (Furigana),,,,ひょう
-漂 (Meaning),,,,DRIFTING (DRIFT)
-漂 (Furigana),,,,ひょう
-漂 (Meaning),,,,DRIFTING ASHORE
-銘 (Furigana),,,,めい
-銘 (Meaning),,,,EACH (INDIVIDUAL)
-堤 (Furigana),,,,てい
+感銘 (Furigana),,,,かんめい
+感銘 (Meaning),,,,DEEP IMPRESSION
+悪賢い (Furigana),,,,わるがしこい
+悪賢い (Meaning),,,,DEVIOUS (CUNNING, CRAFTY, WILY)
+漂流 (Furigana),,,,ひょうりゅう
+漂流 (Meaning),,,,DRIFTING (DRIFT)
+漂着 (Furigana),,,,ひょうちゃく
+漂着 (Meaning),,,,DRIFTING ASHORE
+銘々 (Furigana),,,,めいめい
+銘々 (Meaning),,,,EACH (INDIVIDUAL)
+堤 (Furigana),,,,つつみ
 堤 (Meaning),,,,EMBANKMENT (BANK, DIKE)
-堤 (Furigana),,,,てい
-堤 (Meaning),,,,EMBANKMENT (BANK, LEVEE)
-興 (Furigana),,,,きょう
-興 (Meaning),,,,EXCITEMENT (STIMULATION)
-殴 (Furigana),,,,おう
-殴 (Meaning),,,,FISTFIGHT (FIST FIGHT)
-無 (Furigana),,,,む
-無 (Meaning),,,,FUTILITY (USELESSNESS, POINTLESSNESS)
-下 (Furigana),,,,か
-下 (Meaning),,,,GETA (JAPANESE WOODEN CLOGS)
-鬱 (Furigana),,,,うつ
-鬱 (Meaning),,,,GLOOMY (MELANCHOLY, GLOOMINESS)
-鬱 (Furigana),,,,うつ
-鬱 (Meaning),,,,GLOOMY (GLOOMY MOOD, DEPRESSING)
-把 (Furigana),,,,は
-把 (Meaning),,,,GRASP (CATCH)
-墳 (Furigana),,,,ふん
-墳 (Meaning),,,,GRAVE (TOMB)
-麻 (Furigana),,,,ま
-麻 (Meaning),,,,HEMP CLOTH (LINEN)
-邪 (Furigana),,,,じゃ
-邪 (Meaning),,,,HINDRANCE (INTRUSION)
-空 (Furigana),,,,くう
-空 (Meaning),,,,HOLLOW (CAVITY, CAVE)
-飢 (Furigana),,,,き
-飢 (Meaning),,,,HUNGER (STARVATION)
-免 (Furigana),,,,めん
-免 (Meaning),,,,IMMUNITY (IMMUNIZATION)
-宮 (Furigana),,,,みや
-宮 (Meaning),,,,IMPERIAL COURT (ROYAL COURT)
-疫 (Furigana),,,,えき
-疫 (Meaning),,,,INFECTIOUS DISEASE (PLAGUE, EPIDEMIC)
-巧 (Furigana),,,,こう
-巧 (Meaning),,,,INGENIOUS (SKILLFUL)
-無 (Furigana),,,,む
-無 (Meaning),,,,INNOCENCE (SIMPLE MINDEDNESS, INNOCENT, SIMPLE MINDED, NAIVE)
-皇 (Furigana),,,,こう
-皇 (Meaning),,,,JAPANESE EMPRESS
-液 (Furigana),,,,えき
-液 (Meaning),,,,LIQUID CRYSTAL
-壮 (Furigana),,,,そう
-壮 (Meaning),,,,MAGNIFICENT (GRAND, EPIC)
-漫 (Furigana),,,,まん
-漫 (Meaning),,,,MANGA (JAPANESE COMICS)
-連 (Furigana),,,,れん
-連 (Meaning),,,,MOUNTAIN RANGE
-駄 (Furigana),,,,だ
-駄 (Meaning),,,,NOT GOOD (HOPELESS, CANNOT, NOT ALLOWED)
-偶 (Furigana),,,,ぐう
-偶 (Meaning),,,,OCCASIONALLY (ONCE IN A WHILE)
-生 (Furigana),,,,せい
-生 (Meaning),,,,ONE'S LIFETIME (ONE'S CAREER)
-軌 (Furigana),,,,き
-軌 (Meaning),,,,ORBIT (TRAJECTORY)
-仰 (Furigana),,,,ぎょう
-仰 (Meaning),,,,POMPOUS (EXAGGERATED)
-壮 (Furigana),,,,そう
-壮 (Meaning),,,,PRIME OF LIFE
-表 (Furigana),,,,ひょう
-表 (Meaning),,,,PUBLIC ACKNOWLEDGEMENT (PUBLIC RECOGNITION)
-公 (Furigana),,,,こう
-公 (Meaning),,,,PUBLIC NOTICE (PUBLIC ANNOUNCEMENT)
-検 (Furigana),,,,けん
-検 (Meaning),,,,QUARANTINE
-諮 (Furigana),,,,し
-諮 (Meaning),,,,QUESTION (ENQUIRY)
-輝 (Furigana),,,,き
-輝 (Meaning),,,,RADIANCE
-殴 (Furigana),,,,おう
-殴 (Meaning),,,,RAID
-名 (Furigana),,,,めい
-名 (Meaning),,,,REGISTER OF NAMES (LIST OF NAMES, ROLL)
-信 (Furigana),,,,しん
-信 (Meaning),,,,RELIGIOUS FAITH
-亭 (Furigana),,,,てい
-亭 (Meaning),,,,RESTAURANT (TRADITIONAL JAPANESE RESTAURANT, INN, PAVILION, TEA HOUSE)
-改 (Furigana),,,,かい
-改 (Meaning),,,,REVISED EDITION
-壮 (Furigana),,,,そう
-壮 (Meaning),,,,ROUSING
-配 (Furigana),,,,はい
-配 (Meaning),,,,SPOUSE (PARTNER)
-奮 (Furigana),,,,ふん
-奮 (Meaning),,,,STIRRING (ROUSING ONESELF)
-唐 (Furigana),,,,とう
-唐 (Meaning),,,,SUDDEN (UNEXPECTED)
-峰 (Furigana),,,,ほう
+堤防 (Furigana),,,,ていぼう
+堤防 (Meaning),,,,EMBANKMENT (BANK, LEVEE)
+興奮 (Furigana),,,,こうふん
+興奮 (Meaning),,,,EXCITEMENT (STIMULATION)
+殴り合い (Furigana),,,,なぐりあい
+殴り合い (Meaning),,,,FISTFIGHT (FIST FIGHT)
+無駄 (Furigana),,,,むだ
+無駄 (Meaning),,,,FUTILITY (USELESSNESS, POINTLESSNESS)
+下駄 (Furigana),,,,げた
+下駄 (Meaning),,,,GETA (JAPANESE WOODEN CLOGS)
+鬱気 (Furigana),,,,うっき
+鬱気 (Meaning),,,,GLOOMY (MELANCHOLY, GLOOMINESS)
+鬱陶しい (Furigana),,,,うっとうしい
+鬱陶しい (Meaning),,,,GLOOMY (GLOOMY MOOD, DEPRESSING)
+把握 (Furigana),,,,はあく
+把握 (Meaning),,,,GRASP (CATCH)
+墳墓 (Furigana),,,,ふんぼ
+墳墓 (Meaning),,,,GRAVE (TOMB)
+麻布 (Furigana),,,,あさぬの
+麻布 (Meaning),,,,HEMP CLOTH (LINEN)
+邪魔 (Furigana),,,,じゃま
+邪魔 (Meaning),,,,HINDRANCE (INTRUSION)
+空洞 (Furigana),,,,くうどう
+空洞 (Meaning),,,,HOLLOW (CAVITY, CAVE)
+飢え (Furigana),,,,うえ
+飢え (Meaning),,,,HUNGER (STARVATION)
+免疫 (Furigana),,,,めんえき
+免疫 (Meaning),,,,IMMUNITY (IMMUNIZATION)
+宮廷 (Furigana),,,,きゅうてい
+宮廷 (Meaning),,,,IMPERIAL COURT (ROYAL COURT)
+疫病 (Furigana),,,,えきびょう
+疫病 (Meaning),,,,INFECTIOUS DISEASE (PLAGUE, EPIDEMIC)
+巧妙 (Furigana),,,,こうみょう
+巧妙 (Meaning),,,,INGENIOUS (SKILLFUL)
+無邪気 (Furigana),,,,むじゃき
+無邪気 (Meaning),,,,INNOCENCE (SIMPLE MINDEDNESS, INNOCENT, SIMPLE MINDED, NAIVE)
+皇后 (Furigana),,,,こうごう
+皇后 (Meaning),,,,JAPANESE EMPRESS
+液晶 (Furigana),,,,えきしょう
+液晶 (Meaning),,,,LIQUID CRYSTAL
+壮大 (Furigana),,,,そうだい
+壮大 (Meaning),,,,MAGNIFICENT (GRAND, EPIC)
+漫画 (Furigana),,,,まんが
+漫画 (Meaning),,,,MANGA (JAPANESE COMICS)
+連峰 (Furigana),,,,れんぽう
+連峰 (Meaning),,,,MOUNTAIN RANGE
+駄目 (Furigana),,,,だめ
+駄目 (Meaning),,,,NOT GOOD (HOPELESS, CANNOT, NOT ALLOWED)
+偶に (Furigana),,,,たまに
+偶に (Meaning),,,,OCCASIONALLY (ONCE IN A WHILE)
+生涯 (Furigana),,,,しょうがい
+生涯 (Meaning),,,,ONE'S LIFETIME (ONE'S CAREER)
+軌道 (Furigana),,,,きどう
+軌道 (Meaning),,,,ORBIT (TRAJECTORY)
+仰々しい (Furigana),,,,ぎょうぎょうしい
+仰々しい (Meaning),,,,POMPOUS (EXAGGERATED)
+壮年 (Furigana),,,,そうねん
+壮年 (Meaning),,,,PRIME OF LIFE
+表彰 (Furigana),,,,ひょうしょう
+表彰 (Meaning),,,,PUBLIC ACKNOWLEDGEMENT (PUBLIC RECOGNITION)
+公告 (Furigana),,,,こうこく
+公告 (Meaning),,,,PUBLIC NOTICE (PUBLIC ANNOUNCEMENT)
+検疫 (Furigana),,,,けんえき
+検疫 (Meaning),,,,QUARANTINE
+諮問 (Furigana),,,,しもん
+諮問 (Meaning),,,,QUESTION (ENQUIRY)
+輝き (Furigana),,,,かがやき
+輝き (Meaning),,,,RADIANCE
+殴り込み (Furigana),,,,なぐりこみ
+殴り込み (Meaning),,,,RAID
+名簿 (Furigana),,,,めいぼ
+名簿 (Meaning),,,,REGISTER OF NAMES (LIST OF NAMES, ROLL)
+信仰 (Furigana),,,,しんこう
+信仰 (Meaning),,,,RELIGIOUS FAITH
+〜亭 (Furigana),,,,てい
+〜亭 (Meaning),,,,RESTAURANT (TRADITIONAL JAPANESE RESTAURANT, INN, PAVILION, TEA HOUSE)
+改訂版 (Furigana),,,,かいていばん
+改訂版 (Meaning),,,,REVISED EDITION
+壮行 (Furigana),,,,そうこう
+壮行 (Meaning),,,,ROUSING
+配偶者 (Furigana),,,,はいぐうしゃ
+配偶者 (Meaning),,,,SPOUSE (PARTNER)
+奮起 (Furigana),,,,ふんき
+奮起 (Meaning),,,,STIRRING (ROUSING ONESELF)
+唐突 (Furigana),,,,とうとつ
+唐突 (Meaning),,,,SUDDEN (UNEXPECTED)
+峰 (Furigana),,,,みね
 峰 (Meaning),,,,SUMMIT (PEAK, RIDGE)
-仰 (Furigana),,,,ぎょう
-仰 (Meaning),,,,TAKEN ABACK (AMAZED, HORRIFIED, FLABBERGASTED)
-軌 (Furigana),,,,き
-軌 (Meaning),,,,TIRE TRACK (PATH ONE HAS TAKEN)
-遂 (Furigana),,,,すい
-遂 (Meaning),,,,TO ACCOMPLISH (TO ACHIEVE, TO CARRY OUT)
-煮 (Furigana),,,,に
-煮 (Meaning),,,,TO BE BOILED (TO BE COOKED)
-翻 (Furigana),,,,ほん
-翻 (Meaning),,,,TO BILLOW (TO FLUTTER, TO SUDDENLY CHANGE)
-灯 (Furigana),,,,とう
-灯 (Meaning),,,,TO BURN (TO BE LIGHTED, TO BE LIT, TO BE BURNING)
-諮 (Furigana),,,,し
-諮 (Meaning),,,,TO CONSULT WITH (TO DISCUSS, TO CONFER)
-漂 (Furigana),,,,ひょう
-漂 (Meaning),,,,TO DRIFT (TO WAFT)
-尽 (Furigana),,,,じん
-尽 (Meaning),,,,TO EXHAUST SOMETHING (TO RUN OUT, TO DO TO EXHAUSTION, TO DEVOTE ONESELF)
-仰 (Furigana),,,,ぎょう
-仰 (Meaning),,,,TO LOOK UP AT (TO LOOK UP TO)
-溶 (Furigana),,,,よう
-溶 (Meaning),,,,TO MELT (TO DISSOLVE, TO THAW)
-悔 (Furigana),,,,かい
-悔 (Meaning),,,,TO REGRET (TO MOURN, TO LAMENT)
-脅 (Furigana),,,,きょう
-脅 (Meaning),,,,TO THREATEN
-翻 (Furigana),,,,ほん
-翻 (Meaning),,,,TRANSLATION
-運 (Furigana),,,,うん
-運 (Meaning),,,,TRANSPORT (CARRIAGE)
-搬 (Furigana),,,,はん
-搬 (Meaning),,,,TRANSPORTATION
-伯 (Furigana),,,,はく
-伯 (Meaning),,,,UNCLE
-邪 (Furigana),,,,じゃ
+仰天 (Furigana),,,,ぎょうてん
+仰天 (Meaning),,,,TAKEN ABACK (AMAZED, HORRIFIED, FLABBERGASTED)
+軌跡 (Furigana),,,,きせき
+軌跡 (Meaning),,,,TIRE TRACK (PATH ONE HAS TAKEN)
+遂げる (Furigana),,,,とげる
+遂げる (Meaning),,,,TO ACCOMPLISH (TO ACHIEVE, TO CARRY OUT)
+煮える (Furigana),,,,にえる
+煮える (Meaning),,,,TO BE BOILED (TO BE COOKED)
+翻る (Furigana),,,,ひるがえる
+翻る (Meaning),,,,TO BILLOW (TO FLUTTER, TO SUDDENLY CHANGE)
+灯る (Furigana),,,,ともる
+灯る (Meaning),,,,TO BURN (TO BE LIGHTED, TO BE LIT, TO BE BURNING)
+諮る (Furigana),,,,はかる
+諮る (Meaning),,,,TO CONSULT WITH (TO DISCUSS, TO CONFER)
+漂う (Furigana),,,,ただよう
+漂う (Meaning),,,,TO DRIFT (TO WAFT)
+尽くす (Furigana),,,,つくす
+尽くす (Meaning),,,,TO EXHAUST SOMETHING (TO RUN OUT, TO DO TO EXHAUSTION, TO DEVOTE ONESELF)
+仰ぐ (Furigana),,,,あおぐ
+仰ぐ (Meaning),,,,TO LOOK UP AT (TO LOOK UP TO)
+溶ける (Furigana),,,,とける
+溶ける (Meaning),,,,TO MELT (TO DISSOLVE, TO THAW)
+悔やむ (Furigana),,,,くやむ
+悔やむ (Meaning),,,,TO REGRET (TO MOURN, TO LAMENT)
+脅す (Furigana),,,,おどす
+脅す (Meaning),,,,TO THREATEN
+翻訳 (Furigana),,,,ほんやく
+翻訳 (Meaning),,,,TRANSLATION
+運搬 (Furigana),,,,うんぱん
+運搬 (Meaning),,,,TRANSPORT (CARRIAGE)
+搬送 (Furigana),,,,はんそう
+搬送 (Meaning),,,,TRANSPORTATION
+伯父 (Furigana),,,,おじ
+伯父 (Meaning),,,,UNCLE
+邪 (Furigana),,,,よこしま
 邪 (Meaning),,,,WICKED (EVIL)
-淀 (Furigana),,,,よど
-淀 (Meaning),,,,YODOGAWA
+淀川 (Furigana),,,,よどがわ
+淀川 (Meaning),,,,YODOGAWA

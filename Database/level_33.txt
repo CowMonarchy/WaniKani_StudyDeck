@@ -66,215 +66,215 @@
 諸 (Meaning),,,,Various
 窓 (Onyomi),,,,まど
 窓 (Meaning),,,,Window
-異 (Furigana),,,,い
-異 (Meaning),,,,ABNORMAL (STRANGE, DISORDER)
-異 (Furigana),,,,い
-異 (Meaning),,,,ABNORMALITY (SOMETHING WRONG)
-忠 (Furigana),,,,ちゅう
-忠 (Meaning),,,,ADVICE (ADMONISHMENT)
-裏 (Furigana),,,,うら
-裏 (Meaning),,,,ALLEY (BACK STREET)
-武 (Furigana),,,,ぶ
-武 (Meaning),,,,ARMS (ARMAMENT, ARMED)
+異常 (Furigana),,,,いじょう
+異常 (Meaning),,,,ABNORMAL (STRANGE, DISORDER)
+異状 (Furigana),,,,いじょう
+異状 (Meaning),,,,ABNORMALITY (SOMETHING WRONG)
+忠告 (Furigana),,,,ちゅうこく
+忠告 (Meaning),,,,ADVICE (ADMONISHMENT)
+裏通り (Furigana),,,,うらどおり
+裏通り (Meaning),,,,ALLEY (BACK STREET)
+武装 (Furigana),,,,ぶそう
+武装 (Meaning),,,,ARMS (ARMAMENT, ARMED)
 灰 (Furigana),,,,はい
 灰 (Meaning),,,,ASH (ASHES)
-灰 (Furigana),,,,はい
-灰 (Meaning),,,,ASHTRAY
-装 (Furigana),,,,そう
-装 (Meaning),,,,ATTIRE (DRESS, GARB)
-服 (Furigana),,,,ふく
-服 (Meaning),,,,ATTIRE (DRESS)
-著 (Furigana),,,,ちょ
-著 (Meaning),,,,AUTHOR
-裏 (Furigana),,,,うら
-裏 (Meaning),,,,BACK DOOR (REAR ENTRANCE)
+灰皿 (Furigana),,,,はいざら
+灰皿 (Meaning),,,,ASHTRAY
+装い (Furigana),,,,よそおい
+装い (Meaning),,,,ATTIRE (DRESS, GARB)
+服装 (Furigana),,,,ふくそう
+服装 (Meaning),,,,ATTIRE (DRESS)
+著者 (Furigana),,,,ちょしゃ
+著者 (Meaning),,,,AUTHOR
+裏口 (Furigana),,,,うらぐち
+裏口 (Meaning),,,,BACK DOOR (REAR ENTRANCE)
 裏 (Furigana),,,,うら
 裏 (Meaning),,,,BACKSIDE (REVERSE, OTHER SIDE)
-裏 (Furigana),,,,うら
-裏 (Meaning),,,,BETRAYAL (TREACHERY)
-体 (Furigana),,,,たい
-体 (Meaning),,,,CALISTHENICS (GYMNASTICS)
-操 (Furigana),,,,そう
+裏切り (Furigana),,,,うらぎり
+裏切り (Meaning),,,,BETRAYAL (TREACHERY)
+体操 (Furigana),,,,たいそう
+体操 (Meaning),,,,CALISTHENICS (GYMNASTICS)
+操 (Furigana),,,,みさお
 操 (Meaning),,,,CHASTITY
-熟 (Furigana),,,,じゅく
-熟 (Meaning),,,,COMPOUND WORD (COMPOUND KANJI, JUKUGO)
-股 (Furigana),,,,こ
-股 (Meaning),,,,CROTCH (GROIN)
-皇 (Furigana),,,,こう
-皇 (Meaning),,,,CROWN PRINCE
-否 (Furigana),,,,ひ
-否 (Meaning),,,,DENIAL (DENY, NEGATION)
-砂 (Furigana),,,,さ
-砂 (Meaning),,,,DESERT
-異 (Furigana),,,,い
-異 (Meaning),,,,DIFFERENT GENDER (OPPOSITE SEX)
-異 (Furigana),,,,い
-異 (Meaning),,,,DIFFERENT MEANING
-変 (Furigana),,,,へん
-変 (Meaning),,,,DISGUISE
-編 (Furigana),,,,へん
-編 (Meaning),,,,EDITOR
-天 (Furigana),,,,てん
-天 (Meaning),,,,EMPEROR OF JAPAN (EMPEROR)
-拡 (Furigana),,,,かく
-拡 (Meaning),,,,ENLARGEMENT (EXPANSION, EXTENSION)
-装 (Furigana),,,,そう
-装 (Meaning),,,,EQUIPMENT (DEVICE, APPARATUS)
-除 (Furigana),,,,じょ
-除 (Meaning),,,,EXCEPT
-忠 (Furigana),,,,ちゅう
-忠 (Meaning),,,,FAITHFUL (DEVOTED, LOYAL)
+熟語 (Furigana),,,,じゅくご
+熟語 (Meaning),,,,COMPOUND WORD (COMPOUND KANJI, JUKUGO)
+股間 (Furigana),,,,こかん
+股間 (Meaning),,,,CROTCH (GROIN)
+皇太子 (Furigana),,,,こうたいし
+皇太子 (Meaning),,,,CROWN PRINCE
+否定 (Furigana),,,,ひてい
+否定 (Meaning),,,,DENIAL (DENY, NEGATION)
+砂漠 (Furigana),,,,さばく
+砂漠 (Meaning),,,,DESERT
+異性 (Furigana),,,,いせい
+異性 (Meaning),,,,DIFFERENT GENDER (OPPOSITE SEX)
+異義 (Furigana),,,,いぎ
+異義 (Meaning),,,,DIFFERENT MEANING
+変装 (Furigana),,,,へんそう
+変装 (Meaning),,,,DISGUISE
+編集者 (Furigana),,,,へんしゅうしゃ
+編集者 (Meaning),,,,EDITOR
+天皇 (Furigana),,,,てんのう
+天皇 (Meaning),,,,EMPEROR OF JAPAN (EMPEROR)
+拡張 (Furigana),,,,かくちょう
+拡張 (Meaning),,,,ENLARGEMENT (EXPANSION, EXTENSION)
+装置 (Furigana),,,,そうち
+装置 (Meaning),,,,EQUIPMENT (DEVICE, APPARATUS)
+除いて (Furigana),,,,のぞいて
+除いて (Meaning),,,,EXCEPT
+忠実 (Furigana),,,,ちゅうじつ
+忠実 (Meaning),,,,FAITHFUL (DEVOTED, LOYAL)
 屁 (Furigana),,,,へ
 屁 (Meaning),,,,FLATULENCE (GAS, FART)
-居 (Furigana),,,,きょ
-居 (Meaning),,,,FREELOADER (LODGER WHO PAYS NOTHING)
-貨 (Furigana),,,,か
-貨 (Meaning),,,,FREIGHTER (FREIGHT SHIP)
-果 (Furigana),,,,か
-果 (Meaning),,,,FRUCTOSE
-諸 (Furigana),,,,しょ
-諸 (Meaning),,,,GENTLEMEN (MY FRIENDS, LADIES AND GENTLEMEN)
-華 (Furigana),,,,か
-華 (Meaning),,,,GORGEOUS (FLAMBOYANT, BRILLIANT, REMARKABLE)
-墓 (Furigana),,,,ぼ
-墓 (Meaning),,,,GRAVEYARD (CEMETERY)
-灰 (Furigana),,,,はい
-灰 (Meaning),,,,GRAY (GRAY COLOR)
-股 (Furigana),,,,こ
-股 (Meaning),,,,HIP JOINT (HIP)
-敬 (Furigana),,,,けい
-敬 (Meaning),,,,HONORIFIC (TERM OF RESPECT, KEIGO)
-家 (Furigana),,,,か
-家 (Meaning),,,,HOUSE RENT (RENT)
-屁 (Furigana),,,,へ
-屁 (Meaning),,,,ILLOGICAL ARGUMENT (FAR-FETCHED ARGUMENT, LAME EXCUSE)
-皇 (Furigana),,,,こう
-皇 (Meaning),,,,IMPERIAL FAMILY (MEMBER OF THE IMPERIAL FAMILY)
-皇 (Furigana),,,,こう
-皇 (Meaning),,,,IMPERIAL PALACE (IMPERIAL HOUSEHOLD)
-物 (Furigana),,,,ぶつ
-物 (Meaning),,,,IMPERSONATION
-地 (Furigana),,,,ち
-地 (Meaning),,,,JIZO (JIZOU)
-散 (Furigana),,,,さん
-散 (Meaning),,,,LEAFLET (HANDBILL, FLYER, SCATTERING)
+居候 (Furigana),,,,いそうろう
+居候 (Meaning),,,,FREELOADER (LODGER WHO PAYS NOTHING)
+貨物船 (Furigana),,,,かもつせん
+貨物船 (Meaning),,,,FREIGHTER (FREIGHT SHIP)
+果糖 (Furigana),,,,かとう
+果糖 (Meaning),,,,FRUCTOSE
+諸君 (Furigana),,,,しょくん
+諸君 (Meaning),,,,GENTLEMEN (MY FRIENDS, LADIES AND GENTLEMEN)
+華々しい (Furigana),,,,はなばなしい
+華々しい (Meaning),,,,GORGEOUS (FLAMBOYANT, BRILLIANT, REMARKABLE)
+墓場 (Furigana),,,,はかば
+墓場 (Meaning),,,,GRAVEYARD (CEMETERY)
+灰色 (Furigana),,,,はいいろ
+灰色 (Meaning),,,,GRAY (GRAY COLOR)
+股関節 (Furigana),,,,こかんせつ
+股関節 (Meaning),,,,HIP JOINT (HIP)
+敬語 (Furigana),,,,けいご
+敬語 (Meaning),,,,HONORIFIC (TERM OF RESPECT, KEIGO)
+家賃 (Furigana),,,,やちん
+家賃 (Meaning),,,,HOUSE RENT (RENT)
+屁理屈 (Furigana),,,,へりくつ
+屁理屈 (Meaning),,,,ILLOGICAL ARGUMENT (FAR-FETCHED ARGUMENT, LAME EXCUSE)
+皇族 (Furigana),,,,こうぞく
+皇族 (Meaning),,,,IMPERIAL FAMILY (MEMBER OF THE IMPERIAL FAMILY)
+皇室 (Furigana),,,,こうしつ
+皇室 (Meaning),,,,IMPERIAL PALACE (IMPERIAL HOUSEHOLD)
+物真似 (Furigana),,,,ものまね
+物真似 (Meaning),,,,IMPERSONATION
+地蔵 (Furigana),,,,じぞう
+地蔵 (Meaning),,,,JIZO (JIZOU)
+散らし (Furigana),,,,ちらし
+散らし (Meaning),,,,LEAFLET (HANDBILL, FLYER, SCATTERING)
 肺 (Furigana),,,,はい
 肺 (Meaning),,,,LUNG
-肺 (Furigana),,,,はい
-肺 (Meaning),,,,LUNG CANCER
-肺 (Furigana),,,,はい
-肺 (Meaning),,,,LUNG DISEASE
-雑 (Furigana),,,,ざつ
-雑 (Meaning),,,,MAGAZINE
-温 (Furigana),,,,おん
-温 (Meaning),,,,MILD-MANNERED (GENTLE, GOOD-NATURED)
-筋 (Furigana),,,,きん
-筋 (Meaning),,,,MUSCLE
-否 (Furigana),,,,ひ
+肺がん (Furigana),,,,はいがん
+肺がん (Meaning),,,,LUNG CANCER
+肺病 (Furigana),,,,はいびょう
+肺病 (Meaning),,,,LUNG DISEASE
+雑誌 (Furigana),,,,ざっし
+雑誌 (Meaning),,,,MAGAZINE
+温厚 (Furigana),,,,おんこう
+温厚 (Meaning),,,,MILD-MANNERED (GENTLE, GOOD-NATURED)
+筋肉 (Furigana),,,,きんにく
+筋肉 (Meaning),,,,MUSCLE
+否 (Furigana),,,,いな
 否 (Meaning),,,,NO
-未 (Furigana),,,,み
-未 (Meaning),,,,NOT YET GOOD AT (NOT GOOD AT)
-開 (Furigana),,,,かい
-開 (Meaning),,,,OPENING AND CLOSING (OPENING AND SHUTTING)
-操 (Furigana),,,,そう
-操 (Meaning),,,,OPERATION (HANDLING)
-納 (Furigana),,,,のう
-納 (Meaning),,,,PAYMENT (SUPPLY, DELIVERY)
-宣 (Furigana),,,,せん
-宣 (Meaning),,,,PROCLAMATION (DECLARATION)
-宣 (Furigana),,,,せん
-宣 (Meaning),,,,PROPAGANDA (ADVERTISING)
-冷 (Furigana),,,,れい
-冷 (Meaning),,,,REFRIGERATOR (FRIDGE)
-否 (Furigana),,,,ひ
-否 (Meaning),,,,REJECTION
-著 (Furigana),,,,ちょ
-著 (Meaning),,,,REMARKABLE (MARKED)
-賃 (Furigana),,,,ちん
-賃 (Meaning),,,,RENTAL
-尊 (Furigana),,,,そん
-尊 (Meaning),,,,RESPECT
-尊 (Furigana),,,,そん
-尊 (Meaning),,,,REVERED (NOBLE, PRECIOUS)
-成 (Furigana),,,,せい
-成 (Meaning),,,,RIPEN (MATURE, RIPENESS, MATURITY)
-泥 (Furigana),,,,でい
-泥 (Meaning),,,,ROBBER (BURGLAR)
+未熟 (Furigana),,,,みじゅく
+未熟 (Meaning),,,,NOT YET GOOD AT (NOT GOOD AT)
+開閉 (Furigana),,,,かいへい
+開閉 (Meaning),,,,OPENING AND CLOSING (OPENING AND SHUTTING)
+操作 (Furigana),,,,そうさ
+操作 (Meaning),,,,OPERATION (HANDLING)
+納入 (Furigana),,,,のうにゅう
+納入 (Meaning),,,,PAYMENT (SUPPLY, DELIVERY)
+宣言 (Furigana),,,,せんげん
+宣言 (Meaning),,,,PROCLAMATION (DECLARATION)
+宣伝 (Furigana),,,,せんでん
+宣伝 (Meaning),,,,PROPAGANDA (ADVERTISING)
+冷蔵庫 (Furigana),,,,れいぞうこ
+冷蔵庫 (Meaning),,,,REFRIGERATOR (FRIDGE)
+否決 (Furigana),,,,ひけつ
+否決 (Meaning),,,,REJECTION
+著しい (Furigana),,,,いちじるしい
+著しい (Meaning),,,,REMARKABLE (MARKED)
+賃貸 (Furigana),,,,ちんたい
+賃貸 (Meaning),,,,RENTAL
+尊敬 (Furigana),,,,そんけい
+尊敬 (Meaning),,,,RESPECT
+尊い (Furigana),,,,とうとい
+尊い (Meaning),,,,REVERED (NOBLE, PRECIOUS)
+成熟 (Furigana),,,,せいじゅく
+成熟 (Meaning),,,,RIPEN (MATURE, RIPENESS, MATURITY)
+泥棒 (Furigana),,,,どろぼう
+泥棒 (Meaning),,,,ROBBER (BURGLAR)
 噂 (Furigana),,,,うわさ
 噂 (Meaning),,,,RUMOR (GOSSIP)
-簡 (Furigana),,,,かん
-簡 (Meaning),,,,SIMPLE (EASY, SIMPLY)
-簡 (Furigana),,,,かん
-簡 (Meaning),,,,SIMPLE (EASY)
-蒸 (Furigana),,,,じょう
-蒸 (Meaning),,,,STEAM (VAPOR)
-収 (Furigana),,,,しゅう
-収 (Meaning),,,,STORAGE
-閉 (Furigana),,,,へい
-閉 (Meaning),,,,STORE CLOSED (CLOSED STORE, CLOSING A STORE, CLOSING DOWN A STORE)
-蔵 (Furigana),,,,ぞう
+簡単 (Furigana),,,,かんたん
+簡単 (Meaning),,,,SIMPLE (EASY, SIMPLY)
+簡易 (Furigana),,,,かんい
+簡易 (Meaning),,,,SIMPLE (EASY)
+蒸気 (Furigana),,,,じょうき
+蒸気 (Meaning),,,,STEAM (VAPOR)
+収納 (Furigana),,,,しゅうのう
+収納 (Meaning),,,,STORAGE
+閉店 (Furigana),,,,へいてん
+閉店 (Meaning),,,,STORE CLOSED (CLOSED STORE, CLOSING A STORE, CLOSING DOWN A STORE)
+蔵 (Furigana),,,,くら
 蔵 (Meaning),,,,STOREHOUSE
-砂 (Furigana),,,,さ
-砂 (Meaning),,,,SUGAR
-無 (Furigana),,,,む
-無 (Meaning),,,,SUGAR FREE (UNSWEETENED)
-筋 (Furigana),,,,きん
+砂糖 (Furigana),,,,さとう
+砂糖 (Meaning),,,,SUGAR
+無糖 (Furigana),,,,むとう
+無糖 (Meaning),,,,SUGAR FREE (UNSWEETENED)
+筋 (Furigana),,,,すじ
 筋 (Meaning),,,,TENDON (SINEW)
-窓 (Furigana),,,,まど
-窓 (Meaning),,,,TICKET WINDOW (TICKET COUNTER, CLERK, CUSTOMER SERVICE)
-裏 (Furigana),,,,うら
-裏 (Meaning),,,,TO BACKSTAB (TO BETRAY)
-蒸 (Furigana),,,,じょう
-蒸 (Meaning),,,,TO BE HUMID
-掃 (Furigana),,,,そう
-掃 (Meaning),,,,TO CLEAN
-閉 (Furigana),,,,へい
-閉 (Meaning),,,,TO CLOSE (TO SHUT)
-垂 (Furigana),,,,すい
-垂 (Meaning),,,,TO DANGLE SOMETHING (TO DANGLE)
-異 (Furigana),,,,い
-異 (Meaning),,,,TO DIFFER
-乾 (Furigana),,,,かん
-乾 (Meaning),,,,TO DRY SOMETHING (TO DRY)
-編 (Furigana),,,,へん
-編 (Meaning),,,,TO EDIT
-拡 (Furigana),,,,かく
-拡 (Meaning),,,,TO EXTEND (TO SPREAD)
-散 (Furigana),,,,さん
-散 (Meaning),,,,TO GO FOR A WALK (TO GO FOR A STROLL, TO TAKE A WALK, TO TAKE A STROLL)
-盛 (Furigana),,,,せい
-盛 (Meaning),,,,TO HEAP UP (TO SERVE FOOD)
-暮 (Furigana),,,,ぼ
-暮 (Meaning),,,,TO LIVE (TO LIVE ONE'S LIFE)
-操 (Furigana),,,,そう
-操 (Meaning),,,,TO MANIPULATE
-熟 (Furigana),,,,じゅく
-熟 (Meaning),,,,TO RIPEN
-散 (Furigana),,,,さん
-散 (Meaning),,,,TO SCATTER
-離 (Furigana),,,,り
-離 (Meaning),,,,TO SEPARATE (TO KEEP APART)
-似 (Furigana),,,,に
-似 (Meaning),,,,TO SUIT (TO MATCH)
-納 (Furigana),,,,のう
-納 (Meaning),,,,TO SUPPLY (TO DELIVER, TO PAY)
-驚 (Furigana),,,,きょう
-驚 (Meaning),,,,TO SURPRISE (TO SHOCK, TO ASTONISH)
-野 (Furigana),,,,や
-野 (Meaning),,,,UNREFINED (RUSTIC, STUPID)
-掃 (Furigana),,,,そう
-掃 (Meaning),,,,VACUUM CLEANER
-漠 (Furigana),,,,ばく
-漠 (Meaning),,,,VAGUE
-諸 (Furigana),,,,しょ
-諸 (Meaning),,,,VARIOUS
-垂 (Furigana),,,,すい
-垂 (Meaning),,,,VERTICAL (PERPENDICULAR)
-小 (Furigana),,,,しょう
-小 (Meaning),,,,WHEAT FLOUR (FLOUR)
+窓口 (Furigana),,,,まどぐち
+窓口 (Meaning),,,,TICKET WINDOW (TICKET COUNTER, CLERK, CUSTOMER SERVICE)
+裏切る (Furigana),,,,うらぎる
+裏切る (Meaning),,,,TO BACKSTAB (TO BETRAY)
+蒸れる (Furigana),,,,むれる
+蒸れる (Meaning),,,,TO BE HUMID
+掃除する (Furigana),,,,そうじする
+掃除する (Meaning),,,,TO CLEAN
+閉める (Furigana),,,,しめる
+閉める (Meaning),,,,TO CLOSE (TO SHUT)
+垂らす (Furigana),,,,たらす
+垂らす (Meaning),,,,TO DANGLE SOMETHING (TO DANGLE)
+異なる (Furigana),,,,ことなる
+異なる (Meaning),,,,TO DIFFER
+乾かす (Furigana),,,,かわかす
+乾かす (Meaning),,,,TO DRY SOMETHING (TO DRY)
+編集する (Furigana),,,,へんしゅうする
+編集する (Meaning),,,,TO EDIT
+拡がる (Furigana),,,,ひろがる
+拡がる (Meaning),,,,TO EXTEND (TO SPREAD)
+散歩する (Furigana),,,,さんぽする
+散歩する (Meaning),,,,TO GO FOR A WALK (TO GO FOR A STROLL, TO TAKE A WALK, TO TAKE A STROLL)
+盛る (Furigana),,,,もる
+盛る (Meaning),,,,TO HEAP UP (TO SERVE FOOD)
+暮らす (Furigana),,,,くらす
+暮らす (Meaning),,,,TO LIVE (TO LIVE ONE'S LIFE)
+操る (Furigana),,,,あやつる
+操る (Meaning),,,,TO MANIPULATE
+熟れる (Furigana),,,,うれる
+熟れる (Meaning),,,,TO RIPEN
+散らかす (Furigana),,,,ちらかす
+散らかす (Meaning),,,,TO SCATTER
+離す (Furigana),,,,はなす
+離す (Meaning),,,,TO SEPARATE (TO KEEP APART)
+似合う (Furigana),,,,にあう
+似合う (Meaning),,,,TO SUIT (TO MATCH)
+納める (Furigana),,,,おさめる
+納める (Meaning),,,,TO SUPPLY (TO DELIVER, TO PAY)
+驚かす (Furigana),,,,おどろかす
+驚かす (Meaning),,,,TO SURPRISE (TO SHOCK, TO ASTONISH)
+野暮 (Furigana),,,,やぼ
+野暮 (Meaning),,,,UNREFINED (RUSTIC, STUPID)
+掃除機 (Furigana),,,,そうじき
+掃除機 (Meaning),,,,VACUUM CLEANER
+漠然 (Furigana),,,,ばくぜん
+漠然 (Meaning),,,,VAGUE
+諸〜 (Furigana),,,,しょ
+諸〜 (Meaning),,,,VARIOUS
+垂直 (Furigana),,,,すいちょく
+垂直 (Meaning),,,,VERTICAL (PERPENDICULAR)
+小麦粉 (Furigana),,,,こむぎこ
+小麦粉 (Meaning),,,,WHEAT FLOUR (FLOUR)
 窓 (Furigana),,,,まど
 窓 (Meaning),,,,WINDOW
-著 (Furigana),,,,ちょ
-著 (Meaning),,,,WRITING (AUTHORSHIP)
-拡 (Furigana),,,,かく
-拡 (Meaning),,,,ZOOM (MAGNIFICATION, ENLARGEMENT, EXPANSION)
+著作 (Furigana),,,,ちょさく
+著作 (Meaning),,,,WRITING (AUTHORSHIP)
+拡大 (Furigana),,,,かくだい
+拡大 (Meaning),,,,ZOOM (MAGNIFICATION, ENLARGEMENT, EXPANSION)

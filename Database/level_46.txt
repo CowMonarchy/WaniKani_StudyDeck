@@ -72,213 +72,213 @@
 歳 (Meaning),,,,Years Old
 零 (Onyomi),,,,れい
 零 (Meaning),,,,Zero
-瞬 (Furigana),,,,しゅん
-瞬 (Meaning),,,,A BLINK (A WINK, WINK, BLINK)
-気 (Furigana),,,,き
-気 (Meaning),,,,AIR BUBBLE
-錬 (Furigana),,,,れん
-錬 (Meaning),,,,ALCHEMY
-一 (Furigana),,,,いち
-一 (Meaning),,,,AN INSTANT (A MOMENT)
-瞬 (Furigana),,,,しゅん
-瞬 (Meaning),,,,AN INSTANT (INSTANT, MOMENT)
-歳 (Furigana),,,,さい
-歳 (Meaning),,,,ANNUAL REVENUE
+瞬き (Furigana),,,,まばたき
+瞬き (Meaning),,,,A BLINK (A WINK, WINK, BLINK)
+気泡 (Furigana),,,,きほう
+気泡 (Meaning),,,,AIR BUBBLE
+錬金術 (Furigana),,,,れんきんじゅつ
+錬金術 (Meaning),,,,ALCHEMY
+一瞬 (Furigana),,,,いっしゅん
+一瞬 (Meaning),,,,AN INSTANT (A MOMENT)
+瞬間 (Furigana),,,,しゅんかん
+瞬間 (Meaning),,,,AN INSTANT (INSTANT, MOMENT)
+歳入 (Furigana),,,,さいにゅう
+歳入 (Meaning),,,,ANNUAL REVENUE
 癖 (Furigana),,,,くせ
 癖 (Meaning),,,,BAD HABIT (HABIT)
-万 (Furigana),,,,まん
-万 (Meaning),,,,BANZAI (RAISING YOUR HANDS, HOORAY)
-零 (Furigana),,,,れい
-零 (Meaning),,,,BELOW ZERO (SUB ZERO)
-魔 (Furigana),,,,ま
-魔 (Meaning),,,,BLACK MAGIC (SORCERY)
-鈍 (Furigana),,,,どん
-鈍 (Meaning),,,,BLUNT WEAPON
-寮 (Furigana),,,,りょう
-寮 (Meaning),,,,BOARDING STUDENT (BOARDER)
-書 (Furigana),,,,しょ
-書 (Meaning),,,,BOOKSHELF (BOOKCASE)
-泡 (Furigana),,,,ほう
+万歳 (Furigana),,,,ばんざい
+万歳 (Meaning),,,,BANZAI (RAISING YOUR HANDS, HOORAY)
+零下 (Furigana),,,,れいか
+零下 (Meaning),,,,BELOW ZERO (SUB ZERO)
+魔術 (Furigana),,,,まじゅつ
+魔術 (Meaning),,,,BLACK MAGIC (SORCERY)
+鈍器 (Furigana),,,,どんき
+鈍器 (Meaning),,,,BLUNT WEAPON
+寮生 (Furigana),,,,りょうせい
+寮生 (Meaning),,,,BOARDING STUDENT (BOARDER)
+書架 (Furigana),,,,しょか
+書架 (Meaning),,,,BOOKSHELF (BOOKCASE)
+泡 (Furigana),,,,あわ
 泡 (Meaning),,,,BUBBLE (FOAM)
-穏 (Furigana),,,,おん
-穏 (Meaning),,,,CALM (MILD)
-平 (Furigana),,,,へい
-平 (Meaning),,,,CALM (TRANQUIL)
-紛 (Furigana),,,,ふん
-紛 (Meaning),,,,CERTAIN (UNMISTAKEN, OBVIOUS)
-椅 (Furigana),,,,い
-椅 (Meaning),,,,CHAIR
-租 (Furigana),,,,そ
-租 (Meaning),,,,CONCESSION (SETTLEMENT)
-幽 (Furigana),,,,ゆう
-幽 (Meaning),,,,CONFINEMENT (IMPRISONMENT)
-架 (Furigana),,,,か
-架 (Meaning),,,,CONSTRUCTION (BUILDING)
-涼 (Furigana),,,,りょう
-涼 (Meaning),,,,COOL (REFRESHING)
-涼 (Furigana),,,,りょう
-涼 (Meaning),,,,COOL BREEZE (REFRESHING BREEZE)
-木 (Furigana),,,,もく
-木 (Meaning),,,,COTTON
-綿 (Furigana),,,,めん
-綿 (Meaning),,,,COTTON CLOTH (COTTON MATERIAL)
-綿 (Furigana),,,,めん
+穏やか (Furigana),,,,おだやか
+穏やか (Meaning),,,,CALM (MILD)
+平穏 (Furigana),,,,へいおん
+平穏 (Meaning),,,,CALM (TRANQUIL)
+紛れもない (Furigana),,,,まぎれもない
+紛れもない (Meaning),,,,CERTAIN (UNMISTAKEN, OBVIOUS)
+椅子 (Furigana),,,,いす
+椅子 (Meaning),,,,CHAIR
+租界 (Furigana),,,,そかい
+租界 (Meaning),,,,CONCESSION (SETTLEMENT)
+幽閉 (Furigana),,,,ゆうへい
+幽閉 (Meaning),,,,CONFINEMENT (IMPRISONMENT)
+架設 (Furigana),,,,かせつ
+架設 (Meaning),,,,CONSTRUCTION (BUILDING)
+涼しい (Furigana),,,,すずしい
+涼しい (Meaning),,,,COOL (REFRESHING)
+涼風 (Furigana),,,,りょうふう
+涼風 (Meaning),,,,COOL BREEZE (REFRESHING BREEZE)
+木綿 (Furigana),,,,もめん
+木綿 (Meaning),,,,COTTON
+綿布 (Furigana),,,,めんぷ
+綿布 (Meaning),,,,COTTON CLOTH (COTTON MATERIAL)
+綿 (Furigana),,,,わた
 綿 (Meaning),,,,COTTON PLANT (COTTON MATERIAL)
-揚 (Furigana),,,,あ
-揚 (Meaning),,,,DEEP FRIED
+揚げ出し (Furigana),,,,あげだし
+揚げ出し (Meaning),,,,DEEP FRIED
 魔 (Furigana),,,,ま
 魔 (Meaning),,,,DEVIL (DEMON, EVIL SPIRIT)
-悪 (Furigana),,,,あく
-悪 (Meaning),,,,DEVIL (DEMON, SATAN)
+悪魔 (Furigana),,,,あくま
+悪魔 (Meaning),,,,DEVIL (DEMON, SATAN)
 寮 (Furigana),,,,りょう
 寮 (Meaning),,,,DORMITORY (HOSTEL)
-鈍 (Furigana),,,,どん
-鈍 (Meaning),,,,DULL (THICKHEADED)
-素 (Furigana),,,,そ
-素 (Meaning),,,,ELEMENTARY PARTICLE (PARTICLE)
-皇 (Furigana),,,,こう
-皇 (Meaning),,,,EMPEROR
-帝 (Furigana),,,,てい
-帝 (Meaning),,,,EMPIRE
-歳 (Furigana),,,,さい
-歳 (Meaning),,,,END OF THE YEAR (YEAR END GIFT, END OF YEAR GIFT)
-誇 (Furigana),,,,こ
-誇 (Meaning),,,,EXAGGERATION
-誇 (Furigana),,,,こ
-誇 (Meaning),,,,EXAGGERATION (HYPERBOLE)
-眼 (Furigana),,,,がん
-眼 (Meaning),,,,EYE SOCKET
-口 (Furigana),,,,こう
-口 (Meaning),,,,FAVORITE PHRASE (CATCHPHRASE, HABIT OF SAYING)
-水 (Furigana),,,,すい
-水 (Meaning),,,,FOAM (BUBBLE)
-発 (Furigana),,,,はつ
-発 (Meaning),,,,FOAMING
-幽 (Furigana),,,,ゆう
-幽 (Meaning),,,,GHOST (SPECTER, SPECTRE, PHANTOM)
-囲 (Furigana),,,,い
-囲 (Meaning),,,,GO (GO BOARD GAME)
+鈍い (Furigana),,,,にぶい
+鈍い (Meaning),,,,DULL (THICKHEADED)
+素粒子 (Furigana),,,,そりゅうし
+素粒子 (Meaning),,,,ELEMENTARY PARTICLE (PARTICLE)
+皇帝 (Furigana),,,,こうてい
+皇帝 (Meaning),,,,EMPEROR
+帝国 (Furigana),,,,ていこく
+帝国 (Meaning),,,,EMPIRE
+歳暮 (Furigana),,,,せいぼ
+歳暮 (Meaning),,,,END OF THE YEAR (YEAR END GIFT, END OF YEAR GIFT)
+誇張 (Furigana),,,,こちょう
+誇張 (Meaning),,,,EXAGGERATION
+誇大 (Furigana),,,,こだい
+誇大 (Meaning),,,,EXAGGERATION (HYPERBOLE)
+眼孔 (Furigana),,,,がんこう
+眼孔 (Meaning),,,,EYE SOCKET
+口癖 (Furigana),,,,くちぐせ
+口癖 (Meaning),,,,FAVORITE PHRASE (CATCHPHRASE, HABIT OF SAYING)
+水泡 (Furigana),,,,すいほう
+水泡 (Meaning),,,,FOAM (BUBBLE)
+発泡 (Furigana),,,,はっぽう
+発泡 (Meaning),,,,FOAMING
+幽霊 (Furigana),,,,ゆうれい
+幽霊 (Meaning),,,,GHOST (SPECTER, SPECTRE, PHANTOM)
+囲碁 (Furigana),,,,いご
+囲碁 (Meaning),,,,GO (GO BOARD GAME)
 碁 (Furigana),,,,ご
 碁 (Meaning),,,,GO (GO BOARDGAME)
-碁 (Furigana),,,,ご
-碁 (Meaning),,,,GO BOARD
-碁 (Furigana),,,,ご
-碁 (Meaning),,,,GO PARLOR (GO PLAYING PARLOR)
+碁盤 (Furigana),,,,ごばん
+碁盤 (Meaning),,,,GO BOARD
+碁会所 (Furigana),,,,ごかいしょ
+碁会所 (Meaning),,,,GO PARLOR (GO PLAYING PARLOR)
 穂 (Furigana),,,,ほ
 穂 (Meaning),,,,HEAD OF PLANT (EAR OF PLANT)
-稲 (Furigana),,,,いね
-稲 (Meaning),,,,HEAD OF RICE (EAR OF RICE)
-病 (Furigana),,,,びょう
-病 (Meaning),,,,HOSPITAL WARD
-吾 (Furigana),,,,わが
-吾 (Meaning),,,,I (ME, MYSELF)
-黙 (Furigana),,,,もく
-黙 (Meaning),,,,IGNORING
-焦 (Furigana),,,,しょう
-焦 (Meaning),,,,IMPATIENCE
-帝 (Furigana),,,,てい
-帝 (Meaning),,,,IMPERIAL GOVERNMENT (IMPERIALISM)
+稲穂 (Furigana),,,,いなほ
+稲穂 (Meaning),,,,HEAD OF RICE (EAR OF RICE)
+病棟 (Furigana),,,,びょうとう
+病棟 (Meaning),,,,HOSPITAL WARD
+吾輩 (Furigana),,,,わがはい
+吾輩 (Meaning),,,,I (ME, MYSELF)
+黙殺 (Furigana),,,,もくさつ
+黙殺 (Meaning),,,,IGNORING
+焦り (Furigana),,,,あせり
+焦り (Meaning),,,,IMPATIENCE
+帝政 (Furigana),,,,ていせい
+帝政 (Meaning),,,,IMPERIAL GOVERNMENT (IMPERIALISM)
 墨 (Furigana),,,,すみ
 墨 (Meaning),,,,INK (BLACK INK)
-墨 (Furigana),,,,すみ
-墨 (Meaning),,,,INK PAINTING
-帝 (Furigana),,,,てい
+墨絵 (Furigana),,,,すみえ
+墨絵 (Meaning),,,,INK PAINTING
+帝 (Furigana),,,,みかど
 帝 (Meaning),,,,JAPANESE EMPEROR (EMPEROR OF JAPAN)
 鍵 (Furigana),,,,かぎ
 鍵 (Meaning),,,,KEY (LOCK)
-斬 (Furigana),,,,ざん
-斬 (Meaning),,,,KILLING WITH A SWORD (PUTTING TO THE SWORD)
-魔 (Furigana),,,,ま
-魔 (Meaning),,,,MAGIC (WITCHCRAFT)
-庄 (Furigana),,,,しょう
-庄 (Meaning),,,,MANOR
-零 (Furigana),,,,れい
-零 (Meaning),,,,MIDNIGHT (TWELVE O'CLOCK)
-瞬 (Furigana),,,,しゅん
-瞬 (Meaning),,,,MOMENT (INSTANT)
-寸 (Furigana),,,,すん
-寸 (Meaning),,,,MOMENT'S LEISURE (FREE MINUTE)
+斬殺 (Furigana),,,,ざんさつ
+斬殺 (Meaning),,,,KILLING WITH A SWORD (PUTTING TO THE SWORD)
+魔法 (Furigana),,,,まほう
+魔法 (Meaning),,,,MAGIC (WITCHCRAFT)
+庄園 (Furigana),,,,しょうえん
+庄園 (Meaning),,,,MANOR
+零時 (Furigana),,,,れいじ
+零時 (Meaning),,,,MIDNIGHT (TWELVE O'CLOCK)
+瞬時 (Furigana),,,,しゅんじ
+瞬時 (Meaning),,,,MOMENT (INSTANT)
+寸暇 (Furigana),,,,すんか
+寸暇 (Meaning),,,,MOMENT'S LEISURE (FREE MINUTE)
 猿 (Furigana),,,,さる
 猿 (Meaning),,,,MONKEY
-猿 (Furigana),,,,さる
-猿 (Meaning),,,,MONKEY SEE MONKEY DO
-辛 (Furigana),,,,しん
-辛 (Meaning),,,,MUSTARD
-斬 (Furigana),,,,ざん
-斬 (Meaning),,,,NOVEL IDEA (ORIGINAL, NOVEL, ORIGINAL IDEA)
-盆 (Furigana),,,,ぼん
-盆 (Meaning),,,,OBON (OBON FESTIVAL, LANTERN FESTIVAL, TRAY)
-阻 (Furigana),,,,そ
-阻 (Meaning),,,,OBSTRUCTION (INHIBITION)
-阻 (Furigana),,,,そ
-阻 (Meaning),,,,OBSTRUCTION (HINDRANCE)
-握 (Furigana),,,,あく
-握 (Meaning),,,,ONIGIRI (RICE BALL)
+猿真似 (Furigana),,,,さるまね
+猿真似 (Meaning),,,,MONKEY SEE MONKEY DO
+辛子 (Furigana),,,,からし
+辛子 (Meaning),,,,MUSTARD
+斬新 (Furigana),,,,ざんしん
+斬新 (Meaning),,,,NOVEL IDEA (ORIGINAL, NOVEL, ORIGINAL IDEA)
+お盆 (Furigana),,,,おぼん
+お盆 (Meaning),,,,OBON (OBON FESTIVAL, LANTERN FESTIVAL, TRAY)
+阻害 (Furigana),,,,そがい
+阻害 (Meaning),,,,OBSTRUCTION (INHIBITION)
+阻止 (Furigana),,,,そし
+阻止 (Meaning),,,,OBSTRUCTION (HINDRANCE)
+お握り (Furigana),,,,おにぎり
+お握り (Meaning),,,,ONIGIRI (RICE BALL)
 鳩 (Furigana),,,,はと
 鳩 (Meaning),,,,PIGEON (DOVE)
-丁 (Furigana),,,,ちょう
-丁 (Meaning),,,,POLITE (COURTEOUS)
-穏 (Furigana),,,,おん
-穏 (Meaning),,,,PROPER (REASONABLE)
-瞳 (Furigana),,,,どう
+丁寧 (Furigana),,,,ていねい
+丁寧 (Meaning),,,,POLITE (COURTEOUS)
+穏当 (Furigana),,,,おんとう
+穏当 (Meaning),,,,PROPER (REASONABLE)
+瞳 (Furigana),,,,ひとみ
 瞳 (Meaning),,,,PUPIL
-瞳 (Furigana),,,,どう
-瞳 (Meaning),,,,PUPIL
-寧 (Furigana),,,,ねい
-寧 (Meaning),,,,RATHER (BETTER, INSTEAD)
-清 (Furigana),,,,せい
-清 (Meaning),,,,REFRESHING (COOL, FRESH)
-土 (Furigana),,,,ど
-土 (Meaning),,,,RING (SUMO RING, ARENA, SUMO ARENA)
-俵 (Furigana),,,,ひょう
+瞳孔 (Furigana),,,,どうこう
+瞳孔 (Meaning),,,,PUPIL
+寧ろ (Furigana),,,,むしろ
+寧ろ (Meaning),,,,RATHER (BETTER, INSTEAD)
+清涼 (Furigana),,,,せいりょう
+清涼 (Meaning),,,,REFRESHING (COOL, FRESH)
+土俵 (Furigana),,,,どひょう
+土俵 (Meaning),,,,RING (SUMO RING, ARENA, SUMO ARENA)
+俵 (Furigana),,,,たわら
 俵 (Meaning),,,,SACK (STRAW BAG, STRAW SACK)
-叫 (Furigana),,,,きょう
-叫 (Meaning),,,,SHOUT (YELL, SCREAM)
-叫 (Furigana),,,,きょう
-叫 (Meaning),,,,SHOUT (SCREAM, A SHOUT, A SCREAM)
-沈 (Furigana),,,,ちん
-沈 (Meaning),,,,SILENCE (HUSH, AWKWARD SILENCE)
-辛 (Furigana),,,,しん
-辛 (Meaning),,,,SPICY TASTE (DRY TASTE, DRY TASTING, HARSH)
-新 (Furigana),,,,しん
-新 (Meaning),,,,SPROUT (BUD, SHOOT)
-担 (Furigana),,,,たん
-担 (Meaning),,,,STRETCHER (LITTER)
-入 (Furigana),,,,にゅう
-入 (Meaning),,,,TATTOO
-租 (Furigana),,,,そ
-租 (Meaning),,,,TAXES (TAXATION)
-鍛 (Furigana),,,,たん
-鍛 (Meaning),,,,TEMPERING (FORGING, TRAINING)
-鈍 (Furigana),,,,どん
-鈍 (Meaning),,,,THICKHEADEDNESS (INSENSITIVITY)
-歳 (Furigana),,,,さい
-歳 (Meaning),,,,TIME (YEARS)
-誇 (Furigana),,,,こ
-誇 (Meaning),,,,TO BE PROUD OF (TO BOAST OF)
-瞬 (Furigana),,,,しゅん
-瞬 (Meaning),,,,TO BLINK (TO FLICKER, TO TWINKLE)
-斬 (Furigana),,,,ざん
-斬 (Meaning),,,,TO CUT DOWN (TO SLICE OFF, TO LOP OFF)
-鍛 (Furigana),,,,たん
-鍛 (Meaning),,,,TO FORGE (TO TEMPER, TO TRAIN, TO DISCIPLINE)
-揺 (Furigana),,,,よう
-揺 (Meaning),,,,TO SHAKE (TO SWAY, TO TREMBLE)
-黙 (Furigana),,,,もく
-黙 (Meaning),,,,TO SHUT UP (TO BE SILENT)
-阻 (Furigana),,,,そ
-阻 (Meaning),,,,TO THWART (TO HAMPER, TO PREVENT)
-二 (Furigana),,,,に
-二 (Meaning),,,,TWENTY YEARS OLD
-不 (Furigana),,,,ふ
-不 (Meaning),,,,UNREST (TURBULENCE, DISQUIETING, THREATENING)
-白 (Furigana),,,,はく
-白 (Meaning),,,,WHITE CHRYSANTHEMUM
-魔 (Furigana),,,,ま
-魔 (Meaning),,,,WITCH
-歳 (Furigana),,,,さい
-歳 (Meaning),,,,YEARS OLD
+叫び声 (Furigana),,,,さけびごえ
+叫び声 (Meaning),,,,SHOUT (YELL, SCREAM)
+叫び (Furigana),,,,さけび
+叫び (Meaning),,,,SHOUT (SCREAM, A SHOUT, A SCREAM)
+沈黙 (Furigana),,,,ちんもく
+沈黙 (Meaning),,,,SILENCE (HUSH, AWKWARD SILENCE)
+辛口 (Furigana),,,,からくち
+辛口 (Meaning),,,,SPICY TASTE (DRY TASTE, DRY TASTING, HARSH)
+新芽 (Furigana),,,,しんめ
+新芽 (Meaning),,,,SPROUT (BUD, SHOOT)
+担架 (Furigana),,,,たんか
+担架 (Meaning),,,,STRETCHER (LITTER)
+入れ墨 (Furigana),,,,いれずみ
+入れ墨 (Meaning),,,,TATTOO
+租税 (Furigana),,,,そぜい
+租税 (Meaning),,,,TAXES (TAXATION)
+鍛錬 (Furigana),,,,たんれん
+鍛錬 (Meaning),,,,TEMPERING (FORGING, TRAINING)
+鈍感 (Furigana),,,,どんかん
+鈍感 (Meaning),,,,THICKHEADEDNESS (INSENSITIVITY)
+歳月 (Furigana),,,,さいげつ
+歳月 (Meaning),,,,TIME (YEARS)
+誇る (Furigana),,,,ほこる
+誇る (Meaning),,,,TO BE PROUD OF (TO BOAST OF)
+瞬く (Furigana),,,,またたく
+瞬く (Meaning),,,,TO BLINK (TO FLICKER, TO TWINKLE)
+斬る (Furigana),,,,きる
+斬る (Meaning),,,,TO CUT DOWN (TO SLICE OFF, TO LOP OFF)
+鍛える (Furigana),,,,きたえる
+鍛える (Meaning),,,,TO FORGE (TO TEMPER, TO TRAIN, TO DISCIPLINE)
+揺らぐ (Furigana),,,,ゆらぐ
+揺らぐ (Meaning),,,,TO SHAKE (TO SWAY, TO TREMBLE)
+黙る (Furigana),,,,だまる
+黙る (Meaning),,,,TO SHUT UP (TO BE SILENT)
+阻む (Furigana),,,,はばむ
+阻む (Meaning),,,,TO THWART (TO HAMPER, TO PREVENT)
+二十歳 (Furigana),,,,はたち
+二十歳 (Meaning),,,,TWENTY YEARS OLD
+不穏 (Furigana),,,,ふおん
+不穏 (Meaning),,,,UNREST (TURBULENCE, DISQUIETING, THREATENING)
+白菊 (Furigana),,,,しらぎく
+白菊 (Meaning),,,,WHITE CHRYSANTHEMUM
+魔女 (Furigana),,,,まじょ
+魔女 (Meaning),,,,WITCH
+〜歳 (Furigana),,,,さい
+〜歳 (Meaning),,,,YEARS OLD
 零 (Furigana),,,,れい
 零 (Meaning),,,,ZERO
-零 (Furigana),,,,れい
-零 (Meaning),,,,ZERO POINTS (ZERO MARKS)
+零点 (Furigana),,,,れいてん
+零点 (Meaning),,,,ZERO POINTS (ZERO MARKS)

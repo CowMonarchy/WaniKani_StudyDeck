@@ -68,247 +68,247 @@
 勤 (Meaning),,,,Work
 拝 (Onyomi),,,,はい
 拝 (Meaning),,,,Worship
-純 (Furigana),,,,じゅん
-純 (Meaning),,,,ALL WOOL
-沿 (Furigana),,,,えん
-沿 (Meaning),,,,ALONG THE TRAIN LINE
-承 (Furigana),,,,しょう
-承 (Meaning),,,,APPROVAL (RECOGNITION, AGREEMENT)
-歓 (Furigana),,,,かん
-歓 (Meaning),,,,A WELCOME (WELCOME)
-小 (Furigana),,,,しょう
-小 (Meaning),,,,AZUKI BEANS (ADZUKI BEANS)
-焼 (Furigana),,,,や
-焼 (Meaning),,,,BAKED SWEET POTATO (ROAST SWEET POTATO)
-幕 (Furigana),,,,まく
-幕 (Meaning),,,,BAKUFU (SHOGUNATE)
-豆 (Furigana),,,,とう
+純毛 (Furigana),,,,じゅんもう
+純毛 (Meaning),,,,ALL WOOL
+沿線 (Furigana),,,,えんせん
+沿線 (Meaning),,,,ALONG THE TRAIN LINE
+承認 (Furigana),,,,しょうにん
+承認 (Meaning),,,,APPROVAL (RECOGNITION, AGREEMENT)
+歓迎 (Furigana),,,,かんげい
+歓迎 (Meaning),,,,A WELCOME (WELCOME)
+小豆 (Furigana),,,,あずき
+小豆 (Meaning),,,,AZUKI BEANS (ADZUKI BEANS)
+焼き芋 (Furigana),,,,やきいも
+焼き芋 (Meaning),,,,BAKED SWEET POTATO (ROAST SWEET POTATO)
+幕府 (Furigana),,,,ばくふ
+幕府 (Meaning),,,,BAKUFU (SHOGUNATE)
+豆 (Furigana),,,,まめ
 豆 (Meaning),,,,BEANS
-牛 (Furigana),,,,ぎゅう
-牛 (Meaning),,,,BEEF BOWL (BEEF RICE BOWL)
-聖 (Furigana),,,,せい
-聖 (Meaning),,,,BIBLE
-紅 (Furigana),,,,こう
-紅 (Meaning),,,,BLACK TEA
-血 (Furigana),,,,けつ
-血 (Meaning),,,,BLOOD TYPE (BLOOD GROUP)
-枝 (Furigana),,,,し
+牛丼 (Furigana),,,,ぎゅうどん
+牛丼 (Meaning),,,,BEEF BOWL (BEEF RICE BOWL)
+聖書 (Furigana),,,,せいしょ
+聖書 (Meaning),,,,BIBLE
+紅茶 (Furigana),,,,こうちゃ
+紅茶 (Meaning),,,,BLACK TEA
+血液型 (Furigana),,,,けつえきがた
+血液型 (Meaning),,,,BLOOD TYPE (BLOOD GROUP)
+枝 (Furigana),,,,えだ
 枝 (Meaning),,,,BRANCH
 爪 (Furigana),,,,つめ
 爪 (Meaning),,,,CLAW (NAIL, TALON, HOOF)
-沿 (Furigana),,,,えん
-沿 (Meaning),,,,COAST (SHORE)
-沿 (Furigana),,,,えん
-沿 (Meaning),,,,COASTAL WATERS (COAST)
-指 (Furigana),,,,し
-指 (Meaning),,,,COMMAND (LEAD)
-通 (Furigana),,,,つう
-通 (Meaning),,,,COMMUTE (COMMUTING)
-承 (Furigana),,,,しょう
-承 (Meaning),,,,CONSENT (KNOW, AWARE)
-腐 (Furigana),,,,ふ
-腐 (Meaning),,,,CORROSION
+沿岸 (Furigana),,,,えんがん
+沿岸 (Meaning),,,,COAST (SHORE)
+沿海 (Furigana),,,,えんかい
+沿海 (Meaning),,,,COASTAL WATERS (COAST)
+指揮 (Furigana),,,,しき
+指揮 (Meaning),,,,COMMAND (LEAD)
+通勤 (Furigana),,,,つうきん
+通勤 (Meaning),,,,COMMUTE (COMMUTING)
+承知 (Furigana),,,,しょうち
+承知 (Meaning),,,,CONSENT (KNOW, AWARE)
+腐食 (Furigana),,,,ふしょく
+腐食 (Meaning),,,,CORROSION
 咳 (Furigana),,,,せき
 咳 (Meaning),,,,COUGH
-股 (Furigana),,,,こ
+股 (Furigana),,,,また
 股 (Meaning),,,,CROTCH (GROIN, FORK)
-人 (Furigana),,,,にん
-人 (Meaning),,,,CROWD OF PEOPLE
+人込み (Furigana),,,,ひとごみ
+人込み (Meaning),,,,CROWD OF PEOPLE
 幕 (Furigana),,,,まく
 幕 (Meaning),,,,CURTAIN
-損 (Furigana),,,,そん
-損 (Meaning),,,,DAMAGE (INJURY)
-腐 (Furigana),,,,ふ
-腐 (Meaning),,,,DECOMPOSITION (ROTTING, CORRUPTION)
-紅 (Furigana),,,,こう
+損害 (Furigana),,,,そんがい
+損害 (Meaning),,,,DAMAGE (INJURY)
+腐敗 (Furigana),,,,ふはい
+腐敗 (Meaning),,,,DECOMPOSITION (ROTTING, CORRUPTION)
+紅 (Furigana),,,,くれない
 紅 (Meaning),,,,DEEP RED (DARK RED, CRIMSON, ROUGE, LIPSTICK)
 損 (Furigana),,,,そん
 損 (Meaning),,,,DISADVANTAGE (HANDICAP, LOSS)
-使 (Furigana),,,,し
-使 (Meaning),,,,DISPOSABLE
-奴 (Furigana),,,,ど
+使い捨て (Furigana),,,,つかいすて
+使い捨て (Meaning),,,,DISPOSABLE
+奴 (Furigana),,,,やつ
 奴 (Meaning),,,,DUDE (GUY)
-震 (Furigana),,,,しん
-震 (Meaning),,,,EPICENTER (EPICENTRE)
-推 (Furigana),,,,すい
-推 (Meaning),,,,ESTIMATE (ESTIMATION, ASSUMPTION)
-言 (Furigana),,,,げん
-言 (Meaning),,,,EXCUSE (EXPLANATION)
-常 (Furigana),,,,じょう
-常 (Meaning),,,,FULL TIME EMPLOYMENT (FULL TIME)
-源 (Furigana),,,,げん
-源 (Meaning),,,,GENJI
-降 (Furigana),,,,こう
-降 (Meaning),,,,GETTING OFF (ALIGHTING, DISEMBARKING)
-眼 (Furigana),,,,がん
-眼 (Meaning),,,,GLASSES (EYEGLASSES)
-祖 (Furigana),,,,そ
-祖 (Meaning),,,,GRANDPARENTS
-心 (Furigana),,,,しん
-心 (Meaning),,,,HEART
-大 (Furigana),,,,たい
-大 (Meaning),,,,HEAVY LOSS (BIG LOSS)
-以 (Furigana),,,,い
-以 (Meaning),,,,HEREAFTER (AFTER, SINCE)
-神 (Furigana),,,,しん
-神 (Meaning),,,,HOLINESS (HOLY)
-聖 (Furigana),,,,せい
-聖 (Meaning),,,,HOLY LAND (HOLY GROUND)
-不 (Furigana),,,,ふ
-不 (Meaning),,,,IMPURE
-内 (Furigana),,,,ない
-内 (Meaning),,,,INTERNAL ORGAN
-痩 (Furigana),,,,そう
-痩 (Meaning),,,,LEAN (SLIM, SLIMMING)
-縦 (Furigana),,,,たて
-縦 (Meaning),,,,LENGTH AND WIDTH (VERTICAL AND HORIZONTAL)
-久 (Furigana),,,,きゅう
-久 (Meaning),,,,LONG TIME NO SEE (IT'S BEEN A WHILE)
-肺 (Furigana),,,,はい
-肺 (Meaning),,,,LUNG
-磁 (Furigana),,,,じ
-磁 (Meaning),,,,MAGNET (A MAGNET)
-磁 (Furigana),,,,じ
-磁 (Meaning),,,,MAGNETIC FIELD
-磁 (Furigana),,,,じ
-磁 (Meaning),,,,MAGNETISM
-迎 (Furigana),,,,げい
-迎 (Meaning),,,,MEETING (WELCOME, GREETING, RECEPTION)
-誤 (Furigana),,,,ご
-誤 (Meaning),,,,MISCALCULATION
-誤 (Furigana),,,,ご
-誤 (Meaning),,,,MISUNDERSTANDING
-誤 (Furigana),,,,ご
-誤 (Meaning),,,,MISUSE
-爪 (Furigana),,,,つめ
-爪 (Meaning),,,,NAIL CLIPPER
-納 (Furigana),,,,のう
-納 (Meaning),,,,NATTO (FERMENTED SOYBEANS)
-興 (Furigana),,,,きょう
-興 (Meaning),,,,NO INTEREST (NOT INTERESTED)
-兄 (Furigana),,,,きょう
-兄 (Meaning),,,,OLDER BROTHER (BIG BROTHER, ELDER BROTHER, ONE'S SENIOR)
-源 (Furigana),,,,げん
+震源地 (Furigana),,,,しんげんち
+震源地 (Meaning),,,,EPICENTER (EPICENTRE)
+推定 (Furigana),,,,すいてい
+推定 (Meaning),,,,ESTIMATE (ESTIMATION, ASSUMPTION)
+言い訳 (Furigana),,,,いいわけ
+言い訳 (Meaning),,,,EXCUSE (EXPLANATION)
+常勤 (Furigana),,,,じょうきん
+常勤 (Meaning),,,,FULL TIME EMPLOYMENT (FULL TIME)
+源氏 (Furigana),,,,げんじ
+源氏 (Meaning),,,,GENJI
+降車 (Furigana),,,,こうしゃ
+降車 (Meaning),,,,GETTING OFF (ALIGHTING, DISEMBARKING)
+眼鏡 (Furigana),,,,めがね
+眼鏡 (Meaning),,,,GLASSES (EYEGLASSES)
+祖父母 (Furigana),,,,そふぼ
+祖父母 (Meaning),,,,GRANDPARENTS
+心臓 (Furigana),,,,しんぞう
+心臓 (Meaning),,,,HEART
+大損 (Furigana),,,,おおぞん
+大損 (Meaning),,,,HEAVY LOSS (BIG LOSS)
+以降 (Furigana),,,,いこう
+以降 (Meaning),,,,HEREAFTER (AFTER, SINCE)
+神聖 (Furigana),,,,しんせい
+神聖 (Meaning),,,,HOLINESS (HOLY)
+聖地 (Furigana),,,,せいち
+聖地 (Meaning),,,,HOLY LAND (HOLY GROUND)
+不純 (Furigana),,,,ふじゅん
+不純 (Meaning),,,,IMPURE
+内臓 (Furigana),,,,ないぞう
+内臓 (Meaning),,,,INTERNAL ORGAN
+痩身 (Furigana),,,,そうしん
+痩身 (Meaning),,,,LEAN (SLIM, SLIMMING)
+縦横 (Furigana),,,,たてよこ
+縦横 (Meaning),,,,LENGTH AND WIDTH (VERTICAL AND HORIZONTAL)
+久しぶり (Furigana),,,,ひさしぶり
+久しぶり (Meaning),,,,LONG TIME NO SEE (IT'S BEEN A WHILE)
+肺臓 (Furigana),,,,はいぞう
+肺臓 (Meaning),,,,LUNG
+磁石 (Furigana),,,,じしゃく
+磁石 (Meaning),,,,MAGNET (A MAGNET)
+磁場 (Furigana),,,,じば
+磁場 (Meaning),,,,MAGNETIC FIELD
+磁気 (Furigana),,,,じき
+磁気 (Meaning),,,,MAGNETISM
+迎え (Furigana),,,,むかえ
+迎え (Meaning),,,,MEETING (WELCOME, GREETING, RECEPTION)
+誤算 (Furigana),,,,ごさん
+誤算 (Meaning),,,,MISCALCULATION
+誤解 (Furigana),,,,ごかい
+誤解 (Meaning),,,,MISUNDERSTANDING
+誤用 (Furigana),,,,ごよう
+誤用 (Meaning),,,,MISUSE
+爪切り (Furigana),,,,つめきり
+爪切り (Meaning),,,,NAIL CLIPPER
+納豆 (Furigana),,,,なっとう
+納豆 (Meaning),,,,NATTO (FERMENTED SOYBEANS)
+興味がない (Furigana),,,,きょうみがない
+興味がない (Meaning),,,,NO INTEREST (NOT INTERESTED)
+兄貴 (Furigana),,,,あにき
+兄貴 (Meaning),,,,OLDER BROTHER (BIG BROTHER, ELDER BROTHER, ONE'S SENIOR)
+源 (Furigana),,,,みなもと
 源 (Meaning),,,,ORIGIN (SOURCE, GROUND SPRING)
-飼 (Furigana),,,,か
-飼 (Meaning),,,,PET OWNER
-歓 (Furigana),,,,かん
-歓 (Meaning),,,,PLEASURE QUARTER
-複 (Furigana),,,,ふく
-複 (Meaning),,,,PLURAL (PLURAL FORM)
+飼い主 (Furigana),,,,かいぬし
+飼い主 (Meaning),,,,PET OWNER
+歓楽街 (Furigana),,,,かんらくがい
+歓楽街 (Meaning),,,,PLEASURE QUARTER
+複数形 (Furigana),,,,ふくすうけい
+複数形 (Meaning),,,,PLURAL (PLURAL FORM)
 芋 (Furigana),,,,いも
 芋 (Meaning),,,,POTATO
-芋 (Furigana),,,,いも
-芋 (Meaning),,,,POTATO (WHITE POTATO)
-電 (Furigana),,,,でん
-電 (Meaning),,,,POWER SOURCE (LIGHT SOCKET, OUTLET, SOCKET)
-貴 (Furigana),,,,き
-貴 (Meaning),,,,PRECIOUS (VALUABLE)
-純 (Furigana),,,,じゅん
-純 (Meaning),,,,PURE (GENUINE)
-放 (Furigana),,,,ほう
-放 (Meaning),,,,RADIATION
-推 (Furigana),,,,すい
-推 (Meaning),,,,REASONING (INFERENCE)
-推 (Furigana),,,,すい
-推 (Meaning),,,,RECOMMENDATION
-縮 (Furigana),,,,しゅく
-縮 (Meaning),,,,REDUCTION (CUT)
-反 (Furigana),,,,はん
-反 (Meaning),,,,REFLECTION
-丼 (Furigana),,,,どん
+じゃが芋 (Furigana),,,,じゃがいも
+じゃが芋 (Meaning),,,,POTATO (WHITE POTATO)
+電源 (Furigana),,,,でんげん
+電源 (Meaning),,,,POWER SOURCE (LIGHT SOCKET, OUTLET, SOCKET)
+貴重 (Furigana),,,,きちょう
+貴重 (Meaning),,,,PRECIOUS (VALUABLE)
+純粋 (Furigana),,,,じゅんすい
+純粋 (Meaning),,,,PURE (GENUINE)
+放射 (Furigana),,,,ほうしゃ
+放射 (Meaning),,,,RADIATION
+推理 (Furigana),,,,すいり
+推理 (Meaning),,,,REASONING (INFERENCE)
+推薦 (Furigana),,,,すいせん
+推薦 (Meaning),,,,RECOMMENDATION
+縮小 (Furigana),,,,しゅくしょう
+縮小 (Meaning),,,,REDUCTION (CUT)
+反射 (Furigana),,,,はんしゃ
+反射 (Meaning),,,,REFLECTION
+丼 (Furigana),,,,どんぶり
 丼 (Meaning),,,,RICE BOWL
-自 (Furigana),,,,じ
-自 (Meaning),,,,SELF RECOMMENDATION
-深 (Furigana),,,,しん
-深 (Meaning),,,,SERIOUS (GRAVE)
-注 (Furigana),,,,ちゅう
-注 (Meaning),,,,SHOT (INJECTION)
-単 (Furigana),,,,たん
-単 (Meaning),,,,SIMPLE
-奴 (Furigana),,,,ど
-奴 (Meaning),,,,SLAVE
-染 (Furigana),,,,せん
-染 (Meaning),,,,STAIN (A STAIN)
-粋 (Furigana),,,,すい
+自薦 (Furigana),,,,じせん
+自薦 (Meaning),,,,SELF RECOMMENDATION
+深刻 (Furigana),,,,しんこく
+深刻 (Meaning),,,,SERIOUS (GRAVE)
+注射 (Furigana),,,,ちゅうしゃ
+注射 (Meaning),,,,SHOT (INJECTION)
+単純 (Furigana),,,,たんじゅん
+単純 (Meaning),,,,SIMPLE
+奴隷 (Furigana),,,,どれい
+奴隷 (Meaning),,,,SLAVE
+染み (Furigana),,,,しみ
+染み (Meaning),,,,STAIN (A STAIN)
+粋 (Furigana),,,,いき
 粋 (Meaning),,,,STYLISH
-字 (Furigana),,,,じ
-字 (Meaning),,,,SUBTITLES
-飛 (Furigana),,,,ひ
-飛 (Meaning),,,,SUICIDE BY TRAIN
-降 (Furigana),,,,こう
-降 (Meaning),,,,SURRENDER
-里 (Furigana),,,,さと
-里 (Meaning),,,,TARO
-貴 (Furigana),,,,き
-貴 (Meaning),,,,THE NOBILITY (A NOBLE)
-時 (Furigana),,,,じ
-時 (Meaning),,,,TIMETABLE (SCHEDULE)
-賛 (Furigana),,,,さん
-賛 (Meaning),,,,TO AGREE (TO SUPPORT)
-申 (Furigana),,,,もう
-申 (Meaning),,,,TO APPLY (TO SUBMIT AN APPLICATION)
-傷 (Furigana),,,,しょう
-傷 (Meaning),,,,TO BE DAMAGED (TO GO BAD, TO SPOIL)
-染 (Furigana),,,,せん
-染 (Meaning),,,,TO BE DYED
-勤 (Furigana),,,,きん
-勤 (Meaning),,,,TO BE EMPLOYED AT (TO WORK FOR)
-刻 (Furigana),,,,こく
-刻 (Meaning),,,,TO CARVE (TO CUT UP)
-発 (Furigana),,,,はつ
-発 (Meaning),,,,TO EXHIBIT (TO DEMONSTRATE)
-降 (Furigana),,,,こう
-降 (Meaning),,,,TO FALL (TO COME DOWN)
-書 (Furigana),,,,しょ
-書 (Meaning),,,,TO FILL OUT (TO WRITE IN)
-痩 (Furigana),,,,そう
-痩 (Meaning),,,,TO GET THIN (TO LOSE WEIGHT)
-損 (Furigana),,,,そん
-損 (Meaning),,,,TO HARM (TO INJURE, TO DAMAGE)
-拝 (Furigana),,,,はい
-拝 (Meaning),,,,TO HAVE A LOOK AT (TO SEE)
-承 (Furigana),,,,しょう
-承 (Meaning),,,,TO HEAR (TO UNDERSTAND, TO LISTEN TO, TO BE INFORMED, TO CONSENT)
-傷 (Furigana),,,,しょう
-傷 (Meaning),,,,TO HURT SOMEONE (TO SCRATCH, TO DAMAGE)
-発 (Furigana),,,,はつ
-発 (Meaning),,,,TO LAUNCH (TO FIRE)
-汚 (Furigana),,,,お
-汚 (Meaning),,,,TO MAKE DIRTY (TO MAKE SOMETHING DIRTY)
-引 (Furigana),,,,ひ
-引 (Meaning),,,,TO MOVE (TO MOVE HOMES)
-追 (Furigana),,,,お
-追 (Meaning),,,,TO OVERTAKE (TO SURPASS, TO PASS, TO PULL AHEAD)
-吐 (Furigana),,,,は
-吐 (Meaning),,,,TO PUKE (TO THROW UP, TO BARF, TO VOMIT)
-込 (Furigana),,,,こ
-込 (Meaning),,,,TO PUT IN (TO LOAD)
-薦 (Furigana),,,,せん
-薦 (Meaning),,,,TO RECOMMEND
-腐 (Furigana),,,,ふ
-腐 (Meaning),,,,TO ROT
-沿 (Furigana),,,,えん
-沿 (Meaning),,,,TO RUN ALONGSIDE (TO RUN PARALLEL TO)
-縮 (Furigana),,,,しゅく
-縮 (Meaning),,,,TO SHRINK (TO CONTRACT)
-詰 (Furigana),,,,つ
-詰 (Meaning),,,,TO STUFF (TO CRAM)
-全 (Furigana),,,,ぜん
-全 (Meaning),,,,TOTAL LOSS
-投 (Furigana),,,,とう
-投 (Meaning),,,,TO THROW AWAY
-拝 (Furigana),,,,はい
-拝 (Meaning),,,,TO WORSHIP (TO PRAY TO, TO SEE)
-誤 (Furigana),,,,ご
-誤 (Meaning),,,,TYPO
-貴 (Furigana),,,,き
-貴 (Meaning),,,,VALUABLE (SACRED)
+字幕 (Furigana),,,,じまく
+字幕 (Meaning),,,,SUBTITLES
+飛び込み自殺 (Furigana),,,,とびこみじさつ
+飛び込み自殺 (Meaning),,,,SUICIDE BY TRAIN
+降参 (Furigana),,,,こうさん
+降参 (Meaning),,,,SURRENDER
+里芋 (Furigana),,,,さといも
+里芋 (Meaning),,,,TARO
+貴族 (Furigana),,,,きぞく
+貴族 (Meaning),,,,THE NOBILITY (A NOBLE)
+時刻表 (Furigana),,,,じこくひょう
+時刻表 (Meaning),,,,TIMETABLE (SCHEDULE)
+賛成する (Furigana),,,,さんせいする
+賛成する (Meaning),,,,TO AGREE (TO SUPPORT)
+申し込む (Furigana),,,,もうしこむ
+申し込む (Meaning),,,,TO APPLY (TO SUBMIT AN APPLICATION)
+傷む (Furigana),,,,いたむ
+傷む (Meaning),,,,TO BE DAMAGED (TO GO BAD, TO SPOIL)
+染まる (Furigana),,,,そまる
+染まる (Meaning),,,,TO BE DYED
+勤める (Furigana),,,,つとめる
+勤める (Meaning),,,,TO BE EMPLOYED AT (TO WORK FOR)
+刻む (Furigana),,,,きざむ
+刻む (Meaning),,,,TO CARVE (TO CUT UP)
+発揮する (Furigana),,,,はっきする
+発揮する (Meaning),,,,TO EXHIBIT (TO DEMONSTRATE)
+降る (Furigana),,,,ふる
+降る (Meaning),,,,TO FALL (TO COME DOWN)
+書き込む (Furigana),,,,かきこむ
+書き込む (Meaning),,,,TO FILL OUT (TO WRITE IN)
+痩せる (Furigana),,,,やせる
+痩せる (Meaning),,,,TO GET THIN (TO LOSE WEIGHT)
+損なう (Furigana),,,,そこなう
+損なう (Meaning),,,,TO HARM (TO INJURE, TO DAMAGE)
+拝見する (Furigana),,,,はいけんする
+拝見する (Meaning),,,,TO HAVE A LOOK AT (TO SEE)
+承る (Furigana),,,,うけたまわる
+承る (Meaning),,,,TO HEAR (TO UNDERSTAND, TO LISTEN TO, TO BE INFORMED, TO CONSENT)
+傷つける (Furigana),,,,きずつける
+傷つける (Meaning),,,,TO HURT SOMEONE (TO SCRATCH, TO DAMAGE)
+発射する (Furigana),,,,はっしゃする
+発射する (Meaning),,,,TO LAUNCH (TO FIRE)
+汚す (Furigana),,,,よごす
+汚す (Meaning),,,,TO MAKE DIRTY (TO MAKE SOMETHING DIRTY)
+引っ越す (Furigana),,,,ひっこす
+引っ越す (Meaning),,,,TO MOVE (TO MOVE HOMES)
+追い越す (Furigana),,,,おいこす
+追い越す (Meaning),,,,TO OVERTAKE (TO SURPASS, TO PASS, TO PULL AHEAD)
+吐く (Furigana),,,,はく
+吐く (Meaning),,,,TO PUKE (TO THROW UP, TO BARF, TO VOMIT)
+込める (Furigana),,,,こめる
+込める (Meaning),,,,TO PUT IN (TO LOAD)
+薦める (Furigana),,,,すすめる
+薦める (Meaning),,,,TO RECOMMEND
+腐る (Furigana),,,,くさる
+腐る (Meaning),,,,TO ROT
+沿う (Furigana),,,,そう
+沿う (Meaning),,,,TO RUN ALONGSIDE (TO RUN PARALLEL TO)
+縮まる (Furigana),,,,ちぢまる
+縮まる (Meaning),,,,TO SHRINK (TO CONTRACT)
+詰め込む (Furigana),,,,つめこむ
+詰め込む (Meaning),,,,TO STUFF (TO CRAM)
+全損 (Furigana),,,,ぜんそん
+全損 (Meaning),,,,TOTAL LOSS
+投げ捨てる (Furigana),,,,なげすてる
+投げ捨てる (Meaning),,,,TO THROW AWAY
+拝む (Furigana),,,,おがむ
+拝む (Meaning),,,,TO WORSHIP (TO PRAY TO, TO SEE)
+誤字 (Furigana),,,,ごじ
+誤字 (Meaning),,,,TYPO
+貴い (Furigana),,,,とうとい
+貴い (Meaning),,,,VALUABLE (SACRED)
 縦 (Furigana),,,,たて
 縦 (Meaning),,,,VERTICAL
-縦 (Furigana),,,,たて
-縦 (Meaning),,,,VERTICAL WRITING (VERTICAL STYLE WRITING)
-黒 (Furigana),,,,こく
-黒 (Meaning),,,,WIREPULLER (MASTERMIND, BLACK CURTAIN, DICK CHENEY)
-貴 (Furigana),,,,き
-貴 (Meaning),,,,YOU
+縦書 (Furigana),,,,たてがき
+縦書 (Meaning),,,,VERTICAL WRITING (VERTICAL STYLE WRITING)
+黒幕 (Furigana),,,,くろまく
+黒幕 (Meaning),,,,WIREPULLER (MASTERMIND, BLACK CURTAIN, DICK CHENEY)
+貴様 (Furigana),,,,きさま
+貴様 (Meaning),,,,YOU

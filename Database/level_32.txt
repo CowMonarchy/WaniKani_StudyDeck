@@ -66,241 +66,241 @@
 迎 (Meaning),,,,Welcome
 傷 (Onyomi),,,,しょう
 傷 (Meaning),,,,Wound
-功 (Furigana),,,,こう
-功 (Meaning),,,,ACHIEVEMENT (ACCOMPLISHMENT)
-賛 (Furigana),,,,さん
-賛 (Meaning),,,,AGREEMENT (APPROVAL, SUPPORT)
-志 (Furigana),,,,し
+功績 (Furigana),,,,こうせき
+功績 (Meaning),,,,ACHIEVEMENT (ACCOMPLISHMENT)
+賛成 (Furigana),,,,さんせい
+賛成 (Meaning),,,,AGREEMENT (APPROVAL, SUPPORT)
+志 (Furigana),,,,こころざし
 志 (Meaning),,,,AMBITION (INTENTION)
-先 (Furigana),,,,せん
-先 (Meaning),,,,ANCESTORS (ONE'S ANCESTORS)
-食 (Furigana),,,,しょく
-食 (Meaning),,,,APPETITE
-恩 (Furigana),,,,おん
-恩 (Meaning),,,,BENEFACTOR
-血 (Furigana),,,,けつ
-血 (Meaning),,,,BLOOD
-卵 (Furigana),,,,たまご
-卵 (Meaning),,,,BOILED EGG
-火 (Furigana),,,,か
-火 (Meaning),,,,BURN (SCALD)
-背 (Furigana),,,,はい
-背 (Meaning),,,,BUSINESS SUIT
-肉 (Furigana),,,,にく
-肉 (Meaning),,,,CARNAL DESIRES
-桜 (Furigana),,,,さくら
-桜 (Meaning),,,,CHERRY
-大 (Furigana),,,,たい
-大 (Meaning),,,,CLAMOR (UPROAR, BIG NOISE)
-押 (Furigana),,,,お
-押 (Meaning),,,,CLOSET (CUPBOARD)
-銭 (Furigana),,,,せん
+先祖 (Furigana),,,,せんぞ
+先祖 (Meaning),,,,ANCESTORS (ONE'S ANCESTORS)
+食欲 (Furigana),,,,しょくよく
+食欲 (Meaning),,,,APPETITE
+恩人 (Furigana),,,,おんじん
+恩人 (Meaning),,,,BENEFACTOR
+血液 (Furigana),,,,けつえき
+血液 (Meaning),,,,BLOOD
+ゆで卵 (Furigana),,,,ゆでたまご
+ゆで卵 (Meaning),,,,BOILED EGG
+火傷 (Furigana),,,,やけど
+火傷 (Meaning),,,,BURN (SCALD)
+背広 (Furigana),,,,せびろ
+背広 (Meaning),,,,BUSINESS SUIT
+肉欲 (Furigana),,,,にくよく
+肉欲 (Meaning),,,,CARNAL DESIRES
+桜んぼ (Furigana),,,,さくらんぼ
+桜んぼ (Meaning),,,,CHERRY
+大騒ぎ (Furigana),,,,おおさわぎ
+大騒ぎ (Meaning),,,,CLAMOR (UPROAR, BIG NOISE)
+押入れ (Furigana),,,,おしいれ
+押入れ (Meaning),,,,CLOSET (CUPBOARD)
+銭 (Furigana),,,,ぜに
 銭 (Meaning),,,,COIN (MONEY, BUCKS)
-共 (Furigana),,,,きょう
-共 (Meaning),,,,COMMUNIST PARTY
-複 (Furigana),,,,ふく
-複 (Meaning),,,,COMPLICATED (COMPLEX)
-便 (Furigana),,,,べん
-便 (Meaning),,,,CONSTIPATION
-伝 (Furigana),,,,でん
-伝 (Meaning),,,,CONTAGIOUS DISEASE
-複 (Furigana),,,,ふく
-複 (Meaning),,,,COPYING (DUPLICATION, COPY, DUPLICATE)
-飾 (Furigana),,,,しょく
-飾 (Meaning),,,,DECORATION (ORNAMENT)
-志 (Furigana),,,,し
-志 (Meaning),,,,DESIRE (AMBITION)
+共産党 (Furigana),,,,きょうさんとう
+共産党 (Meaning),,,,COMMUNIST PARTY
+複雑 (Furigana),,,,ふくざつ
+複雑 (Meaning),,,,COMPLICATED (COMPLEX)
+便秘 (Furigana),,,,べんぴ
+便秘 (Meaning),,,,CONSTIPATION
+伝染病 (Furigana),,,,でんせんびょう
+伝染病 (Meaning),,,,CONTAGIOUS DISEASE
+複写 (Furigana),,,,ふくしゃ
+複写 (Meaning),,,,COPYING (DUPLICATION, COPY, DUPLICATE)
+飾り (Furigana),,,,かざり
+飾り (Meaning),,,,DECORATION (ORNAMENT)
+志望 (Furigana),,,,しぼう
+志望 (Meaning),,,,DESIRE (AMBITION)
 机 (Furigana),,,,つくえ
 机 (Meaning),,,,DESK
-汚 (Furigana),,,,お
-汚 (Meaning),,,,DIRTY WATER (FILTHY WATER, SEWAGE)
+汚水 (Furigana),,,,おすい
+汚水 (Meaning),,,,DIRTY WATER (FILTHY WATER, SEWAGE)
 卵 (Furigana),,,,たまご
 卵 (Meaning),,,,EGG
-英 (Furigana),,,,えい
-英 (Meaning),,,,ENGLISH TRANSLATION
-眼 (Furigana),,,,がん
+英訳 (Furigana),,,,えいやく
+英訳 (Meaning),,,,ENGLISH TRANSLATION
+眼 (Furigana),,,,め
 眼 (Meaning),,,,EYE (EYEBALL)
-眼 (Furigana),,,,がん
-眼 (Meaning),,,,EYEBALL
-老 (Furigana),,,,ろう
-老 (Meaning),,,,FARSIGHTEDNESS
-永 (Furigana),,,,えい
-永 (Meaning),,,,FOREVER (ETERNITY)
-永 (Furigana),,,,えい
-永 (Meaning),,,,FOREVER (ETERNITY, PERMANENCE)
-成 (Furigana),,,,せい
-成 (Meaning),,,,GRADES (RANKING)
-祖 (Furigana),,,,そ
-祖 (Meaning),,,,GRANDFATHER (GRANDPA)
-祖 (Furigana),,,,そ
-祖 (Meaning),,,,GRANDMOTHER (GRANDMA)
-傷 (Furigana),,,,しょう
-傷 (Meaning),,,,HEARTBREAK
-桜 (Furigana),,,,さくら
-桜 (Meaning),,,,HORSE MEAT
-衛 (Furigana),,,,えい
-衛 (Meaning),,,,HYGIENE
-感 (Furigana),,,,かん
-感 (Meaning),,,,INFECTION (CONTAGION)
-傷 (Furigana),,,,しょう
-傷 (Meaning),,,,INJURED PERSON (WOUNDED PERSON)
-興 (Furigana),,,,きょう
-興 (Meaning),,,,INTEREST
-通 (Furigana),,,,つう
-通 (Meaning),,,,INTERPRETING (INTERPRETATION)
-和 (Furigana),,,,わ
-和 (Meaning),,,,JAPANESE TRANSLATION
-自 (Furigana),,,,じ
-自 (Meaning),,,,LIBERAL DEMOCRATIC PARTY (LDP)
-液 (Furigana),,,,えき
-液 (Meaning),,,,LIQUID
-久 (Furigana),,,,きゅう
-久 (Meaning),,,,LONG AGO (FOR A LONG TIME)
-結 (Furigana),,,,けつ
-結 (Meaning),,,,MARRIAGE CEREMONY (WEDDING)
-雑 (Furigana),,,,ざつ
-雑 (Meaning),,,,MISCELLANEOUS EXPENSES
-複 (Furigana),,,,ふく
-複 (Meaning),,,,MULTIPLE (PLURAL)
-雑 (Furigana),,,,ざつ
-雑 (Meaning),,,,NOISE (STATIC)
-撮 (Furigana),,,,さつ
-撮 (Meaning),,,,NO PHOTOS (NO PHOTOS ALLOWED)
-背 (Furigana),,,,はい
-背 (Meaning),,,,ONE'S BACK (BACK)
-酸 (Furigana),,,,さん
-酸 (Meaning),,,,OXYGEN
-党 (Furigana),,,,とう
-党 (Meaning),,,,PARTY MEMBER
-桜 (Furigana),,,,さくら
-桜 (Meaning),,,,PINK (PINK COLOR, COLOR PINK)
-遊 (Furigana),,,,ゆう
-遊 (Meaning),,,,PLAY (PLAYING, GAMES)
-政 (Furigana),,,,せい
-政 (Meaning),,,,POLITICAL PARTY
-汚 (Furigana),,,,お
-汚 (Meaning),,,,POLLUTION
-貧 (Furigana),,,,びん
-貧 (Meaning),,,,POOR PERSON
-序 (Furigana),,,,じょ
-序 (Meaning),,,,PREFACE
-採 (Furigana),,,,さい
-採 (Meaning),,,,PROFIT
-銭 (Furigana),,,,せん
-銭 (Meaning),,,,PUBLIC BATH
-出 (Furigana),,,,しゅつ
-出 (Meaning),,,,PUBLISHING COMPANY (PUBLISHER)
-押 (Furigana),,,,お
-押 (Meaning),,,,PUSH BUTTON
-生 (Furigana),,,,せい
-生 (Meaning),,,,RAW EGG
-訳 (Furigana),,,,やく
+眼球 (Furigana),,,,がんきゅう
+眼球 (Meaning),,,,EYEBALL
+老眼 (Furigana),,,,ろうがん
+老眼 (Meaning),,,,FARSIGHTEDNESS
+永久 (Furigana),,,,えいきゅう
+永久 (Meaning),,,,FOREVER (ETERNITY)
+永遠 (Furigana),,,,えいえん
+永遠 (Meaning),,,,FOREVER (ETERNITY, PERMANENCE)
+成績 (Furigana),,,,せいせき
+成績 (Meaning),,,,GRADES (RANKING)
+祖父 (Furigana),,,,そふ
+祖父 (Meaning),,,,GRANDFATHER (GRANDPA)
+祖母 (Furigana),,,,そぼ
+祖母 (Meaning),,,,GRANDMOTHER (GRANDMA)
+傷心 (Furigana),,,,しょうしん
+傷心 (Meaning),,,,HEARTBREAK
+桜肉 (Furigana),,,,さくらにく
+桜肉 (Meaning),,,,HORSE MEAT
+衛生 (Furigana),,,,えいせい
+衛生 (Meaning),,,,HYGIENE
+感染 (Furigana),,,,かんせん
+感染 (Meaning),,,,INFECTION (CONTAGION)
+傷者 (Furigana),,,,しょうしゃ
+傷者 (Meaning),,,,INJURED PERSON (WOUNDED PERSON)
+興味 (Furigana),,,,きょうみ
+興味 (Meaning),,,,INTEREST
+通訳 (Furigana),,,,つうやく
+通訳 (Meaning),,,,INTERPRETING (INTERPRETATION)
+和訳 (Furigana),,,,わやく
+和訳 (Meaning),,,,JAPANESE TRANSLATION
+自民党 (Furigana),,,,じみんとう
+自民党 (Meaning),,,,LIBERAL DEMOCRATIC PARTY (LDP)
+液体 (Furigana),,,,えきたい
+液体 (Meaning),,,,LIQUID
+久しい (Furigana),,,,ひさしい
+久しい (Meaning),,,,LONG AGO (FOR A LONG TIME)
+結婚式 (Furigana),,,,けっこんしき
+結婚式 (Meaning),,,,MARRIAGE CEREMONY (WEDDING)
+雑費 (Furigana),,,,ざっぴ
+雑費 (Meaning),,,,MISCELLANEOUS EXPENSES
+複数 (Furigana),,,,ふくすう
+複数 (Meaning),,,,MULTIPLE (PLURAL)
+雑音 (Furigana),,,,ざつおん
+雑音 (Meaning),,,,NOISE (STATIC)
+撮影禁止 (Furigana),,,,さつえいきんし
+撮影禁止 (Meaning),,,,NO PHOTOS (NO PHOTOS ALLOWED)
+背中 (Furigana),,,,せなか
+背中 (Meaning),,,,ONE'S BACK (BACK)
+酸素 (Furigana),,,,さんそ
+酸素 (Meaning),,,,OXYGEN
+党員 (Furigana),,,,とういん
+党員 (Meaning),,,,PARTY MEMBER
+桜色 (Furigana),,,,さくらいろ
+桜色 (Meaning),,,,PINK (PINK COLOR, COLOR PINK)
+遊び (Furigana),,,,あそび
+遊び (Meaning),,,,PLAY (PLAYING, GAMES)
+政党 (Furigana),,,,せいとう
+政党 (Meaning),,,,POLITICAL PARTY
+汚染 (Furigana),,,,おせん
+汚染 (Meaning),,,,POLLUTION
+貧乏人 (Furigana),,,,びんぼうにん
+貧乏人 (Meaning),,,,POOR PERSON
+序文 (Furigana),,,,じょぶん
+序文 (Meaning),,,,PREFACE
+採算 (Furigana),,,,さいさん
+採算 (Meaning),,,,PROFIT
+銭湯 (Furigana),,,,せんとう
+銭湯 (Meaning),,,,PUBLIC BATH
+出版社 (Furigana),,,,しゅっぱんしゃ
+出版社 (Meaning),,,,PUBLISHING COMPANY (PUBLISHER)
+押しボタン (Furigana),,,,おしぼたん
+押しボタン (Meaning),,,,PUSH BUTTON
+生卵 (Furigana),,,,なまたまご
+生卵 (Meaning),,,,RAW EGG
+訳 (Furigana),,,,わけ
 訳 (Meaning),,,,REASON
-恩 (Furigana),,,,おん
-恩 (Meaning),,,,REWARD
+恩賞 (Furigana),,,,おんしょう
+恩賞 (Meaning),,,,REWARD
 桜 (Furigana),,,,さくら
 桜 (Meaning),,,,SAKURA (CHERRY TREE, CHERRY BLOSSOM)
-衛 (Furigana),,,,えい
-衛 (Meaning),,,,SATELLITE
-恐 (Furigana),,,,きょう
-恐 (Meaning),,,,SCARY (FRIGHTENING, EERIE, DREADFUL, I'M AFRAID, I'M SCARED)
-匂 (Furigana),,,,にお
-匂 (Meaning),,,,SCENT (FRAGRANCE, ODOR, SMELL)
-秘 (Furigana),,,,ひ
-秘 (Meaning),,,,SECRET (A SECRET)
-密 (Furigana),,,,みつ
-密 (Meaning),,,,SECRET (PRIVATE)
-密 (Furigana),,,,みつ
-密 (Meaning),,,,SECRET INFORMATION
-密 (Furigana),,,,みつ
-密 (Meaning),,,,SECRET MEETING (CLANDESTINE MEETING)
-自 (Furigana),,,,じ
-自 (Meaning),,,,SELF DEFENSE
-順 (Furigana),,,,じゅん
-順 (Meaning),,,,SEQUENCE (ORDER, STEPS)
-飾 (Furigana),,,,しょく
-飾 (Meaning),,,,SHOWING OFF (AFFECTATION)
-密 (Furigana),,,,みつ
-密 (Meaning),,,,SMUGGLING
-社 (Furigana),,,,しゃ
-社 (Meaning),,,,SOCIALIST PARTY
-酸 (Furigana),,,,さん
-酸 (Meaning),,,,SOUR
-汚 (Furigana),,,,お
-汚 (Meaning),,,,STAIN (SMUDGE)
-背 (Furigana),,,,はい
-背 (Meaning),,,,STATURE (HEIGHT)
-厳 (Furigana),,,,げん
-厳 (Meaning),,,,STRICT (HARSH, SEVERE)
-厳 (Furigana),,,,げん
-厳 (Meaning),,,,STRICTLY FORBIDDEN (STRICTLY PROHIBITED, STRICT PROHIBITION, BAN)
-背 (Furigana),,,,はい
-背 (Meaning),,,,TALL
-照 (Furigana),,,,しょう
-照 (Meaning),,,,TERIYAKI
-冷 (Furigana),,,,れい
-冷 (Meaning),,,,TO BE CHILLED (TO GET COLD)
-込 (Furigana),,,,こ
-込 (Meaning),,,,TO BE CROWDED
-浮 (Furigana),,,,う
-浮 (Meaning),,,,TO BE HAPPY (TO BE IN HIGH SPIRITS, TO BE ELATED)
-秘 (Furigana),,,,ひ
-秘 (Meaning),,,,TO CONCEAL (TO KEEP SECRET)
-染 (Furigana),,,,せん
-染 (Meaning),,,,TO DYE
-火 (Furigana),,,,か
-火 (Meaning),,,,TO FEEL HOT (TO FLUSH, TO BURN)
-採 (Furigana),,,,さい
-採 (Meaning),,,,TO GATHER
-汚 (Furigana),,,,お
-汚 (Meaning),,,,TO GET DIRTY (TO GET POLLUTED, TO BECOME DIRTY)
-濡 (Furigana),,,,ぬ
-濡 (Meaning),,,,TO GET WET (TO BE WET)
-越 (Furigana),,,,えつ
-越 (Meaning),,,,TO GO BEYOND
-飼 (Furigana),,,,か
-飼 (Meaning),,,,TO KEEP A PET (TO RAISE A PET, TO OWN A PET)
-漏 (Furigana),,,,ろう
-漏 (Meaning),,,,TO LEAK SOMETHING (TO LEAK)
-預 (Furigana),,,,よ
-預 (Meaning),,,,TO LOOK AFTER (TO TAKE CARE OF, TO HOLD ON TO)
-結 (Furigana),,,,けつ
-結 (Meaning),,,,TO MARRY (TO GET MARRIED)
-今 (Furigana),,,,こん
-今 (Meaning),,,,TOO LATE (NOW)
-迎 (Furigana),,,,げい
-迎 (Meaning),,,,TO PICK SOMEONE UP (TO MEET SOMEONE, TO WELCOME, TO INVITE)
-延 (Furigana),,,,えん
-延 (Meaning),,,,TO PROLONG (TO EXTEND)
-出 (Furigana),,,,しゅつ
-出 (Meaning),,,,TO PUBLISH
-購 (Furigana),,,,こう
-購 (Meaning),,,,TO SUBSCRIBE
-捨 (Furigana),,,,す
-捨 (Meaning),,,,TO THROW AWAY (TO ABANDON)
-訳 (Furigana),,,,やく
-訳 (Meaning),,,,TO TRANSLATE
-訳 (Furigana),,,,やく
-訳 (Meaning),,,,TRANSLATED TERM
-訳 (Furigana),,,,やく
-訳 (Meaning),,,,TRANSLATOR
-採 (Furigana),,,,さい
-採 (Meaning),,,,USE (ADOPTION, ACCEPTANCE, EMPLOYMENT)
-採 (Furigana),,,,さい
-採 (Meaning),,,,VOTING
-欲 (Furigana),,,,よく
-欲 (Meaning),,,,WANTED (DESIRED, WANT)
-欲 (Furigana),,,,よく
-欲 (Meaning),,,,WANTS (DESIRES, CRAVING)
-暖 (Furigana),,,,だん
-暖 (Meaning),,,,WARM (MILD)
-温 (Furigana),,,,おん
-温 (Meaning),,,,WARM (MILD, WARMTH)
-白 (Furigana),,,,はく
-白 (Meaning),,,,WHITE FLAG
-意 (Furigana),,,,い
-意 (Meaning),,,,WILL (VOLITION)
-意 (Furigana),,,,い
-意 (Meaning),,,,WILL (DESIRE, AMBITION)
-傷 (Furigana),,,,しょう
+衛星 (Furigana),,,,えいせい
+衛星 (Meaning),,,,SATELLITE
+恐い (Furigana),,,,こわい
+恐い (Meaning),,,,SCARY (FRIGHTENING, EERIE, DREADFUL, I'M AFRAID, I'M SCARED)
+匂い (Furigana),,,,におい
+匂い (Meaning),,,,SCENT (FRAGRANCE, ODOR, SMELL)
+秘密 (Furigana),,,,ひみつ
+秘密 (Meaning),,,,SECRET (A SECRET)
+密か (Furigana),,,,ひそか
+密か (Meaning),,,,SECRET (PRIVATE)
+密告 (Furigana),,,,みっこく
+密告 (Meaning),,,,SECRET INFORMATION
+密会 (Furigana),,,,みっかい
+密会 (Meaning),,,,SECRET MEETING (CLANDESTINE MEETING)
+自衛 (Furigana),,,,じえい
+自衛 (Meaning),,,,SELF DEFENSE
+順序 (Furigana),,,,じゅんじょ
+順序 (Meaning),,,,SEQUENCE (ORDER, STEPS)
+飾り気 (Furigana),,,,かざりけ
+飾り気 (Meaning),,,,SHOWING OFF (AFFECTATION)
+密輸 (Furigana),,,,みつゆ
+密輸 (Meaning),,,,SMUGGLING
+社会党 (Furigana),,,,しゃかいとう
+社会党 (Meaning),,,,SOCIALIST PARTY
+酸っぱい (Furigana),,,,すっぱい
+酸っぱい (Meaning),,,,SOUR
+汚点 (Furigana),,,,おてん
+汚点 (Meaning),,,,STAIN (SMUDGE)
+背丈 (Furigana),,,,せたけ
+背丈 (Meaning),,,,STATURE (HEIGHT)
+厳しい (Furigana),,,,きびしい
+厳しい (Meaning),,,,STRICT (HARSH, SEVERE)
+厳禁 (Furigana),,,,げんきん
+厳禁 (Meaning),,,,STRICTLY FORBIDDEN (STRICTLY PROHIBITED, STRICT PROHIBITION, BAN)
+背が高い (Furigana),,,,せがたかい
+背が高い (Meaning),,,,TALL
+照り焼き (Furigana),,,,てりやき
+照り焼き (Meaning),,,,TERIYAKI
+冷える (Furigana),,,,ひえる
+冷える (Meaning),,,,TO BE CHILLED (TO GET COLD)
+込む (Furigana),,,,こむ
+込む (Meaning),,,,TO BE CROWDED
+浮かれる (Furigana),,,,うかれる
+浮かれる (Meaning),,,,TO BE HAPPY (TO BE IN HIGH SPIRITS, TO BE ELATED)
+秘める (Furigana),,,,ひめる
+秘める (Meaning),,,,TO CONCEAL (TO KEEP SECRET)
+染める (Furigana),,,,そめる
+染める (Meaning),,,,TO DYE
+火照る (Furigana),,,,ほてる
+火照る (Meaning),,,,TO FEEL HOT (TO FLUSH, TO BURN)
+採る (Furigana),,,,とる
+採る (Meaning),,,,TO GATHER
+汚れる (Furigana),,,,よごれる
+汚れる (Meaning),,,,TO GET DIRTY (TO GET POLLUTED, TO BECOME DIRTY)
+濡れる (Furigana),,,,ぬれる
+濡れる (Meaning),,,,TO GET WET (TO BE WET)
+越す (Furigana),,,,こす
+越す (Meaning),,,,TO GO BEYOND
+飼う (Furigana),,,,かう
+飼う (Meaning),,,,TO KEEP A PET (TO RAISE A PET, TO OWN A PET)
+漏らす (Furigana),,,,もらす
+漏らす (Meaning),,,,TO LEAK SOMETHING (TO LEAK)
+預かる (Furigana),,,,あずかる
+預かる (Meaning),,,,TO LOOK AFTER (TO TAKE CARE OF, TO HOLD ON TO)
+結婚する (Furigana),,,,けっこんする
+結婚する (Meaning),,,,TO MARRY (TO GET MARRIED)
+今更 (Furigana),,,,いまさら
+今更 (Meaning),,,,TOO LATE (NOW)
+迎える (Furigana),,,,むかえる
+迎える (Meaning),,,,TO PICK SOMEONE UP (TO MEET SOMEONE, TO WELCOME, TO INVITE)
+延長する (Furigana),,,,えんちょうする
+延長する (Meaning),,,,TO PROLONG (TO EXTEND)
+出版する (Furigana),,,,しゅっぱんする
+出版する (Meaning),,,,TO PUBLISH
+購読する (Furigana),,,,こうどくする
+購読する (Meaning),,,,TO SUBSCRIBE
+捨てる (Furigana),,,,すてる
+捨てる (Meaning),,,,TO THROW AWAY (TO ABANDON)
+訳す (Furigana),,,,やくす
+訳す (Meaning),,,,TO TRANSLATE
+訳語 (Furigana),,,,やくご
+訳語 (Meaning),,,,TRANSLATED TERM
+訳者 (Furigana),,,,やくしゃ
+訳者 (Meaning),,,,TRANSLATOR
+採用 (Furigana),,,,さいよう
+採用 (Meaning),,,,USE (ADOPTION, ACCEPTANCE, EMPLOYMENT)
+採決 (Furigana),,,,さいけつ
+採決 (Meaning),,,,VOTING
+欲しい (Furigana),,,,ほしい
+欲しい (Meaning),,,,WANTED (DESIRED, WANT)
+欲求 (Furigana),,,,よっきゅう
+欲求 (Meaning),,,,WANTS (DESIRES, CRAVING)
+暖かい (Furigana),,,,あたたかい
+暖かい (Meaning),,,,WARM (MILD)
+温暖 (Furigana),,,,おんだん
+温暖 (Meaning),,,,WARM (MILD, WARMTH)
+白旗 (Furigana),,,,しろはた
+白旗 (Meaning),,,,WHITE FLAG
+意志 (Furigana),,,,いし
+意志 (Meaning),,,,WILL (VOLITION)
+意欲 (Furigana),,,,いよく
+意欲 (Meaning),,,,WILL (DESIRE, AMBITION)
+傷 (Furigana),,,,きず
 傷 (Meaning),,,,WOUND (DAMAGE, FLAW)

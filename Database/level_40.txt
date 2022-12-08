@@ -70,259 +70,259 @@
 妖 (Meaning),,,,Supernatural
 透 (Onyomi),,,,とう
 透 (Meaning),,,,Transparent
-拉 (Furigana),,,,ら
-拉 (Meaning),,,,ABDUCTION (KIDNAPPING, TAKING CAPTIVE)
-獲 (Furigana),,,,かく
-獲 (Meaning),,,,ACQUISITION (POSSESSION)
-戒 (Furigana),,,,かい
-戒 (Meaning),,,,ADMONITION
-顧 (Furigana),,,,こ
-顧 (Meaning),,,,ADVISOR
-主 (Furigana),,,,しゅ
-主 (Meaning),,,,ADVOCATE
-贈 (Furigana),,,,ぞう
-贈 (Meaning),,,,A PRESENT (PRESENT)
-雅 (Furigana),,,,が
-雅 (Meaning),,,,ARTISTRY (GOOD TASTE, ELEGANCE)
-宜 (Furigana),,,,よろ
-宜 (Meaning),,,,BEST REGARDS (WELL, PROPERLY, SUITABLY)
-宜 (Furigana),,,,よろ
-宜 (Meaning),,,,BEST REGARDS
-繁 (Furigana),,,,はん
-繁 (Meaning),,,,BREEDING (MULTIPLYING)
-贈 (Furigana),,,,ぞう
-贈 (Meaning),,,,BRIBERY
-捕 (Furigana),,,,ほ
-捕 (Meaning),,,,CAPTURE (SEIZURE)
-中 (Furigana),,,,ちゅう
-中 (Meaning),,,,CHINESE NOODLES
-合 (Furigana),,,,ごう
-合 (Meaning),,,,CHORUS (CHOIR)
-薄 (Furigana),,,,はく
-薄 (Meaning),,,,COLD HEARTED
-衝 (Furigana),,,,しょう
-衝 (Meaning),,,,COLLISION (IMPACT, CONFLICT)
-兼 (Furigana),,,,けん
-兼 (Meaning),,,,COMBINED USE (SERVING TWO PURPOSES)
-内 (Furigana),,,,ない
-内 (Meaning),,,,CONFIDENTIAL TALK (WHISPERING)
-新 (Furigana),,,,しん
-新 (Meaning),,,,CUTTING EDGE (UP-AND-COMING, STATE OF THE ART, FRESHLY PICKED)
-洗 (Furigana),,,,せん
-洗 (Meaning),,,,DETERGENT
-不 (Furigana),,,,ふ
-不 (Meaning),,,,DISOBEDIENCE TO PARENTS (LACK OF FILIAL PIETY)
+拉致 (Furigana),,,,らち
+拉致 (Meaning),,,,ABDUCTION (KIDNAPPING, TAKING CAPTIVE)
+獲得 (Furigana),,,,かくとく
+獲得 (Meaning),,,,ACQUISITION (POSSESSION)
+戒告 (Furigana),,,,かいこく
+戒告 (Meaning),,,,ADMONITION
+顧問 (Furigana),,,,こもん
+顧問 (Meaning),,,,ADVISOR
+主唱 (Furigana),,,,しゅしょう
+主唱 (Meaning),,,,ADVOCATE
+贈り物 (Furigana),,,,おくりもの
+贈り物 (Meaning),,,,A PRESENT (PRESENT)
+雅致 (Furigana),,,,がち
+雅致 (Meaning),,,,ARTISTRY (GOOD TASTE, ELEGANCE)
+宜しく (Furigana),,,,よろしく
+宜しく (Meaning),,,,BEST REGARDS (WELL, PROPERLY, SUITABLY)
+宜しくお願いします (Furigana),,,,よろしくおねがいします
+宜しくお願いします (Meaning),,,,BEST REGARDS
+繁殖 (Furigana),,,,はんしょく
+繁殖 (Meaning),,,,BREEDING (MULTIPLYING)
+贈賄 (Furigana),,,,ぞうわい
+贈賄 (Meaning),,,,BRIBERY
+捕獲 (Furigana),,,,ほかく
+捕獲 (Meaning),,,,CAPTURE (SEIZURE)
+中華麺 (Furigana),,,,ちゅうかめん
+中華麺 (Meaning),,,,CHINESE NOODLES
+合唱団 (Furigana),,,,がっしょうだん
+合唱団 (Meaning),,,,CHORUS (CHOIR)
+薄情 (Furigana),,,,はくじょう
+薄情 (Meaning),,,,COLD HEARTED
+衝突 (Furigana),,,,しょうとつ
+衝突 (Meaning),,,,COLLISION (IMPACT, CONFLICT)
+兼用 (Furigana),,,,けんよう
+兼用 (Meaning),,,,COMBINED USE (SERVING TWO PURPOSES)
+内緒話 (Furigana),,,,ないしょばなし
+内緒話 (Meaning),,,,CONFIDENTIAL TALK (WHISPERING)
+新鋭 (Furigana),,,,しんえい
+新鋭 (Meaning),,,,CUTTING EDGE (UP-AND-COMING, STATE OF THE ART, FRESHLY PICKED)
+洗剤 (Furigana),,,,せんざい
+洗剤 (Meaning),,,,DETERGENT
+不孝 (Furigana),,,,ふこう
+不孝 (Meaning),,,,DISOBEDIENCE TO PARENTS (LACK OF FILIAL PIETY)
 堀 (Furigana),,,,ほり
 堀 (Meaning),,,,DITCH (MOAT, CANAL)
-排 (Furigana),,,,はい
-排 (Meaning),,,,DRAINAGE
-優 (Furigana),,,,ゆう
-優 (Meaning),,,,ELEGANCE (GRACE)
-排 (Furigana),,,,はい
-排 (Meaning),,,,EMISSION
-妖 (Furigana),,,,よう
-妖 (Meaning),,,,ENCHANTING (CHARMING, MYSTERIOUS)
-排 (Furigana),,,,はい
-排 (Meaning),,,,EXCLUSION (REMOVAL, ELIMINATION)
-排 (Furigana),,,,はい
-排 (Meaning),,,,EXCLUSION
-排 (Furigana),,,,はい
-排 (Meaning),,,,EXHAUST (VENTILATION)
-妖 (Furigana),,,,よう
-妖 (Meaning),,,,FAIRY
-殿 (Furigana),,,,でん
-殿 (Meaning),,,,FEUDAL LORD
-孝 (Furigana),,,,こう
-孝 (Meaning),,,,FILIAL PIETY
-頻 (Furigana),,,,ひん
-頻 (Meaning),,,,FREQUENCY (FREQUENT OCCURRENCE)
-頻 (Furigana),,,,ひん
-頻 (Meaning),,,,FREQUENCY
-頻 (Furigana),,,,ひん
-頻 (Meaning),,,,FREQUENT (INCESSANT)
-頻 (Furigana),,,,ひん
-頻 (Meaning),,,,FREQUENTLY (REPEATEDLY, OFTEN)
-逃 (Furigana),,,,とう
-逃 (Meaning),,,,FUGITIVE (RUNAWAY)
-俊 (Furigana),,,,しゅん
-俊 (Meaning),,,,GENIUS (PERSON OF EXCEPTIONAL TALENT, EXCEPTIONALLY TALENTED PERSON)
-嬉 (Furigana),,,,き
-嬉 (Meaning),,,,GLAD (HAPPY, JOYFUL)
-扱 (Furigana),,,,あつか
-扱 (Meaning),,,,HANDLING (TREATMENT)
-嬉 (Furigana),,,,き
-嬉 (Meaning),,,,HAPPILY (JOYFULLY, MERRILY)
-栄 (Furigana),,,,えい
-栄 (Meaning),,,,HONOR
-名 (Furigana),,,,めい
-名 (Meaning),,,,HONOR (PRESTIGE)
-内 (Furigana),,,,ない
-内 (Meaning),,,,INNER MOAT
-雅 (Furigana),,,,が
-雅 (Meaning),,,,JAPANESE COURT MUSIC (GAGAKU)
-膝 (Furigana),,,,ひざ
-膝 (Meaning),,,,KNEECAP
-繁 (Furigana),,,,はん
-繁 (Meaning),,,,LUXURIANT GROWTH
-褒 (Furigana),,,,ほう
-褒 (Meaning),,,,MEDAL (PRIZE, REWARD)
-剤 (Furigana),,,,ざい
-剤 (Meaning),,,,MEDICINE (DOSE)
-薬 (Furigana),,,,やく
-薬 (Meaning),,,,MEDICINE (DRUGS)
-回 (Furigana),,,,かい
-回 (Meaning),,,,MEMOIRS (REMINISCENCES)
-麺 (Furigana),,,,めん
-麺 (Meaning),,,,MENTSUYU (NOODLE SOUP BASE, NOODLE BROTH)
-妖 (Furigana),,,,よう
-妖 (Meaning),,,,MONSTER (YOKAI)
-殿 (Furigana),,,,でん
-殿 (Meaning),,,,MR. (MS., LORD)
-隣 (Furigana),,,,りん
-隣 (Meaning),,,,NEIGHBOR
-隣 (Furigana),,,,りん
+排水 (Furigana),,,,はいすい
+排水 (Meaning),,,,DRAINAGE
+優雅 (Furigana),,,,ゆうが
+優雅 (Meaning),,,,ELEGANCE (GRACE)
+排出 (Furigana),,,,はいしゅつ
+排出 (Meaning),,,,EMISSION
+妖しい (Furigana),,,,あやしい
+妖しい (Meaning),,,,ENCHANTING (CHARMING, MYSTERIOUS)
+排除 (Furigana),,,,はいじょ
+排除 (Meaning),,,,EXCLUSION (REMOVAL, ELIMINATION)
+排他 (Furigana),,,,はいた
+排他 (Meaning),,,,EXCLUSION
+排気 (Furigana),,,,はいき
+排気 (Meaning),,,,EXHAUST (VENTILATION)
+妖精 (Furigana),,,,ようせい
+妖精 (Meaning),,,,FAIRY
+殿様 (Furigana),,,,とのさま
+殿様 (Meaning),,,,FEUDAL LORD
+孝行 (Furigana),,,,こうこう
+孝行 (Meaning),,,,FILIAL PIETY
+頻発 (Furigana),,,,ひんぱつ
+頻発 (Meaning),,,,FREQUENCY (FREQUENT OCCURRENCE)
+頻度 (Furigana),,,,ひんど
+頻度 (Meaning),,,,FREQUENCY
+頻繁 (Furigana),,,,ひんぱん
+頻繁 (Meaning),,,,FREQUENT (INCESSANT)
+頻りに (Furigana),,,,しきりに
+頻りに (Meaning),,,,FREQUENTLY (REPEATEDLY, OFTEN)
+逃亡者 (Furigana),,,,とうぼうしゃ
+逃亡者 (Meaning),,,,FUGITIVE (RUNAWAY)
+俊才 (Furigana),,,,しゅんさい
+俊才 (Meaning),,,,GENIUS (PERSON OF EXCEPTIONAL TALENT, EXCEPTIONALLY TALENTED PERSON)
+嬉しい (Furigana),,,,うれしい
+嬉しい (Meaning),,,,GLAD (HAPPY, JOYFUL)
+扱い (Furigana),,,,あつかい
+扱い (Meaning),,,,HANDLING (TREATMENT)
+嬉々 (Furigana),,,,きき
+嬉々 (Meaning),,,,HAPPILY (JOYFULLY, MERRILY)
+栄誉 (Furigana),,,,えいよ
+栄誉 (Meaning),,,,HONOR
+名誉 (Furigana),,,,めいよ
+名誉 (Meaning),,,,HONOR (PRESTIGE)
+内堀 (Furigana),,,,うちぼり
+内堀 (Meaning),,,,INNER MOAT
+雅楽 (Furigana),,,,ががく
+雅楽 (Meaning),,,,JAPANESE COURT MUSIC (GAGAKU)
+膝小僧 (Furigana),,,,ひざこぞう
+膝小僧 (Meaning),,,,KNEECAP
+繁茂 (Furigana),,,,はんも
+繁茂 (Meaning),,,,LUXURIANT GROWTH
+褒賞 (Furigana),,,,ほうしょう
+褒賞 (Meaning),,,,MEDAL (PRIZE, REWARD)
+〜剤 (Furigana),,,,ざい
+〜剤 (Meaning),,,,MEDICINE (DOSE)
+薬剤 (Furigana),,,,やくざい
+薬剤 (Meaning),,,,MEDICINE (DRUGS)
+回顧録 (Furigana),,,,かいころく
+回顧録 (Meaning),,,,MEMOIRS (REMINISCENCES)
+麺つゆ (Furigana),,,,めんつゆ
+麺つゆ (Meaning),,,,MENTSUYU (NOODLE SOUP BASE, NOODLE BROTH)
+妖怪 (Furigana),,,,ようかい
+妖怪 (Meaning),,,,MONSTER (YOKAI)
+〜殿 (Furigana),,,,どの
+〜殿 (Meaning),,,,MR. (MS., LORD)
+隣人 (Furigana),,,,りんじん
+隣人 (Meaning),,,,NEIGHBOR
+隣 (Furigana),,,,となり
 隣 (Meaning),,,,NEIGHBOR (NEXT TO, NEXT DOOR NEIGHBOR)
-近 (Furigana),,,,きん
-近 (Meaning),,,,NEIGHBORHOOD
-隣 (Furigana),,,,りん
-隣 (Meaning),,,,NEIGHBORING COUNTRY
-隣 (Furigana),,,,りん
-隣 (Meaning),,,,NEIGHBORING HOUSE
+近隣 (Furigana),,,,きんりん
+近隣 (Meaning),,,,NEIGHBORHOOD
+隣国 (Furigana),,,,りんごく
+隣国 (Meaning),,,,NEIGHBORING COUNTRY
+隣家 (Furigana),,,,りんか
+隣家 (Meaning),,,,NEIGHBORING HOUSE
 麺 (Furigana),,,,めん
 麺 (Meaning),,,,NOODLES
-沖 (Furigana),,,,おき
-沖 (Meaning),,,,OKINAWA PREFECTURE
-外 (Furigana),,,,がい
-外 (Meaning),,,,OUTER MOAT
-過 (Furigana),,,,か
-過 (Meaning),,,,OVERSENSITIVITY (NERVOUSNESS)
-殿 (Furigana),,,,でん
-殿 (Meaning),,,,PALACE (SANCTUARY, HALL OF FAME)
-駐 (Furigana),,,,ちゅう
-駐 (Meaning),,,,PARKING LOT
-巡 (Furigana),,,,じゅん
-巡 (Meaning),,,,PATROL (GOING AROUND)
-薬 (Furigana),,,,やく
-薬 (Meaning),,,,PHARMACIST
-巡 (Furigana),,,,じゅん
-巡 (Meaning),,,,PILGRIMAGE
-柱 (Furigana),,,,ちゅう
+沖縄県 (Furigana),,,,おきなわけん
+沖縄県 (Meaning),,,,OKINAWA PREFECTURE
+外堀 (Furigana),,,,そとぼり
+外堀 (Meaning),,,,OUTER MOAT
+過敏 (Furigana),,,,かびん
+過敏 (Meaning),,,,OVERSENSITIVITY (NERVOUSNESS)
+殿堂 (Furigana),,,,でんどう
+殿堂 (Meaning),,,,PALACE (SANCTUARY, HALL OF FAME)
+駐車場 (Furigana),,,,ちゅうしゃじょう
+駐車場 (Meaning),,,,PARKING LOT
+巡回 (Furigana),,,,じゅんかい
+巡回 (Meaning),,,,PATROL (GOING AROUND)
+薬剤師 (Furigana),,,,やくざいし
+薬剤師 (Meaning),,,,PHARMACIST
+巡礼 (Furigana),,,,じゅんれい
+巡礼 (Meaning),,,,PILGRIMAGE
+柱 (Furigana),,,,はしら
 柱 (Meaning),,,,PILLAR
-巡 (Furigana),,,,じゅん
-巡 (Meaning),,,,POLICE (POLICEMAN)
-携 (Furigana),,,,けい
-携 (Meaning),,,,PORTABLE (CELL PHONE, MOBILE PHONE)
-防 (Furigana),,,,ぼう
-防 (Meaning),,,,PRESERVATIVE (ANTISEPTIC)
-繁 (Furigana),,,,はん
-繁 (Meaning),,,,PROSPERING (PROSPERITY)
-機 (Furigana),,,,き
-機 (Meaning),,,,QUICK (PROMPT, CLEVER, SHREWD, SMART)
-生 (Furigana),,,,せい
-生 (Meaning),,,,REPRODUCTION
-屋 (Furigana),,,,や
-屋 (Meaning),,,,RESIDENCE (ESTATE)
-駐 (Furigana),,,,ちゅう
-駐 (Meaning),,,,RESIDENCE (STAY)
-駐 (Furigana),,,,ちゅう
-駐 (Meaning),,,,RESIDENT OF JAPAN (STATIONED IN JAPAN)
-褒 (Furigana),,,,ほう
-褒 (Meaning),,,,REWARD (PRIZE)
-麺 (Furigana),,,,めん
-麺 (Meaning),,,,ROLLING PIN
-犠 (Furigana),,,,ぎ
-犠 (Meaning),,,,SACRIFICE FLY (SACRIFICE BUNT)
-房 (Furigana),,,,ぼう
-房 (Meaning),,,,SECTION (BUNCH)
-敷 (Furigana),,,,しき
-敷 (Meaning),,,,SECURITY DEPOSIT
-敏 (Furigana),,,,びん
-敏 (Meaning),,,,SENSITIVITY (SENSITIVE TO, SENSIBILITY)
-鋭 (Furigana),,,,えい
-鋭 (Meaning),,,,SHARP
-鋭 (Furigana),,,,えい
-鋭 (Meaning),,,,SHARPNESS
-鋭 (Furigana),,,,えい
-鋭 (Meaning),,,,SHARPNESS (QUICK WITTED, KEENNESS)
-衝 (Furigana),,,,しょう
-衝 (Meaning),,,,SHOCK (CRASH, IMPACT)
-兼 (Furigana),,,,けん
-兼 (Meaning),,,,SIDE BUSINESS (SECOND JOB, MOONLIGHTING)
-唱 (Furigana),,,,しょう
-唱 (Meaning),,,,SINGING (SONGS)
-歌 (Furigana),,,,か
-歌 (Meaning),,,,SINGING (SONG)
-独 (Furigana),,,,どく
-独 (Meaning),,,,SOLO
-獲 (Furigana),,,,かく
-獲 (Meaning),,,,SPOILS (TROPHY, GAME)
-駐 (Furigana),,,,ちゅう
-駐 (Meaning),,,,STATIONED TROOPS (OCCUPYING TROOPS)
-座 (Furigana),,,,ざ
-座 (Meaning),,,,TATAMI ROOM (TATAMI MAT ROOM)
-電 (Furigana),,,,でん
-電 (Meaning),,,,TELEPHONE POLE
-薄 (Furigana),,,,はく
-薄 (Meaning),,,,THIN (WEAK, DILUTE)
-薄 (Furigana),,,,はく
-薄 (Meaning),,,,TO BE DILUTED (TO BE DIMINISHED, TO BECOME WEAK)
-茂 (Furigana),,,,も
-茂 (Meaning),,,,TO BE LUXURIANT (TO GROW THICKLY)
-透 (Furigana),,,,とう
-透 (Meaning),,,,TO BE TRANSPARENT (TO BE SEE-THROUGH)
-吹 (Furigana),,,,ふ
-吹 (Meaning),,,,TO BLOW
-唱 (Furigana),,,,しょう
-唱 (Meaning),,,,TO CHANT
-兼 (Furigana),,,,けん
-兼 (Meaning),,,,TO COMBINE (TO DOUBLE AS)
-遠 (Furigana),,,,えん
-遠 (Meaning),,,,TO DECLINE (TO RESTRAIN, TO REFRAIN)
-携 (Furigana),,,,けい
-携 (Meaning),,,,TO ENGAGE IN (TO PARTICIPATE, TO TAKE PART IN)
-避 (Furigana),,,,ひ
-避 (Meaning),,,,TO EVACUATE
-駆 (Furigana),,,,か
-駆 (Meaning),,,,TO GALLOP (TO DRIVE)
-巡 (Furigana),,,,じゅん
-巡 (Meaning),,,,TO GO AROUND (TO RETURN)
-世 (Furigana),,,,せい
-世 (Meaning),,,,TO GO OUT INTO THE WORLD (TO BE PUBLISHED, TO BE RELEASED TO THE PUBLIC, TO BECOME RENOWNED)
-懸 (Furigana),,,,けん
-懸 (Meaning),,,,TO HANG (TO DEPEND ON, TO BE AT STAKE)
-傾 (Furigana),,,,けい
-傾 (Meaning),,,,TO LEAN (TO TILT)
-顧 (Furigana),,,,こ
-顧 (Meaning),,,,TO LOOK BACK ON SOMETHING (TO REFLECT ON SOMETHING, TO BE ATTENTIVE TO SOMEONE)
-緩 (Furigana),,,,ゆる
-緩 (Meaning),,,,TO LOOSEN (TO RELAX)
-取 (Furigana),,,,しゅ
-取 (Meaning),,,,TO MANAGE (TO HANDLE)
-逃 (Furigana),,,,とう
-逃 (Meaning),,,,TO MISS (TO LOSE, TO LET GO)
-殖 (Furigana),,,,しょく
-殖 (Meaning),,,,TO MULTIPLY (TO INCREASE)
-称 (Furigana),,,,しょう
-称 (Meaning),,,,TO PRAISE (TO GIVE PRAISE)
-褒 (Furigana),,,,ほう
-褒 (Meaning),,,,TO PRAISE (TO COMPLIMENT)
-繰 (Furigana),,,,く
-繰 (Meaning),,,,TO REPEAT (TO REPEAT OVER AND OVER)
-選 (Furigana),,,,せん
-選 (Meaning),,,,TO SELECT (TO CHOOSE)
-敷 (Furigana),,,,しき
-敷 (Meaning),,,,TO SPREAD OUT (TO LAY OUT)
-戒 (Furigana),,,,かい
-戒 (Meaning),,,,TO WARN (TO CAUTION, TO ADMONISH)
-透 (Furigana),,,,とう
-透 (Meaning),,,,TRANSPARENT (TRANSPARENCY)
-警 (Furigana),,,,けい
-警 (Meaning),,,,VIGILANCE (PRECAUTION)
-訓 (Furigana),,,,くん
-訓 (Meaning),,,,WARNING (ADMONITION)
-薄 (Furigana),,,,はく
-薄 (Meaning),,,,WEAKNESS (FEEBLENESS)
-一 (Furigana),,,,いち
-一 (Meaning),,,,WITH ALL ONE'S MIGHT (ALL OUT)
-奥 (Furigana),,,,おく
-奥 (Meaning),,,,YOUR WIFE (WIFE, MA'AM)
+巡査 (Furigana),,,,じゅんさ
+巡査 (Meaning),,,,POLICE (POLICEMAN)
+携帯 (Furigana),,,,けいたい
+携帯 (Meaning),,,,PORTABLE (CELL PHONE, MOBILE PHONE)
+防腐剤 (Furigana),,,,ぼうふざい
+防腐剤 (Meaning),,,,PRESERVATIVE (ANTISEPTIC)
+繁栄 (Furigana),,,,はんえい
+繁栄 (Meaning),,,,PROSPERING (PROSPERITY)
+機敏 (Furigana),,,,きびん
+機敏 (Meaning),,,,QUICK (PROMPT, CLEVER, SHREWD, SMART)
+生殖 (Furigana),,,,せいしょく
+生殖 (Meaning),,,,REPRODUCTION
+屋敷 (Furigana),,,,やしき
+屋敷 (Meaning),,,,RESIDENCE (ESTATE)
+駐在 (Furigana),,,,ちゅうざい
+駐在 (Meaning),,,,RESIDENCE (STAY)
+駐日 (Furigana),,,,ちゅうにち
+駐日 (Meaning),,,,RESIDENT OF JAPAN (STATIONED IN JAPAN)
+褒美 (Furigana),,,,ほうび
+褒美 (Meaning),,,,REWARD (PRIZE)
+麺棒 (Furigana),,,,めんぼう
+麺棒 (Meaning),,,,ROLLING PIN
+犠打 (Furigana),,,,ぎだ
+犠打 (Meaning),,,,SACRIFICE FLY (SACRIFICE BUNT)
+〜房 (Furigana),,,,ふさ
+〜房 (Meaning),,,,SECTION (BUNCH)
+敷金 (Furigana),,,,しききん
+敷金 (Meaning),,,,SECURITY DEPOSIT
+敏感 (Furigana),,,,びんかん
+敏感 (Meaning),,,,SENSITIVITY (SENSITIVE TO, SENSIBILITY)
+鋭い (Furigana),,,,するどい
+鋭い (Meaning),,,,SHARP
+鋭利 (Furigana),,,,えいり
+鋭利 (Meaning),,,,SHARPNESS
+鋭敏 (Furigana),,,,えいびん
+鋭敏 (Meaning),,,,SHARPNESS (QUICK WITTED, KEENNESS)
+衝撃 (Furigana),,,,しょうげき
+衝撃 (Meaning),,,,SHOCK (CRASH, IMPACT)
+兼業 (Furigana),,,,けんぎょう
+兼業 (Meaning),,,,SIDE BUSINESS (SECOND JOB, MOONLIGHTING)
+唱歌 (Furigana),,,,しょうか
+唱歌 (Meaning),,,,SINGING (SONGS)
+歌唱 (Furigana),,,,かしょう
+歌唱 (Meaning),,,,SINGING (SONG)
+独唱 (Furigana),,,,どくしょう
+独唱 (Meaning),,,,SOLO
+獲物 (Furigana),,,,えもの
+獲物 (Meaning),,,,SPOILS (TROPHY, GAME)
+駐留軍 (Furigana),,,,ちゅうりゅうぐん
+駐留軍 (Meaning),,,,STATIONED TROOPS (OCCUPYING TROOPS)
+座敷 (Furigana),,,,ざしき
+座敷 (Meaning),,,,TATAMI ROOM (TATAMI MAT ROOM)
+電柱 (Furigana),,,,でんちゅう
+電柱 (Meaning),,,,TELEPHONE POLE
+薄い (Furigana),,,,うすい
+薄い (Meaning),,,,THIN (WEAK, DILUTE)
+薄まる (Furigana),,,,うすまる
+薄まる (Meaning),,,,TO BE DILUTED (TO BE DIMINISHED, TO BECOME WEAK)
+茂る (Furigana),,,,しげる
+茂る (Meaning),,,,TO BE LUXURIANT (TO GROW THICKLY)
+透ける (Furigana),,,,すける
+透ける (Meaning),,,,TO BE TRANSPARENT (TO BE SEE-THROUGH)
+吹く (Furigana),,,,ふく
+吹く (Meaning),,,,TO BLOW
+唱える (Furigana),,,,となえる
+唱える (Meaning),,,,TO CHANT
+兼ねる (Furigana),,,,かねる
+兼ねる (Meaning),,,,TO COMBINE (TO DOUBLE AS)
+遠慮する (Furigana),,,,えんりょする
+遠慮する (Meaning),,,,TO DECLINE (TO RESTRAIN, TO REFRAIN)
+携わる (Furigana),,,,たずさわる
+携わる (Meaning),,,,TO ENGAGE IN (TO PARTICIPATE, TO TAKE PART IN)
+避難する (Furigana),,,,ひなんする
+避難する (Meaning),,,,TO EVACUATE
+駆ける (Furigana),,,,かける
+駆ける (Meaning),,,,TO GALLOP (TO DRIVE)
+巡る (Furigana),,,,めぐる
+巡る (Meaning),,,,TO GO AROUND (TO RETURN)
+世に出る (Furigana),,,,よにでる
+世に出る (Meaning),,,,TO GO OUT INTO THE WORLD (TO BE PUBLISHED, TO BE RELEASED TO THE PUBLIC, TO BECOME RENOWNED)
+懸かる (Furigana),,,,かかる
+懸かる (Meaning),,,,TO HANG (TO DEPEND ON, TO BE AT STAKE)
+傾ける (Furigana),,,,かたむける
+傾ける (Meaning),,,,TO LEAN (TO TILT)
+顧みる (Furigana),,,,かえりみる
+顧みる (Meaning),,,,TO LOOK BACK ON SOMETHING (TO REFLECT ON SOMETHING, TO BE ATTENTIVE TO SOMEONE)
+緩める (Furigana),,,,ゆるめる
+緩める (Meaning),,,,TO LOOSEN (TO RELAX)
+取り扱う (Furigana),,,,とりあつかう
+取り扱う (Meaning),,,,TO MANAGE (TO HANDLE)
+逃す (Furigana),,,,のがす
+逃す (Meaning),,,,TO MISS (TO LOSE, TO LET GO)
+殖える (Furigana),,,,ふえる
+殖える (Meaning),,,,TO MULTIPLY (TO INCREASE)
+称える (Furigana),,,,たたえる
+称える (Meaning),,,,TO PRAISE (TO GIVE PRAISE)
+褒める (Furigana),,,,ほめる
+褒める (Meaning),,,,TO PRAISE (TO COMPLIMENT)
+繰り返す (Furigana),,,,くりかえす
+繰り返す (Meaning),,,,TO REPEAT (TO REPEAT OVER AND OVER)
+選択する (Furigana),,,,せんたくする
+選択する (Meaning),,,,TO SELECT (TO CHOOSE)
+敷く (Furigana),,,,しく
+敷く (Meaning),,,,TO SPREAD OUT (TO LAY OUT)
+戒める (Furigana),,,,いましめる
+戒める (Meaning),,,,TO WARN (TO CAUTION, TO ADMONISH)
+透明 (Furigana),,,,とうめい
+透明 (Meaning),,,,TRANSPARENT (TRANSPARENCY)
+警戒 (Furigana),,,,けいかい
+警戒 (Meaning),,,,VIGILANCE (PRECAUTION)
+訓戒 (Furigana),,,,くんかい
+訓戒 (Meaning),,,,WARNING (ADMONITION)
+薄弱 (Furigana),,,,はくじゃく
+薄弱 (Meaning),,,,WEAKNESS (FEEBLENESS)
+一生懸命 (Furigana),,,,いっしょうけんめい
+一生懸命 (Meaning),,,,WITH ALL ONE'S MIGHT (ALL OUT)
+奥様 (Furigana),,,,おくさま
+奥様 (Meaning),,,,YOUR WIFE (WIFE, MA'AM)

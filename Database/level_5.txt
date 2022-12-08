@@ -84,265 +84,261 @@
 麦 (Meaning),,,,Wheat
 弟 (Onyomi),,,,だい
 弟 (Meaning),,,,Younger Brother
-休 (Furigana),,,,きゅう
-休 (Meaning),,,,ABSENT FROM SCHOOL (ABSENCE FROM SCHOOL, SCHOOL ABSENCE, LEAVE OF ABSENCE)
-仕 (Furigana),,,,し
-仕 (Meaning),,,,ACTION (GESTURE, BEHAVIOR)
-空 (Furigana),,,,くう
-空 (Meaning),,,,AIR (ATMOSPHERE)
-万 (Furigana),,,,まん
-万 (Meaning),,,,ALL PEOPLE (EVERYBODY)
-古 (Furigana),,,,こ
-古 (Meaning),,,,ANCIENT
-大 (Furigana),,,,たい
-大 (Meaning),,,,AN EPIC (EPIC, EPIC SAGA, MASTERPIECE, MASTERWORK, MAGNUM OPUS)
+休学 (Furigana),,,,きゅうがく
+休学 (Meaning),,,,ABSENT FROM SCHOOL (ABSENCE FROM SCHOOL, SCHOOL ABSENCE, LEAVE OF ABSENCE)
+仕草 (Furigana),,,,しぐさ
+仕草 (Meaning),,,,ACTION (GESTURE, BEHAVIOR)
+空気 (Furigana),,,,くうき
+空気 (Meaning),,,,AIR (ATMOSPHERE)
+万人 (Furigana),,,,ばんにん
+万人 (Meaning),,,,ALL PEOPLE (EVERYBODY)
+古来 (Furigana),,,,こらい
+古来 (Meaning),,,,ANCIENT
+大作 (Furigana),,,,たいさく
+大作 (Meaning),,,,AN EPIC (EPIC, EPIC SAGA, MASTERPIECE, MASTERWORK, MAGNUM OPUS)
 角 (Furigana),,,,かく
 角 (Meaning),,,,ANGLE (CORNER)
-考 (Furigana),,,,こう
-考 (Meaning),,,,ARCHEOLOGY (ARCHAEOLOGY)
-当 (Furigana),,,,とう
-当 (Meaning),,,,A SUCCESS (SUCCESS, HIT, GUESS)
-今 (Furigana),,,,こん
-今 (Meaning),,,,AT ONCE (RIGHT NOW, IMMEDIATELY, RIGHT AWAY)
-牛 (Furigana),,,,ぎゅう
-牛 (Meaning),,,,BEEF
-生 (Furigana),,,,せい
-生 (Meaning),,,,BIRTHPLACE (BIRTH)
-青 (Furigana),,,,せい
-青 (Meaning),,,,BLUE (UNRIPE)
-体 (Furigana),,,,たい
+考古学 (Furigana),,,,こうこがく
+考古学 (Meaning),,,,ARCHEOLOGY (ARCHAEOLOGY)
+当たり (Furigana),,,,あたり
+当たり (Meaning),,,,A SUCCESS (SUCCESS, HIT, GUESS)
+今すぐ (Furigana),,,,いますぐ
+今すぐ (Meaning),,,,AT ONCE (RIGHT NOW, IMMEDIATELY, RIGHT AWAY)
+牛肉 (Furigana),,,,ぎゅうにく
+牛肉 (Meaning),,,,BEEF
+生まれ (Furigana),,,,うまれ
+生まれ (Meaning),,,,BIRTHPLACE (BIRTH)
+青い (Furigana),,,,あおい
+青い (Meaning),,,,BLUE (UNRIPE)
+体 (Furigana),,,,からだ
 体 (Meaning),,,,BODY
-男 (Furigana),,,,だん
-男 (Meaning),,,,BOY
-斤 (Furigana),,,,きん
-斤 (Meaning),,,,BREAD LOAF COUNTER (COUNTER FOR LOAVES OF BREAD)
-兄 (Furigana),,,,きょう
-兄 (Meaning),,,,BROTHERS (SIBLINGS)
-毛 (Furigana),,,,もう
-毛 (Meaning),,,,CATERPILLAR
-近 (Furigana),,,,きん
-近 (Meaning),,,,CLOSE (NEARBY, NEAR)
+男の子 (Furigana),,,,おとこのこ
+男の子 (Meaning),,,,BOY
+〜斤 (Furigana),,,,きん
+〜斤 (Meaning),,,,BREAD LOAF COUNTER (COUNTER FOR LOAVES OF BREAD)
+兄弟 (Furigana),,,,きょうだい
+兄弟 (Meaning),,,,BROTHERS (SIBLINGS)
+毛虫 (Furigana),,,,けむし
+毛虫 (Meaning),,,,CATERPILLAR
+近い (Furigana),,,,ちかい
+近い (Meaning),,,,CLOSE (NEARBY, NEAR)
 色 (Furigana),,,,いろ
 色 (Meaning),,,,COLOR
-会 (Furigana),,,,かい
-会 (Meaning),,,,COMPANY (CORPORATION, THE OFFICE)
-作 (Furigana),,,,さく
-作 (Meaning),,,,COMPOSITION (WRITING, ESSAY)
-大 (Furigana),,,,たい
-大 (Meaning),,,,CONVENTION (TOURNAMENT, EVENT)
+会社 (Furigana),,,,かいしゃ
+会社 (Meaning),,,,COMPANY (CORPORATION, THE OFFICE)
+作文 (Furigana),,,,さくぶん
+作文 (Meaning),,,,COMPOSITION (WRITING, ESSAY)
+大会 (Furigana),,,,たいかい
+大会 (Meaning),,,,CONVENTION (TOURNAMENT, EVENT)
 図 (Furigana),,,,ず
 図 (Meaning),,,,DIAGRAM
-外 (Furigana),,,,がい
-外 (Meaning),,,,DIPLOMACY
-下 (Furigana),,,,か
-下 (Meaning),,,,DOWNTOWN (BACKSTREETS)
-作 (Furigana),,,,さく
-作 (Meaning),,,,EFFECT (ACTION, OPERATION)
-工 (Furigana),,,,こう
-工 (Meaning),,,,ENGINEERING
-毎 (Furigana),,,,まい
-毎 (Meaning),,,,EVERY DAY (DAILY)
-毎 (Furigana),,,,まい
-毎 (Meaning),,,,EVERY MONTH (MONTHLY)
-毎 (Furigana),,,,まい
-毎 (Meaning),,,,EVERY TIME (EACH TIME)
-毎 (Furigana),,,,まい
-毎 (Meaning),,,,EVERY YEAR (YEARLY, ANNUALLY, EACH YEAR)
+外交 (Furigana),,,,がいこう
+外交 (Meaning),,,,DIPLOMACY
+下町 (Furigana),,,,したまち
+下町 (Meaning),,,,DOWNTOWN (BACKSTREETS)
+作用 (Furigana),,,,さよう
+作用 (Meaning),,,,EFFECT (ACTION, OPERATION)
+工学 (Furigana),,,,こうがく
+工学 (Meaning),,,,ENGINEERING
+毎日 (Furigana),,,,まいにち
+毎日 (Meaning),,,,EVERY DAY (DAILY)
+毎月 (Furigana),,,,まいつき
+毎月 (Meaning),,,,EVERY MONTH (MONTHLY)
+毎回 (Furigana),,,,まいかい
+毎回 (Meaning),,,,EVERY TIME (EACH TIME)
+毎年 (Furigana),,,,まいとし
+毎年 (Meaning),,,,EVERY YEAR (YEARLY, ANNUALLY, EACH YEAR)
 羽 (Furigana),,,,はね
 羽 (Meaning),,,,FEATHERS (FEATHER, WING, WINGS)
 林 (Furigana),,,,はやし
 林 (Meaning),,,,FOREST (GROVE)
-形 (Furigana),,,,けい
-形 (Meaning),,,,FORM (TENSE)
-年 (Furigana),,,,ねん
-年 (Meaning),,,,FOR SOME YEARS (FOR YEARS)
-大 (Furigana),,,,たい
-大 (Meaning),,,,GENERALLY (ABOUT, GENERAL, GIST)
+〜形 (Furigana),,,,けい
+〜形 (Meaning),,,,FORM (TENSE)
+〜年来 (Furigana),,,,ねんらい
+〜年来 (Meaning),,,,FOR SOME YEARS (FOR YEARS)
+大体 (Furigana),,,,だいたい
+大体 (Meaning),,,,GENERALLY (ABOUT, GENERAL, GIST)
 金 (Furigana),,,,きん
 金 (Meaning),,,,GOLD
-公 (Furigana),,,,こう
-公 (Meaning),,,,GOVERNMENT-RUN COMPANY (GOVERNMENT-OWNED COMPANY)
 草 (Furigana),,,,くさ
 草 (Meaning),,,,GRASS
-工 (Furigana),,,,こう
-工 (Meaning),,,,HANDICRAFT (CRAFTS, MANEUVERING)
-本 (Furigana),,,,ほん
-本 (Meaning),,,,HEADQUARTERS (HQ, HEAD OFFICE, COMPANY HEADQUARTERS)
+工作 (Furigana),,,,こうさく
+工作 (Meaning),,,,HANDICRAFT (CRAFTS, MANEUVERING)
+本社 (Furigana),,,,ほんしゃ
+本社 (Meaning),,,,HEADQUARTERS (HQ, HEAD OFFICE, COMPANY HEADQUARTERS)
 里 (Furigana),,,,さと
 里 (Meaning),,,,HOMETOWN (VILLAGE, ONE'S PARENTS' HOME)
-何 (Furigana),,,,なに
-何 (Meaning),,,,HOW MANY DAYS (WHAT DAY, WHICH DAY)
-何 (Furigana),,,,なに
-何 (Meaning),,,,HOW MANY PEOPLE
-何 (Furigana),,,,なに
-何 (Meaning),,,,HOW MANY TIMES
-外 (Furigana),,,,がい
-外 (Meaning),,,,IMPORTED (OUTPATIENT, FOREIGN)
-自 (Furigana),,,,じ
-自 (Meaning),,,,INDEPENDENCE (SELF RELIANCE, INDEPENDENT)
-体 (Furigana),,,,たい
-体 (Meaning),,,,INTERNAL (WITHIN THE BODY, INSIDE THE BODY)
-皮 (Furigana),,,,ひ
-皮 (Meaning),,,,IRONY (SARCASM, IRONIC, SARCASTIC)
-入 (Furigana),,,,にゅう
-入 (Meaning),,,,JOINING A COMPANY (ENTERING A COMPANY)
-大 (Furigana),,,,たい
-大 (Meaning),,,,LARGE VOICE (LOUD VOICE, BIG VOICE)
-光 (Furigana),,,,こう
+何日 (Furigana),,,,なんにち
+何日 (Meaning),,,,HOW MANY DAYS (WHAT DAY, WHICH DAY)
+何人 (Furigana),,,,なんにん
+何人 (Meaning),,,,HOW MANY PEOPLE
+何回 (Furigana),,,,なんかい
+何回 (Meaning),,,,HOW MANY TIMES
+外来 (Furigana),,,,がいらい
+外来 (Meaning),,,,IMPORTED (OUTPATIENT, FOREIGN)
+自立 (Furigana),,,,じりつ
+自立 (Meaning),,,,INDEPENDENCE (SELF RELIANCE, INDEPENDENT)
+体内 (Furigana),,,,たいない
+体内 (Meaning),,,,INTERNAL (WITHIN THE BODY, INSIDE THE BODY)
+皮肉 (Furigana),,,,ひにく
+皮肉 (Meaning),,,,IRONY (SARCASM, IRONIC, SARCASTIC)
+入社 (Furigana),,,,にゅうしゃ
+入社 (Meaning),,,,JOINING A COMPANY (ENTERING A COMPANY)
+大声 (Furigana),,,,おおごえ
+大声 (Meaning),,,,LARGE VOICE (LOUD VOICE, BIG VOICE)
+光 (Furigana),,,,ひかり
 光 (Meaning),,,,LIGHT (SUNLIGHT)
-光 (Furigana),,,,こう
-光 (Meaning),,,,LIGHT-YEAR
-文 (Furigana),,,,ぶん
-文 (Meaning),,,,LITERATURE
-男 (Furigana),,,,だん
-男 (Meaning),,,,MAN
-多 (Furigana),,,,た
-多 (Meaning),,,,MANY (MUCH, LOTS OF)
-多 (Furigana),,,,た
-多 (Meaning),,,,MAYBE (PERHAPS, PROBABLY)
+光年 (Furigana),,,,こうねん
+光年 (Meaning),,,,LIGHT-YEAR
+文学 (Furigana),,,,ぶんがく
+文学 (Meaning),,,,LITERATURE
+男の人 (Furigana),,,,おとこのひと
+男の人 (Meaning),,,,MAN
+多い (Furigana),,,,おおい
+多い (Meaning),,,,MANY (MUCH, LOTS OF)
+多分 (Furigana),,,,たぶん
+多分 (Meaning),,,,MAYBE (PERHAPS, PROBABLY)
 肉 (Furigana),,,,にく
 肉 (Meaning),,,,MEAT
 会 (Furigana),,,,かい
 会 (Meaning),,,,MEETING (ASSEMBLY, PARTY)
-金 (Furigana),,,,きん
-金 (Meaning),,,,MONEY
-月 (Furigana),,,,げつ
-月 (Meaning),,,,MOONLIGHT (MOONBEAM)
-来 (Furigana),,,,らい
-来 (Meaning),,,,NEXT MONTH
-来 (Furigana),,,,らい
-来 (Meaning),,,,NEXT YEAR
-北 (Furigana),,,,ほく
-北 (Meaning),,,,NORTHWEST
-兄 (Furigana),,,,きょう
+お金 (Furigana),,,,おかね
+お金 (Meaning),,,,MONEY
+月光 (Furigana),,,,げっこう
+月光 (Meaning),,,,MOONLIGHT (MOONBEAM)
+来月 (Furigana),,,,らいげつ
+来月 (Meaning),,,,NEXT MONTH
+来年 (Furigana),,,,らいねん
+来年 (Meaning),,,,NEXT YEAR
+北西 (Furigana),,,,ほくせい
+北西 (Meaning),,,,NORTHWEST
+兄 (Furigana),,,,あに
 兄 (Meaning),,,,OLDER BROTHER (BIG BROTHER, ELDER BROTHER)
-自 (Furigana),,,,じ
-自 (Meaning),,,,ONESELF (MYSELF, SELF)
-一 (Furigana),,,,いち
-一 (Meaning),,,,ONE TIME (ONCE)
-空 (Furigana),,,,くう
-空 (Meaning),,,,OPEN TAXI (EMPTY PARKING SPACE)
-本 (Furigana),,,,ほん
-本 (Meaning),,,,ORIGINALLY (PRIMARILY, ESSENTIALLY, NATURALLY)
-体 (Furigana),,,,たい
-体 (Meaning),,,,PHYSICAL STRENGTH (PHYSICAL POWER, STAMINA, ENDURANCE)
+自分 (Furigana),,,,じぶん
+自分 (Meaning),,,,ONESELF (MYSELF, SELF)
+一回 (Furigana),,,,いっかい
+一回 (Meaning),,,,ONE TIME (ONCE)
+空車 (Furigana),,,,くうしゃ
+空車 (Meaning),,,,OPEN TAXI (EMPTY PARKING SPACE)
+本来 (Furigana),,,,ほんらい
+本来 (Meaning),,,,ORIGINALLY (PRIMARILY, ESSENTIALLY, NATURALLY)
+体力 (Furigana),,,,たいりょく
+体力 (Meaning),,,,PHYSICAL STRENGTH (PHYSICAL POWER, STAMINA, ENDURANCE)
 雨 (Furigana),,,,あめ
 雨 (Meaning),,,,RAIN
-本 (Furigana),,,,ほん
-本 (Meaning),,,,REALITY (TRUTH, REAL, TRUE)
-近 (Furigana),,,,きん
-近 (Meaning),,,,RECENT YEARS
-米 (Furigana),,,,べい
+本当 (Furigana),,,,ほんとう
+本当 (Meaning),,,,REALITY (TRUTH, REAL, TRUE)
+近年 (Furigana),,,,きんねん
+近年 (Meaning),,,,RECENT YEARS
+米 (Furigana),,,,こめ
 米 (Meaning),,,,RICE
-同 (Furigana),,,,どう
-同 (Meaning),,,,SAME
-同 (Furigana),,,,どう
-同 (Meaning),,,,SAME DAY (THE SAME DAY)
-入 (Furigana),,,,にゅう
-入 (Meaning),,,,SCHOOL ADMISSION (UNIVERSITY ADMISSION, ENTRY INTO SCHOOL, ENROLLMENT)
-学 (Furigana),,,,がく
-学 (Meaning),,,,SCHOOL GRADE (GRADE IN SCHOOL, SCHOOL YEAR, YEAR IN SCHOOL)
-皮 (Furigana),,,,ひ
+同じ (Furigana),,,,おなじ
+同じ (Meaning),,,,SAME
+同日 (Furigana),,,,どうじつ
+同日 (Meaning),,,,SAME DAY (THE SAME DAY)
+入学 (Furigana),,,,にゅうがく
+入学 (Meaning),,,,SCHOOL ADMISSION (UNIVERSITY ADMISSION, ENTRY INTO SCHOOL, ENROLLMENT)
+学年 (Furigana),,,,がくねん
+学年 (Meaning),,,,SCHOOL GRADE (GRADE IN SCHOOL, SCHOOL YEAR, YEAR IN SCHOOL)
+皮 (Furigana),,,,かわ
 皮 (Meaning),,,,SKIN (HIDE)
-空 (Furigana),,,,くう
+空 (Furigana),,,,そら
 空 (Meaning),,,,SKY
-水 (Furigana),,,,すい
-水 (Meaning),,,,SKY BLUE (LIGHT BLUE, AQUA BLUE, SKY BLUE COLOR, LIGHT BLUE COLOR, AQUA BLUE COLOR)
-近 (Furigana),,,,きん
-近 (Meaning),,,,SOON (IN A FEW DAYS, COMING DAYS)
-音 (Furigana),,,,おん
+水色 (Furigana),,,,みずいろ
+水色 (Meaning),,,,SKY BLUE (LIGHT BLUE, AQUA BLUE, SKY BLUE COLOR, LIGHT BLUE COLOR, AQUA BLUE COLOR)
+近日 (Furigana),,,,きんじつ
+近日 (Meaning),,,,SOON (IN A FEW DAYS, COMING DAYS)
+音 (Furigana),,,,おと
 音 (Meaning),,,,SOUND (NOISE)
-四 (Furigana),,,,し
-四 (Meaning),,,,SQUARE (RECTANGLE, CUBE)
-学 (Furigana),,,,がく
-学 (Meaning),,,,STUDENT
-日 (Furigana),,,,にち
-日 (Meaning),,,,SUNLIGHT
-金 (Furigana),,,,きん
-金 (Meaning),,,,TESTICLES
-他 (Furigana),,,,た
-他 (Meaning),,,,THE OTHERS (OTHER, OTHER THAN THAT)
-今 (Furigana),,,,こん
-今 (Meaning),,,,THIS TIME
-何 (Furigana),,,,なに
-何 (Meaning),,,,THOUSANDS (SEVERAL THOUSANDS, HOW MANY THOUSANDS)
-回 (Furigana),,,,かい
-回 (Meaning),,,,TIMES (NUMBER OF TIMES, TIME)
-外 (Furigana),,,,がい
-外 (Meaning),,,,TO BE DISCONNECTED (TO COME OFF, TO BE OFF)
-当 (Furigana),,,,とう
-当 (Meaning),,,,TO BE RIGHT (TO BE ON TARGET, TO TOUCH, TO HIT)
-見 (Furigana),,,,み
-見 (Meaning),,,,TO BE VISIBLE (TO BE IN SIGHT, CAN SEE, TO SEEM)
-来 (Furigana),,,,らい
-来 (Meaning),,,,TO COME
-下 (Furigana),,,,か
-下 (Meaning),,,,TO GET LOWER (TO FALL, TO DROP, TO COME DOWN, TO HANG DOWN)
-生 (Furigana),,,,せい
-生 (Meaning),,,,TO GIVE BIRTH (TO PRODUCE)
-行 (Furigana),,,,こう
-行 (Meaning),,,,TO GO
-上 (Furigana),,,,じょう
-上 (Meaning),,,,TO GO UP (TO RISE, TO BE RAISED, TO STOP)
-入 (Furigana),,,,にゅう
-入 (Meaning),,,,TO INSERT (TO PUT IN)
-学 (Furigana),,,,がく
-学 (Meaning),,,,TO LEARN (TO STUDY IN DEPTH, TO STUDY)
-作 (Furigana),,,,さく
-作 (Meaning),,,,TO MAKE (TO BUILD, TO CREATE)
-会 (Furigana),,,,かい
-会 (Meaning),,,,TO MEET (TO ENCOUNTER)
-交 (Furigana),,,,こう
-交 (Meaning),,,,TO MIX SOMETHING
-回 (Furigana),,,,かい
-回 (Meaning),,,,TO REVOLVE (TO GO AROUND, TO ROTATE)
-走 (Furigana),,,,そう
-走 (Meaning),,,,TO RUN
-言 (Furigana),,,,げん
-言 (Meaning),,,,TO SAY
-分 (Furigana),,,,ぶん
-分 (Meaning),,,,TO SEPARATE SOMETHING (TO DIVIDE SOMETHING, TO SHARE SOMETHING, TO SPLIT SOMETHING)
-立 (Furigana),,,,りつ
-立 (Meaning),,,,TO STAND SOMETHING UP (TO MAKE SOMETHING, TO SET SOMETHING UP)
-止 (Furigana),,,,し
-止 (Meaning),,,,TO STOP
-出 (Furigana),,,,しゅつ
-出 (Meaning),,,,TO TAKE OUT (TO HAND OUT, TO REMOVE, TO TURN IN, TO PUT OUT)
-考 (Furigana),,,,こう
-考 (Meaning),,,,TO THINK ABOUT (TO CONSIDER, TO GIVE THOUGHT)
-行 (Furigana),,,,こう
-行 (Meaning),,,,TRAIN DIRECTION (BOUND FOR)
-走 (Furigana),,,,そう
-走 (Meaning),,,,TRAVELING (RUNNING, MOVING, DRIVING)
-三 (Furigana),,,,さん
-三 (Meaning),,,,TRIANGLE
-大 (Furigana),,,,たい
-大 (Meaning),,,,UNIVERSITY (COLLEGE, UNI)
-今 (Furigana),,,,こん
-今 (Meaning),,,,UNTIL NOW (UP TO NOW, SO FAR)
+四角 (Furigana),,,,しかく
+四角 (Meaning),,,,SQUARE (RECTANGLE, CUBE)
+学生 (Furigana),,,,がくせい
+学生 (Meaning),,,,STUDENT
+日光 (Furigana),,,,にっこう
+日光 (Meaning),,,,SUNLIGHT
+金玉 (Furigana),,,,きんたま
+金玉 (Meaning),,,,TESTICLES
+その他 (Furigana),,,,そのほか
+その他 (Meaning),,,,THE OTHERS (OTHER, OTHER THAN THAT)
+今回 (Furigana),,,,こんかい
+今回 (Meaning),,,,THIS TIME
+何千 (Furigana),,,,なんぜん
+何千 (Meaning),,,,THOUSANDS (SEVERAL THOUSANDS, HOW MANY THOUSANDS)
+〜回 (Furigana),,,,かい
+〜回 (Meaning),,,,TIMES (NUMBER OF TIMES, TIME)
+当たる (Furigana),,,,あたる
+当たる (Meaning),,,,TO BE RIGHT (TO BE ON TARGET, TO TOUCH, TO HIT)
+見える (Furigana),,,,みえる
+見える (Meaning),,,,TO BE VISIBLE (TO BE IN SIGHT, CAN SEE, TO SEEM)
+来る (Furigana),,,,くる
+来る (Meaning),,,,TO COME
+下がる (Furigana),,,,さがる
+下がる (Meaning),,,,TO GET LOWER (TO FALL, TO DROP, TO COME DOWN, TO HANG DOWN)
+生む (Furigana),,,,うむ
+生む (Meaning),,,,TO GIVE BIRTH (TO PRODUCE)
+行く (Furigana),,,,いく
+行く (Meaning),,,,TO GO
+上がる (Furigana),,,,あがる
+上がる (Meaning),,,,TO GO UP (TO RISE, TO BE RAISED, TO STOP)
+入れる (Furigana),,,,いれる
+入れる (Meaning),,,,TO INSERT (TO PUT IN)
+学ぶ (Furigana),,,,まなぶ
+学ぶ (Meaning),,,,TO LEARN (TO STUDY IN DEPTH, TO STUDY)
+作る (Furigana),,,,つくる
+作る (Meaning),,,,TO MAKE (TO BUILD, TO CREATE)
+会う (Furigana),,,,あう
+会う (Meaning),,,,TO MEET (TO ENCOUNTER)
+交ぜる (Furigana),,,,まぜる
+交ぜる (Meaning),,,,TO MIX SOMETHING
+回る (Furigana),,,,まわる
+回る (Meaning),,,,TO REVOLVE (TO GO AROUND, TO ROTATE)
+走る (Furigana),,,,はしる
+走る (Meaning),,,,TO RUN
+言う (Furigana),,,,いう
+言う (Meaning),,,,TO SAY
+分ける (Furigana),,,,わける
+分ける (Meaning),,,,TO SEPARATE SOMETHING (TO DIVIDE SOMETHING, TO SHARE SOMETHING, TO SPLIT SOMETHING)
+立てる (Furigana),,,,たてる
+立てる (Meaning),,,,TO STAND SOMETHING UP (TO MAKE SOMETHING, TO SET SOMETHING UP)
+止まる (Furigana),,,,とまる
+止まる (Meaning),,,,TO STOP
+出す (Furigana),,,,だす
+出す (Meaning),,,,TO TAKE OUT (TO HAND OUT, TO REMOVE, TO TURN IN, TO PUT OUT)
+考える (Furigana),,,,かんがえる
+考える (Meaning),,,,TO THINK ABOUT (TO CONSIDER, TO GIVE THOUGHT)
+行き (Furigana),,,,ゆき
+行き (Meaning),,,,TRAIN DIRECTION (BOUND FOR)
+走行 (Furigana),,,,そうこう
+走行 (Meaning),,,,TRAVELING (RUNNING, MOVING, DRIVING)
+三角 (Furigana),,,,さんかく
+三角 (Meaning),,,,TRIANGLE
+大学 (Furigana),,,,だいがく
+大学 (Meaning),,,,UNIVERSITY (COLLEGE, UNI)
+今まで (Furigana),,,,いままで
+今まで (Meaning),,,,UNTIL NOW (UP TO NOW, SO FAR)
 谷 (Furigana),,,,たに
 谷 (Meaning),,,,VALLEY
-色 (Furigana),,,,いろ
-色 (Meaning),,,,VARIOUS
+色々 (Furigana),,,,いろいろ
+色々 (Meaning),,,,VARIOUS
 声 (Furigana),,,,こえ
 声 (Meaning),,,,VOICE
-西 (Furigana),,,,せい
+西 (Furigana),,,,にし
 西 (Meaning),,,,WEST
 何 (Furigana),,,,なに
 何 (Meaning),,,,WHAT
-何 (Furigana),,,,なに
-何 (Meaning),,,,WHAT MONTH (WHICH MONTH)
-何 (Furigana),,,,なに
-何 (Meaning),,,,WHAT YEAR (HOW MANY YEARS)
+何月 (Furigana),,,,なんがつ
+何月 (Meaning),,,,WHAT MONTH (WHICH MONTH)
+何年 (Furigana),,,,なんねん
+何年 (Meaning),,,,WHAT YEAR (HOW MANY YEARS)
 麦 (Furigana),,,,むぎ
 麦 (Meaning),,,,WHEAT (BARLEY, OATS)
-一 (Furigana),,,,いち
-一 (Meaning),,,,WHOLE LIFE (ALL THROUGH LIFE, LIFELONG)
-社 (Furigana),,,,しゃ
-社 (Meaning),,,,WITHIN THE COMPANY (IN HOUSE, INSIDE THE COMPANY)
-毛 (Furigana),,,,もう
-毛 (Meaning),,,,WOOL YARN (YARN)
-弟 (Furigana),,,,だい
+一生 (Furigana),,,,いっしょう
+一生 (Meaning),,,,WHOLE LIFE (ALL THROUGH LIFE, LIFELONG)
+社内 (Furigana),,,,しゃない
+社内 (Meaning),,,,WITHIN THE COMPANY (IN HOUSE, INSIDE THE COMPANY)
+毛糸 (Furigana),,,,けいと
+毛糸 (Meaning),,,,WOOL YARN (YARN)
+弟 (Furigana),,,,おとうと
 弟 (Meaning),,,,YOUNGER BROTHER (LITTLE BROTHER)
-青 (Furigana),,,,せい
-青 (Meaning),,,,YOUTH (YOUNG MAN)
+青年 (Furigana),,,,せいねん
+青年 (Meaning),,,,YOUTH (YOUNG MAN)

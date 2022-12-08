@@ -64,233 +64,233 @@
 曜 (Meaning),,,,Weekday
 書 (Onyomi),,,,しょ
 書 (Meaning),,,,Write
-留 (Furigana),,,,る
-留 (Meaning),,,,ABSENCE (AWAY FROM HOME)
-料 (Furigana),,,,りょう
-料 (Meaning),,,,A COOK (COOK, CHEF)
-入 (Furigana),,,,にゅう
-入 (Meaning),,,,ADMISSION (ENTRANCE)
-冒 (Furigana),,,,ぼう
-冒 (Meaning),,,,ADVENTURE
-技 (Furigana),,,,ぎ
-技 (Meaning),,,,ART (CRAFT, TECHNIQUE, TECHNOLOGY)
-品 (Furigana),,,,ひん
+留守 (Furigana),,,,るす
+留守 (Meaning),,,,ABSENCE (AWAY FROM HOME)
+料理人 (Furigana),,,,りょうりにん
+料理人 (Meaning),,,,A COOK (COOK, CHEF)
+入門 (Furigana),,,,にゅうもん
+入門 (Meaning),,,,ADMISSION (ENTRANCE)
+冒険 (Furigana),,,,ぼうけん
+冒険 (Meaning),,,,ADVENTURE
+技術 (Furigana),,,,ぎじゅつ
+技術 (Meaning),,,,ART (CRAFT, TECHNIQUE, TECHNOLOGY)
+品 (Furigana),,,,しな
 品 (Meaning),,,,ARTICLE (ITEM, GOODS)
-芸 (Furigana),,,,げい
-芸 (Meaning),,,,ARTIST
-自 (Furigana),,,,じ
-自 (Meaning),,,,AUTOMATIC
-自 (Furigana),,,,じ
-自 (Meaning),,,,AUTOMOBILE (CAR)
-作 (Furigana),,,,さく
-作 (Meaning),,,,A WORK (WORK, PRODUCTION)
-弁 (Furigana),,,,べん
-弁 (Meaning),,,,BENTO (BOX LUNCH)
+芸術家 (Furigana),,,,げいじゅつか
+芸術家 (Meaning),,,,ARTIST
+自動的 (Furigana),,,,じどうてき
+自動的 (Meaning),,,,AUTOMATIC
+自動車 (Furigana),,,,じどうしゃ
+自動車 (Meaning),,,,AUTOMOBILE (CAR)
+作品 (Furigana),,,,さくひん
+作品 (Meaning),,,,A WORK (WORK, PRODUCTION)
+弁当 (Furigana),,,,べんとう
+弁当 (Meaning),,,,BENTO (BOX LUNCH)
 箱 (Furigana),,,,はこ
 箱 (Meaning),,,,BOX
-新 (Furigana),,,,しん
-新 (Meaning),,,,BRAND NEW (NEW ITEM, NEW PRODUCT)
-仏 (Furigana),,,,ぶつ
-仏 (Meaning),,,,BUDDHIST SCRIPTURES (BUDDHIST WRITING)
-字 (Furigana),,,,じ
-字 (Meaning),,,,CHARACTER DICTIONARY (KANJI DICTIONARY)
-古 (Furigana),,,,こ
-古 (Meaning),,,,CLASSICAL
-全 (Furigana),,,,ぜん
-全 (Meaning),,,,COMPLETE RECOVERY (HEALED, FULLY RECOVERED, FULLY RECOVER, HEALED COMPLETELY, HEAL COMPLETELY, COMPLETELY CURED, FULLY CURED, FULLY HEALED)
-関 (Furigana),,,,かん
-関 (Meaning),,,,CONCERN (INTEREST)
-関 (Furigana),,,,かん
-関 (Meaning),,,,CONNECTION (RELATION)
-保 (Furigana),,,,ほ
-保 (Meaning),,,,CONSERVATIVE
-取 (Furigana),,,,しゅ
-取 (Meaning),,,,COVERING AN EVENT (DATA COLLECTION, INTERVIEW)
-下 (Furigana),,,,か
-下 (Meaning),,,,CRUDE (VULGAR, VULGARITY)
-危 (Furigana),,,,き
-危 (Meaning),,,,DANGEROUS (RISKY)
-曜 (Furigana),,,,よう
-曜 (Meaning),,,,DAY OF THE WEEK (WEEKDAY)
-弁 (Furigana),,,,べん
-弁 (Meaning),,,,DIALECT
-辞 (Furigana),,,,じ
-辞 (Meaning),,,,DICTIONARY
-辞 (Furigana),,,,じ
-辞 (Meaning),,,,DICTIONARY (LEXICON)
-事 (Furigana),,,,じ
-事 (Meaning),,,,ENCYCLOPEDIA
-証 (Furigana),,,,しょう
+新品 (Furigana),,,,しんぴん
+新品 (Meaning),,,,BRAND NEW (NEW ITEM, NEW PRODUCT)
+仏典 (Furigana),,,,ぶってん
+仏典 (Meaning),,,,BUDDHIST SCRIPTURES (BUDDHIST WRITING)
+字典 (Furigana),,,,じてん
+字典 (Meaning),,,,CHARACTER DICTIONARY (KANJI DICTIONARY)
+古典的 (Furigana),,,,こてんてき
+古典的 (Meaning),,,,CLASSICAL
+全治 (Furigana),,,,ぜんち
+全治 (Meaning),,,,COMPLETE RECOVERY (HEALED, FULLY RECOVERED, FULLY RECOVER, HEALED COMPLETELY, HEAL COMPLETELY, COMPLETELY CURED, FULLY CURED, FULLY HEALED)
+関心 (Furigana),,,,かんしん
+関心 (Meaning),,,,CONCERN (INTEREST)
+関係 (Furigana),,,,かんけい
+関係 (Meaning),,,,CONNECTION (RELATION)
+保守的 (Furigana),,,,ほしゅてき
+保守的 (Meaning),,,,CONSERVATIVE
+取材 (Furigana),,,,しゅざい
+取材 (Meaning),,,,COVERING AN EVENT (DATA COLLECTION, INTERVIEW)
+下品 (Furigana),,,,げひん
+下品 (Meaning),,,,CRUDE (VULGAR, VULGARITY)
+危ない (Furigana),,,,あぶない
+危ない (Meaning),,,,DANGEROUS (RISKY)
+曜日 (Furigana),,,,ようび
+曜日 (Meaning),,,,DAY OF THE WEEK (WEEKDAY)
+〜弁 (Furigana),,,,べん
+〜弁 (Meaning),,,,DIALECT
+辞書 (Furigana),,,,じしょ
+辞書 (Meaning),,,,DICTIONARY
+辞典 (Furigana),,,,じてん
+辞典 (Meaning),,,,DICTIONARY (LEXICON)
+事典 (Furigana),,,,じてん
+事典 (Meaning),,,,ENCYCLOPEDIA
+証 (Furigana),,,,あかし
 証 (Meaning),,,,EVIDENCE (PROOF)
-遠 (Furigana),,,,えん
-遠 (Meaning),,,,EXCURSION (OUTING, TRIP)
-生 (Furigana),,,,せい
-生 (Meaning),,,,EXISTENCE (LIFE, SURVIVAL)
-急 (Furigana),,,,きゅう
-急 (Meaning),,,,EXPRESS
-外 (Furigana),,,,がい
-外 (Meaning),,,,EXTERIOR (SURFACE, OUTSIDE)
-顔 (Furigana),,,,かお
-顔 (Meaning),,,,FACE OF A PERSON (PERSON'S FACE, FACE)
-不 (Furigana),,,,ふ
-不 (Meaning),,,,FAIL A TEST (FAILURE, REJECTION)
-遠 (Furigana),,,,えん
-遠 (Meaning),,,,FAR (FAR AWAY)
-世 (Furigana),,,,せい
-世 (Meaning),,,,FLATTERY (COMPLIMENT)
-折 (Furigana),,,,せつ
-折 (Meaning),,,,FOLD (CREASE)
-前 (Furigana),,,,ぜん
-前 (Meaning),,,,FRONT (FRONT SIDE, FORE, FOREFRONT)
-基 (Furigana),,,,き
-基 (Meaning),,,,FUNDAMENTAL (BASIC, STANDARD)
-箱 (Furigana),,,,はこ
-箱 (Meaning),,,,GARBAGE CAN (GARBAGE BIN, TRASH CAN, TRASH BIN, WASTE CAN, WASTE BIN, RUBBISH BIN)
+遠足 (Furigana),,,,えんそく
+遠足 (Meaning),,,,EXCURSION (OUTING, TRIP)
+生存 (Furigana),,,,せいぞん
+生存 (Meaning),,,,EXISTENCE (LIFE, SURVIVAL)
+急行 (Furigana),,,,きゅうこう
+急行 (Meaning),,,,EXPRESS
+外面 (Furigana),,,,がいめん
+外面 (Meaning),,,,EXTERIOR (SURFACE, OUTSIDE)
+顔面 (Furigana),,,,がんめん
+顔面 (Meaning),,,,FACE OF A PERSON (PERSON'S FACE, FACE)
+不合格 (Furigana),,,,ふごうかく
+不合格 (Meaning),,,,FAIL A TEST (FAILURE, REJECTION)
+遠い (Furigana),,,,とおい
+遠い (Meaning),,,,FAR (FAR AWAY)
+世辞 (Furigana),,,,せじ
+世辞 (Meaning),,,,FLATTERY (COMPLIMENT)
+折り目 (Furigana),,,,おりめ
+折り目 (Meaning),,,,FOLD (CREASE)
+前面 (Furigana),,,,ぜんめん
+前面 (Meaning),,,,FRONT (FRONT SIDE, FORE, FOREFRONT)
+基本的 (Furigana),,,,きほんてき
+基本的 (Meaning),,,,FUNDAMENTAL (BASIC, STANDARD)
+ゴミ箱 (Furigana),,,,ごみばこ
+ゴミ箱 (Meaning),,,,GARBAGE CAN (GARBAGE BIN, TRASH CAN, TRASH BIN, WASTE CAN, WASTE BIN, RUBBISH BIN)
 園 (Furigana),,,,えん
 園 (Meaning),,,,GARDEN (PARK)
 門 (Furigana),,,,もん
 門 (Meaning),,,,GATE
-幸 (Furigana),,,,こう
-幸 (Meaning),,,,GOOD LUCK (FORTUNE)
-政 (Furigana),,,,せい
-政 (Meaning),,,,GOVERNMENT
-卒 (Furigana),,,,そつ
-卒 (Meaning),,,,GRADUATION CEREMONY (GRADUATION)
-食 (Furigana),,,,しょく
-食 (Meaning),,,,GROCERIES (FOODSTUFF)
-地 (Furigana),,,,ち
-地 (Meaning),,,,GROUND (EARTH'S SURFACE)
-保 (Furigana),,,,ほ
-保 (Meaning),,,,GUARANTEE (ASSURANCE, WARRANTY)
-阪 (Furigana),,,,はん
-阪 (Meaning),,,,HANSHIN
-幸 (Furigana),,,,こう
-幸 (Meaning),,,,HAPPINESS
-幸 (Furigana),,,,こう
-幸 (Meaning),,,,HAPPINESS
-記 (Furigana),,,,き
-記 (Meaning),,,,HOLIDAY (ANNIVERSARY, MEMORIAL DAY)
-不 (Furigana),,,,ふ
-不 (Meaning),,,,INCOMPLETE (IMPERFECT)
-不 (Furigana),,,,ふ
-不 (Meaning),,,,INCURABILITY (INCURABLE)
-保 (Furigana),,,,ほ
-保 (Meaning),,,,INSURANCE
-面 (Furigana),,,,めん
-面 (Meaning),,,,INTERESTING (AMUSING, FUNNY)
-冗 (Furigana),,,,じょう
-冗 (Meaning),,,,JOKE
-関 (Furigana),,,,かん
-関 (Meaning),,,,KANSAI
-図 (Furigana),,,,ず
-図 (Meaning),,,,LIBRARY
-特 (Furigana),,,,とく
-特 (Meaning),,,,LIMITED EXPRESS TRAIN (LIMITED EXPRESS)
-荷 (Furigana),,,,に
-荷 (Meaning),,,,LUGGAGE (BAGGAGE, LOAD)
-仮 (Furigana),,,,か
-仮 (Meaning),,,,MASK
-明 (Furigana),,,,めい
-明 (Meaning),,,,MEIJI ERA (MEIJI EMPEROR, MEIJI)
-商 (Furigana),,,,しょう
-商 (Meaning),,,,MERCHANDISE (PRODUCT, GOODS)
-美 (Furigana),,,,び
-美 (Meaning),,,,MUSEUM (ART MUSEUM, ART GALLERY)
-折 (Furigana),,,,せつ
-折 (Meaning),,,,ORIGAMI (ART OF PAPER FOLDING)
-大 (Furigana),,,,たい
-大 (Meaning),,,,OSAKA (OOSAKA)
-写 (Furigana),,,,しゃ
-写 (Meaning),,,,PHOTO (PHOTOGRAPH, PICTURE)
-真 (Furigana),,,,しん
-真 (Meaning),,,,PITCH BLACK (PURE BLACK)
-政 (Furigana),,,,せい
-政 (Meaning),,,,POLITICS (GOVERNMENT)
-保 (Furigana),,,,ほ
-保 (Meaning),,,,PRESERVATION (CONSERVATION, SAVING)
-証 (Furigana),,,,しょう
-証 (Meaning),,,,PROOF (VERIFICATION)
-治 (Furigana),,,,じ
-治 (Meaning),,,,PUBLIC ORDER (PUBLIC SAFETY, PUBLIC PEACE)
-公 (Furigana),,,,こう
-公 (Meaning),,,,PUBLIC PARK (PARK)
-危 (Furigana),,,,き
-危 (Meaning),,,,RISKY (UNSAFE, DANGEROUS, DANGER, PERIL, HAZARD)
-場 (Furigana),,,,じょう
-場 (Meaning),,,,SCENE (SETTING, LOCALE)
-画 (Furigana),,,,が
-画 (Meaning),,,,SCREEN (MONITOR)
-笑 (Furigana),,,,わら
-笑 (Meaning),,,,SMILE (SMILING FACE)
-専 (Furigana),,,,せん
-専 (Meaning),,,,SPECIALTY (SPECIALITY, AREA OF STUDY, MAJOR)
-仏 (Furigana),,,,ぶつ
-仏 (Meaning),,,,STATUE OF BUDDHA (IMAGE OF BUDDHA)
-留 (Furigana),,,,る
-留 (Meaning),,,,STUDY ABROAD (STUDYING ABROAD)
+幸運 (Furigana),,,,こううん
+幸運 (Meaning),,,,GOOD LUCK (FORTUNE)
+政府 (Furigana),,,,せいふ
+政府 (Meaning),,,,GOVERNMENT
+卒業式 (Furigana),,,,そつぎょうしき
+卒業式 (Meaning),,,,GRADUATION CEREMONY (GRADUATION)
+食料品 (Furigana),,,,しょくりょうひん
+食料品 (Meaning),,,,GROCERIES (FOODSTUFF)
+地面 (Furigana),,,,じめん
+地面 (Meaning),,,,GROUND (EARTH'S SURFACE)
+保証 (Furigana),,,,ほしょう
+保証 (Meaning),,,,GUARANTEE (ASSURANCE, WARRANTY)
+阪神 (Furigana),,,,はんしん
+阪神 (Meaning),,,,HANSHIN
+幸福 (Furigana),,,,こうふく
+幸福 (Meaning),,,,HAPPINESS
+幸せ (Furigana),,,,しあわせ
+幸せ (Meaning),,,,HAPPINESS
+記念日 (Furigana),,,,きねんび
+記念日 (Meaning),,,,HOLIDAY (ANNIVERSARY, MEMORIAL DAY)
+不完全 (Furigana),,,,ふかんぜん
+不完全 (Meaning),,,,INCOMPLETE (IMPERFECT)
+不治 (Furigana),,,,ふじ
+不治 (Meaning),,,,INCURABILITY (INCURABLE)
+保険 (Furigana),,,,ほけん
+保険 (Meaning),,,,INSURANCE
+面白い (Furigana),,,,おもしろい
+面白い (Meaning),,,,INTERESTING (AMUSING, FUNNY)
+冗談 (Furigana),,,,じょうだん
+冗談 (Meaning),,,,JOKE
+関西 (Furigana),,,,かんさい
+関西 (Meaning),,,,KANSAI
+図書館 (Furigana),,,,としょかん
+図書館 (Meaning),,,,LIBRARY
+特急 (Furigana),,,,とっきゅう
+特急 (Meaning),,,,LIMITED EXPRESS TRAIN (LIMITED EXPRESS)
+荷物 (Furigana),,,,にもつ
+荷物 (Meaning),,,,LUGGAGE (BAGGAGE, LOAD)
+仮面 (Furigana),,,,かめん
+仮面 (Meaning),,,,MASK
+明治 (Furigana),,,,めいじ
+明治 (Meaning),,,,MEIJI ERA (MEIJI EMPEROR, MEIJI)
+商品 (Furigana),,,,しょうひん
+商品 (Meaning),,,,MERCHANDISE (PRODUCT, GOODS)
+美術館 (Furigana),,,,びじゅつかん
+美術館 (Meaning),,,,MUSEUM (ART MUSEUM, ART GALLERY)
+折り紙 (Furigana),,,,おりがみ
+折り紙 (Meaning),,,,ORIGAMI (ART OF PAPER FOLDING)
+大阪 (Furigana),,,,おおさか
+大阪 (Meaning),,,,OSAKA (OOSAKA)
+支払い (Furigana),,,,しはらい
+支払い (Meaning),,,,PAYMENT
+写真 (Furigana),,,,しゃしん
+写真 (Meaning),,,,PHOTO (PHOTOGRAPH, PICTURE)
+真っ黒 (Furigana),,,,まっくろ
+真っ黒 (Meaning),,,,PITCH BLACK (PURE BLACK)
+政治 (Furigana),,,,せいじ
+政治 (Meaning),,,,POLITICS (GOVERNMENT)
+保存 (Furigana),,,,ほぞん
+保存 (Meaning),,,,PRESERVATION (CONSERVATION, SAVING)
+証明 (Furigana),,,,しょうめい
+証明 (Meaning),,,,PROOF (VERIFICATION)
+治安 (Furigana),,,,ちあん
+治安 (Meaning),,,,PUBLIC ORDER (PUBLIC SAFETY, PUBLIC PEACE)
+公園 (Furigana),,,,こうえん
+公園 (Meaning),,,,PUBLIC PARK (PARK)
+危険 (Furigana),,,,きけん
+危険 (Meaning),,,,RISKY (UNSAFE, DANGEROUS, DANGER, PERIL, HAZARD)
+場面 (Furigana),,,,ばめん
+場面 (Meaning),,,,SCENE (SETTING, LOCALE)
+画面 (Furigana),,,,がめん
+画面 (Meaning),,,,SCREEN (MONITOR)
+笑顔 (Furigana),,,,えがお
+笑顔 (Meaning),,,,SMILE (SMILING FACE)
+専門 (Furigana),,,,せんもん
+専門 (Meaning),,,,SPECIALTY (SPECIALITY, AREA OF STUDY, MAJOR)
+仏像 (Furigana),,,,ぶつぞう
+仏像 (Meaning),,,,STATUE OF BUDDHA (IMAGE OF BUDDHA)
+留学 (Furigana),,,,りゅうがく
+留学 (Meaning),,,,STUDY ABROAD (STUDYING ABROAD)
 急 (Furigana),,,,きゅう
 急 (Meaning),,,,SUDDEN (URGENT, EMERGENCY, STEEP)
-急 (Furigana),,,,きゅう
-急 (Meaning),,,,SUDDEN DEATH
-急 (Furigana),,,,きゅう
-急 (Meaning),,,,SUDDENLY (IMMEDIATELY, ABRUPTLY)
-日 (Furigana),,,,にち
-日 (Meaning),,,,SUNBATHE
-荷 (Furigana),,,,に
-荷 (Meaning),,,,TAG (SHIPPING LABEL, LABEL)
-証 (Furigana),,,,しょう
-証 (Meaning),,,,TESTIMONY (VERBAL EVIDENCE)
-教 (Furigana),,,,きょう
-教 (Meaning),,,,TEXTBOOK
-浴 (Furigana),,,,よく
-浴 (Meaning),,,,TO BATHE IN (TO BE EXPOSED TO)
-関 (Furigana),,,,かん
-関 (Meaning),,,,TO BE CONNECTED TO (TO BE RELATED)
-係 (Furigana),,,,けい
-係 (Meaning),,,,TO BE INVOLVED WITH (TO BE CONNECTED WITH, TO BE AFFECTED, TO HAVE TO DO WITH)
-折 (Furigana),,,,せつ
-折 (Meaning),,,,TO BREAK (TO SNAP, TO FRACTURE)
-取 (Furigana),,,,しゅ
-取 (Meaning),,,,TO COME OFF (TO BE REMOVED, TO FALL OFF)
-妥 (Furigana),,,,だ
-妥 (Meaning),,,,TO COMPROMISE
-卒 (Furigana),,,,そつ
-卒 (Meaning),,,,TO GRADUATE
-急 (Furigana),,,,きゅう
-急 (Meaning),,,,TO HURRY
-存 (Furigana),,,,そん
-存 (Meaning),,,,TO KNOW (TO BE AWARE OF)
-東 (Furigana),,,,とう
-東 (Meaning),,,,TOKYO DIALECT
-笑 (Furigana),,,,わら
-笑 (Meaning),,,,TO LAUGH
-残 (Furigana),,,,ざん
-残 (Meaning),,,,TO LEAVE BEHIND (TO LEAVE OVER)
-固 (Furigana),,,,こ
-固 (Meaning),,,,TO MAKE SOMETHING HARD (TO HARDEN SOMETHING, TO STRENGTHEN SOMETHING)
-約 (Furigana),,,,やく
-約 (Meaning),,,,TO PROMISE
-守 (Furigana),,,,す
-守 (Meaning),,,,TO PROTECT (TO DEFEND, TO OBEY)
-辞 (Furigana),,,,じ
-辞 (Meaning),,,,TO QUIT (TO RESIGN AS)
-希 (Furigana),,,,き
-希 (Meaning),,,,TO REQUEST (TO WISH, TO HOPE, TO EXPECT)
-帰 (Furigana),,,,かえ
-帰 (Meaning),,,,TO SEND SOMEONE BACK (TO SEND SOMEONE HOME)
-取 (Furigana),,,,しゅ
-取 (Meaning),,,,TO TAKE (TO TAKE SOMETHING)
-書 (Furigana),,,,しょ
-書 (Meaning),,,,TO WRITE
-真 (Furigana),,,,しん
-真 (Meaning),,,,TRUTH (REALITY)
-不 (Furigana),,,,ふ
-不 (Meaning),,,,UNHAPPINESS (MISFORTUNE, MISERY, DEATH)
-残 (Furigana),,,,ざん
-残 (Meaning),,,,UNSOLD MERCHANDISE (REMAINING STOCK)
-待 (Furigana),,,,たい
-待 (Meaning),,,,WAITING ROOM
-証 (Furigana),,,,しょう
-証 (Meaning),,,,WITNESS
-動 (Furigana),,,,どう
-動 (Meaning),,,,ZOO (ZOOLOGICAL GARDENS, MENAGERIE)
+急死 (Furigana),,,,きゅうし
+急死 (Meaning),,,,SUDDEN DEATH
+急に (Furigana),,,,きゅうに
+急に (Meaning),,,,SUDDENLY (IMMEDIATELY, ABRUPTLY)
+日光浴 (Furigana),,,,にっこうよく
+日光浴 (Meaning),,,,SUNBATHE
+荷札 (Furigana),,,,にふだ
+荷札 (Meaning),,,,TAG (SHIPPING LABEL, LABEL)
+証言 (Furigana),,,,しょうげん
+証言 (Meaning),,,,TESTIMONY (VERBAL EVIDENCE)
+教科書 (Furigana),,,,きょうかしょ
+教科書 (Meaning),,,,TEXTBOOK
+浴びる (Furigana),,,,あびる
+浴びる (Meaning),,,,TO BATHE IN (TO BE EXPOSED TO)
+関する (Furigana),,,,かんする
+関する (Meaning),,,,TO BE CONNECTED TO (TO BE RELATED)
+折れる (Furigana),,,,おれる
+折れる (Meaning),,,,TO BREAK (TO SNAP, TO FRACTURE)
+取れる (Furigana),,,,とれる
+取れる (Meaning),,,,TO COME OFF (TO BE REMOVED, TO FALL OFF)
+妥協する (Furigana),,,,だきょうする
+妥協する (Meaning),,,,TO COMPROMISE
+卒業する (Furigana),,,,そつぎょうする
+卒業する (Meaning),,,,TO GRADUATE
+急ぐ (Furigana),,,,いそぐ
+急ぐ (Meaning),,,,TO HURRY
+存じる (Furigana),,,,ぞんじる
+存じる (Meaning),,,,TO KNOW (TO BE AWARE OF, TO BELIEVE)
+東京弁 (Furigana),,,,とうきょうべん
+東京弁 (Meaning),,,,TOKYO DIALECT
+笑う (Furigana),,,,わらう
+笑う (Meaning),,,,TO LAUGH
+残す (Furigana),,,,のこす
+残す (Meaning),,,,TO LEAVE BEHIND (TO LEAVE OVER)
+固める (Furigana),,,,かためる
+固める (Meaning),,,,TO MAKE SOMETHING HARD (TO HARDEN SOMETHING, TO STRENGTHEN SOMETHING)
+約束する (Furigana),,,,やくそくする
+約束する (Meaning),,,,TO PROMISE
+守る (Furigana),,,,まもる
+守る (Meaning),,,,TO PROTECT (TO DEFEND, TO OBEY)
+辞める (Furigana),,,,やめる
+辞める (Meaning),,,,TO QUIT (TO RESIGN AS)
+希望する (Furigana),,,,きぼうする
+希望する (Meaning),,,,TO REQUEST (TO WISH, TO HOPE, TO EXPECT)
+帰す (Furigana),,,,かえす
+帰す (Meaning),,,,TO SEND SOMEONE BACK (TO SEND SOMEONE HOME)
+取る (Furigana),,,,とる
+取る (Meaning),,,,TO TAKE (TO TAKE SOMETHING)
+書く (Furigana),,,,かく
+書く (Meaning),,,,TO WRITE
+真実 (Furigana),,,,しんじつ
+真実 (Meaning),,,,TRUTH (REALITY)
+不幸 (Furigana),,,,ふこう
+不幸 (Meaning),,,,UNHAPPINESS (MISFORTUNE, MISERY, DEATH)
+残品 (Furigana),,,,ざんぴん
+残品 (Meaning),,,,UNSOLD MERCHANDISE (REMAINING STOCK)
+待合室 (Furigana),,,,まちあいしつ
+待合室 (Meaning),,,,WAITING ROOM
+証人 (Furigana),,,,しょうにん
+証人 (Meaning),,,,WITNESS
+動物園 (Furigana),,,,どうぶつえん
+動物園 (Meaning),,,,ZOO (ZOOLOGICAL GARDENS, MENAGERIE)

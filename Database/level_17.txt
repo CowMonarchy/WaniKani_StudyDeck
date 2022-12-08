@@ -72,271 +72,273 @@
 虚 (Meaning),,,,Void
 警 (Onyomi),,,,けい
 警 (Meaning),,,,Warn
-欠 (Furigana),,,,けつ
-欠 (Meaning),,,,ABSENCE (NONATTENDANCE)
-是 (Furigana),,,,ぜ
-是 (Meaning),,,,ABSOLUTELY (BY ALL MEANS, RIGHT AND WRONG)
-無 (Furigana),,,,む
-無 (Meaning),,,,ABSURD (RASH, EXCESSIVE)
-結 (Furigana),,,,けつ
-結 (Meaning),,,,AFTER ALL (EVENTUALLY, IN THE END)
-愛 (Furigana),,,,あい
-愛 (Meaning),,,,AICHI PREFECTURE
-常 (Furigana),,,,じょう
-常 (Meaning),,,,ALWAYS (CONSTANTLY, CONTINUALLY)
-無 (Furigana),,,,む
-無 (Meaning),,,,ANONYMOUS (UNKNOWN)
-建 (Furigana),,,,けん
-建 (Meaning),,,,ARCHITECT
-兵 (Furigana),,,,へい
-兵 (Meaning),,,,ARMS (WEAPONS)
-相 (Furigana),,,,そう
-相 (Meaning),,,,AS USUAL (AS EVER, THE SAME, AS BEFORE)
-原 (Furigana),,,,げん
-原 (Meaning),,,,ATOM
-出 (Furigana),,,,しゅつ
-出 (Meaning),,,,ATTENDANCE
-意 (Furigana),,,,い
-意 (Meaning),,,,AWARENESS (CONSCIOUSNESS)
-不 (Furigana),,,,ふ
-不 (Meaning),,,,BAD TASTING (UNAPPETIZING, UNSKILLFUL)
-紀 (Furigana),,,,き
-紀 (Meaning),,,,BEFORE THE COMMON ERA (BCE, BEFORE CHRIST, BC)
-両 (Furigana),,,,りょう
-両 (Meaning),,,,BOTH SIDES
+欠席 (Furigana),,,,けっせき
+欠席 (Meaning),,,,ABSENCE (NONATTENDANCE)
+是非 (Furigana),,,,ぜひ
+是非 (Meaning),,,,ABSOLUTELY (BY ALL MEANS, RIGHT AND WRONG)
+無茶 (Furigana),,,,むちゃ
+無茶 (Meaning),,,,ABSURD (RASH, EXCESSIVE)
+結局 (Furigana),,,,けっきょく
+結局 (Meaning),,,,AFTER ALL (EVENTUALLY, IN THE END)
+愛知県 (Furigana),,,,あいちけん
+愛知県 (Meaning),,,,AICHI PREFECTURE
+常に (Furigana),,,,つねに
+常に (Meaning),,,,ALWAYS (CONSTANTLY, CONTINUALLY)
+無名 (Furigana),,,,むめい
+無名 (Meaning),,,,ANONYMOUS (UNKNOWN)
+建築家 (Furigana),,,,けんちくか
+建築家 (Meaning),,,,ARCHITECT
+兵器 (Furigana),,,,へいき
+兵器 (Meaning),,,,ARMS (WEAPONS)
+相変わらず (Furigana),,,,あいかわらず
+相変わらず (Meaning),,,,AS USUAL (AS EVER, THE SAME, AS BEFORE)
+原子 (Furigana),,,,げんし
+原子 (Meaning),,,,ATOM
+出席 (Furigana),,,,しゅっせき
+出席 (Meaning),,,,ATTENDANCE
+意識 (Furigana),,,,いしき
+意識 (Meaning),,,,AWARENESS (CONSCIOUSNESS)
+不味い (Furigana),,,,まずい
+不味い (Meaning),,,,BAD TASTING (UNAPPETIZING, UNSKILLFUL)
+紀元前 (Furigana),,,,きげんぜん
+紀元前 (Meaning),,,,BEFORE THE COMMON ERA (BCE, BEFORE CHRIST, BC)
+両側 (Furigana),,,,りょうがわ
+両側 (Meaning),,,,BOTH SIDES
 底 (Furigana),,,,そこ
 底 (Meaning),,,,BOTTOM
-心 (Furigana),,,,しん
-心 (Meaning),,,,BOTTOM OF ONE'S HEART (BOTTOM OF MY HEART)
-朝 (Furigana),,,,あさ
-朝 (Meaning),,,,BREAKFAST
-建 (Furigana),,,,けん
-建 (Meaning),,,,BUILDING
-食 (Furigana),,,,しょく
-食 (Meaning),,,,CAFETERIA (DINING HALL, DINER)
-原 (Furigana),,,,げん
-原 (Meaning),,,,CAUSE (ORIGIN, SOURCE)
-喜 (Furigana),,,,き
-喜 (Meaning),,,,COMEDY
-常 (Furigana),,,,じょう
-常 (Meaning),,,,COMMON SENSE (COMMON KNOWLEDGE)
-完 (Furigana),,,,かん
-完 (Meaning),,,,CONCLUSION (COMPLETION, ENDING, CONSUMMATION)
-自 (Furigana),,,,じ
-自 (Meaning),,,,CONSCIOUSNESS (AWARENESS, REALIZATION)
-泣 (Furigana),,,,な
-泣 (Meaning),,,,CRYBABY
-泣 (Furigana),,,,な
-泣 (Meaning),,,,CRYING (SOB)
-一 (Furigana),,,,いち
-一 (Meaning),,,,DAY BEFORE LAST (DAY BEFORE YESTERDAY)
-詳 (Furigana),,,,しょう
-詳 (Meaning),,,,DETAILED (EXPERT)
-詳 (Furigana),,,,しょう
-詳 (Meaning),,,,DETAILS
-晩 (Furigana),,,,ばん
-晩 (Meaning),,,,DINNER (SUPPER)
-外 (Furigana),,,,がい
-外 (Meaning),,,,DIPLOMAT
+心底 (Furigana),,,,しんそこ
+心底 (Meaning),,,,BOTTOM OF ONE'S HEART (BOTTOM OF MY HEART)
+朝ご飯 (Furigana),,,,あさごはん
+朝ご飯 (Meaning),,,,BREAKFAST
+建物 (Furigana),,,,たてもの
+建物 (Meaning),,,,BUILDING
+食堂 (Furigana),,,,しょくどう
+食堂 (Meaning),,,,CAFETERIA (DINING HALL, DINER)
+原因 (Furigana),,,,げんいん
+原因 (Meaning),,,,CAUSE (ORIGIN, SOURCE)
+喜劇 (Furigana),,,,きげき
+喜劇 (Meaning),,,,COMEDY
+常識 (Furigana),,,,じょうしき
+常識 (Meaning),,,,COMMON SENSE (COMMON KNOWLEDGE)
+完結 (Furigana),,,,かんけつ
+完結 (Meaning),,,,CONCLUSION (COMPLETION, ENDING, CONSUMMATION)
+自覚 (Furigana),,,,じかく
+自覚 (Meaning),,,,CONSCIOUSNESS (AWARENESS, REALIZATION)
+泣き虫 (Furigana),,,,なきむし
+泣き虫 (Meaning),,,,CRYBABY
+泣き声 (Furigana),,,,なきごえ
+泣き声 (Meaning),,,,CRYING (SOB)
+一昨日 (Furigana),,,,おととい
+一昨日 (Meaning),,,,DAY BEFORE LAST (DAY BEFORE YESTERDAY)
+詳しい (Furigana),,,,くわしい
+詳しい (Meaning),,,,DETAILED (EXPERT)
+詳細 (Furigana),,,,しょうさい
+詳細 (Meaning),,,,DETAILS
+晩ご飯 (Furigana),,,,ばんごはん
+晩ご飯 (Meaning),,,,DINNER (SUPPER)
+外交官 (Furigana),,,,がいこうかん
+外交官 (Meaning),,,,DIPLOMAT
 劇 (Furigana),,,,げき
 劇 (Meaning),,,,DRAMA (PLAY, SHOW)
-劇 (Furigana),,,,げき
-劇 (Meaning),,,,DRAMATIC
-干 (Furigana),,,,かん
-干 (Meaning),,,,DRY WEATHER (DROUGHT)
-東 (Furigana),,,,とう
-東 (Meaning),,,,EAST SIDE
-非 (Furigana),,,,ひ
-非 (Meaning),,,,EMERGENCY
-虚 (Furigana),,,,きょ
-虚 (Meaning),,,,EMPTY (VACANT, FUTILE, VAIN)
-日 (Furigana),,,,にち
-日 (Meaning),,,,EVERYDAY LIFE (NORMAL LIFE, DAILY LIFE, ORDINARY, REGULAR, EVERYDAY, USUAL)
-悪 (Furigana),,,,あく
-悪 (Meaning),,,,EVIL BREEDS EVIL (EVIL BEGETS EVIL)
-説 (Furigana),,,,せつ
-説 (Meaning),,,,EXPLANATION
-失 (Furigana),,,,しつ
-失 (Meaning),,,,FAILURE (MISTAKE)
-幻 (Furigana),,,,げん
-幻 (Meaning),,,,FANTASY (ILLUSION)
-無 (Furigana),,,,む
-無 (Meaning),,,,FREE (WITHOUT CHARGE)
-果 (Furigana),,,,か
-果 (Meaning),,,,FRUIT
-栄 (Furigana),,,,えい
-栄 (Meaning),,,,GLORY
-官 (Furigana),,,,かん
-官 (Meaning),,,,GOVERNMENT FUNDS (GOVERNMENT MONEY)
-幻 (Furigana),,,,げん
-幻 (Meaning),,,,HALLUCINATION
-失 (Furigana),,,,しつ
-失 (Meaning),,,,HEARTBREAK (BROKEN HEART, UNREQUITED LOVE)
-光 (Furigana),,,,こう
-光 (Meaning),,,,HONOR (PRIVILEGE)
-鼻 (Furigana),,,,はな
-鼻 (Meaning),,,,HUMMING
-仮 (Furigana),,,,か
-仮 (Meaning),,,,HYPOTHESIS
-無 (Furigana),,,,む
-無 (Meaning),,,,IGNORANCE (IGNORANT)
-幻 (Furigana),,,,げん
+劇的 (Furigana),,,,げきてき
+劇的 (Meaning),,,,DRAMATIC
+干天 (Furigana),,,,かんてん
+干天 (Meaning),,,,DRY WEATHER (DROUGHT)
+東側 (Furigana),,,,ひがしがわ
+東側 (Meaning),,,,EAST SIDE
+非常 (Furigana),,,,ひじょう
+非常 (Meaning),,,,EMERGENCY
+虚しい (Furigana),,,,むなしい
+虚しい (Meaning),,,,EMPTY (VACANT, FUTILE, VAIN)
+日常 (Furigana),,,,にちじょう
+日常 (Meaning),,,,EVERYDAY LIFE (NORMAL LIFE, DAILY LIFE, ORDINARY, REGULAR, EVERYDAY, USUAL)
+悪因悪果 (Furigana),,,,あくいんあっか
+悪因悪果 (Meaning),,,,EVIL BREEDS EVIL (EVIL BEGETS EVIL)
+説明 (Furigana),,,,せつめい
+説明 (Meaning),,,,EXPLANATION
+失敗 (Furigana),,,,しっぱい
+失敗 (Meaning),,,,FAILURE (MISTAKE)
+幻想 (Furigana),,,,げんそう
+幻想 (Meaning),,,,FANTASY (ILLUSION)
+無料 (Furigana),,,,むりょう
+無料 (Meaning),,,,FREE (WITHOUT CHARGE)
+果物 (Furigana),,,,くだもの
+果物 (Meaning),,,,FRUIT
+栄光 (Furigana),,,,えいこう
+栄光 (Meaning),,,,GLORY
+官金 (Furigana),,,,かんきん
+官金 (Meaning),,,,GOVERNMENT FUNDS (GOVERNMENT MONEY)
+幻覚 (Furigana),,,,げんかく
+幻覚 (Meaning),,,,HALLUCINATION
+失恋 (Furigana),,,,しつれん
+失恋 (Meaning),,,,HEARTBREAK (BROKEN HEART, UNREQUITED LOVE)
+光栄 (Furigana),,,,こうえい
+光栄 (Meaning),,,,HONOR (PRIVILEGE)
+鼻歌 (Furigana),,,,はなうた
+鼻歌 (Meaning),,,,HUMMING
+仮説 (Furigana),,,,かせつ
+仮説 (Meaning),,,,HYPOTHESIS
+無知 (Furigana),,,,むち
+無知 (Meaning),,,,IGNORANCE (IGNORANT)
+幻 (Furigana),,,,まぼろし
 幻 (Meaning),,,,ILLUSION (PHANTOM, APPARITION)
-図 (Furigana),,,,ず
-図 (Meaning),,,,ILLUSTRATION (EXPLANATORY DIAGRAM)
-無 (Furigana),,,,む
-無 (Meaning),,,,IMPOSSIBLE (UNREASONABLE, OVERDOING)
-察 (Furigana),,,,さつ
-察 (Meaning),,,,INFERENCE (INFER, SENSE)
-内 (Furigana),,,,ない
-内 (Meaning),,,,INSIDE
-干 (Furigana),,,,かん
-干 (Meaning),,,,INTERFERENCE (INTERVENTION)
-内 (Furigana),,,,ない
-内 (Meaning),,,,INTERNAL CAUSE (ACTUAL REASON, INTRINSIC, ENDOGENOUS)
-知 (Furigana),,,,ち
-知 (Meaning),,,,KNOWLEDGE (INFORMATION)
-左 (Furigana),,,,さ
-左 (Meaning),,,,LEFT SIDE (LEFT-HAND SIDE)
-伝 (Furigana),,,,でん
-伝 (Meaning),,,,LEGEND
-敗 (Furigana),,,,はい
-敗 (Meaning),,,,LOSER (THE DEFEATED)
-恋 (Furigana),,,,れん
-恋 (Meaning),,,,LOVE
-恋 (Furigana),,,,れん
-恋 (Meaning),,,,LOVE (ROMANCE)
-愛 (Furigana),,,,あい
-愛 (Meaning),,,,LOVE (AFFECTION)
+図説 (Furigana),,,,ずせつ
+図説 (Meaning),,,,ILLUSTRATION (EXPLANATORY DIAGRAM)
+無理 (Furigana),,,,むり
+無理 (Meaning),,,,IMPOSSIBLE (UNREASONABLE, OVERDOING)
+察知 (Furigana),,,,さっち
+察知 (Meaning),,,,INFERENCE (INFER, SENSE)
+内側 (Furigana),,,,うちがわ
+内側 (Meaning),,,,INSIDE
+干渉 (Furigana),,,,かんしょう
+干渉 (Meaning),,,,INTERFERENCE (INTERVENTION)
+内因 (Furigana),,,,ないいん
+内因 (Meaning),,,,INTERNAL CAUSE (ACTUAL REASON, INTRINSIC, ENDOGENOUS)
+知識 (Furigana),,,,ちしき
+知識 (Meaning),,,,KNOWLEDGE (INFORMATION)
+左側 (Furigana),,,,ひだりがわ
+左側 (Meaning),,,,LEFT SIDE (LEFT-HAND SIDE)
+伝説 (Furigana),,,,でんせつ
+伝説 (Meaning),,,,LEGEND
+敗者 (Furigana),,,,はいしゃ
+敗者 (Meaning),,,,LOSER (THE DEFEATED)
 愛 (Furigana),,,,あい
 愛 (Meaning),,,,LOVE
-愛 (Furigana),,,,あい
-愛 (Meaning),,,,LOVER (MISTRESS)
-昼 (Furigana),,,,ひる
-昼 (Meaning),,,,LUNCH
-主 (Furigana),,,,しゅ
-主 (Meaning),,,,MAIN CAUSE (PRIMARY CAUSE)
-薬 (Furigana),,,,やく
-薬 (Meaning),,,,MEDICINAL (MEDICINAL USE)
-薬 (Furigana),,,,やく
+恋愛 (Furigana),,,,れんあい
+恋愛 (Meaning),,,,LOVE (ROMANCE)
+愛情 (Furigana),,,,あいじょう
+愛情 (Meaning),,,,LOVE (AFFECTION)
+恋 (Furigana),,,,こい
+恋 (Meaning),,,,LOVE
+愛人 (Furigana),,,,あいじん
+愛人 (Meaning),,,,LOVER (MISTRESS)
+昼ご飯 (Furigana),,,,ひるごはん
+昼ご飯 (Meaning),,,,LUNCH
+主因 (Furigana),,,,しゅいん
+主因 (Meaning),,,,MAIN CAUSE (PRIMARY CAUSE)
+薬用 (Furigana),,,,やくよう
+薬用 (Meaning),,,,MEDICINAL (MEDICINAL USE)
+薬 (Furigana),,,,くすり
 薬 (Meaning),,,,MEDICINE (DRUG, DRUGS)
-薬 (Furigana),,,,やく
-薬 (Meaning),,,,MEDICINES (DRUGS)
-兵 (Furigana),,,,へい
-兵 (Meaning),,,,MILITARY PERSONNEL (MILITARY STRENGTH)
-水 (Furigana),,,,すい
-水 (Meaning),,,,NAVY SAILOR (SAILOR, SEAMAN)
-交 (Furigana),,,,こう
-交 (Meaning),,,,NEGOTIATION
-無 (Furigana),,,,む
-無 (Meaning),,,,NO HOLIDAYS (ALWAYS OPEN, NONSTOP)
+薬物 (Furigana),,,,やくぶつ
+薬物 (Meaning),,,,MEDICINES (DRUGS)
+兵員 (Furigana),,,,へいいん
+兵員 (Meaning),,,,MILITARY PERSONNEL (MILITARY STRENGTH)
+水兵 (Furigana),,,,すいへい
+水兵 (Meaning),,,,NAVY SAILOR (SAILOR, SEAMAN)
+交渉 (Furigana),,,,こうしょう
+交渉 (Meaning),,,,NEGOTIATION
+無休 (Furigana),,,,むきゅう
+無休 (Meaning),,,,NO HOLIDAYS (ALWAYS OPEN, NONSTOP)
 鼻 (Furigana),,,,はな
 鼻 (Meaning),,,,NOSE
-鼻 (Furigana),,,,はな
-鼻 (Meaning),,,,NOSEBLEED (BLOODY NOSE)
-小 (Furigana),,,,しょう
-小 (Meaning),,,,NOVEL
-願 (Furigana),,,,がん
-願 (Meaning),,,,ONE'S WISH (PRAYER, WISH)
-空 (Furigana),,,,くう
-空 (Meaning),,,,OPEN SEAT (EMPTY SEAT, FREE SEAT)
-歌 (Furigana),,,,か
-歌 (Meaning),,,,OPERA
-原 (Furigana),,,,げん
-原 (Meaning),,,,ORIGINAL WORK
-外 (Furigana),,,,がい
-外 (Meaning),,,,OUTSIDE
-愛 (Furigana),,,,あい
-愛 (Meaning),,,,PATRIOTISM
-警 (Furigana),,,,けい
-警 (Meaning),,,,POLICE
-無 (Furigana),,,,む
-無 (Meaning),,,,POWERLESS (POWERLESSNESS, HELPLESSNESS)
-薬 (Furigana),,,,やく
-薬 (Meaning),,,,PRESCRIPTION
-建 (Furigana),,,,けん
-建 (Meaning),,,,PUBLIC BEHAVIOR (PUBLIC BEHAVIOUR, OFFICIAL STANCE, PUBLIC POSITION, PUBLIC FACE, TATEMAE)
-結 (Furigana),,,,けつ
-結 (Meaning),,,,RESULT
-右 (Furigana),,,,ゆう
-右 (Meaning),,,,RIGHT SIDE (RIGHT-HAND SIDE)
-川 (Furigana),,,,かわ
-川 (Meaning),,,,RIVERBED (RIVER BOTTOM)
-無 (Furigana),,,,む
-無 (Meaning),,,,SAFE AND SOUND (SAFE)
+鼻血 (Furigana),,,,はなぢ
+鼻血 (Meaning),,,,NOSEBLEED (BLOODY NOSE)
+小説 (Furigana),,,,しょうせつ
+小説 (Meaning),,,,NOVEL
+願い事 (Furigana),,,,ねがいごと
+願い事 (Meaning),,,,ONE'S WISH (PRAYER, WISH)
+空席 (Furigana),,,,くうせき
+空席 (Meaning),,,,OPEN SEAT (EMPTY SEAT, FREE SEAT)
+歌劇 (Furigana),,,,かげき
+歌劇 (Meaning),,,,OPERA
+原作 (Furigana),,,,げんさく
+原作 (Meaning),,,,ORIGINAL WORK
+外側 (Furigana),,,,そとがわ
+外側 (Meaning),,,,OUTSIDE
+愛国心 (Furigana),,,,あいこくしん
+愛国心 (Meaning),,,,PATRIOTISM
+警察 (Furigana),,,,けいさつ
+警察 (Meaning),,,,POLICE
+無力 (Furigana),,,,むりょく
+無力 (Meaning),,,,POWERLESS (POWERLESSNESS, HELPLESSNESS)
+薬方 (Furigana),,,,やくほう
+薬方 (Meaning),,,,PRESCRIPTION
+建前 (Furigana),,,,たてまえ
+建前 (Meaning),,,,PUBLIC BEHAVIOR (PUBLIC BEHAVIOUR, OFFICIAL STANCE, PUBLIC POSITION, PUBLIC FACE, TATEMAE)
+結果 (Furigana),,,,けっか
+結果 (Meaning),,,,RESULT
+右側 (Furigana),,,,みぎがわ
+右側 (Meaning),,,,RIGHT SIDE (RIGHT-HAND SIDE)
+川底 (Furigana),,,,かわぞこ
+川底 (Meaning),,,,RIVERBED (RIVER BOTTOM)
+無事 (Furigana),,,,ぶじ
+無事 (Meaning),,,,SAFE AND SOUND (SAFE)
 塩 (Furigana),,,,しお
 塩 (Meaning),,,,SALT
-塩 (Furigana),,,,しお
-塩 (Meaning),,,,SALT WATER
-塩 (Furigana),,,,しお
-塩 (Meaning),,,,SALTY TASTE (TASTES SALTY, SALTY, SALTY FLAVOR)
+塩水 (Furigana),,,,しおみず
+塩水 (Meaning),,,,SALT WATER
+塩味 (Furigana),,,,しおあじ
+塩味 (Meaning),,,,SALTY TASTE (TASTES SALTY, SALTY, SALTY FLAVOR)
 席 (Furigana),,,,せき
 席 (Meaning),,,,SEAT
-自 (Furigana),,,,じ
-自 (Meaning),,,,SELF LOVE (TAKING CARE OF ONESELF)
-感 (Furigana),,,,かん
-感 (Meaning),,,,SENSE (THE SENSES, SENSATION)
-側 (Furigana),,,,がわ
+自愛 (Furigana),,,,じあい
+自愛 (Meaning),,,,SELF LOVE (TAKING CARE OF ONESELF)
+感覚 (Furigana),,,,かんかく
+感覚 (Meaning),,,,SENSE (THE SENSES, SENSATION)
+側 (Furigana),,,,そば
 側 (Meaning),,,,SIDE (SIDE OF SOMETHING, PART)
-署 (Furigana),,,,しょ
-署 (Meaning),,,,SIGNATURE
-無 (Furigana),,,,む
-無 (Meaning),,,,SILENCE
-鼻 (Furigana),,,,はな
-鼻 (Meaning),,,,SNOT (BOOGERS)
+署名 (Furigana),,,,しょめい
+署名 (Meaning),,,,SIGNATURE
+無言 (Furigana),,,,むごん
+無言 (Meaning),,,,SILENCE
+鼻くそ (Furigana),,,,はなくそ
+鼻くそ (Meaning),,,,SNOT (BOOGERS)
+兵士 (Furigana),,,,へいし
+兵士 (Meaning),,,,SOLDIER
 兵 (Furigana),,,,へい
 兵 (Meaning),,,,SOLDIER (ARMY, TROOPS)
-兵 (Furigana),,,,へい
-兵 (Meaning),,,,SOLDIER
-薬 (Furigana),,,,やく
-薬 (Meaning),,,,STUDY OF PHARMACY (PHARMACOLOGY, PHARMACEUTICS)
-劇 (Furigana),,,,げき
-劇 (Meaning),,,,THEATER (THEATRE)
-細 (Furigana),,,,さい
-細 (Meaning),,,,THIN (SLENDER)
-鼻 (Furigana),,,,はな
-鼻 (Meaning),,,,TIP OF THE NOSE (TIP OF NOSE, NOSE TIP)
-変 (Furigana),,,,へん
-変 (Meaning),,,,TO BE CHANGED (TO BE TRANSFORMED, TO BE ALTERED, TO VARY, TO BE TURNED)
-敗 (Furigana),,,,はい
-敗 (Meaning),,,,TO BE DEFEATED (TO BE UNSUCCESSFUL)
-勇 (Furigana),,,,ゆう
-勇 (Meaning),,,,TO BE ENCOURAGED (TO BE LIVELY, TO BE IN HIGH SPIRITS, TO CHEER UP, TO BE EXCITED, TO BE INSPIRED)
-建 (Furigana),,,,けん
-建 (Meaning),,,,TO BE ERECTED (TO BE BUILT)
-悲 (Furigana),,,,ひ
-悲 (Meaning),,,,TO BE SAD ABOUT (TO BE SADDENED BY)
-治 (Furigana),,,,じ
-治 (Meaning),,,,TO CURE (TO HEAL, TO EASE)
-干 (Furigana),,,,かん
-干 (Meaning),,,,TO DRY SOMETHING
-果 (Furigana),,,,か
-果 (Meaning),,,,TO END (TO DIE)
-栄 (Furigana),,,,えい
-栄 (Meaning),,,,TO FLOURISH (TO PROSPER)
-察 (Furigana),,,,さつ
-察 (Meaning),,,,TO GUESS (TO SENSE, TO PRESUME)
-愛 (Furigana),,,,あい
-愛 (Meaning),,,,TO LOVE
-喜 (Furigana),,,,き
-喜 (Meaning),,,,TO REJOICE (TO BECOME HAPPY, TO BE GLAD)
-悲 (Furigana),,,,ひ
-悲 (Meaning),,,,TRAGEDY
+薬学 (Furigana),,,,やくがく
+薬学 (Meaning),,,,STUDY OF PHARMACY (PHARMACOLOGY, PHARMACEUTICS)
+劇場 (Furigana),,,,げきじょう
+劇場 (Meaning),,,,THEATER (THEATRE)
+細い (Furigana),,,,ほそい
+細い (Meaning),,,,THIN (SLENDER)
+鼻先 (Furigana),,,,はなさき
+鼻先 (Meaning),,,,TIP OF THE NOSE (TIP OF NOSE, NOSE TIP)
+変わる (Furigana),,,,かわる
+変わる (Meaning),,,,TO BE CHANGED (TO BE TRANSFORMED, TO BE ALTERED, TO VARY, TO BE TURNED)
+敗れる (Furigana),,,,やぶれる
+敗れる (Meaning),,,,TO BE DEFEATED (TO BE UNSUCCESSFUL)
+勇む (Furigana),,,,いさむ
+勇む (Meaning),,,,TO BE ENCOURAGED (TO BE LIVELY, TO BE IN HIGH SPIRITS, TO CHEER UP, TO BE EXCITED, TO BE INSPIRED)
+建つ (Furigana),,,,たつ
+建つ (Meaning),,,,TO BE ERECTED (TO BE BUILT)
+悲しむ (Furigana),,,,かなしむ
+悲しむ (Meaning),,,,TO BE SAD ABOUT (TO BE SADDENED BY)
+治す (Furigana),,,,なおす
+治す (Meaning),,,,TO CURE (TO HEAL, TO EASE)
+干す (Furigana),,,,ほす
+干す (Meaning),,,,TO DRY SOMETHING
+果てる (Furigana),,,,はてる
+果てる (Meaning),,,,TO END (TO DIE)
+栄える (Furigana),,,,さかえる
+栄える (Meaning),,,,TO FLOURISH (TO PROSPER)
+察する (Furigana),,,,さっする
+察する (Meaning),,,,TO GUESS (TO SENSE, TO PRESUME)
+愛する (Furigana),,,,あいする
+愛する (Meaning),,,,TO LOVE
+喜ぶ (Furigana),,,,よろこぶ
+喜ぶ (Meaning),,,,TO REJOICE (TO BECOME HAPPY, TO BE GLAD)
+悲劇 (Furigana),,,,ひげき
+悲劇 (Meaning),,,,TRAGEDY
 梅 (Furigana),,,,うめ
 梅 (Meaning),,,,UME (JAPANESE PLUM)
-梅 (Furigana),,,,うめ
-梅 (Meaning),,,,UME WINE (PLUM WINE, PLUM LIQUOR, UMESHU)
-不 (Furigana),,,,ふ
-不 (Meaning),,,,UNKNOWN (UNIDENTIFIED)
-米 (Furigana),,,,べい
-米 (Meaning),,,,US SOLDIER (AMERICAN SOLDIER)
-虚 (Furigana),,,,きょ
-虚 (Meaning),,,,VANITY
-勝 (Furigana),,,,しょう
-勝 (Meaning),,,,VICTORY OR DEFEAT (WIN OR LOSE, OUTCOME)
-虚 (Furigana),,,,きょ
-虚 (Meaning),,,,WEAK (FEEBLE, WEAKNESS, FEEBLENESS)
-西 (Furigana),,,,せい
-西 (Meaning),,,,WEST (WEST SIDE)
-無 (Furigana),,,,む
-無 (Meaning),,,,WITHOUT (WITH NO)
+梅酒 (Furigana),,,,うめしゅ
+梅酒 (Meaning),,,,UME WINE (PLUM WINE, PLUM LIQUOR, UMESHU)
+不詳 (Furigana),,,,ふしょう
+不詳 (Meaning),,,,UNKNOWN (UNIDENTIFIED)
+米兵 (Furigana),,,,べいへい
+米兵 (Meaning),,,,US SOLDIER (AMERICAN SOLDIER)
+虚栄心 (Furigana),,,,きょえいしん
+虚栄心 (Meaning),,,,VANITY
+勝敗 (Furigana),,,,しょうはい
+勝敗 (Meaning),,,,VICTORY OR DEFEAT (WIN OR LOSE, OUTCOME)
+虚弱 (Furigana),,,,きょじゃく
+虚弱 (Meaning),,,,WEAK (FEEBLE, WEAKNESS, FEEBLENESS)
+西側 (Furigana),,,,にしがわ
+西側 (Meaning),,,,WEST (WEST SIDE)
+無し (Furigana),,,,なし
+無し (Meaning),,,,WITHOUT (WITH NO)
+青春 (Furigana),,,,せいしゅん
+青春 (Meaning),,,,YOUTH (ADOLESCENCE, SPRINGTIME OF ONE'S LIFE)

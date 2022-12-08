@@ -64,241 +64,241 @@
 観 (Meaning),,,,View
 藤 (Onyomi),,,,ふじ
 藤 (Meaning),,,,Wisteria
-副 (Furigana),,,,ふく
-副 (Meaning),,,,ADVERB
-罰 (Furigana),,,,ばつ
-罰 (Meaning),,,,A FINE (FINE)
-待 (Furigana),,,,たい
-待 (Meaning),,,,ALERT (STANDBY)
+副詞 (Furigana),,,,ふくし
+副詞 (Meaning),,,,ADVERB
+罰金 (Furigana),,,,ばっきん
+罰金 (Meaning),,,,A FINE (FINE)
+待機 (Furigana),,,,たいき
+待機 (Meaning),,,,ALERT (STANDBY)
 策 (Furigana),,,,さく
 策 (Meaning),,,,A PLAN (PLAN, SCHEME)
-反 (Furigana),,,,はん
-反 (Meaning),,,,A RESPONSE (RESPONSE, A REACTION, REACTION)
-援 (Furigana),,,,えん
-援 (Meaning),,,,ASSISTANCE (AID)
-態 (Furigana),,,,たい
-態 (Meaning),,,,ATTITUDE (MANNER, BEHAVIOR)
-観 (Furigana),,,,かん
-観 (Meaning),,,,AUDIENCE (SPECTATORS)
-赤 (Furigana),,,,あか
-赤 (Meaning),,,,BABY
-不 (Furigana),,,,ふ
-不 (Meaning),,,,BAD MOOD (GRUMPY, SULLEN)
-罰 (Furigana),,,,ばつ
-罰 (Meaning),,,,BATSU GAME (PENALTY GAME)
-誕 (Furigana),,,,たん
-誕 (Meaning),,,,BIRTH
-失 (Furigana),,,,しつ
-失 (Meaning),,,,BLUNDER (DISGRACE)
-区 (Furigana),,,,く
-区 (Meaning),,,,BOUNDARY (ZONE)
-坊 (Furigana),,,,ぼう
-坊 (Meaning),,,,BUDDHIST PRIEST (SHAVED HEAD, CLOSE-CROPPED HAIR)
-営 (Furigana),,,,えい
-営 (Meaning),,,,BUSINESS (SALES)
-社 (Furigana),,,,しゃ
-社 (Meaning),,,,COMPANY EXPENSES
-状 (Furigana),,,,じょう
-状 (Meaning),,,,CONDITION (STATE)
-消 (Furigana),,,,しょう
-消 (Meaning),,,,CONSUMPTION (EXPENDITURE)
-防 (Furigana),,,,ぼう
-防 (Meaning),,,,CRIME PREVENTION
-大 (Furigana),,,,たい
-大 (Meaning),,,,CROWD (A LARGE NUMBER)
-脱 (Furigana),,,,だつ
-脱 (Meaning),,,,DIGRESSION (DERAILMENT, BE DERAILED)
-領 (Furigana),,,,りょう
-領 (Meaning),,,,DOMAIN (TERRITORY)
-各 (Furigana),,,,かく
-各 (Meaning),,,,EACH (EVERY, VARIOUS)
-各 (Furigana),,,,かく
-各 (Meaning),,,,EACH (EVERY, RESPECTIVELY)
-各 (Furigana),,,,かく
-各 (Meaning),,,,EACH AREA (VARIOUS AREAS)
-各 (Furigana),,,,かく
-各 (Meaning),,,,EACH PERSON (INDIVIDUAL)
-評 (Furigana),,,,ひょう
-評 (Meaning),,,,EVALUATION (APPRAISAL, VERDICT, VALUATION, ASSESSMENT, RATING)
-費 (Furigana),,,,ひ
-費 (Meaning),,,,EXPENSE (COST)
-経 (Furigana),,,,けい
-経 (Meaning),,,,EXPERIENCED PERSON
-外 (Furigana),,,,がい
-外 (Meaning),,,,EXTERNAL APPEARANCE (OUTWARD APPEARANCE)
-姿 (Furigana),,,,し
+反応 (Furigana),,,,はんのう
+反応 (Meaning),,,,A RESPONSE (RESPONSE, A REACTION, REACTION)
+援助 (Furigana),,,,えんじょ
+援助 (Meaning),,,,ASSISTANCE (AID)
+態度 (Furigana),,,,たいど
+態度 (Meaning),,,,ATTITUDE (MANNER, BEHAVIOR)
+観客 (Furigana),,,,かんきゃく
+観客 (Meaning),,,,AUDIENCE (SPECTATORS)
+赤ん坊 (Furigana),,,,あかんぼう
+赤ん坊 (Meaning),,,,BABY
+不機嫌 (Furigana),,,,ふきげん
+不機嫌 (Meaning),,,,BAD MOOD (GRUMPY, SULLEN)
+罰ゲーム (Furigana),,,,ばつげーむ
+罰ゲーム (Meaning),,,,BATSU GAME (PENALTY GAME)
+誕生 (Furigana),,,,たんじょう
+誕生 (Meaning),,,,BIRTH
+失態 (Furigana),,,,しったい
+失態 (Meaning),,,,BLUNDER (DISGRACE)
+区域 (Furigana),,,,くいき
+区域 (Meaning),,,,BOUNDARY (ZONE)
+坊主 (Furigana),,,,ぼうず
+坊主 (Meaning),,,,BUDDHIST PRIEST (SHAVED HEAD, CLOSE-CROPPED HAIR)
+営業 (Furigana),,,,えいぎょう
+営業 (Meaning),,,,BUSINESS (SALES)
+社費 (Furigana),,,,しゃひ
+社費 (Meaning),,,,COMPANY EXPENSES
+状態 (Furigana),,,,じょうたい
+状態 (Meaning),,,,CONDITION (STATE)
+消費 (Furigana),,,,しょうひ
+消費 (Meaning),,,,CONSUMPTION (EXPENDITURE)
+防犯 (Furigana),,,,ぼうはん
+防犯 (Meaning),,,,CRIME PREVENTION
+大勢 (Furigana),,,,おおぜい
+大勢 (Meaning),,,,CROWD (A LARGE NUMBER)
+脱線 (Furigana),,,,だっせん
+脱線 (Meaning),,,,DIGRESSION (DERAILMENT, BE DERAILED)
+領域 (Furigana),,,,りょういき
+領域 (Meaning),,,,DOMAIN (TERRITORY)
+各々 (Furigana),,,,おのおの
+各々 (Meaning),,,,EACH (EVERY, RESPECTIVELY)
+各〜 (Furigana),,,,かく
+各〜 (Meaning),,,,EACH (EVERY, VARIOUS)
+各地 (Furigana),,,,かくち
+各地 (Meaning),,,,EACH AREA (VARIOUS AREAS)
+各自 (Furigana),,,,かくじ
+各自 (Meaning),,,,EACH PERSON (INDIVIDUAL)
+評価 (Furigana),,,,ひょうか
+評価 (Meaning),,,,EVALUATION (APPRAISAL, VERDICT, VALUATION, ASSESSMENT, RATING)
+費用 (Furigana),,,,ひよう
+費用 (Meaning),,,,EXPENSE (COST)
+経験者 (Furigana),,,,けいけんしゃ
+経験者 (Meaning),,,,EXPERIENCED PERSON
+外観 (Furigana),,,,がいかん
+外観 (Meaning),,,,EXTERNAL APPEARANCE (OUTWARD APPEARANCE)
+姿 (Furigana),,,,すがた
 姿 (Meaning),,,,FIGURE (SHAPE, FORM)
-勢 (Furigana),,,,せい
-勢 (Meaning),,,,FORCE (VIGOR)
-官 (Furigana),,,,かん
-官 (Meaning),,,,GOVERNMENT MANAGEMENT (GOVERNMENT OPERATION, RUN BY THE GOVERNMENT, GOVERNMENT RUN)
-案 (Furigana),,,,あん
-案 (Meaning),,,,GUIDE (INFORMATION, INVITATION)
-大 (Furigana),,,,たい
-大 (Meaning),,,,HATE (REALLY HATE, DETESTABLE)
-高 (Furigana),,,,こう
-高 (Meaning),,,,HIGH BLOOD PRESSURE (HYPERTENSION)
-嫌 (Furigana),,,,けん
-嫌 (Meaning),,,,HURTFUL WORDS (HURTFUL SPEECH, SARCASM, DISAGREEABLENESS)
-観 (Furigana),,,,かん
-観 (Meaning),,,,IDEA (NOTION)
-不 (Furigana),,,,ふ
-不 (Meaning),,,,IMPOSSIBLE (NOT POSSIBLE)
-産 (Furigana),,,,さん
-産 (Meaning),,,,INDUSTRY (HEAVY INDUSTRY)
-勢 (Furigana),,,,せい
-勢 (Meaning),,,,INFLUENCE (FORCE)
-指 (Furigana),,,,し
-指 (Meaning),,,,INSTRUCTIONS (DIRECTIONS, ADVICE)
-対 (Furigana),,,,たい
-対 (Meaning),,,,INTERACTION (CORRESPONDENCE, COPING WITH, DEALING WITH, SUPPORT, SOFTWARE SUPPORT)
-寝 (Furigana),,,,ね
-寝 (Meaning),,,,LACK OF SLEEP
-地 (Furigana),,,,ち
-地 (Meaning),,,,LAND VALUE
-領 (Furigana),,,,りょう
-領 (Meaning),,,,LEADER (BOSS, CHIEF)
-坊 (Furigana),,,,ぼう
-坊 (Meaning),,,,MONK
-昼 (Furigana),,,,ひる
-昼 (Meaning),,,,NAP
-年 (Furigana),,,,ねん
-年 (Meaning),,,,NEW YEAR'S CARD (NEW YEAR'S GREETING CARD)
-脱 (Furigana),,,,だつ
-脱 (Meaning),,,,OMITTED CHARACTER (OMITTED WORD)
-態 (Furigana),,,,たい
-態 (Meaning),,,,ON PURPOSE (DELIBERATELY, INTENTIONALLY)
-機 (Furigana),,,,き
-機 (Meaning),,,,OPPORTUNITY (CHANCE)
-寝 (Furigana),,,,ね
-寝 (Meaning),,,,OVERSLEEPING (LATE RISER)
+勢い (Furigana),,,,いきおい
+勢い (Meaning),,,,FORCE (VIGOR)
+官営 (Furigana),,,,かんえい
+官営 (Meaning),,,,GOVERNMENT MANAGEMENT (GOVERNMENT OPERATION, RUN BY THE GOVERNMENT, GOVERNMENT RUN)
+案内 (Furigana),,,,あんない
+案内 (Meaning),,,,GUIDE (INFORMATION, INVITATION)
+大嫌い (Furigana),,,,だいきらい
+大嫌い (Meaning),,,,HATE (REALLY HATE, DETESTABLE)
+高血圧 (Furigana),,,,こうけつあつ
+高血圧 (Meaning),,,,HIGH BLOOD PRESSURE (HYPERTENSION)
+嫌味 (Furigana),,,,いやみ
+嫌味 (Meaning),,,,HURTFUL WORDS (HURTFUL SPEECH, SARCASM, DISAGREEABLENESS)
+観念 (Furigana),,,,かんねん
+観念 (Meaning),,,,IDEA (NOTION)
+不可能 (Furigana),,,,ふかのう
+不可能 (Meaning),,,,IMPOSSIBLE (NOT POSSIBLE)
+産業 (Furigana),,,,さんぎょう
+産業 (Meaning),,,,INDUSTRY (HEAVY INDUSTRY)
+勢力 (Furigana),,,,せいりょく
+勢力 (Meaning),,,,INFLUENCE (FORCE)
+指示 (Furigana),,,,しじ
+指示 (Meaning),,,,INSTRUCTIONS (DIRECTIONS, ADVICE)
+対応 (Furigana),,,,たいおう
+対応 (Meaning),,,,INTERACTION (CORRESPONDENCE, COPING WITH, DEALING WITH, SUPPORT, SOFTWARE SUPPORT)
+寝不足 (Furigana),,,,ねぶそく
+寝不足 (Meaning),,,,LACK OF SLEEP
+地価 (Furigana),,,,ちか
+地価 (Meaning),,,,LAND VALUE
+領袖 (Furigana),,,,りょうしゅう
+領袖 (Meaning),,,,LEADER (BOSS, CHIEF)
+坊さん (Furigana),,,,ぼうさん
+坊さん (Meaning),,,,MONK
+昼寝 (Furigana),,,,ひるね
+昼寝 (Meaning),,,,NAP
+年賀状 (Furigana),,,,ねんがじょう
+年賀状 (Meaning),,,,NEW YEAR'S CARD (NEW YEAR'S GREETING CARD)
+脱字 (Furigana),,,,だつじ
+脱字 (Meaning),,,,OMITTED CHARACTER (OMITTED WORD)
+態と (Furigana),,,,わざと
+態と (Meaning),,,,ON PURPOSE (DELIBERATELY, INTENTIONALLY)
+機会 (Furigana),,,,きかい
+機会 (Meaning),,,,OPPORTUNITY (CHANCE)
+寝坊 (Furigana),,,,ねぼう
+寝坊 (Meaning),,,,OVERSLEEPING (LATE RISER)
 宮 (Furigana),,,,みや
 宮 (Meaning),,,,PALACE (SHRINE, PRINCE, PRINCESS)
-過 (Furigana),,,,か
-過 (Meaning),,,,PAST (THE PAST)
+過去 (Furigana),,,,かこ
+過去 (Meaning),,,,PAST (THE PAST)
 罰 (Furigana),,,,ばつ
 罰 (Meaning),,,,PENALTY (PUNISHMENT)
-変 (Furigana),,,,へん
-変 (Meaning),,,,PERVERT (ABNORMAL, TRANSFORMATION, METAMORPHOSIS)
-政 (Furigana),,,,せい
-政 (Meaning),,,,POLICY (A POLICY)
-位 (Furigana),,,,い
-位 (Meaning),,,,POSITION (LOCATION, PLACE)
-姿 (Furigana),,,,し
-姿 (Meaning),,,,POSTURE (ATTITUDE)
-提 (Furigana),,,,てい
-提 (Meaning),,,,PRESENTATION (SUBMISSION, FILING, HANDING IN)
-大 (Furigana),,,,たい
-大 (Meaning),,,,PRESIDENT
-価 (Furigana),,,,か
-価 (Meaning),,,,PRICE (VALUE, COST)
-物 (Furigana),,,,ぶつ
-物 (Meaning),,,,PRICES (PRICES OF COMMODITIES, COST OF LIVING)
-私 (Furigana),,,,し
-私 (Meaning),,,,PRIVATE (PRIVATELY RUN, RUN PRIVATELY)
-提 (Furigana),,,,てい
-提 (Meaning),,,,PROPOSITION (PROPOSAL, SUGGESTION)
-公 (Furigana),,,,こう
-公 (Meaning),,,,PUBLIC (GOVERNMENT RUN, RUN BY THE GOVERNMENT)
-公 (Furigana),,,,こう
-公 (Meaning),,,,PUBLIC ANNOUNCEMENT
-受 (Furigana),,,,じゅ
-受 (Meaning),,,,RECEIPT (DOCKET)
-地 (Furigana),,,,ち
-地 (Meaning),,,,REGION (AREA, ZONE)
-諦 (Furigana),,,,あきら
-諦 (Meaning),,,,RESIGNATION
-市 (Furigana),,,,し
-市 (Meaning),,,,RUN BY THE CITY (CITY-RUN)
-県 (Furigana),,,,けん
-県 (Meaning),,,,RUN BY THE PREFECTURE (PREFECTURE RUN, PREFECTURAL)
-副 (Furigana),,,,ふく
-副 (Meaning),,,,SIDE BUSINESS
-観 (Furigana),,,,かん
-観 (Meaning),,,,SIGHTSEEING (TOURISM)
-袖 (Furigana),,,,しゅう
+変態 (Furigana),,,,へんたい
+変態 (Meaning),,,,PERVERT (ABNORMAL, TRANSFORMATION, METAMORPHOSIS)
+政策 (Furigana),,,,せいさく
+政策 (Meaning),,,,POLICY (A POLICY)
+位置 (Furigana),,,,いち
+位置 (Meaning),,,,POSITION (LOCATION, PLACE)
+姿勢 (Furigana),,,,しせい
+姿勢 (Meaning),,,,POSTURE (ATTITUDE)
+提出 (Furigana),,,,ていしゅつ
+提出 (Meaning),,,,PRESENTATION (SUBMISSION, FILING, HANDING IN)
+大統領 (Furigana),,,,だいとうりょう
+大統領 (Meaning),,,,PRESIDENT
+価格 (Furigana),,,,かかく
+価格 (Meaning),,,,PRICE (VALUE, COST)
+物価 (Furigana),,,,ぶっか
+物価 (Meaning),,,,PRICES (PRICES OF COMMODITIES, COST OF LIVING)
+私営 (Furigana),,,,しえい
+私営 (Meaning),,,,PRIVATE (PRIVATELY RUN, RUN PRIVATELY)
+提案 (Furigana),,,,ていあん
+提案 (Meaning),,,,PROPOSITION (PROPOSAL, SUGGESTION)
+公営 (Furigana),,,,こうえい
+公営 (Meaning),,,,PUBLIC (GOVERNMENT RUN, RUN BY THE GOVERNMENT)
+公示 (Furigana),,,,こうじ
+公示 (Meaning),,,,PUBLIC ANNOUNCEMENT
+受領書 (Furigana),,,,じゅりょうしょ
+受領書 (Meaning),,,,RECEIPT (DOCKET)
+地域 (Furigana),,,,ちいき
+地域 (Meaning),,,,REGION (AREA, ZONE)
+諦観 (Furigana),,,,ていかん
+諦観 (Meaning),,,,RESIGNATION
+市営 (Furigana),,,,しえい
+市営 (Meaning),,,,RUN BY THE CITY (CITY-RUN)
+県営 (Furigana),,,,けんえい
+県営 (Meaning),,,,RUN BY THE PREFECTURE (PREFECTURE RUN, PREFECTURAL)
+副業 (Furigana),,,,ふくぎょう
+副業 (Meaning),,,,SIDE BUSINESS
+観光 (Furigana),,,,かんこう
+観光 (Meaning),,,,SIGHTSEEING (TOURISM)
+袖 (Furigana),,,,そで
 袖 (Meaning),,,,SLEEVE
-土 (Furigana),,,,ど
-土 (Meaning),,,,SOUVENIR (PRESENT)
-主 (Furigana),,,,しゅ
-主 (Meaning),,,,SUBJECTIVITY
-副 (Furigana),,,,ふく
-副 (Meaning),,,,SUBTITLE (SUBHEADING)
-応 (Furigana),,,,おう
-応 (Meaning),,,,SUPPORT (ROOT FOR, AID)
-支 (Furigana),,,,し
-支 (Meaning),,,,SUPPORT
-尻 (Furigana),,,,しり
-尻 (Meaning),,,,TAIL
-脱 (Furigana),,,,だつ
-脱 (Meaning),,,,TAX EVASION
-一 (Furigana),,,,いち
-一 (Meaning),,,,TENTATIVELY (FOR NOW, JUST IN CASE)
-領 (Furigana),,,,りょう
-領 (Meaning),,,,TERRITORY
-有 (Furigana),,,,ゆう
-有 (Meaning),,,,THANK YOU (THANKS)
-混 (Furigana),,,,こん
-混 (Meaning),,,,TO BE CROWDED (TO BE PACKED)
-非 (Furigana),,,,ひ
-非 (Meaning),,,,TO CRITICIZE (TO BLAME)
-脱 (Furigana),,,,だつ
-脱 (Meaning),,,,TO ESCAPE (TO FLEE)
-存 (Furigana),,,,そん
-存 (Meaning),,,,TO EXIST
-倒 (Furigana),,,,とう
-倒 (Meaning),,,,TO GET KNOCKED OVER (TO GET KNOCKED DOWN, TO COLLAPSE)
-諦 (Furigana),,,,あきら
-諦 (Meaning),,,,TO GIVE UP (TO ABANDON)
-手 (Furigana),,,,て
-手 (Meaning),,,,TOILET (RESTROOM, BATHROOM, LAVATORY)
-示 (Furigana),,,,じ
-示 (Meaning),,,,TO INDICATE (TO SHOW SOMETHING, TO DEMONSTRATE)
-飛 (Furigana),,,,ひ
-飛 (Meaning),,,,TO LET SOMETHING FLY (TO SEND SOMETHING FLYING, TO SKIP OVER SOMETHING)
-確 (Furigana),,,,かく
-確 (Meaning),,,,TO MAKE SURE OF (TO VERIFY, TO CONFIRM)
-圧 (Furigana),,,,あつ
-圧 (Meaning),,,,TO OVERWHELM
-過 (Furigana),,,,か
-過 (Meaning),,,,TO PASS (TO BE OVER, TO BE TOO MUCH)
-罰 (Furigana),,,,ばつ
-罰 (Meaning),,,,TO PUNISH (TO PENALIZE)
-置 (Furigana),,,,ち
-置 (Meaning),,,,TO PUT DOWN (TO SET DOWN, TO PLACE, TO PUT)
-在 (Furigana),,,,ざい
-在 (Meaning),,,,TO RESIDE (TO STAY, TO REMAIN)
-応 (Furigana),,,,おう
-応 (Meaning),,,,TO RESPOND
-営 (Furigana),,,,えい
-営 (Meaning),,,,TO RUN A BUSINESS (TO MANAGE A BUSINESS)
-震 (Furigana),,,,しん
-震 (Meaning),,,,TO SHAKE (TO SHIVER, TO QUAKE, TO TREMBLE, TO QUAVER, TO QUIVER)
-寝 (Furigana),,,,ね
-寝 (Meaning),,,,TO SLEEP (TO GO TO BED, TO LIE DOWN)
-吸 (Furigana),,,,きゅう
-吸 (Meaning),,,,TO SMOKE (TO SUCK, TO INHALE)
-脱 (Furigana),,,,だつ
-脱 (Meaning),,,,TO UNDRESS (TO TAKE OFF CLOTHES)
-観 (Furigana),,,,かん
-観 (Meaning),,,,TO VIEW (TO WATCH, TO SEE)
-伝 (Furigana),,,,でん
-伝 (Meaning),,,,TRADITION
-面 (Furigana),,,,めん
-面 (Meaning),,,,TROUBLESOME (A BOTHER, ANNOYING)
-案 (Furigana),,,,あん
-案 (Meaning),,,,UNEXPECTEDLY (MORE THAN EXPECTED)
-統 (Furigana),,,,とう
-統 (Meaning),,,,UNIFICATION (INTEGRATION, CONSOLIDATION)
-嫌 (Furigana),,,,けん
-嫌 (Meaning),,,,UNPLEASANT FEELINGS
-価 (Furigana),,,,か
-価 (Meaning),,,,VALUE (WORTH, MERIT)
-価 (Furigana),,,,か
-価 (Meaning),,,,VALUE (PRICE)
-値 (Furigana),,,,ち
+お土産 (Furigana),,,,おみやげ
+お土産 (Meaning),,,,SOUVENIR (PRESENT)
+主観 (Furigana),,,,しゅかん
+主観 (Meaning),,,,SUBJECTIVITY
+副題 (Furigana),,,,ふくだい
+副題 (Meaning),,,,SUBTITLE (SUBHEADING)
+支援 (Furigana),,,,しえん
+支援 (Meaning),,,,SUPPORT
+応援 (Furigana),,,,おうえん
+応援 (Meaning),,,,SUPPORT (ROOT FOR, AID)
+尻尾 (Furigana),,,,しっぽ
+尻尾 (Meaning),,,,TAIL
+脱税 (Furigana),,,,だつぜい
+脱税 (Meaning),,,,TAX EVASION
+一応 (Furigana),,,,いちおう
+一応 (Meaning),,,,TENTATIVELY (FOR NOW, JUST IN CASE)
+領土 (Furigana),,,,りょうど
+領土 (Meaning),,,,TERRITORY
+有り難う (Furigana),,,,ありがとう
+有り難う (Meaning),,,,THANK YOU (THANKS)
+混む (Furigana),,,,こむ
+混む (Meaning),,,,TO BE CROWDED (TO BE PACKED)
+非難する (Furigana),,,,ひなんする
+非難する (Meaning),,,,TO CRITICIZE (TO BLAME)
+脱走する (Furigana),,,,だっそうする
+脱走する (Meaning),,,,TO ESCAPE (TO FLEE)
+存在する (Furigana),,,,そんざいする
+存在する (Meaning),,,,TO EXIST
+倒れる (Furigana),,,,たおれる
+倒れる (Meaning),,,,TO GET KNOCKED OVER (TO GET KNOCKED DOWN, TO COLLAPSE)
+諦める (Furigana),,,,あきらめる
+諦める (Meaning),,,,TO GIVE UP (TO ABANDON)
+お手洗い (Furigana),,,,おてあらい
+お手洗い (Meaning),,,,TOILET (RESTROOM, BATHROOM, LAVATORY)
+示す (Furigana),,,,しめす
+示す (Meaning),,,,TO INDICATE (TO SHOW SOMETHING, TO DEMONSTRATE)
+飛ばす (Furigana),,,,とばす
+飛ばす (Meaning),,,,TO LET SOMETHING FLY (TO SEND SOMETHING FLYING, TO SKIP OVER SOMETHING)
+確かめる (Furigana),,,,たしかめる
+確かめる (Meaning),,,,TO MAKE SURE OF (TO VERIFY, TO CONFIRM)
+圧倒する (Furigana),,,,あっとうする
+圧倒する (Meaning),,,,TO OVERWHELM
+過ぎる (Furigana),,,,すぎる
+過ぎる (Meaning),,,,TO PASS (TO BE OVER, TO BE TOO MUCH)
+罰する (Furigana),,,,ばっする
+罰する (Meaning),,,,TO PUNISH (TO PENALIZE)
+置く (Furigana),,,,おく
+置く (Meaning),,,,TO PUT DOWN (TO SET DOWN, TO PLACE, TO PUT)
+在留する (Furigana),,,,ざいりゅうする
+在留する (Meaning),,,,TO RESIDE (TO STAY, TO REMAIN)
+応じる (Furigana),,,,おうじる
+応じる (Meaning),,,,TO RESPOND
+営む (Furigana),,,,いとなむ
+営む (Meaning),,,,TO RUN A BUSINESS (TO MANAGE A BUSINESS)
+震える (Furigana),,,,ふるえる
+震える (Meaning),,,,TO SHAKE (TO SHIVER, TO QUAKE, TO TREMBLE, TO QUAVER, TO QUIVER)
+寝る (Furigana),,,,ねる
+寝る (Meaning),,,,TO SLEEP (TO GO TO BED, TO LIE DOWN)
+吸う (Furigana),,,,すう
+吸う (Meaning),,,,TO SMOKE (TO SUCK, TO INHALE)
+脱ぐ (Furigana),,,,ぬぐ
+脱ぐ (Meaning),,,,TO UNDRESS (TO TAKE OFF CLOTHES)
+観る (Furigana),,,,みる
+観る (Meaning),,,,TO VIEW (TO WATCH, TO SEE)
+伝統 (Furigana),,,,でんとう
+伝統 (Meaning),,,,TRADITION
+面倒臭い (Furigana),,,,めんどうくさい
+面倒臭い (Meaning),,,,TROUBLESOME (A BOTHER, ANNOYING)
+案外 (Furigana),,,,あんがい
+案外 (Meaning),,,,UNEXPECTEDLY (MORE THAN EXPECTED)
+統合 (Furigana),,,,とうごう
+統合 (Meaning),,,,UNIFICATION (INTEGRATION, CONSOLIDATION)
+嫌悪感 (Furigana),,,,けんおかん
+嫌悪感 (Meaning),,,,UNPLEASANT FEELINGS
+値 (Furigana),,,,ね
 値 (Meaning),,,,VALUE (PRICE)
-被 (Furigana),,,,ひ
-被 (Meaning),,,,VICTIM (VICTIMS)
+価 (Furigana),,,,あたい
+価 (Meaning),,,,VALUE (PRICE)
+価値 (Furigana),,,,かち
+価値 (Meaning),,,,VALUE (WORTH, MERIT)
+被害者 (Furigana),,,,ひがいしゃ
+被害者 (Meaning),,,,VICTIM (VICTIMS)
 藤 (Furigana),,,,ふじ
 藤 (Meaning),,,,WISTERIA

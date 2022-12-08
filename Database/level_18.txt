@@ -60,263 +60,267 @@
 洗 (Meaning),,,,Wash
 禅 (Onyomi),,,,ぜん
 禅 (Meaning),,,,Zen
-予 (Furigana),,,,よ
-予 (Meaning),,,,ADVANCE NOTICE (PRIOR NOTICE, TRAILER, PREVIEW)
-広 (Furigana),,,,ひろ
-広 (Meaning),,,,ADVERTISEMENT (AD, ADVERT)
-笑 (Furigana),,,,わら
-笑 (Meaning),,,,A LAUGH (LAUGH)
-弓 (Furigana),,,,きゅう
-弓 (Meaning),,,,ARCHERY (KYUDO, KYUUDOU)
-取 (Furigana),,,,しゅ
-取 (Meaning),,,,ARRANGEMENT (AGREEMENT)
-黒 (Furigana),,,,こく
-黒 (Meaning),,,,BLACK SMOKE
-借 (Furigana),,,,しゃく
-借 (Meaning),,,,BORROWING (LOAN)
-弓 (Furigana),,,,きゅう
+予告 (Furigana),,,,よこく
+予告 (Meaning),,,,ADVANCE NOTICE (PRIOR NOTICE, TRAILER, PREVIEW)
+広告 (Furigana),,,,こうこく
+広告 (Meaning),,,,ADVERTISEMENT (AD, ADVERT)
+笑い (Furigana),,,,わらい
+笑い (Meaning),,,,A LAUGH (LAUGH)
+弓道 (Furigana),,,,きゅうどう
+弓道 (Meaning),,,,ARCHERY (KYUDO, KYUUDOU)
+取り決め (Furigana),,,,とりきめ
+取り決め (Meaning),,,,ARRANGEMENT (AGREEMENT)
+黒煙 (Furigana),,,,こくえん
+黒煙 (Meaning),,,,BLACK SMOKE
+借用 (Furigana),,,,しゃくよう
+借用 (Meaning),,,,BORROWING (LOAN)
+弓 (Furigana),,,,ゆみ
 弓 (Meaning),,,,BOW
 脳 (Furigana),,,,のう
 脳 (Meaning),,,,BRAIN
-脳 (Furigana),,,,のう
-脳 (Meaning),,,,BRAIN DEATH (BRAIN DEAD)
-脳 (Furigana),,,,のう
-脳 (Meaning),,,,BRAINS (GRAY MATTER)
-洗 (Furigana),,,,せん
-洗 (Meaning),,,,BRAINWASHING
-仏 (Furigana),,,,ぶつ
-仏 (Meaning),,,,BUDDHIST PRIEST
-喫 (Furigana),,,,きつ
-喫 (Meaning),,,,CAFE (TEA HOUSE, COFFEE SHOP, COFFEE HOUSE)
-平 (Furigana),,,,へい
-平 (Meaning),,,,CALM (SERENE, TRANQUIL)
+脳死 (Furigana),,,,のうし
+脳死 (Meaning),,,,BRAIN DEATH (BRAIN DEAD)
+脳みそ (Furigana),,,,のうみそ
+脳みそ (Meaning),,,,BRAINS (GRAY MATTER)
+洗脳 (Furigana),,,,せんのう
+洗脳 (Meaning),,,,BRAINWASHING
+仏僧 (Furigana),,,,ぶっそう
+仏僧 (Meaning),,,,BUDDHIST PRIEST
+喫茶店 (Furigana),,,,きっさてん
+喫茶店 (Meaning),,,,CAFE (TEA HOUSE, COFFEE SHOP, COFFEE HOUSE)
+平静 (Furigana),,,,へいせい
+平静 (Meaning),,,,CALM (SERENE, TRANQUIL)
 飴 (Furigana),,,,あめ
 飴 (Meaning),,,,CANDY (HARD CANDY, SWEETS)
-留 (Furigana),,,,る
-留 (Meaning),,,,CARETAKER (HOUSESITTING, LOOKING AFTER ONE'S HOUSE)
-洗 (Furigana),,,,せん
-洗 (Meaning),,,,CAR WASH
-証 (Furigana),,,,しょう
-証 (Meaning),,,,CERTIFICATE (CREDENTIALS)
-守 (Furigana),,,,す
-守 (Meaning),,,,AMULET (CHARM)
+留守番 (Furigana),,,,るすばん
+留守番 (Meaning),,,,CARETAKER (HOUSESITTING, LOOKING AFTER ONE'S HOUSE)
+洗車 (Furigana),,,,せんしゃ
+洗車 (Meaning),,,,CAR WASH
+証明書 (Furigana),,,,しょうめいしょ
+証明書 (Meaning),,,,CERTIFICATE (CREDENTIALS)
+お守り (Furigana),,,,おまもり
+お守り (Meaning),,,,AMULET (CHARM)
 胸 (Furigana),,,,むね
 胸 (Meaning),,,,CHEST (BREASTS)
-分 (Furigana),,,,ぶん
-分 (Meaning),,,,CLASSIFICATION
-笑 (Furigana),,,,わら
-笑 (Meaning),,,,COMEDY (JOKE, FUNNY STORY)
-文 (Furigana),,,,ぶん
-文 (Meaning),,,,COMPLAINT
-告 (Furigana),,,,こく
-告 (Meaning),,,,CONFESSION
-可 (Furigana),,,,か
-可 (Meaning),,,,CUTE
-借 (Furigana),,,,しゃく
-借 (Meaning),,,,DEBT
-辞 (Furigana),,,,じ
-辞 (Meaning),,,,DICTIONARY FORM
-書 (Furigana),,,,しょ
-書 (Meaning),,,,DOCUMENT
-上 (Furigana),,,,じょう
-上 (Meaning),,,,ELEGANT
-等 (Furigana),,,,とう
-等 (Meaning),,,,EQUAL (THE SAME, EQUIVALENT, SIMILAR)
-対 (Furigana),,,,たい
-対 (Meaning),,,,EQUALITY (EQUAL)
-等 (Furigana),,,,とう
-等 (Meaning),,,,EQUAL SIGN (EQUALS SIGN)
-取 (Furigana),,,,しゅ
-取 (Meaning),,,,ESPECIALLY
-留 (Furigana),,,,る
-留 (Meaning),,,,EXCHANGE STUDENT (INTERNATIONAL STUDENT, FOREIGN STUDENT)
-遠 (Furigana),,,,えん
-遠 (Meaning),,,,FAR AWAY (DISTANT, AT A DISTANCE, DISTANT PLACE, BY FAR)
-一 (Furigana),,,,いち
-一 (Meaning),,,,FIRST CLASS (FIRST RANK, THE BEST)
-五 (Furigana),,,,ご
-五 (Meaning),,,,FIVE FLAT OBJECTS (FIVE SHEETS)
-枚 (Furigana),,,,まい
-枚 (Meaning),,,,FLAT OBJECT (CLOTHING ITEMS, SHEETS, FLAT OBJECT COUNTER)
-禁 (Furigana),,,,きん
-禁 (Meaning),,,,FORBIDDEN (PROHIBITION, BAN)
-予 (Furigana),,,,よ
-予 (Meaning),,,,FORECAST
-金 (Furigana),,,,きん
-金 (Meaning),,,,FRIDAY
-友 (Furigana),,,,ゆう
-友 (Meaning),,,,FRIEND (COMPANION)
-銀 (Furigana),,,,ぎん
-銀 (Meaning),,,,GINZA
-品 (Furigana),,,,ひん
-品 (Meaning),,,,GOODS (ARTICLE, ITEM, THING)
-落 (Furigana),,,,らく
-落 (Meaning),,,,GRAFFITI (SCRIBBLE, SKETCH)
-焼 (Furigana),,,,や
-焼 (Meaning),,,,GRILLED CHICKEN (ROAST CHICKEN, YAKITORI)
-焼 (Furigana),,,,や
-焼 (Meaning),,,,GRILLED MEAT (ROAST MEAT, YAKINIKU)
-手 (Furigana),,,,て
-手 (Meaning),,,,HAND BAGGAGE (HAND LUGGAGE, CABIN BAGGAGE, CARRY ON)
-幸 (Furigana),,,,こう
-幸 (Meaning),,,,HAPPINESS (LUCK, FORTUNE)
-高 (Furigana),,,,こう
-高 (Meaning),,,,HIGH CLASS (HIGH GRADE)
-何 (Furigana),,,,なに
-何 (Meaning),,,,HOW MANY FLAT OBJECTS (HOW MANY SHEETS)
-不 (Furigana),,,,ふ
-不 (Meaning),,,,INDISPENSABLE (ESSENTIAL)
-不 (Furigana),,,,ふ
-不 (Meaning),,,,INEQUALITY (UNEQUAL)
-情 (Furigana),,,,じょう
-情 (Meaning),,,,INFORMATION (DATA)
-関 (Furigana),,,,かん
-関 (Meaning),,,,KANSAI DIALECT
-種 (Furigana),,,,しゅ
-種 (Meaning),,,,KIND (TYPE, SORT)
-叩 (Furigana),,,,こう
-叩 (Meaning),,,,KOWTOW
-訓 (Furigana),,,,くん
-訓 (Meaning),,,,KUN'YOMI (KUN READING, JAPANESE READING)
-喉 (Furigana),,,,こう
-喉 (Meaning),,,,LARYNX (VOICE BOX)
-教 (Furigana),,,,きょう
-教 (Meaning),,,,LESSON (MORAL, TEACHINGS)
-子 (Furigana),,,,し
-子 (Meaning),,,,LULLABY
-人 (Furigana),,,,にん
-人 (Meaning),,,,MANKIND (HUMANITY, HUMANKIND)
-達 (Furigana),,,,たつ
-達 (Meaning),,,,MASTER (EXPERT)
-月 (Furigana),,,,げつ
-月 (Meaning),,,,MONDAY
-報 (Furigana),,,,ほう
-報 (Meaning),,,,NEWS REPORT
-禁 (Furigana),,,,きん
-禁 (Meaning),,,,NO SMOKING
-枚 (Furigana),,,,まい
-枚 (Meaning),,,,NUMBER OF SHEETS (NUMBER OF FLAT OBJECTS)
-大 (Furigana),,,,たい
-大 (Meaning),,,,OSAKA DIALECT
-書 (Furigana),,,,しょ
-書 (Meaning),,,,PENMANSHIP (WAY OF WRITING, MANNER OF WRITING)
-許 (Furigana),,,,きょ
-許 (Meaning),,,,PERMISSION
-達 (Furigana),,,,たつ
-達 (Meaning),,,,PLURALIZING SUFFIX
-可 (Furigana),,,,か
-可 (Meaning),,,,POSSIBLE
-葉 (Furigana),,,,は
-葉 (Meaning),,,,POSTCARD
-祈 (Furigana),,,,き
-祈 (Meaning),,,,PRAYER (A PRAYER)
-祈 (Furigana),,,,き
-祈 (Meaning),,,,PRAYER (A PRAYER)
-静 (Furigana),,,,せい
-静 (Meaning),,,,QUIET
-人 (Furigana),,,,にん
-人 (Meaning),,,,RACE OF PEOPLE (RACE)
-洗 (Furigana),,,,せん
-洗 (Meaning),,,,REFINEMENT (POLISH)
-親 (Furigana),,,,しん
-親 (Meaning),,,,RELATIVES
-借 (Furigana),,,,しゃく
-借 (Meaning),,,,RENTING A HOUSE (HOUSE FOR RENT, RENTED HOUSE)
-報 (Furigana),,,,ほう
-報 (Meaning),,,,REPORT (INFORMATION)
-下 (Furigana),,,,か
-下 (Meaning),,,,ROUGH DRAFT
-大 (Furigana),,,,たい
-大 (Meaning),,,,SAFE (ALL RIGHT, OKAY)
-土 (Furigana),,,,ど
-土 (Meaning),,,,SATURDAY
-座 (Furigana),,,,ざ
-座 (Meaning),,,,SEAT
-正 (Furigana),,,,せい
-正 (Meaning),,,,SEIZA (TRADITIONAL JAPANESE SITTING)
-煙 (Furigana),,,,えん
+分類 (Furigana),,,,ぶんるい
+分類 (Meaning),,,,CLASSIFICATION
+お笑い (Furigana),,,,おわらい
+お笑い (Meaning),,,,COMEDY (JOKE, FUNNY STORY)
+文句 (Furigana),,,,もんく
+文句 (Meaning),,,,COMPLAINT
+告白 (Furigana),,,,こくはく
+告白 (Meaning),,,,CONFESSION
+可愛い (Furigana),,,,かわいい
+可愛い (Meaning),,,,CUTE
+借金 (Furigana),,,,しゃっきん
+借金 (Meaning),,,,DEBT
+辞書形 (Furigana),,,,じしょけい
+辞書形 (Meaning),,,,DICTIONARY FORM
+書類 (Furigana),,,,しょるい
+書類 (Meaning),,,,DOCUMENT
+上品 (Furigana),,,,じょうひん
+上品 (Meaning),,,,ELEGANT
+等しい (Furigana),,,,ひとしい
+等しい (Meaning),,,,EQUAL (THE SAME, EQUIVALENT, SIMILAR)
+対等 (Furigana),,,,たいとう
+対等 (Meaning),,,,EQUALITY (EQUAL)
+等号 (Furigana),,,,とうごう
+等号 (Meaning),,,,EQUAL SIGN (EQUALS SIGN)
+取り分け (Furigana),,,,とりわけ
+取り分け (Meaning),,,,ESPECIALLY
+留学生 (Furigana),,,,りゅうがくせい
+留学生 (Meaning),,,,EXCHANGE STUDENT (INTERNATIONAL STUDENT, FOREIGN STUDENT)
+遠く (Furigana),,,,とおく
+遠く (Meaning),,,,FAR AWAY (DISTANT, AT A DISTANCE, DISTANT PLACE, BY FAR)
+一等 (Furigana),,,,いっとう
+一等 (Meaning),,,,FIRST CLASS (FIRST RANK, THE BEST)
+初恋 (Furigana),,,,はつこい
+初恋 (Meaning),,,,FIRST LOVE (FIRST CRUSH)
+五枚 (Furigana),,,,ごまい
+五枚 (Meaning),,,,FIVE FLAT OBJECTS (FIVE SHEETS)
+〜枚 (Furigana),,,,まい
+〜枚 (Meaning),,,,FLAT OBJECT (CLOTHING ITEMS, SHEETS, FLAT OBJECT COUNTER)
+禁止 (Furigana),,,,きんし
+禁止 (Meaning),,,,FORBIDDEN (PROHIBITION, BAN)
+予報 (Furigana),,,,よほう
+予報 (Meaning),,,,FORECAST
+金曜日 (Furigana),,,,きんようび
+金曜日 (Meaning),,,,FRIDAY
+友達 (Furigana),,,,ともだち
+友達 (Meaning),,,,FRIEND (COMPANION)
+銀座 (Furigana),,,,ぎんざ
+銀座 (Meaning),,,,GINZA
+品物 (Furigana),,,,しなもの
+品物 (Meaning),,,,GOODS (ARTICLE, ITEM, THING)
+落書き (Furigana),,,,らくがき
+落書き (Meaning),,,,GRAFFITI (SCRIBBLE, SKETCH)
+焼き鳥 (Furigana),,,,やきとり
+焼き鳥 (Meaning),,,,GRILLED CHICKEN (ROAST CHICKEN, YAKITORI)
+焼き肉 (Furigana),,,,やきにく
+焼き肉 (Meaning),,,,GRILLED MEAT (ROAST MEAT, YAKINIKU)
+手荷物 (Furigana),,,,てにもつ
+手荷物 (Meaning),,,,HAND BAGGAGE (HAND LUGGAGE, CABIN BAGGAGE, CARRY ON)
+幸い (Furigana),,,,さいわい
+幸い (Meaning),,,,HAPPINESS (LUCK, FORTUNE)
+高等 (Furigana),,,,こうとう
+高等 (Meaning),,,,HIGH CLASS (HIGH GRADE)
+何枚 (Furigana),,,,なんまい
+何枚 (Meaning),,,,HOW MANY FLAT OBJECTS (HOW MANY SHEETS)
+不可欠 (Furigana),,,,ふかけつ
+不可欠 (Meaning),,,,INDISPENSABLE (ESSENTIAL)
+不等 (Furigana),,,,ふとう
+不等 (Meaning),,,,INEQUALITY (UNEQUAL)
+情報 (Furigana),,,,じょうほう
+情報 (Meaning),,,,INFORMATION (DATA)
+関西弁 (Furigana),,,,かんさいべん
+関西弁 (Meaning),,,,KANSAI DIALECT
+種類 (Furigana),,,,しゅるい
+種類 (Meaning),,,,KIND (TYPE, SORT)
+叩頭 (Furigana),,,,こうとう
+叩頭 (Meaning),,,,KOWTOW
+訓読み (Furigana),,,,くんよみ
+訓読み (Meaning),,,,KUN'YOMI (KUN READING, JAPANESE READING)
+喉頭 (Furigana),,,,こうとう
+喉頭 (Meaning),,,,LARYNX (VOICE BOX)
+教訓 (Furigana),,,,きょうくん
+教訓 (Meaning),,,,LESSON (MORAL, TEACHINGS)
+子守歌 (Furigana),,,,こもりうた
+子守歌 (Meaning),,,,LULLABY
+人類 (Furigana),,,,じんるい
+人類 (Meaning),,,,MANKIND (HUMANITY, HUMANKIND)
+達人 (Furigana),,,,たつじん
+達人 (Meaning),,,,MASTER (EXPERT)
+月曜日 (Furigana),,,,げつようび
+月曜日 (Meaning),,,,MONDAY
+報道 (Furigana),,,,ほうどう
+報道 (Meaning),,,,NEWS REPORT
+禁煙 (Furigana),,,,きんえん
+禁煙 (Meaning),,,,NO SMOKING
+枚数 (Furigana),,,,まいすう
+枚数 (Meaning),,,,NUMBER OF SHEETS (NUMBER OF FLAT OBJECTS)
+大阪弁 (Furigana),,,,おおさかべん
+大阪弁 (Meaning),,,,OSAKA DIALECT
+書き方 (Furigana),,,,かきかた
+書き方 (Meaning),,,,PENMANSHIP (WAY OF WRITING, MANNER OF WRITING)
+許可 (Furigana),,,,きょか
+許可 (Meaning),,,,PERMISSION
+〜達 (Furigana),,,,たち
+〜達 (Meaning),,,,PLURALIZING SUFFIX
+可能 (Furigana),,,,かのう
+可能 (Meaning),,,,POSSIBLE
+葉書 (Furigana),,,,はがき
+葉書 (Meaning),,,,POSTCARD
+祈願 (Furigana),,,,きがん
+祈願 (Meaning),,,,PRAYER (A PRAYER)
+祈念 (Furigana),,,,きねん
+祈念 (Meaning),,,,PRAYER (A PRAYER)
+静か (Furigana),,,,しずか
+静か (Meaning),,,,QUIET
+人種 (Furigana),,,,じんしゅ
+人種 (Meaning),,,,RACE OF PEOPLE (RACE)
+洗練 (Furigana),,,,せんれん
+洗練 (Meaning),,,,REFINEMENT (POLISH)
+親類 (Furigana),,,,しんるい
+親類 (Meaning),,,,RELATIVES
+借家 (Furigana),,,,しゃくや
+借家 (Meaning),,,,RENTING A HOUSE (HOUSE FOR RENT, RENTED HOUSE)
+報告 (Furigana),,,,ほうこく
+報告 (Meaning),,,,REPORT (INFORMATION)
+下書き (Furigana),,,,したがき
+下書き (Meaning),,,,ROUGH DRAFT
+大丈夫 (Furigana),,,,だいじょうぶ
+大丈夫 (Meaning),,,,SAFE (ALL RIGHT, OKAY)
+土曜日 (Furigana),,,,どようび
+土曜日 (Meaning),,,,SATURDAY
+座席 (Furigana),,,,ざせき
+座席 (Meaning),,,,SEAT
+正座 (Furigana),,,,せいざ
+正座 (Meaning),,,,SEIZA (TRADITIONAL JAPANESE SITTING)
+煙 (Furigana),,,,けむり
 煙 (Meaning),,,,SMOKE
-喫 (Furigana),,,,きつ
-喫 (Meaning),,,,SMOKING
-汽 (Furigana),,,,き
-汽 (Meaning),,,,STEAM SHIP (STEAM BOAT)
-汽 (Furigana),,,,き
-汽 (Meaning),,,,STEAM TRAIN (STEAM ENGINE TRAIN, STEAM ENGINE)
-静 (Furigana),,,,せい
-静 (Meaning),,,,STILL (STANDSTILL, AT REST, STATIONARY)
-飴 (Furigana),,,,あめ
-飴 (Meaning),,,,SUGAR SCULPTURE (CANDY SCULPTURE, SUGAR ANIMAL)
-日 (Furigana),,,,にち
-日 (Meaning),,,,SUNBURN (SUNTAN, TAN)
-日 (Furigana),,,,にち
-日 (Meaning),,,,SUNDAY
-夕 (Furigana),,,,ゆう
-夕 (Meaning),,,,SUNSET (EVENING GLOW)
-禁 (Furigana),,,,きん
-禁 (Meaning),,,,TABOO WORD (TABOO PHRASE, DIRTY WORD, BAD WORD)
-僧 (Furigana),,,,そう
-僧 (Meaning),,,,TEMPLE (MONASTERY)
-喉 (Furigana),,,,こう
+喫煙 (Furigana),,,,きつえん
+喫煙 (Meaning),,,,SMOKING
+汽船 (Furigana),,,,きせん
+汽船 (Meaning),,,,STEAM SHIP (STEAM BOAT)
+汽車 (Furigana),,,,きしゃ
+汽車 (Meaning),,,,STEAM TRAIN (STEAM ENGINE TRAIN, STEAM ENGINE)
+静止 (Furigana),,,,せいし
+静止 (Meaning),,,,STILL (STANDSTILL, AT REST, STATIONARY)
+飴細工 (Furigana),,,,あめざいく
+飴細工 (Meaning),,,,SUGAR SCULPTURE (CANDY SCULPTURE, SUGAR ANIMAL)
+日焼け (Furigana),,,,ひやけ
+日焼け (Meaning),,,,SUNBURN (SUNTAN, TAN)
+日曜日 (Furigana),,,,にちようび
+日曜日 (Meaning),,,,SUNDAY
+夕焼け (Furigana),,,,ゆうやけ
+夕焼け (Meaning),,,,SUNSET (EVENING GLOW)
+禁句 (Furigana),,,,きんく
+禁句 (Meaning),,,,TABOO WORD (TABOO PHRASE, DIRTY WORD, BAD WORD)
+僧院 (Furigana),,,,そういん
+僧院 (Meaning),,,,TEMPLE (MONASTERY)
+喉 (Furigana),,,,のど
 喉 (Meaning),,,,THROAT
-木 (Furigana),,,,もく
-木 (Meaning),,,,THURSDAY
-告 (Furigana),,,,こく
-告 (Meaning),,,,TO ANNOUNCE (TO TELL)
-達 (Furigana),,,,たつ
-達 (Meaning),,,,TO ATTAIN (TO REACH, TO GET TO, TO ARRIVE AT)
-焼 (Furigana),,,,や
-焼 (Meaning),,,,TO BAKE (TO COOK, TO GRILL, TO BURN, TO FRY)
-借 (Furigana),,,,しゃく
-借 (Meaning),,,,TO BORROW
-苛 (Furigana),,,,いじ
-苛 (Meaning),,,,TO BULLY (TO PICK ON, TO TEASE, TO TORMENT)
-切 (Furigana),,,,せつ
-切 (Meaning),,,,TO CUT OFF (TO CUT OUT, TO CLIP)
-配 (Furigana),,,,はい
-配 (Meaning),,,,TO DELIVER
-忘 (Furigana),,,,ぼう
-忘 (Meaning),,,,TO FORGET
-治 (Furigana),,,,じ
-治 (Meaning),,,,TO GET BETTER (TO GET WELL, TO HEAL)
-固 (Furigana),,,,こ
-固 (Meaning),,,,TO HARDEN (TO SOLIDIFY, TO BECOME FIRM, TO BECOME CERTAIN)
-許 (Furigana),,,,きょ
-許 (Meaning),,,,TO PERMIT (TO FORGIVE, TO ALLOW)
-取 (Furigana),,,,しゅ
-取 (Meaning),,,,TO PICK OUT (TO TAKE OUT)
-祈 (Furigana),,,,き
-祈 (Meaning),,,,TO PRAY FOR
-禁 (Furigana),,,,きん
-禁 (Meaning),,,,TO PROHIBIT (TO FORBID)
-報 (Furigana),,,,ほう
-報 (Meaning),,,,TO REPORT ON
-書 (Furigana),,,,しょ
-書 (Meaning),,,,TO REWRITE
-座 (Furigana),,,,ざ
-座 (Meaning),,,,TO SIT
-叩 (Furigana),,,,こう
-叩 (Meaning),,,,TO STRIKE (TO TAP, TO HIT, TO KNOCK, TO BEAT)
-洗 (Furigana),,,,せん
-洗 (Meaning),,,,TO WASH
-書 (Furigana),,,,しょ
-書 (Meaning),,,,TO WRITE IN (TO FILL IN)
-訓 (Furigana),,,,くん
-訓 (Meaning),,,,TRAINING (PRACTICE)
-駅 (Furigana),,,,えき
-駅 (Meaning),,,,TRAIN STATION BENTO (STATION BENTO)
-伝 (Furigana),,,,でん
-伝 (Meaning),,,,TRANSMISSION (TRANSMIT, CONVEY)
-火 (Furigana),,,,か
-火 (Meaning),,,,TUESDAY
-警 (Furigana),,,,けい
-警 (Meaning),,,,WARNING (ADVICE, CAUTION)
-水 (Furigana),,,,すい
-水 (Meaning),,,,WEDNESDAY
-忘 (Furigana),,,,ぼう
-忘 (Meaning),,,,YEAR END PARTY (END OF YEAR PARTY)
-座 (Furigana),,,,ざ
-座 (Meaning),,,,ZEN MEDITATION (ZAZEN)
-禅 (Furigana),,,,ぜん
-禅 (Meaning),,,,ZEN PRIEST
-禅 (Furigana),,,,ぜん
-禅 (Meaning),,,,ZEN TEMPLE
+木曜日 (Furigana),,,,もくようび
+木曜日 (Meaning),,,,THURSDAY
+告げる (Furigana),,,,つげる
+告げる (Meaning),,,,TO ANNOUNCE (TO TELL)
+達する (Furigana),,,,たっする
+達する (Meaning),,,,TO ATTAIN (TO REACH, TO GET TO, TO ARRIVE AT)
+焼く (Furigana),,,,やく
+焼く (Meaning),,,,TO BAKE (TO COOK, TO GRILL, TO BURN, TO FRY)
+関わる (Furigana),,,,かかわる
+関わる (Meaning),,,,TO BE INVOLVED (TO BE RELATED, TO BE CONNECTED)
+借りる (Furigana),,,,かりる
+借りる (Meaning),,,,TO BORROW
+苛める (Furigana),,,,いじめる
+苛める (Meaning),,,,TO BULLY (TO PICK ON, TO TEASE, TO TORMENT)
+切り取る (Furigana),,,,きりとる
+切り取る (Meaning),,,,TO CUT OFF (TO CUT OUT, TO CLIP)
+配達する (Furigana),,,,はいたつする
+配達する (Meaning),,,,TO DELIVER
+忘れる (Furigana),,,,わすれる
+忘れる (Meaning),,,,TO FORGET
+治る (Furigana),,,,なおる
+治る (Meaning),,,,TO GET BETTER (TO GET WELL, TO HEAL)
+固まる (Furigana),,,,かたまる
+固まる (Meaning),,,,TO HARDEN (TO SOLIDIFY, TO BECOME FIRM, TO BECOME CERTAIN)
+許す (Furigana),,,,ゆるす
+許す (Meaning),,,,TO PERMIT (TO FORGIVE, TO ALLOW)
+取り出す (Furigana),,,,とりだす
+取り出す (Meaning),,,,TO PICK OUT (TO TAKE OUT)
+祈る (Furigana),,,,いのる
+祈る (Meaning),,,,TO PRAY FOR
+禁じる (Furigana),,,,きんじる
+禁じる (Meaning),,,,TO PROHIBIT (TO FORBID)
+報じる (Furigana),,,,ほうじる
+報じる (Meaning),,,,TO REPORT ON
+書き直す (Furigana),,,,かきなおす
+書き直す (Meaning),,,,TO REWRITE
+座る (Furigana),,,,すわる
+座る (Meaning),,,,TO SIT
+叩く (Furigana),,,,たたく
+叩く (Meaning),,,,TO STRIKE (TO TAP, TO HIT, TO KNOCK, TO BEAT)
+洗う (Furigana),,,,あらう
+洗う (Meaning),,,,TO WASH
+書き入れる (Furigana),,,,かきいれる
+書き入れる (Meaning),,,,TO WRITE IN (TO FILL IN)
+訓練 (Furigana),,,,くんれん
+訓練 (Meaning),,,,TRAINING (PRACTICE)
+駅弁 (Furigana),,,,えきべん
+駅弁 (Meaning),,,,TRAIN STATION BENTO (STATION BENTO)
+伝達 (Furigana),,,,でんたつ
+伝達 (Meaning),,,,TRANSMISSION (TRANSMIT, CONVEY)
+火曜日 (Furigana),,,,かようび
+火曜日 (Meaning),,,,TUESDAY
+警告 (Furigana),,,,けいこく
+警告 (Meaning),,,,WARNING (ADVICE, CAUTION)
+水曜日 (Furigana),,,,すいようび
+水曜日 (Meaning),,,,WEDNESDAY
+忘年会 (Furigana),,,,ぼうねんかい
+忘年会 (Meaning),,,,YEAR END PARTY (END OF YEAR PARTY)
+座禅 (Furigana),,,,ざぜん
+座禅 (Meaning),,,,ZEN MEDITATION (ZAZEN)
+禅僧 (Furigana),,,,ぜんそう
+禅僧 (Meaning),,,,ZEN PRIEST
+禅寺 (Furigana),,,,ぜんでら
+禅寺 (Meaning),,,,ZEN TEMPLE

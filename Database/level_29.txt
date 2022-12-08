@@ -64,225 +64,227 @@
 促 (Meaning),,,,Urge
 烈 (Onyomi),,,,れつ
 烈 (Meaning),,,,Violent
-省 (Furigana),,,,しょう
-省 (Meaning),,,,ABBREVIATION (OMISSION, ABBREVIATE, LEAVE OUT)
-略 (Furigana),,,,りゃく
-略 (Meaning),,,,ABBREVIATION
-板 (Furigana),,,,はん
+省略 (Furigana),,,,しょうりゃく
+省略 (Meaning),,,,ABBREVIATION (OMISSION, ABBREVIATE, LEAVE OUT)
+略語 (Furigana),,,,りゃくご
+略語 (Meaning),,,,ABBREVIATION
+板 (Furigana),,,,いた
 板 (Meaning),,,,A BOARD (BOARD, A PLANK, PLANK)
-怒 (Furigana),,,,ど
-怒 (Meaning),,,,ANGER (FIT OF ANGER)
-怒 (Furigana),,,,ど
-怒 (Meaning),,,,ANGER (WRATH)
-痛 (Furigana),,,,つう
-痛 (Meaning),,,,A PAIN (PAIN)
-面 (Furigana),,,,めん
-面 (Meaning),,,,AREA
-添 (Furigana),,,,てん
-添 (Meaning),,,,ATTACHMENT
-航 (Furigana),,,,こう
-航 (Meaning),,,,AVIATION (FLIGHT)
-宴 (Furigana),,,,えん
-宴 (Meaning),,,,BANQUET (DINNER PARTY)
-宴 (Furigana),,,,えん
+怒り (Furigana),,,,いかり
+怒り (Meaning),,,,ANGER (WRATH)
+怒気 (Furigana),,,,どき
+怒気 (Meaning),,,,ANGER (FIT OF ANGER)
+痛み (Furigana),,,,いたみ
+痛み (Meaning),,,,A PAIN (PAIN)
+面積 (Furigana),,,,めんせき
+面積 (Meaning),,,,AREA
+添付 (Furigana),,,,てんぷ
+添付 (Meaning),,,,ATTACHMENT
+航空 (Furigana),,,,こうくう
+航空 (Meaning),,,,AVIATION (FLIGHT)
+宴会 (Furigana),,,,えんかい
+宴会 (Meaning),,,,BANQUET (DINNER PARTY)
+宴 (Furigana),,,,うたげ
 宴 (Meaning),,,,BANQUET (DINNER PARTY, PARTY, FEAST)
-腹 (Furigana),,,,ふく
-腹 (Meaning),,,,BELLY (STOMACH, ABDOMEN)
-黒 (Furigana),,,,こく
-黒 (Meaning),,,,BLACKBOARD
-官 (Furigana),,,,かん
-官 (Meaning),,,,BUREAUCRAT (BUREAUCRACY)
-閣 (Furigana),,,,かく
-閣 (Meaning),,,,CABINET MEETING
-閣 (Furigana),,,,かく
-閣 (Meaning),,,,CABINET MINISTERS
-中 (Furigana),,,,ちゅう
-中 (Meaning),,,,CENTRAL EUROPE
-織 (Furigana),,,,しき
-織 (Meaning),,,,CLOTH (FABRIC)
-倒 (Furigana),,,,とう
-倒 (Meaning),,,,COLLAPSE (DESTRUCTION, CRUMBLING)
-同 (Furigana),,,,どう
-同 (Meaning),,,,COLLEAGUE (COWORKER)
-全 (Furigana),,,,ぜん
-全 (Meaning),,,,COMPLETE DESTRUCTION (TOTAL DESTRUCTION)
-寄 (Furigana),,,,き
-寄 (Meaning),,,,CONTRIBUTION (DONATION)
-寄 (Furigana),,,,き
-寄 (Meaning),,,,CONTRIBUTION (SERVICE)
-好 (Furigana),,,,こう
-好 (Meaning),,,,CURIOSITY
+お腹 (Furigana),,,,おなか
+お腹 (Meaning),,,,BELLY (STOMACH, ABDOMEN)
+黒板 (Furigana),,,,こくばん
+黒板 (Meaning),,,,BLACKBOARD
+官僚 (Furigana),,,,かんりょう
+官僚 (Meaning),,,,BUREAUCRAT (BUREAUCRACY)
+閣議 (Furigana),,,,かくぎ
+閣議 (Meaning),,,,CABINET MEETING
+閣僚 (Furigana),,,,かくりょう
+閣僚 (Meaning),,,,CABINET MINISTERS
+中欧 (Furigana),,,,ちゅうおう
+中欧 (Meaning),,,,CENTRAL EUROPE
+織物 (Furigana),,,,おりもの
+織物 (Meaning),,,,CLOTH (FABRIC)
+倒壊 (Furigana),,,,とうかい
+倒壊 (Meaning),,,,COLLAPSE (DESTRUCTION, CRUMBLING)
+同僚 (Furigana),,,,どうりょう
+同僚 (Meaning),,,,COLLEAGUE (COWORKER)
+全壊 (Furigana),,,,ぜんかい
+全壊 (Meaning),,,,COMPLETE DESTRUCTION (TOTAL DESTRUCTION)
+寄与 (Furigana),,,,きよ
+寄与 (Meaning),,,,CONTRIBUTION (SERVICE)
+寄付 (Furigana),,,,きふ
+寄付 (Meaning),,,,CONTRIBUTION (DONATION)
+好奇心 (Furigana),,,,こうきしん
+好奇心 (Meaning),,,,CURIOSITY
 娘 (Furigana),,,,むすめ
 娘 (Meaning),,,,DAUGHTER
-締 (Furigana),,,,てい
-締 (Meaning),,,,DEADLINE (CLOSING DATE)
-要 (Furigana),,,,よう
-要 (Meaning),,,,DEMAND (REQUEST)
-請 (Furigana),,,,せい
-請 (Meaning),,,,DEMAND (CLAIM, REQUEST, CHARGE)
-診 (Furigana),,,,しん
-診 (Meaning),,,,DIAGNOSIS
-乾 (Furigana),,,,かん
-乾 (Meaning),,,,DRY SEASON
-江 (Furigana),,,,え
-江 (Meaning),,,,EDO (TOKYO)
-欧 (Furigana),,,,おう
-欧 (Meaning),,,,EUROPE AND AMERICA (EUROPE AND USA, THE WEST)
-日 (Furigana),,,,にち
-日 (Meaning),,,,EUROPE AND JAPAN (JAPAN AND EUROPE)
-極 (Furigana),,,,きょく
-極 (Meaning),,,,EXTREMELY
-猛 (Furigana),,,,もう
-猛 (Meaning),,,,FIERCE (VIOLENT, INTENSE)
-猛 (Furigana),,,,もう
-猛 (Meaning),,,,FIERCE (ENERGETIC)
-腹 (Furigana),,,,ふく
-腹 (Meaning),,,,HARAKIRI (RITUAL SUICIDE)
-英 (Furigana),,,,えい
-英 (Meaning),,,,HERO
-迷 (Furigana),,,,めい
-迷 (Meaning),,,,HESITATION (INDECISION, DOUBT)
-街 (Furigana),,,,がい
-街 (Meaning),,,,HIGHWAY (MOTORWAY)
-腹 (Furigana),,,,ふく
-腹 (Meaning),,,,HUNGRY
-熱 (Furigana),,,,ねつ
-熱 (Meaning),,,,IMPASSIONED (PASSIONATE ENTHUSIASM, PASSIONATE, VEHEMENT)
-索 (Furigana),,,,さく
-索 (Meaning),,,,INDEX
-入 (Furigana),,,,にゅう
-入 (Meaning),,,,INLET (COVE)
-日 (Furigana),,,,にち
-日 (Meaning),,,,JAPAN AND SOUTH KOREA (SOUTH KOREA AND JAPAN, JAPAN AND KOREA, KOREA AND JAPAN)
-乾 (Furigana),,,,かん
-乾 (Meaning),,,,KANPAI (TOAST, CHEERS)
-検 (Furigana),,,,けん
-検 (Meaning),,,,LOOKUP (INTERNET SEARCH)
-診 (Furigana),,,,しん
-診 (Meaning),,,,MEDICAL EXAM (MEDICAL EXAMINATION)
-大 (Furigana),,,,たい
-大 (Meaning),,,,MINISTER (CABINET MEMBER)
-居 (Furigana),,,,きょ
-居 (Meaning),,,,NAP (DOZE, DOZING, NODDING OFF, DOZING OFF)
-航 (Furigana),,,,こう
-航 (Meaning),,,,NAVIGATION
-直 (Furigana),,,,ちょく
-直 (Meaning),,,,NONSTOP FLIGHT (DIRECT VOYAGE)
-催 (Furigana),,,,さい
-催 (Meaning),,,,NOTIFICATION
-監 (Furigana),,,,かん
-監 (Meaning),,,,OBSERVATION (MONITOR, KEEP WATCH OVER, SURVEILLANCE)
-奇 (Furigana),,,,き
-奇 (Meaning),,,,ODD NUMBER
-一 (Furigana),,,,いち
-一 (Meaning),,,,ONE CUP (A DRINK, FULL, A LOT)
-一 (Furigana),,,,いち
-一 (Meaning),,,,ONLY DAUGHTER
-痛 (Furigana),,,,つう
-痛 (Meaning),,,,PAINKILLER
-乗 (Furigana),,,,の
-乗 (Meaning),,,,PASSENGER TICKET (TICKET)
-請 (Furigana),,,,せい
-請 (Meaning),,,,PETITION
-恐 (Furigana),,,,きょう
-恐 (Meaning),,,,PHOBIA
-綺 (Furigana),,,,き
-綺 (Meaning),,,,PRETTY (BEAUTIFUL, CLEAN)
-宗 (Furigana),,,,しゅう
-宗 (Meaning),,,,RELIGION
-貸 (Furigana),,,,か
-貸 (Meaning),,,,RENTAL
-略 (Furigana),,,,りゃく
-略 (Meaning),,,,ROUGH SKETCH (ROUGH MAP)
-怖 (Furigana),,,,ふ
-怖 (Meaning),,,,SCARY
-恐 (Furigana),,,,きょう
-恐 (Meaning),,,,SCARY (FEARFUL)
-捜 (Furigana),,,,そう
-捜 (Meaning),,,,SEARCH (INVESTIGATION)
-宗 (Furigana),,,,しゅう
-宗 (Meaning),,,,SECT (DENOMINATION)
-商 (Furigana),,,,しょう
-商 (Meaning),,,,SHOPPING DISTRICT
-招 (Furigana),,,,しょう
-招 (Meaning),,,,SHOP WINDOW CAT (BECKONING CAT, MANEKI NEKO)
-眠 (Furigana),,,,みん
-眠 (Meaning),,,,SLEEPING PILLS (SLEEPING DRUGS, SLEEPING MEDICINE)
-睡 (Furigana),,,,すい
-睡 (Meaning),,,,SLEEPING PILLS (SLEEPING DRUGS, SLEEPING MEDICINE)
-韓 (Furigana),,,,かん
-韓 (Meaning),,,,SOUTH KOREA (KOREA)
-迷 (Furigana),,,,めい
-迷 (Meaning),,,,SPAM (SPAM MAIL, JUNK MAIL, UNSOLICITED MAIL)
-主 (Furigana),,,,しゅ
-主 (Meaning),,,,SPONSORSHIP (PROMOTION)
-看 (Furigana),,,,かん
-看 (Meaning),,,,STORE SIGN
-奇 (Furigana),,,,き
-奇 (Meaning),,,,STRANGE (CURIOUS, ODD)
-緊 (Furigana),,,,きん
-緊 (Meaning),,,,STRESS (TENSION, NERVOUS)
-強 (Furigana),,,,きょう
-強 (Meaning),,,,STRONG (INTENSE)
-大 (Furigana),,,,たい
-大 (Meaning),,,,SUMMARY (OUTLINE)
-監 (Furigana),,,,かん
-監 (Meaning),,,,SUPERVISION (DIRECTION, DIRECTOR)
-恐 (Furigana),,,,きょう
-恐 (Meaning),,,,TERROR (FEAR)
-三 (Furigana),,,,さん
-三 (Meaning),,,,THREE CUPS (THREE CUPS OF LIQUID)
-略 (Furigana),,,,りゃく
-略 (Meaning),,,,TO ABBREVIATE (TO OMIT)
-積 (Furigana),,,,せき
-積 (Meaning),,,,TO ACCUMULATE (TO GET PILED UP)
-怒 (Furigana),,,,ど
-怒 (Meaning),,,,TO ANGER SOMEONE (TO PROVOKE, TO OFFEND SOMEONE)
-添 (Furigana),,,,てん
-添 (Meaning),,,,TO APPEND (TO ACCOMPANY, TO GARNISH)
-寄 (Furigana),,,,き
-寄 (Meaning),,,,TO APPROACH (TO VISIT, TO DROP IN, TO STOP BY)
-構 (Furigana),,,,こう
-構 (Meaning),,,,TO ASSUME A STANCE (TO GET READY TO FIGHT)
-壊 (Furigana),,,,かい
-壊 (Meaning),,,,TO BREAK SOMETHING (TO BREAK)
-任 (Furigana),,,,にん
-任 (Meaning),,,,TO ENTRUST SOMETHING (TO DELEGATE SOMETHING, TO LEAVE SOMETHING TO)
-診 (Furigana),,,,しん
-診 (Meaning),,,,TO EXAMINE A PATIENT (TO EXAMINE)
-乾 (Furigana),,,,かん
-乾 (Meaning),,,,TO GET DRY (TO BECOME DRY, TO BE DRIED)
-道 (Furigana),,,,どう
-道 (Meaning),,,,TO GET LOST (TO BE LOST)
-腹 (Furigana),,,,ふく
-腹 (Meaning),,,,TO GET MAD (TO GET ANGRY)
-見 (Furigana),,,,み
-見 (Meaning),,,,TO GET TO THE BOTTOM OF (TO IDENTIFY SOMETHING)
-豚 (Furigana),,,,ぶた
-豚 (Meaning),,,,TONKATSU (BREADED PORK CUTLET, PORK CUTLET)
-眠 (Furigana),,,,みん
-眠 (Meaning),,,,TO SLEEP
-詰 (Furigana),,,,つ
-詰 (Meaning),,,,TO STUFF IN (TO CRAM IN)
-請 (Furigana),,,,せい
-請 (Meaning),,,,TO TAKE (TO UNDERTAKE, TO ACCEPT, TO RECEIVE)
-誘 (Furigana),,,,ゆう
-誘 (Meaning),,,,TO TEMPT (TO SEDUCE)
-締 (Furigana),,,,てい
-締 (Meaning),,,,TO TIGHTEN (TO BECOME TIGHT, TO BE TONED)
-促 (Furigana),,,,そく
-促 (Meaning),,,,TO URGE (TO PRESSURE)
-訪 (Furigana),,,,ほう
-訪 (Meaning),,,,TO VISIT
-二 (Furigana),,,,に
-二 (Meaning),,,,TWO CUPS (TWO CUPS OF LIQUID)
-不 (Furigana),,,,ふ
-不 (Meaning),,,,UNHEALTHY (NOT HEALTHY)
-催 (Furigana),,,,さい
-催 (Meaning),,,,URGE (PRESS FOR, DEMAND)
-緊 (Furigana),,,,きん
-緊 (Meaning),,,,URGENT (EMERGENCY)
-体 (Furigana),,,,たい
-体 (Meaning),,,,VOLUME
-禅 (Furigana),,,,ぜん
-禅 (Meaning),,,,ZEN SECT
+締切 (Furigana),,,,しめきり
+締切 (Meaning),,,,DEADLINE (CLOSING DATE)
+要請 (Furigana),,,,ようせい
+要請 (Meaning),,,,DEMAND (REQUEST)
+請求 (Furigana),,,,せいきゅう
+請求 (Meaning),,,,DEMAND (CLAIM, REQUEST, CHARGE)
+診断 (Furigana),,,,しんだん
+診断 (Meaning),,,,DIAGNOSIS
+乾季 (Furigana),,,,かんき
+乾季 (Meaning),,,,DRY SEASON
+江戸 (Furigana),,,,えど
+江戸 (Meaning),,,,EDO (TOKYO)
+欧米 (Furigana),,,,おうべい
+欧米 (Meaning),,,,EUROPE AND AMERICA (EUROPE AND USA, THE WEST)
+日欧 (Furigana),,,,にちおう
+日欧 (Meaning),,,,EUROPE AND JAPAN (JAPAN AND EUROPE)
+極めて (Furigana),,,,きわめて
+極めて (Meaning),,,,EXTREMELY
+猛〜 (Furigana),,,,もう
+猛〜 (Meaning),,,,FIERCE (ENERGETIC)
+猛烈 (Furigana),,,,もうれつ
+猛烈 (Meaning),,,,FIERCE (VIOLENT, INTENSE)
+腹切り (Furigana),,,,はらきり
+腹切り (Meaning),,,,HARAKIRI (RITUAL SUICIDE)
+英雄 (Furigana),,,,えいゆう
+英雄 (Meaning),,,,HERO
+迷い (Furigana),,,,まよい
+迷い (Meaning),,,,HESITATION (INDECISION, DOUBT)
+街道 (Furigana),,,,かいどう
+街道 (Meaning),,,,HIGHWAY (MOTORWAY)
+腹が減った (Furigana),,,,はらがへった
+腹が減った (Meaning),,,,HUNGRY
+熱烈 (Furigana),,,,ねつれつ
+熱烈 (Meaning),,,,IMPASSIONED (PASSIONATE ENTHUSIASM, PASSIONATE, VEHEMENT)
+索引 (Furigana),,,,さくいん
+索引 (Meaning),,,,INDEX
+入り江 (Furigana),,,,いりえ
+入り江 (Meaning),,,,INLET (COVE)
+日韓 (Furigana),,,,にっかん
+日韓 (Meaning),,,,JAPAN AND SOUTH KOREA (SOUTH KOREA AND JAPAN, JAPAN AND KOREA, KOREA AND JAPAN)
+乾杯 (Furigana),,,,かんぱい
+乾杯 (Meaning),,,,KANPAI (TOAST, CHEERS)
+検索 (Furigana),,,,けんさく
+検索 (Meaning),,,,LOOKUP (INTERNET SEARCH)
+診察 (Furigana),,,,しんさつ
+診察 (Meaning),,,,MEDICAL EXAM (MEDICAL EXAMINATION)
+大臣 (Furigana),,,,だいじん
+大臣 (Meaning),,,,MINISTER (CABINET MEMBER)
+居眠り (Furigana),,,,いねむり
+居眠り (Meaning),,,,NAP (DOZE, DOZING, NODDING OFF, DOZING OFF)
+航法 (Furigana),,,,こうほう
+航法 (Meaning),,,,NAVIGATION
+直航 (Furigana),,,,ちょっこう
+直航 (Meaning),,,,NONSTOP FLIGHT (DIRECT VOYAGE)
+催告 (Furigana),,,,さいこく
+催告 (Meaning),,,,NOTIFICATION
+監視 (Furigana),,,,かんし
+監視 (Meaning),,,,OBSERVATION (MONITOR, KEEP WATCH OVER, SURVEILLANCE)
+奇数 (Furigana),,,,きすう
+奇数 (Meaning),,,,ODD NUMBER
+一杯 (Furigana),,,,いっぱい
+一杯 (Meaning),,,,ONE CUP (A DRINK, FULL, A LOT)
+一人娘 (Furigana),,,,ひとりむすめ
+一人娘 (Meaning),,,,ONLY DAUGHTER
+痛み止め (Furigana),,,,いたみどめ
+痛み止め (Meaning),,,,PAINKILLER
+乗車券 (Furigana),,,,じょうしゃけん
+乗車券 (Meaning),,,,PASSENGER TICKET (TICKET)
+請願 (Furigana),,,,せいがん
+請願 (Meaning),,,,PETITION
+恐怖症 (Furigana),,,,きょうふしょう
+恐怖症 (Meaning),,,,PHOBIA
+綺麗 (Furigana),,,,きれい
+綺麗 (Meaning),,,,PRETTY (BEAUTIFUL, CLEAN)
+激怒 (Furigana),,,,げきど
+激怒 (Meaning),,,,RAGE (INDIGNATION, EXASPERATION)
+宗教 (Furigana),,,,しゅうきょう
+宗教 (Meaning),,,,RELIGION
+貸し (Furigana),,,,かし
+貸し (Meaning),,,,RENTAL
+略図 (Furigana),,,,りゃくず
+略図 (Meaning),,,,ROUGH SKETCH (ROUGH MAP)
+恐ろしい (Furigana),,,,おそろしい
+恐ろしい (Meaning),,,,SCARY (FEARFUL)
+怖い (Furigana),,,,こわい
+怖い (Meaning),,,,SCARY
+捜索 (Furigana),,,,そうさく
+捜索 (Meaning),,,,SEARCH (INVESTIGATION)
+宗派 (Furigana),,,,しゅうは
+宗派 (Meaning),,,,SECT (DENOMINATION)
+商店街 (Furigana),,,,しょうてんがい
+商店街 (Meaning),,,,SHOPPING DISTRICT
+招き猫 (Furigana),,,,まねきねこ
+招き猫 (Meaning),,,,SHOP WINDOW CAT (BECKONING CAT, MANEKI NEKO)
+睡眠薬 (Furigana),,,,すいみんやく
+睡眠薬 (Meaning),,,,SLEEPING PILLS (SLEEPING DRUGS, SLEEPING MEDICINE)
+眠り薬 (Furigana),,,,ねむりぐすり
+眠り薬 (Meaning),,,,SLEEPING PILLS (SLEEPING DRUGS, SLEEPING MEDICINE)
+韓国 (Furigana),,,,かんこく
+韓国 (Meaning),,,,SOUTH KOREA (KOREA)
+迷惑メール (Furigana),,,,めいわくめーる
+迷惑メール (Meaning),,,,SPAM (SPAM MAIL, JUNK MAIL, UNSOLICITED MAIL)
+主催 (Furigana),,,,しゅさい
+主催 (Meaning),,,,SPONSORSHIP (PROMOTION)
+看板 (Furigana),,,,かんばん
+看板 (Meaning),,,,STORE SIGN
+奇妙 (Furigana),,,,きみょう
+奇妙 (Meaning),,,,STRANGE (CURIOUS, ODD)
+緊張 (Furigana),,,,きんちょう
+緊張 (Meaning),,,,STRESS (TENSION, NERVOUS)
+強烈 (Furigana),,,,きょうれつ
+強烈 (Meaning),,,,STRONG (INTENSE)
+大略 (Furigana),,,,たいりゃく
+大略 (Meaning),,,,SUMMARY (OUTLINE)
+監督 (Furigana),,,,かんとく
+監督 (Meaning),,,,SUPERVISION (DIRECTION, DIRECTOR)
+恐怖 (Furigana),,,,きょうふ
+恐怖 (Meaning),,,,TERROR (FEAR)
+三杯 (Furigana),,,,さんばい
+三杯 (Meaning),,,,THREE CUPS (THREE CUPS OF LIQUID)
+略す (Furigana),,,,りゃくす
+略す (Meaning),,,,TO ABBREVIATE (TO OMIT)
+積もる (Furigana),,,,つもる
+積もる (Meaning),,,,TO ACCUMULATE (TO GET PILED UP)
+怒らせる (Furigana),,,,おこらせる
+怒らせる (Meaning),,,,TO ANGER SOMEONE (TO PROVOKE, TO OFFEND SOMEONE)
+添える (Furigana),,,,そえる
+添える (Meaning),,,,TO APPEND (TO ACCOMPANY, TO GARNISH)
+寄る (Furigana),,,,よる
+寄る (Meaning),,,,TO APPROACH (TO VISIT, TO DROP IN, TO STOP BY)
+構える (Furigana),,,,かまえる
+構える (Meaning),,,,TO ASSUME A STANCE (TO GET READY TO FIGHT)
+壊す (Furigana),,,,こわす
+壊す (Meaning),,,,TO BREAK SOMETHING (TO BREAK)
+任す (Furigana),,,,まかす
+任す (Meaning),,,,TO ENTRUST SOMETHING (TO DELEGATE SOMETHING, TO LEAVE SOMETHING TO)
+診る (Furigana),,,,みる
+診る (Meaning),,,,TO EXAMINE A PATIENT (TO EXAMINE)
+乾く (Furigana),,,,かわく
+乾く (Meaning),,,,TO GET DRY (TO BECOME DRY, TO BE DRIED)
+道に迷う (Furigana),,,,みちにまよう
+道に迷う (Meaning),,,,TO GET LOST (TO BE LOST)
+腹立つ (Furigana),,,,はらだつ
+腹立つ (Meaning),,,,TO GET MAD (TO GET ANGRY)
+見極める (Furigana),,,,みきわめる
+見極める (Meaning),,,,TO GET TO THE BOTTOM OF (TO IDENTIFY SOMETHING)
+豚カツ (Furigana),,,,とんかつ
+豚カツ (Meaning),,,,TONKATSU (BREADED PORK CUTLET, PORK CUTLET)
+眠る (Furigana),,,,ねむる
+眠る (Meaning),,,,TO SLEEP
+詰める (Furigana),,,,つめる
+詰める (Meaning),,,,TO STUFF IN (TO CRAM IN)
+請ける (Furigana),,,,うける
+請ける (Meaning),,,,TO TAKE (TO UNDERTAKE, TO ACCEPT, TO RECEIVE)
+誘惑する (Furigana),,,,ゆうわくする
+誘惑する (Meaning),,,,TO TEMPT (TO SEDUCE)
+締まる (Furigana),,,,しまる
+締まる (Meaning),,,,TO TIGHTEN (TO BECOME TIGHT, TO BE TONED)
+促す (Furigana),,,,うながす
+促す (Meaning),,,,TO URGE (TO PRESSURE)
+訪れる (Furigana),,,,おとずれる
+訪れる (Meaning),,,,TO VISIT
+二杯 (Furigana),,,,にはい
+二杯 (Meaning),,,,TWO CUPS (TWO CUPS OF LIQUID)
+不健康 (Furigana),,,,ふけんこう
+不健康 (Meaning),,,,UNHEALTHY (NOT HEALTHY)
+催促 (Furigana),,,,さいそく
+催促 (Meaning),,,,URGE (PRESS FOR, DEMAND)
+緊急 (Furigana),,,,きんきゅう
+緊急 (Meaning),,,,URGENT (EMERGENCY)
+体積 (Furigana),,,,たいせき
+体積 (Meaning),,,,VOLUME
+禅宗 (Furigana),,,,ぜんしゅう
+禅宗 (Meaning),,,,ZEN SECT

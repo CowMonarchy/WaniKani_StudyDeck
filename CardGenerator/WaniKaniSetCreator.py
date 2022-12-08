@@ -36,8 +36,8 @@ class WaniKani :
         global driver
         global wait
         options = Options()
-        #options.add_argument('--headless')
-        #options.add_argument('--disable-gpu')
+        options.add_argument('--headless')
+        options.add_argument('--disable-gpu')
         driver = webdriver.Chrome(executable_path='/Users/fredericklindsey/Documents/Repositories/Completed/VocabCreatorStudy/CardGenerator/chromedriver', chrome_options=options) 
         wait = WebDriverWait(driver, 5)
         #initializing driver and driver options so it can run without opening chrome window 
@@ -70,8 +70,8 @@ class WaniKani :
             wait.until(EC.visibility_of_element_located((By.CSS_SELECTOR,"h2.subject-section__title")))
             
             meaningsAndWordType = driver.find_elements(By.CSS_SELECTOR,"p.subject-section__meanings-items")
-            symbol = driver.find_element(By.CSS_SELECTOR,".character-item__characters").text
-            reading = driver.find_element(By.CSS_SELECTOR,".character-item__info-reading").text
+            symbol = driver.find_element(By.CSS_SELECTOR,"span.page-header__icon.page-header__icon--vocabulary").text
+            reading = driver.find_element(By.CSS_SELECTOR,"div.subject-readings-with-audio__reading").text
             meanings = meaningsAndWordType[0].text
             wordType = meaningsAndWordType[-1].text
 
@@ -90,7 +90,7 @@ class WaniKani :
                 soundLink02 = soundLinks[1].get_attribute("src")
             
 
-            print(symbol, reading, meanings, wordType, soundLink01, soundLink02)
+            #print(symbol, reading, meanings, wordType, soundLink01, soundLink02)
             vocabList.append(Vocab(symbol, reading, meanings, wordType, soundLink01, soundLink02))
 
             nextTermLink = driver.find_elements(By.CSS_SELECTOR, "a.subject-pager__item-link")[-1].get_attribute("href")
@@ -117,6 +117,8 @@ class WaniKani :
                 f"{vocab.symbol} (Meaning),,,,{vocab.meanings}\n") 
 
         cards.close() 
+        driver.quit()
+        print(f"LEVEL {level} HAS FINISHED DOWNLOADING")
 
     
     def Download_Sounds(self, vocabList):
@@ -139,6 +141,7 @@ class WaniKani :
 
 
 #Script Run 
+    
 level = 60  # <-------Choose Starting Level Here 
 Site = WaniKani()
 
@@ -148,7 +151,7 @@ kanjiList = Site.GrabKanji()
 vocabList = Site.GrabVocab()
 
 Site.Create_Cards(level, kanjiList, vocabList)
-Site.Download_Sounds(vocabList)    # NOTE : In order to batch download sound files the webdriver CANNOT be HEADLESS
+#Site.Download_Sounds(vocabList)    # NOTE : In order to batch download sound files the webdriver CANNOT be HEADLESS
 
 
 

@@ -44,6 +44,8 @@
 晩 (Meaning),,,,Night
 昼 (Onyomi),,,,ひる
 昼 (Meaning),,,,Noon
+払 (Onyomi),,,,はら
+払 (Meaning),,,,Pay
 毒 (Onyomi),,,,どく
 毒 (Meaning),,,,Poison
 昨 (Onyomi),,,,さく
@@ -66,215 +68,219 @@
 春 (Meaning),,,,Spring
 寺 (Onyomi),,,,てら
 寺 (Meaning),,,,Temple
-飲 (Furigana),,,,の
-飲 (Meaning),,,,ALL YOU CAN DRINK
-食 (Furigana),,,,しょく
-食 (Meaning),,,,ALL YOU CAN EAT
-変 (Furigana),,,,へん
-変 (Meaning),,,,AN ECCENTRIC (ECCENTRIC, ODDBALL)
-建 (Furigana),,,,けん
-建 (Meaning),,,,ARCHITECTURE (CONSTRUCTION, BUILDING)
-願 (Furigana),,,,がん
-願 (Meaning),,,,A REQUEST (REQUEST, WISH, PLEASE)
+飲み放題 (Furigana),,,,のみほうだい
+飲み放題 (Meaning),,,,ALL YOU CAN DRINK
+食べ放題 (Furigana),,,,たべほうだい
+食べ放題 (Meaning),,,,ALL YOU CAN EAT
+変人 (Furigana),,,,へんじん
+変人 (Meaning),,,,AN ECCENTRIC (ECCENTRIC, ODDBALL)
+建築 (Furigana),,,,けんちく
+建築 (Meaning),,,,ARCHITECTURE (CONSTRUCTION, BUILDING)
+お願い (Furigana),,,,おねがい
+お願い (Meaning),,,,A REQUEST (REQUEST, WISH, PLEASE)
 軍 (Furigana),,,,ぐん
 軍 (Meaning),,,,ARMY (TROOPS, FORCE)
 秋 (Furigana),,,,あき
 秋 (Meaning),,,,AUTUMN (FALL)
-上 (Furigana),,,,じょう
-上 (Meaning),,,,BOSS (SUPERIOR)
+上司 (Furigana),,,,じょうし
+上司 (Meaning),,,,BOSS (SUPERIOR)
 岩 (Furigana),,,,いわ
 岩 (Meaning),,,,BOULDER (ROCK)
-英 (Furigana),,,,えい
-英 (Meaning),,,,BRITAIN (UK, UNITED KINGDOM, ENGLAND)
-仏 (Furigana),,,,ぶつ
+英国 (Furigana),,,,えいこく
+英国 (Meaning),,,,BRITAIN (UK, UNITED KINGDOM, ENGLAND)
+仏 (Furigana),,,,ほとけ
 仏 (Meaning),,,,BUDDHA
-仏 (Furigana),,,,ぶつ
-仏 (Meaning),,,,BUDDHISM
-計 (Furigana),,,,けい
-計 (Meaning),,,,CALCULATION
+仏教 (Furigana),,,,ぶっきょう
+仏教 (Meaning),,,,BUDDHISM
+計算 (Furigana),,,,けいさん
+計算 (Meaning),,,,CALCULATION
 猫 (Furigana),,,,ねこ
 猫 (Meaning),,,,CAT
-世 (Furigana),,,,せい
-世 (Meaning),,,,CENTURY
+世紀 (Furigana),,,,せいき
+世紀 (Meaning),,,,CENTURY
 式 (Furigana),,,,しき
 式 (Meaning),,,,CEREMONY (RITUAL, EQUATION, STYLE)
-変 (Furigana),,,,へん
-変 (Meaning),,,,CHANGE (TRANSFORMATION)
-晴 (Furigana),,,,は
-晴 (Meaning),,,,CLEAR WEATHER (FORMAL, PUBLIC, CLEARED OF SUSPICION)
-不 (Furigana),,,,ふ
-不 (Meaning),,,,CLUMSY (UNSKILLFUL, AWKWARD)
-紀 (Furigana),,,,き
-紀 (Meaning),,,,COMMON ERA (CE, ANNO DOMINI, AD)
-自 (Furigana),,,,じ
-自 (Meaning),,,,CONFIDENCE (SELF CONFIDENCE)
-勇 (Furigana),,,,ゆう
-勇 (Meaning),,,,COURAGE (BRAVERY, VALOUR, VALOR)
+変化 (Furigana),,,,へんか
+変化 (Meaning),,,,CHANGE (TRANSFORMATION)
+晴れ (Furigana),,,,はれ
+晴れ (Meaning),,,,CLEAR WEATHER (FORMAL, PUBLIC, CLEARED OF SUSPICION)
+不器用 (Furigana),,,,ぶきよう
+不器用 (Meaning),,,,CLUMSY (UNSKILLFUL, AWKWARD)
+紀元後 (Furigana),,,,きげんご
+紀元後 (Meaning),,,,COMMON ERA (CE, ANNO DOMINI, AD)
+自信 (Furigana),,,,じしん
+自信 (Meaning),,,,CONFIDENCE (SELF CONFIDENCE)
+勇気 (Furigana),,,,ゆうき
+勇気 (Meaning),,,,COURAGE (BRAVERY, VALOUR, VALOR)
+地区 (Furigana),,,,ちく
+地区 (Meaning),,,,DISTRICT (AREA, ZONE)
 区 (Furigana),,,,く
 区 (Meaning),,,,DISTRICT (WARD)
-地 (Furigana),,,,ち
-地 (Meaning),,,,DISTRICT (AREA, ZONE)
-不 (Furigana),,,,ふ
-不 (Meaning),,,,DISTRUST (MISTRUST, DISCREDIT, UNFAITHFULNESS)
-区 (Furigana),,,,く
-区 (Meaning),,,,DIVISION (SECTION, CLASSIFICATION)
-英 (Furigana),,,,えい
-英 (Meaning),,,,ENGLISH CONVERSATION
-英 (Furigana),,,,えい
-英 (Meaning),,,,ENGLISH JAPANESE
-英 (Furigana),,,,えい
-英 (Meaning),,,,ENGLISH LANGUAGE (ENGLISH)
-英 (Furigana),,,,えい
-英 (Meaning),,,,ENGLISH WRITING (ENGLISH COMPOSITION)
-毎 (Furigana),,,,まい
-毎 (Meaning),,,,EVERY NIGHT (NIGHTLY)
-信 (Furigana),,,,しん
-信 (Meaning),,,,FAITH (BELIEF)
-食 (Furigana),,,,しょく
-食 (Meaning),,,,FOOD POISONING
-四 (Furigana),,,,し
-四 (Meaning),,,,FOUR SMALL ANIMALS
-大 (Furigana),,,,たい
-大 (Meaning),,,,GIANT BUDDHA STATUE (DAIBUTSU, GREAT BUDDHA)
-今 (Furigana),,,,こん
-今 (Meaning),,,,GOOD EVENING
-文 (Furigana),,,,ぶん
-文 (Meaning),,,,GRAMMAR
-丈 (Furigana),,,,じょう
+不信 (Furigana),,,,ふしん
+不信 (Meaning),,,,DISTRUST (MISTRUST, DISCREDIT, UNFAITHFULNESS)
+区分 (Furigana),,,,くぶん
+区分 (Meaning),,,,DIVISION (SECTION, CLASSIFICATION)
+英会話 (Furigana),,,,えいかいわ
+英会話 (Meaning),,,,ENGLISH CONVERSATION
+英和 (Furigana),,,,えいわ
+英和 (Meaning),,,,ENGLISH JAPANESE
+英語 (Furigana),,,,えいご
+英語 (Meaning),,,,ENGLISH LANGUAGE (ENGLISH)
+英文 (Furigana),,,,えいぶん
+英文 (Meaning),,,,ENGLISH WRITING (ENGLISH COMPOSITION)
+毎晩 (Furigana),,,,まいばん
+毎晩 (Meaning),,,,EVERY NIGHT (NIGHTLY)
+信心 (Furigana),,,,しんじん
+信心 (Meaning),,,,FAITH (BELIEF)
+食中毒 (Furigana),,,,しょくちゅうどく
+食中毒 (Meaning),,,,FOOD POISONING
+四匹 (Furigana),,,,よんひき
+四匹 (Meaning),,,,FOUR SMALL ANIMALS
+大仏 (Furigana),,,,だいぶつ
+大仏 (Meaning),,,,GIANT BUDDHA STATUE (DAIBUTSU, GREAT BUDDHA)
+今晩は (Furigana),,,,こんばんは
+今晩は (Meaning),,,,GOOD EVENING
+文法 (Furigana),,,,ぶんぽう
+文法 (Meaning),,,,GRAMMAR
+丈 (Furigana),,,,たけ
 丈 (Meaning),,,,HEIGHT (LENGTH)
-乗 (Furigana),,,,の
-乗 (Meaning),,,,HORSEBACK RIDING (HORSE RIDING)
-夫 (Furigana),,,,ふう
+乗馬 (Furigana),,,,じょうば
+乗馬 (Meaning),,,,HORSEBACK RIDING (HORSE RIDING)
+夫 (Furigana),,,,おっと
 夫 (Meaning),,,,HUSBAND
-不 (Furigana),,,,ふ
-不 (Meaning),,,,ILLEGAL (UNLAWFUL)
-事 (Furigana),,,,じ
-事 (Meaning),,,,INCIDENT
-伝 (Furigana),,,,でん
+不法 (Furigana),,,,ふほう
+不法 (Meaning),,,,ILLEGAL (UNLAWFUL)
+事変 (Furigana),,,,じへん
+事変 (Meaning),,,,INCIDENT
+伝 (Furigana),,,,つて
 伝 (Meaning),,,,INTERMEDIARY (CONNECTIONS, CONTACTS, GO BETWEEN)
-子 (Furigana),,,,し
-子 (Meaning),,,,KITTEN (KITTY)
-昨 (Furigana),,,,さく
-昨 (Meaning),,,,LAST YEAR
+子猫 (Furigana),,,,こねこ
+子猫 (Meaning),,,,KITTEN (KITTY)
+昨年 (Furigana),,,,さくねん
+昨年 (Meaning),,,,LAST YEAR
 列 (Furigana),,,,れつ
 列 (Meaning),,,,LINE (QUEUE, ROW)
-昼 (Furigana),,,,ひる
-昼 (Meaning),,,,LUNCH BREAK (NOON BREAK)
-飯 (Furigana),,,,はん
+昼休み (Furigana),,,,ひるやすみ
+昼休み (Meaning),,,,LUNCH BREAK (NOON BREAK)
+ご飯 (Furigana),,,,ごはん
+ご飯 (Meaning),,,,MEAL (COOKED RICE)
+飯 (Furigana),,,,めし
 飯 (Meaning),,,,MEAL (COOKED RICE, FOOD)
-飯 (Furigana),,,,はん
-飯 (Meaning),,,,MEAL (COOKED RICE)
-方 (Furigana),,,,ほう
-方 (Meaning),,,,METHOD (WAY)
-情 (Furigana),,,,じょう
-情 (Meaning),,,,MISERABLE (PATHETIC, SHAMEFUL, DEPLORABLE, WRETCHED, SAD, PITIABLE)
-映 (Furigana),,,,えい
-映 (Meaning),,,,MOVIE THEATER (CINEMA, MOVIE THEATRE)
-人 (Furigana),,,,にん
-人 (Meaning),,,,MURDER (MURDERER)
-殺 (Furigana),,,,さつ
-殺 (Meaning),,,,MURDERER (KILLER)
-海 (Furigana),,,,かい
-海 (Meaning),,,,NAVY
-新 (Furigana),,,,しん
-新 (Meaning),,,,NEWLY BUILT (NEW BUILDING, NEW CONSTRUCTION)
+方法 (Furigana),,,,ほうほう
+方法 (Meaning),,,,METHOD (WAY)
+情けない (Furigana),,,,なさけない
+情けない (Meaning),,,,MISERABLE (PATHETIC, SHAMEFUL, DEPLORABLE, WRETCHED, SAD, PITIABLE)
+映画館 (Furigana),,,,えいがかん
+映画館 (Meaning),,,,MOVIE THEATER (CINEMA, MOVIE THEATRE)
+人殺し (Furigana),,,,ひとごろし
+人殺し (Meaning),,,,MURDER (MURDERER)
+殺人者 (Furigana),,,,さつじんしゃ
+殺人者 (Meaning),,,,MURDERER (KILLER)
+海軍 (Furigana),,,,かいぐん
+海軍 (Meaning),,,,NAVY
+新築 (Furigana),,,,しんちく
+新築 (Meaning),,,,NEWLY BUILT (NEW BUILDING, NEW CONSTRUCTION)
 晩 (Furigana),,,,ばん
 晩 (Meaning),,,,NIGHT (EVENING)
 昼 (Furigana),,,,ひる
 昼 (Meaning),,,,NOON (LUNCH)
-由 (Furigana),,,,ゆう
-由 (Meaning),,,,ORIGIN (SOURCE, COMING FROM)
-乗 (Furigana),,,,の
-乗 (Meaning),,,,PASSENGER
-計 (Furigana),,,,けい
-計 (Meaning),,,,PLAN (PROJECT)
+由来 (Furigana),,,,ゆらい
+由来 (Meaning),,,,ORIGIN (SOURCE, COMING FROM)
+乗客 (Furigana),,,,じょうきゃく
+乗客 (Meaning),,,,PASSENGER
+計画 (Furigana),,,,けいかく
+計画 (Meaning),,,,PLAN (PROJECT)
 毒 (Furigana),,,,どく
 毒 (Meaning),,,,POISON
-毒 (Furigana),,,,どく
-毒 (Meaning),,,,POISON GAS
-中 (Furigana),,,,ちゅう
-中 (Meaning),,,,POISONING (ADDICTION)
-有 (Furigana),,,,ゆう
-有 (Meaning),,,,POISONOUS (TOXIC, VENOMOUS)
-返 (Furigana),,,,へん
-返 (Meaning),,,,REPLY (ANSWER)
-指 (Furigana),,,,し
-指 (Meaning),,,,RING
-輪 (Furigana),,,,りん
-輪 (Meaning),,,,RUBBER BAND (ELASTIC BAND)
-大 (Furigana),,,,たい
-大 (Meaning),,,,SERIOUS (TERRIBLE, VERY, DIFFICULT, HARD, HECTIC)
-浅 (Furigana),,,,あさ
-浅 (Meaning),,,,SHALLOW
-単 (Furigana),,,,たん
-単 (Meaning),,,,SIMPLY (MERELY, ONLY)
+毒ガス (Furigana),,,,どくがす
+毒ガス (Meaning),,,,POISON GAS
+中毒 (Furigana),,,,ちゅうどく
+中毒 (Meaning),,,,POISONING (ADDICTION)
+有毒 (Furigana),,,,ゆうどく
+有毒 (Meaning),,,,POISONOUS (TOXIC, VENOMOUS)
+返信 (Furigana),,,,へんしん
+返信 (Meaning),,,,REPLY (ANSWER)
+指輪 (Furigana),,,,ゆびわ
+指輪 (Meaning),,,,RING
+輪ゴム (Furigana),,,,わごむ
+輪ゴム (Meaning),,,,RUBBER BAND (ELASTIC BAND)
+大変 (Furigana),,,,たいへん
+大変 (Meaning),,,,SERIOUS (TERRIBLE, VERY, DIFFICULT, HARD, HECTIC)
+浅い (Furigana),,,,あさい
+浅い (Meaning),,,,SHALLOW
+単に (Furigana),,,,たんに
+単に (Meaning),,,,SIMPLY (MERELY, ONLY)
 坂 (Furigana),,,,さか
 坂 (Meaning),,,,SLOPE (HILL)
-匹 (Furigana),,,,ひき
-匹 (Meaning),,,,SMALL ANIMAL COUNTER (COUNTER FOR SMALL ANIMALS)
-軍 (Furigana),,,,ぐん
-軍 (Meaning),,,,SOLDIER
-頑 (Furigana),,,,がん
-頑 (Meaning),,,,SOLID (FIRM, STOUT, STURDY)
-初 (Furigana),,,,しょ
-初 (Meaning),,,,SOMETHING HEARD FOR THE FIRST TIME (NEWS)
+〜匹 (Furigana),,,,ひき
+〜匹 (Meaning),,,,SMALL ANIMAL COUNTER (COUNTER FOR SMALL ANIMALS)
+軍人 (Furigana),,,,ぐんじん
+軍人 (Meaning),,,,SOLDIER
+頑丈 (Furigana),,,,がんじょう
+頑丈 (Meaning),,,,SOLID (FIRM, STOUT, STURDY)
+初耳 (Furigana),,,,はつみみ
+初耳 (Meaning),,,,SOMETHING HEARD FOR THE FIRST TIME (NEWS)
 春 (Furigana),,,,はる
 春 (Meaning),,,,SPRING
-春 (Furigana),,,,はる
-春 (Meaning),,,,SPRING BREAK (SPRING VACATION, SPRING HOLIDAY)
+春休み (Furigana),,,,はるやすみ
+春休み (Meaning),,,,SPRING BREAK (SPRING VACATION, SPRING HOLIDAY)
 変 (Furigana),,,,へん
 変 (Meaning),,,,STRANGE (WEIRD)
-変 (Furigana),,,,へん
-変 (Meaning),,,,STRANGE INCIDENT (UNUSUAL INCIDENT)
-丈 (Furigana),,,,じょう
-丈 (Meaning),,,,STURDY (FIRM, HEALTHY)
-同 (Furigana),,,,どう
-同 (Meaning),,,,SYNCING (SYNCHRONIZING)
-美 (Furigana),,,,び
-美 (Meaning),,,,TASTY (GOOD TASTING, DELICIOUS)
+変事 (Furigana),,,,へんじ
+変事 (Meaning),,,,STRANGE INCIDENT (UNUSUAL INCIDENT)
+丈夫 (Furigana),,,,じょうぶ
+丈夫 (Meaning),,,,STURDY (FIRM, HEALTHY)
+同期中 (Furigana),,,,どうきちゅう
+同期中 (Meaning),,,,SYNCING (SYNCHRONIZING)
+美味しい (Furigana),,,,おいしい
+美味しい (Meaning),,,,TASTY (GOOD TASTING, DELICIOUS)
 寺 (Furigana),,,,てら
 寺 (Meaning),,,,TEMPLE
-昨 (Furigana),,,,さく
-昨 (Meaning),,,,THESE DAYS (NOWADAYS, RECENTLY)
-整 (Furigana),,,,せい
-整 (Meaning),,,,TO ARRANGE (TO ORGANIZE, TO SORT)
-整 (Furigana),,,,せい
-整 (Meaning),,,,TO ARRANGE (TO PUT IN ORDER)
-好 (Furigana),,,,こう
-好 (Meaning),,,,TO BE FOND OF (TO LIKE)
-信 (Furigana),,,,しん
-信 (Meaning),,,,TO BELIEVE (TO TRUST IN)
-建 (Furigana),,,,けん
-建 (Meaning),,,,TO BUILD (TO CONSTRUCT)
-変 (Furigana),,,,へん
-変 (Meaning),,,,TO CHANGE SOMETHING (TO CHANGE)
-晴 (Furigana),,,,は
-晴 (Meaning),,,,TO CLEAR UP (TO BECOME SUNNY)
-泣 (Furigana),,,,な
-泣 (Meaning),,,,TO CRY
-放 (Furigana),,,,ほう
-放 (Meaning),,,,TO FIRE (TO HIT, TO EMIT, TO SET FREE, TO BREAK WIND)
-暗 (Furigana),,,,あん
-暗 (Meaning),,,,TO MEMORIZE
-練 (Furigana),,,,れん
-練 (Meaning),,,,TO PRACTICE
-映 (Furigana),,,,えい
-映 (Meaning),,,,TO PROJECT (TO REFLECT)
-帰 (Furigana),,,,かえ
-帰 (Meaning),,,,TO RETURN HOME (TO RETURN, TO GO HOME)
-見 (Furigana),,,,み
-見 (Meaning),,,,TO SHOW SOMEONE WHAT ONE CAN DO (TO SHOW SOMEONE, TO LOOK BACK OVER SOMETHING, TO RETURN SOMEONE’S STARE)
-合 (Furigana),,,,ごう
-合 (Meaning),,,,TOTAL (SUM)
-信 (Furigana),,,,しん
-信 (Meaning),,,,TRAFFIC LIGHT (SIGNAL, TRAFFIC SIGNAL, STOPLIGHT, SEMAPHORE)
-信 (Furigana),,,,しん
-信 (Meaning),,,,TRUST (CONFIDENCE)
-変 (Furigana),,,,へん
-変 (Meaning),,,,UNNATURAL DEATH (ACCIDENTAL DEATH)
-時 (Furigana),,,,じ
-時 (Meaning),,,,WATCH (CLOCK)
-単 (Furigana),,,,たん
-単 (Meaning),,,,WORD (VOCABULARY)
-昨 (Furigana),,,,さく
-昨 (Meaning),,,,YESTERDAY
+昨今 (Furigana),,,,さっこん
+昨今 (Meaning),,,,THESE DAYS (NOWADAYS, RECENTLY)
+整える (Furigana),,,,ととのえる
+整える (Meaning),,,,TO ARRANGE (TO PUT IN ORDER)
+整理する (Furigana),,,,せいりする
+整理する (Meaning),,,,TO ARRANGE (TO ORGANIZE, TO SORT)
+好む (Furigana),,,,このむ
+好む (Meaning),,,,TO BE FOND OF (TO LIKE)
+信じる (Furigana),,,,しんじる
+信じる (Meaning),,,,TO BELIEVE (TO TRUST IN)
+建てる (Furigana),,,,たてる
+建てる (Meaning),,,,TO BUILD (TO CONSTRUCT)
+変える (Furigana),,,,かえる
+変える (Meaning),,,,TO CHANGE SOMETHING (TO CHANGE)
+晴れる (Furigana),,,,はれる
+晴れる (Meaning),,,,TO CLEAR UP (TO BECOME SUNNY)
+泣く (Furigana),,,,なく
+泣く (Meaning),,,,TO CRY
+外す (Furigana),,,,はずす
+外す (Meaning),,,,TO DISCONNECT SOMETHING (TO MISS SOMETHING, TO EXCLUDE SOMETHING, TO REMOVE SOMETHING)
+放つ (Furigana),,,,はなつ
+放つ (Meaning),,,,TO FIRE (TO HIT, TO EMIT, TO SET FREE, TO BREAK WIND)
+暗記する (Furigana),,,,あんきする
+暗記する (Meaning),,,,TO MEMORIZE
+払う (Furigana),,,,はらう
+払う (Meaning),,,,TO PAY
+練習する (Furigana),,,,れんしゅうする
+練習する (Meaning),,,,TO PRACTICE
+映す (Furigana),,,,うつす
+映す (Meaning),,,,TO PROJECT (TO REFLECT)
+帰る (Furigana),,,,かえる
+帰る (Meaning),,,,TO RETURN HOME (TO RETURN, TO GO HOME)
+見返す (Furigana),,,,みかえす
+見返す (Meaning),,,,TO SHOW SOMEONE WHAT ONE CAN DO (TO SHOW SOMEONE, TO LOOK BACK OVER SOMETHING, TO RETURN SOMEONE’S STARE)
+合計 (Furigana),,,,ごうけい
+合計 (Meaning),,,,TOTAL (SUM)
+信号 (Furigana),,,,しんごう
+信号 (Meaning),,,,TRAFFIC LIGHT (SIGNAL, TRAFFIC SIGNAL, STOPLIGHT, SEMAPHORE)
+信用 (Furigana),,,,しんよう
+信用 (Meaning),,,,TRUST (CONFIDENCE)
+変死 (Furigana),,,,へんし
+変死 (Meaning),,,,UNNATURAL DEATH (ACCIDENTAL DEATH)
+時計 (Furigana),,,,とけい
+時計 (Meaning),,,,WATCH (CLOCK)
+単語 (Furigana),,,,たんご
+単語 (Meaning),,,,WORD (VOCABULARY)
+昨日 (Furigana),,,,きのう
+昨日 (Meaning),,,,YESTERDAY

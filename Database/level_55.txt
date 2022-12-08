@@ -70,161 +70,161 @@
 賓 (Meaning),,,,Vip
 那 (Onyomi),,,,な
 那 (Meaning),,,,What
-累 (Furigana),,,,るい
-累 (Meaning),,,,ACCUMULATION
-癒 (Furigana),,,,ゆ
-癒 (Meaning),,,,ADHESION (COLLUSION)
-一 (Furigana),,,,いち
-一 (Meaning),,,,A LITTLE (A TOUCH, SLIGHTLY)
-伏 (Furigana),,,,ふく
-伏 (Meaning),,,,AMBUSH
-憂 (Furigana),,,,ゆう
-憂 (Meaning),,,,ANXIETY (CONCERN, FEAR)
-奉 (Furigana),,,,ほう
-奉 (Meaning),,,,ATTENDANCE (SERVICE, MINISTRY)
-信 (Furigana),,,,しん
-信 (Meaning),,,,BELIEF (FAITH)
-骨 (Furigana),,,,こつ
-骨 (Meaning),,,,BONE MARROW (MARROW)
-栓 (Furigana),,,,せん
-栓 (Meaning),,,,BOTTLE OPENER (CORKSCREW)
-虜 (Furigana),,,,りょ
+累積 (Furigana),,,,るいせき
+累積 (Meaning),,,,ACCUMULATION
+癒着 (Furigana),,,,ゆちゃく
+癒着 (Meaning),,,,ADHESION (COLLUSION)
+一抹 (Furigana),,,,いちまつ
+一抹 (Meaning),,,,A LITTLE (A TOUCH, SLIGHTLY)
+伏兵 (Furigana),,,,ふくへい
+伏兵 (Meaning),,,,AMBUSH
+憂慮 (Furigana),,,,ゆうりょ
+憂慮 (Meaning),,,,ANXIETY (CONCERN, FEAR)
+奉仕 (Furigana),,,,ほうし
+奉仕 (Meaning),,,,ATTENDANCE (SERVICE, MINISTRY)
+信奉 (Furigana),,,,しんぽう
+信奉 (Meaning),,,,BELIEF (FAITH)
+骨髄 (Furigana),,,,こつずい
+骨髄 (Meaning),,,,BONE MARROW (MARROW)
+栓抜き (Furigana),,,,せんぬき
+栓抜き (Meaning),,,,BOTTLE OPENER (CORKSCREW)
+虜 (Furigana),,,,とりこ
 虜 (Meaning),,,,CAPTIVE (PRISONER, VICTIM TO LOVE, SLAVE TO LUST)
-循 (Furigana),,,,じゅん
-循 (Meaning),,,,CIRCULATION (ROTATION, CYCLE)
-粗 (Furigana),,,,そ
-粗 (Meaning),,,,COARSE (ROUGH)
-粗 (Furigana),,,,そ
-粗 (Meaning),,,,COARSE (CRUDE, INFERIOR)
-潜 (Furigana),,,,せん
-潜 (Meaning),,,,CONCEAL (HIDING, AMBUSH)
-哀 (Furigana),,,,あい
-哀 (Meaning),,,,CONDOLENCE (REGRET, SYMPATHY, LAMENT)
+循環 (Furigana),,,,じゅんかん
+循環 (Meaning),,,,CIRCULATION (ROTATION, CYCLE)
+粗い (Furigana),,,,あらい
+粗い (Meaning),,,,COARSE (ROUGH)
+粗悪 (Furigana),,,,そあく
+粗悪 (Meaning),,,,COARSE (CRUDE, INFERIOR)
+潜伏 (Furigana),,,,せんぷく
+潜伏 (Meaning),,,,CONCEAL (HIDING, AMBUSH)
+哀悼 (Furigana),,,,あいとう
+哀悼 (Meaning),,,,CONDOLENCE (REGRET, SYMPATHY, LAMENT)
 栓 (Furigana),,,,せん
 栓 (Meaning),,,,CORK (STOPPER, PLUG)
-該 (Furigana),,,,がい
-該 (Meaning),,,,CORRESPOND (FULFILLING, APPLICABLE TO, QUALIFYING AS)
-累 (Furigana),,,,るい
-累 (Meaning),,,,CUMULATIVE TOTAL (ACCUMULATED TOTAL)
-奉 (Furigana),,,,ほう
-奉 (Meaning),,,,DEDICATION (OFFERING, PRESENTATION)
-憂 (Furigana),,,,ゆう
-憂 (Meaning),,,,DEPRESSION (MELANCHOLY, DEJECTION, GLOOM)
-洗 (Furigana),,,,せん
-洗 (Meaning),,,,DETERGENT
-瑛 (Furigana),,,,えい
-瑛 (Meaning),,,,EITO (AKITO)
-抹 (Furigana),,,,まつ
-抹 (Meaning),,,,ERASE (DELETE)
-真 (Furigana),,,,しん
-真 (Meaning),,,,ESSENCE (PITH, TRUE MEANING)
-神 (Furigana),,,,しん
-神 (Meaning),,,,ESSENCE (SPIRIT, TRUE MEANING)
-佳 (Furigana),,,,か
-佳 (Meaning),,,,FINE WORK (GOOD PIECE OF WORK)
-伏 (Furigana),,,,ふく
-伏 (Meaning),,,,FORESHADOWING
-来 (Furigana),,,,らい
-来 (Meaning),,,,GUEST (VISITOR)
-賓 (Furigana),,,,ひん
-賓 (Meaning),,,,GUEST OF HONOR (PRIVILEGED GUEST)
-治 (Furigana),,,,じ
-治 (Meaning),,,,HEALING (CURE, RECOVERY)
-重 (Furigana),,,,じゅう
-重 (Meaning),,,,LEADER (AUTHORITY)
-傍 (Furigana),,,,ぼう
-傍 (Meaning),,,,LOOK ON (SIT BY AND WATCH, SPECTATE)
-惜 (Furigana),,,,せき
-惜 (Meaning),,,,LOSS OF A CLOSE GAME (REGRETTABLE DEFEAT)
-旦 (Furigana),,,,たん
-旦 (Meaning),,,,MASTER (HUSBAND, MALE PATRON)
-抹 (Furigana),,,,まつ
-抹 (Meaning),,,,MATCHA (POWDERED GREEN TEA)
-傍 (Furigana),,,,ぼう
-傍 (Meaning),,,,MONITORING (INTERCEPTION, TAPPING)
-追 (Furigana),,,,お
-追 (Meaning),,,,MOURNING (MEMORIAL)
-赴 (Furigana),,,,ふ
-赴 (Meaning),,,,MOVE FOR A DIFFERENT JOB (MOVE FOR A JOB)
-傍 (Furigana),,,,ぼう
+該当 (Furigana),,,,がいとう
+該当 (Meaning),,,,CORRESPOND (FULFILLING, APPLICABLE TO, QUALIFYING AS)
+累計 (Furigana),,,,るいけい
+累計 (Meaning),,,,CUMULATIVE TOTAL (ACCUMULATED TOTAL)
+奉納 (Furigana),,,,ほうのう
+奉納 (Meaning),,,,DEDICATION (OFFERING, PRESENTATION)
+憂鬱 (Furigana),,,,ゆううつ
+憂鬱 (Meaning),,,,DEPRESSION (MELANCHOLY, DEJECTION, GLOOM)
+洗浄剤 (Furigana),,,,せんじょうざい
+洗浄剤 (Meaning),,,,DETERGENT
+瑛斗 (Furigana),,,,えいと
+瑛斗 (Meaning),,,,EITO (AKITO)
+抹消 (Furigana),,,,まっしょう
+抹消 (Meaning),,,,ERASE (DELETE)
+真髄 (Furigana),,,,しんずい
+真髄 (Meaning),,,,ESSENCE (PITH, TRUE MEANING)
+神髄 (Furigana),,,,しんずい
+神髄 (Meaning),,,,ESSENCE (SPIRIT, TRUE MEANING)
+佳作 (Furigana),,,,かさく
+佳作 (Meaning),,,,FINE WORK (GOOD PIECE OF WORK)
+伏線 (Furigana),,,,ふくせん
+伏線 (Meaning),,,,FORESHADOWING
+来賓 (Furigana),,,,らいひん
+来賓 (Meaning),,,,GUEST (VISITOR)
+賓客 (Furigana),,,,ひんきゃく
+賓客 (Meaning),,,,GUEST OF HONOR (PRIVILEGED GUEST)
+治癒 (Furigana),,,,ちゆ
+治癒 (Meaning),,,,HEALING (CURE, RECOVERY)
+重鎮 (Furigana),,,,じゅうちん
+重鎮 (Meaning),,,,LEADER (AUTHORITY)
+傍観 (Furigana),,,,ぼうかん
+傍観 (Meaning),,,,LOOK ON (SIT BY AND WATCH, SPECTATE)
+惜敗 (Furigana),,,,せきはい
+惜敗 (Meaning),,,,LOSS OF A CLOSE GAME (REGRETTABLE DEFEAT)
+旦那 (Furigana),,,,だんな
+旦那 (Meaning),,,,MASTER (HUSBAND, MALE PATRON)
+抹茶 (Furigana),,,,まっちゃ
+抹茶 (Meaning),,,,MATCHA (POWDERED GREEN TEA)
+傍受 (Furigana),,,,ぼうじゅ
+傍受 (Meaning),,,,MONITORING (INTERCEPTION, TAPPING)
+追悼 (Furigana),,,,ついとう
+追悼 (Meaning),,,,MOURNING (MEMORIAL)
+赴任 (Furigana),,,,ふにん
+赴任 (Meaning),,,,MOVE FOR A DIFFERENT JOB (MOVE FOR A JOB)
+傍 (Furigana),,,,そば
 傍 (Meaning),,,,NEAR (CLOSE, BESIDE, BY ONE'S SIDE)
-元 (Furigana),,,,げん
-元 (Meaning),,,,NEW YEAR'S DAY (NEW YEAR'S MORNING)
-貴 (Furigana),,,,き
-貴 (Meaning),,,,NOBLE VISITOR
-抹 (Furigana),,,,まつ
-抹 (Meaning),,,,OBLITERATION (KILLING, DENIAL, ERASURE, IGNORING, MURDER)
-勿 (Furigana),,,,もち
-勿 (Meaning),,,,OF COURSE (NEEDLESS TO SAY)
-老 (Furigana),,,,ろう
-老 (Meaning),,,,OLD SHOP (OLD STORE)
-一 (Furigana),,,,いち
-一 (Meaning),,,,ONCE (FOR A MOMENT, TEMPORARILY)
-輪 (Furigana),,,,りん
-輪 (Meaning),,,,OUTLINE (BORDER, SILHOUETTE, SUMMARY, FEATURES, APPEARANCE)
-瓜 (Furigana),,,,か
-瓜 (Meaning),,,,OVAL FACE (CLASSIC FEATURES)
-鎮 (Furigana),,,,ちん
-鎮 (Meaning),,,,PAINKILLER (PAIN RELIEVER, SEDATIVE, TRANQUILIZER, TRANQUILISER)
-憂 (Furigana),,,,ゆう
-憂 (Meaning),,,,PATRIOTIC CONCERN (PATRIOTISM)
-愉 (Furigana),,,,ゆ
-愉 (Meaning),,,,PLEASANT (HAPPY)
-捕 (Furigana),,,,ほ
-捕 (Meaning),,,,PRISONER OF WAR (CAPTIVE)
-繁 (Furigana),,,,はん
-繁 (Meaning),,,,PROSPERITY (FLOURISHING, THRIVING)
-南 (Furigana),,,,なん
-南 (Meaning),,,,PUMPKIN (SQUASH, KABOCHA)
-遺 (Furigana),,,,い
-遺 (Meaning),,,,REGRETTABLE (UNSATISFACTORY)
-鎮 (Furigana),,,,ちん
-鎮 (Meaning),,,,REPOSE OF SOULS
-粗 (Furigana),,,,そ
-粗 (Meaning),,,,RUSTIC (ROUGH, RUDE, VULGAR)
-遼 (Furigana),,,,りょう
-遼 (Meaning),,,,RYOTA
-奉 (Furigana),,,,ほう
-奉 (Meaning),,,,SERVICE (APPRENTICESHIP, PUBLIC DUTY)
-素 (Furigana),,,,そ
-素 (Meaning),,,,SIMPLE (NAIVE)
-凝 (Furigana),,,,ぎょう
-凝 (Meaning),,,,SOLIDIFY (COAGULATE, FREEZE)
-脊 (Furigana),,,,せき
-脊 (Meaning),,,,SPINAL CORD
-凝 (Furigana),,,,ぎょう
-凝 (Meaning),,,,STARE (GAZE, FIXATION)
-国 (Furigana),,,,こく
-国 (Meaning),,,,STATE GUEST
-累 (Furigana),,,,るい
-累 (Meaning),,,,SUCCESSIVE PROMOTION (GRADUAL PROMOTION, GRADUATED)
-鎮 (Furigana),,,,ちん
-鎮 (Meaning),,,,SUPPRESSION (SUBJUGATION)
-降 (Furigana),,,,こう
-降 (Meaning),,,,SURRENDER (SUBMISSION)
+元旦 (Furigana),,,,がんたん
+元旦 (Meaning),,,,NEW YEAR'S DAY (NEW YEAR'S MORNING)
+貴賓 (Furigana),,,,きひん
+貴賓 (Meaning),,,,NOBLE VISITOR
+抹殺 (Furigana),,,,まっさつ
+抹殺 (Meaning),,,,OBLITERATION (KILLING, DENIAL, ERASURE, IGNORING, MURDER)
+勿論 (Furigana),,,,もちろん
+勿論 (Meaning),,,,OF COURSE (NEEDLESS TO SAY)
+老舗 (Furigana),,,,しにせ
+老舗 (Meaning),,,,OLD SHOP (OLD STORE)
+一旦 (Furigana),,,,いったん
+一旦 (Meaning),,,,ONCE (FOR A MOMENT, TEMPORARILY)
+輪郭 (Furigana),,,,りんかく
+輪郭 (Meaning),,,,OUTLINE (BORDER, SILHOUETTE, SUMMARY, FEATURES, APPEARANCE)
+瓜実顔 (Furigana),,,,うりざねがお
+瓜実顔 (Meaning),,,,OVAL FACE (CLASSIC FEATURES)
+鎮痛剤 (Furigana),,,,ちんつうざい
+鎮痛剤 (Meaning),,,,PAINKILLER (PAIN RELIEVER, SEDATIVE, TRANQUILIZER, TRANQUILISER)
+憂国 (Furigana),,,,ゆうこく
+憂国 (Meaning),,,,PATRIOTIC CONCERN (PATRIOTISM)
+愉快 (Furigana),,,,ゆかい
+愉快 (Meaning),,,,PLEASANT (HAPPY)
+捕虜 (Furigana),,,,ほりょ
+捕虜 (Meaning),,,,PRISONER OF WAR (CAPTIVE)
+繁昌 (Furigana),,,,はんじょう
+繁昌 (Meaning),,,,PROSPERITY (FLOURISHING, THRIVING)
+南瓜 (Furigana),,,,かぼちゃ
+南瓜 (Meaning),,,,PUMPKIN (SQUASH, KABOCHA)
+遺憾 (Furigana),,,,いかん
+遺憾 (Meaning),,,,REGRETTABLE (UNSATISFACTORY)
+鎮魂 (Furigana),,,,ちんこん
+鎮魂 (Meaning),,,,REPOSE OF SOULS
+粗野 (Furigana),,,,そや
+粗野 (Meaning),,,,RUSTIC (ROUGH, RUDE, VULGAR)
+遼太 (Furigana),,,,りょうた
+遼太 (Meaning),,,,RYOTA
+奉公 (Furigana),,,,ほうこう
+奉公 (Meaning),,,,SERVICE (APPRENTICESHIP, PUBLIC DUTY)
+素朴 (Furigana),,,,そぼく
+素朴 (Meaning),,,,SIMPLE (NAIVE)
+凝固 (Furigana),,,,ぎょうこ
+凝固 (Meaning),,,,SOLIDIFY (COAGULATE, FREEZE)
+脊髄 (Furigana),,,,せきずい
+脊髄 (Meaning),,,,SPINAL CORD
+凝視 (Furigana),,,,ぎょうし
+凝視 (Meaning),,,,STARE (GAZE, FIXATION)
+国賓 (Furigana),,,,こくひん
+国賓 (Meaning),,,,STATE GUEST
+累進 (Furigana),,,,るいしん
+累進 (Meaning),,,,SUCCESSIVE PROMOTION (GRADUAL PROMOTION, GRADUATED)
+鎮圧 (Furigana),,,,ちんあつ
+鎮圧 (Meaning),,,,SUPPRESSION (SUBJUGATION)
+降伏 (Furigana),,,,こうふく
+降伏 (Meaning),,,,SURRENDER (SUBMISSION)
 之 (Furigana),,,,これ
 之 (Meaning),,,,THIS
-鎮 (Furigana),,,,ちん
-鎮 (Meaning),,,,TO APPEASE (TO SUPPRESS, TO CALM)
-凝 (Furigana),,,,ぎょう
-凝 (Meaning),,,,TO BE ABSORBED IN (TO GROW STIFF, TO BE DEVOTED TO)
-憂 (Furigana),,,,ゆう
-憂 (Meaning),,,,TO BE ANXIOUS (TO WORRY ABOUT, TO LAMENT, TO GRIEVE, TO BE DISTRESSED)
-惜 (Furigana),,,,せき
-惜 (Meaning),,,,TO BE FRUGAL (TO BE SPARING)
-栃 (Furigana),,,,とち
-栃 (Meaning),,,,TOCHIGI PREFECTURE
-伏 (Furigana),,,,ふく
-伏 (Meaning),,,,TO COVER (TO HIDE, TO LAY UPSIDE DOWN, TO TURN OVER)
-据 (Furigana),,,,す
-据 (Meaning),,,,TO INSTALL (TO EQUIP, TO MOUNT)
-起 (Furigana),,,,お
-起 (Meaning),,,,UNDULATION (UPS AND DOWNS, HIGHS AND LOWS)
+鎮める (Furigana),,,,しずめる
+鎮める (Meaning),,,,TO APPEASE (TO SUPPRESS, TO CALM)
+凝る (Furigana),,,,こる
+凝る (Meaning),,,,TO BE ABSORBED IN (TO GROW STIFF, TO BE DEVOTED TO)
+憂える (Furigana),,,,うれえる
+憂える (Meaning),,,,TO BE ANXIOUS (TO WORRY ABOUT, TO LAMENT, TO GRIEVE, TO BE DISTRESSED)
+惜しむ (Furigana),,,,おしむ
+惜しむ (Meaning),,,,TO BE FRUGAL (TO BE SPARING)
+栃木県 (Furigana),,,,とちぎけん
+栃木県 (Meaning),,,,TOCHIGI PREFECTURE
+伏せる (Furigana),,,,ふせる
+伏せる (Meaning),,,,TO COVER (TO HIDE, TO LAY UPSIDE DOWN, TO TURN OVER)
+据え付ける (Furigana),,,,すえつける
+据え付ける (Meaning),,,,TO INSTALL (TO EQUIP, TO MOUNT)
+起伏 (Furigana),,,,きふく
+起伏 (Meaning),,,,UNDULATION (UPS AND DOWNS, HIGHS AND LOWS)
 尿 (Furigana),,,,にょう
 尿 (Meaning),,,,URINE (PEE)
-山 (Furigana),,,,さん
-山 (Meaning),,,,WASABI (JAPANESE HORSERADISH)
-披 (Furigana),,,,ひ
-披 (Meaning),,,,WEDDING RECEPTION (RECEPTION)
-弥 (Furigana),,,,や
-弥 (Meaning),,,,YAYOI PERIOD (YAYOI)
+山葵 (Furigana),,,,わさび
+山葵 (Meaning),,,,WASABI (JAPANESE HORSERADISH)
+披露宴 (Furigana),,,,ひろうえん
+披露宴 (Meaning),,,,WEDDING RECEPTION (RECEPTION)
+弥生 (Furigana),,,,やよい
+弥生 (Meaning),,,,YAYOI PERIOD (YAYOI)

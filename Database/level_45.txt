@@ -70,213 +70,213 @@
 滝 (Meaning),,,,Waterfall
 井 (Onyomi),,,,しょう
 井 (Meaning),,,,Well
-頃 (Furigana),,,,ころ
-頃 (Meaning),,,,ABOUT WHEN (HOW SOON)
-警 (Furigana),,,,けい
-警 (Meaning),,,,ALARM BELL (FIRE BELL)
-年 (Furigana),,,,ねん
-年 (Meaning),,,,APPROXIMATE AGE (ADOLESCENCE, MARRIAGEABLE AGE)
+いつ頃 (Furigana),,,,いつごろ
+いつ頃 (Meaning),,,,ABOUT WHEN (HOW SOON)
+警鐘 (Furigana),,,,けいしょう
+警鐘 (Meaning),,,,ALARM BELL (FIRE BELL)
+年頃 (Furigana),,,,としごろ
+年頃 (Meaning),,,,APPROXIMATE AGE (ADOLESCENCE, MARRIAGEABLE AGE)
 頃 (Furigana),,,,ころ
 頃 (Meaning),,,,APPROXIMATE TIME (AROUND, ABOUT)
-凶 (Furigana),,,,きょう
-凶 (Meaning),,,,ATROCIOUS (FIENDISH)
-細 (Furigana),,,,さい
-細 (Meaning),,,,BACTERIA
-悪 (Furigana),,,,あく
-悪 (Meaning),,,,BAD HABIT (BAD TASTE)
-鐘 (Furigana),,,,しょう
+凶悪 (Furigana),,,,きょうあく
+凶悪 (Meaning),,,,ATROCIOUS (FIENDISH)
+細菌 (Furigana),,,,さいきん
+細菌 (Meaning),,,,BACTERIA
+悪趣味 (Furigana),,,,あくしゅみ
+悪趣味 (Meaning),,,,BAD HABIT (BAD TASTE)
+鐘 (Furigana),,,,かね
 鐘 (Meaning),,,,BELL (CHIME)
-賭 (Furigana),,,,か
-賭 (Meaning),,,,BETTING (GAMBLING, A GAMBLE, A BET)
+賭け (Furigana),,,,かけ
+賭け (Meaning),,,,BETTING (GAMBLING, A GAMBLE, A BET)
 舟 (Furigana),,,,ふね
 舟 (Meaning),,,,BOAT
-小 (Furigana),,,,しょう
-小 (Meaning),,,,BOAT (SMALL CRAFT)
+小舟 (Furigana),,,,こぶね
+小舟 (Meaning),,,,BOAT (SMALL CRAFT)
 嫁 (Furigana),,,,よめ
 嫁 (Meaning),,,,BRIDE (WIFE)
-電 (Furigana),,,,でん
-電 (Meaning),,,,CALCULATOR
-暦 (Furigana),,,,れき
+電卓 (Furigana),,,,でんたく
+電卓 (Meaning),,,,CALCULATOR
+暦 (Furigana),,,,こよみ
 暦 (Meaning),,,,CALENDAR (ALMANAC)
-天 (Furigana),,,,てん
-天 (Meaning),,,,CEILING
-霊 (Furigana),,,,れい
-霊 (Meaning),,,,CEMETERY
-西 (Furigana),,,,せい
-西 (Meaning),,,,CHRISTIAN ERA (WESTERN CALENDAR)
-曇 (Furigana),,,,くも
-曇 (Meaning),,,,CLOUDY WEATHER (CLOUDINESS, FOG)
-硬 (Furigana),,,,こう
-硬 (Meaning),,,,COIN
-全 (Furigana),,,,ぜん
-全 (Meaning),,,,COMPLETELY NAKED (TOTALLY NAKED, COMPLETELY NUDE)
-可 (Furigana),,,,か
-可 (Meaning),,,,CONSIDERABLY (FAIRLY, QUITE)
+天井 (Furigana),,,,てんじょう
+天井 (Meaning),,,,CEILING
+霊園 (Furigana),,,,れいえん
+霊園 (Meaning),,,,CEMETERY
+西暦 (Furigana),,,,せいれき
+西暦 (Meaning),,,,CHRISTIAN ERA (WESTERN CALENDAR)
+曇り (Furigana),,,,くもり
+曇り (Meaning),,,,CLOUDY WEATHER (CLOUDINESS, FOG)
+硬貨 (Furigana),,,,こうか
+硬貨 (Meaning),,,,COIN
+全裸 (Furigana),,,,ぜんら
+全裸 (Meaning),,,,COMPLETELY NAKED (TOTALLY NAKED, COMPLETELY NUDE)
+可也 (Furigana),,,,かなり
+可也 (Meaning),,,,CONSIDERABLY (FAIRLY, QUITE)
 塾 (Furigana),,,,じゅく
 塾 (Meaning),,,,CRAM SCHOOL (COACHING SCHOOL, JUKU)
-塾 (Furigana),,,,じゅく
-塾 (Meaning),,,,CRAM SCHOOL STUDENT
-呪 (Furigana),,,,のろ
-呪 (Meaning),,,,CURSE
-凶 (Furigana),,,,きょう
-凶 (Meaning),,,,DANGEROUS WEAPON (LETHAL WEAPON)
-食 (Furigana),,,,しょく
-食 (Meaning),,,,DINING TABLE
-排 (Furigana),,,,はい
-排 (Meaning),,,,DRAINAGE (DRAIN, GUTTER)
-入 (Furigana),,,,にゅう
-入 (Meaning),,,,ENTRY IN FAMILY REGISTER
-悪 (Furigana),,,,あく
-悪 (Meaning),,,,EVIL SPIRIT
-疲 (Furigana),,,,ひ
-疲 (Meaning),,,,FATIGUE (WEARINESS)
-肌 (Furigana),,,,はだ
-肌 (Meaning),,,,FLESH COLORED (SKIN COLORED)
-菌 (Furigana),,,,きん
-菌 (Meaning),,,,GERM
-亡 (Furigana),,,,ぼう
-亡 (Meaning),,,,GHOST (THE DEAD)
-陰 (Furigana),,,,いん
-陰 (Meaning),,,,GLOOM (MELANCHOLY)
-鳥 (Furigana),,,,ちょう
-鳥 (Meaning),,,,GOOSEBUMPS
-溝 (Furigana),,,,こう
+塾生 (Furigana),,,,じゅくせい
+塾生 (Meaning),,,,CRAM SCHOOL STUDENT
+呪い (Furigana),,,,のろい
+呪い (Meaning),,,,CURSE
+凶器 (Furigana),,,,きょうき
+凶器 (Meaning),,,,DANGEROUS WEAPON (LETHAL WEAPON)
+食卓 (Furigana),,,,しょくたく
+食卓 (Meaning),,,,DINING TABLE
+排水溝 (Furigana),,,,はいすいこう
+排水溝 (Meaning),,,,DRAINAGE (DRAIN, GUTTER)
+入籍 (Furigana),,,,にゅうせき
+入籍 (Meaning),,,,ENTRY IN FAMILY REGISTER
+悪霊 (Furigana),,,,あくりょう
+悪霊 (Meaning),,,,EVIL SPIRIT
+疲労 (Furigana),,,,ひろう
+疲労 (Meaning),,,,FATIGUE (WEARINESS)
+肌色 (Furigana),,,,はだいろ
+肌色 (Meaning),,,,FLESH COLORED (SKIN COLORED)
+ばい菌 (Furigana),,,,ばいきん
+ばい菌 (Meaning),,,,GERM
+亡霊 (Furigana),,,,ぼうれい
+亡霊 (Meaning),,,,GHOST (THE DEAD)
+陰気 (Furigana),,,,いんき
+陰気 (Meaning),,,,GLOOM (MELANCHOLY)
+鳥肌 (Furigana),,,,とりはだ
+鳥肌 (Meaning),,,,GOOSEBUMPS
+溝 (Furigana),,,,みぞ
 溝 (Meaning),,,,GUTTER (DITCH, DRAIN)
-半 (Furigana),,,,はん
-半 (Meaning),,,,HALF NAKED (HALF NUDE)
+半裸 (Furigana),,,,はんら
+半裸 (Meaning),,,,HALF NAKED (HALF NUDE)
 肌 (Furigana),,,,はだ
 肌 (Meaning),,,,HUMAN SKIN (SKIN)
-加 (Furigana),,,,か
-加 (Meaning),,,,HUMIDIFIER
-狩 (Furigana),,,,か
-狩 (Meaning),,,,HUNTER
-狩 (Furigana),,,,か
-狩 (Meaning),,,,HUNTING
-霊 (Furigana),,,,れい
-霊 (Meaning),,,,INSPIRATION (SIXTH SENSE, ESP)
-黒 (Furigana),,,,こく
-黒 (Meaning),,,,JAPAN CURRENT (KUROSHIO CURRENT)
-近 (Furigana),,,,きん
-近 (Meaning),,,,LATELY (RECENTLY)
-脚 (Furigana),,,,きゃく
+加湿器 (Furigana),,,,かしつき
+加湿器 (Meaning),,,,HUMIDIFIER
+狩人 (Furigana),,,,かりゅうど
+狩人 (Meaning),,,,HUNTER
+狩り (Furigana),,,,かり
+狩り (Meaning),,,,HUNTING
+霊感 (Furigana),,,,れいかん
+霊感 (Meaning),,,,INSPIRATION (SIXTH SENSE, ESP)
+黒潮 (Furigana),,,,くろしお
+黒潮 (Meaning),,,,JAPAN CURRENT (KUROSHIO CURRENT)
+近頃 (Furigana),,,,ちかごろ
+近頃 (Meaning),,,,LATELY (RECENTLY)
+脚 (Furigana),,,,あし
 脚 (Meaning),,,,LEG (FOOT)
-遠 (Furigana),,,,えん
-遠 (Meaning),,,,LONG DISTANCE
+遠距離 (Furigana),,,,えんきょり
+遠距離 (Meaning),,,,LONG DISTANCE
 塊 (Furigana),,,,かたまり
 塊 (Meaning),,,,LUMP (MASS, BUNDLE)
-旧 (Furigana),,,,きゅう
-旧 (Meaning),,,,LUNISOLAR CALENDAR (TRADITIONAL JAPANESE CALENDAR, JAPANESE CALENDAR)
-狂 (Furigana),,,,きょう
-狂 (Meaning),,,,MADNESS (INSANITY)
-献 (Furigana),,,,けん
-献 (Meaning),,,,MENU (MEAL PLAN)
-手 (Furigana),,,,て
-手 (Meaning),,,,MODERATE (HANDY, CONVENIENT, REASONABLE)
-湿 (Furigana),,,,しつ
-湿 (Meaning),,,,MOISTURE (HUMIDITY)
-山 (Furigana),,,,さん
-山 (Meaning),,,,MOUNTAINS
-裸 (Furigana),,,,ら
+旧暦 (Furigana),,,,きゅうれき
+旧暦 (Meaning),,,,LUNISOLAR CALENDAR (TRADITIONAL JAPANESE CALENDAR, JAPANESE CALENDAR)
+狂気 (Furigana),,,,きょうき
+狂気 (Meaning),,,,MADNESS (INSANITY)
+献立 (Furigana),,,,こんだて
+献立 (Meaning),,,,MENU (MEAL PLAN)
+手頃 (Furigana),,,,てごろ
+手頃 (Meaning),,,,MODERATE (HANDY, CONVENIENT, REASONABLE)
+湿気 (Furigana),,,,しっけ
+湿気 (Meaning),,,,MOISTURE (HUMIDITY)
+山岳 (Furigana),,,,さんがく
+山岳 (Meaning),,,,MOUNTAINS
+裸 (Furigana),,,,はだか
 裸 (Meaning),,,,NAKED
-核 (Furigana),,,,かく
-核 (Meaning),,,,NUCLEAR FISSION (KARYOKINESIS)
-海 (Furigana),,,,かい
-海 (Meaning),,,,OCEAN TRENCH
-若 (Furigana),,,,わか
-若 (Meaning),,,,ONE'S YOUTH (EARLY LIFE)
-小 (Furigana),,,,しょう
-小 (Meaning),,,,PACKAGE (A PACKAGE, PARCEL, A PARCEL)
-磨 (Furigana),,,,みが
-磨 (Meaning),,,,POLISH (SHINE)
-義 (Furigana),,,,ぎ
-義 (Meaning),,,,PRIVATE SCHOOL
-眺 (Furigana),,,,ちょう
-眺 (Meaning),,,,PROSPECT (VIEW)
-滝 (Furigana),,,,たき
-滝 (Meaning),,,,RAPIDS
-頃 (Furigana),,,,ころ
-頃 (Meaning),,,,RECENTLY (NOWADAYS, THESE DAYS)
-先 (Furigana),,,,せん
-先 (Meaning),,,,RECENTLY (THE OTHER DAY)
-硬 (Furigana),,,,こう
-硬 (Meaning),,,,RIGIDITY (STIFFNESS, STIFFENING)
-元 (Furigana),,,,げん
-元 (Meaning),,,,RINGLEADER (MAIN CULPRIT)
-脚 (Furigana),,,,きゃく
-脚 (Meaning),,,,SCRIPT (SCREENPLAY)
-陰 (Furigana),,,,いん
+核分裂 (Furigana),,,,かくぶんれつ
+核分裂 (Meaning),,,,NUCLEAR FISSION (KARYOKINESIS)
+海溝 (Furigana),,,,かいこう
+海溝 (Meaning),,,,OCEAN TRENCH
+若い頃 (Furigana),,,,わかいころ
+若い頃 (Meaning),,,,ONE'S YOUTH (EARLY LIFE)
+小包 (Furigana),,,,こづつみ
+小包 (Meaning),,,,PACKAGE (A PACKAGE, PARCEL, A PARCEL)
+磨き (Furigana),,,,みがき
+磨き (Meaning),,,,POLISH (SHINE)
+義塾 (Furigana),,,,ぎじゅく
+義塾 (Meaning),,,,PRIVATE SCHOOL
+眺望 (Furigana),,,,ちょうぼう
+眺望 (Meaning),,,,PROSPECT (VIEW)
+滝川 (Furigana),,,,たきがわ
+滝川 (Meaning),,,,RAPIDS
+この頃 (Furigana),,,,このごろ
+この頃 (Meaning),,,,RECENTLY (NOWADAYS, THESE DAYS)
+先頃 (Furigana),,,,さきごろ
+先頃 (Meaning),,,,RECENTLY (THE OTHER DAY)
+硬直 (Furigana),,,,こうちょく
+硬直 (Meaning),,,,RIGIDITY (STIFFNESS, STIFFENING)
+元凶 (Furigana),,,,げんきょう
+元凶 (Meaning),,,,RINGLEADER (MAIN CULPRIT)
+脚本 (Furigana),,,,きゃくほん
+脚本 (Meaning),,,,SCRIPT (SCREENPLAY)
+陰 (Furigana),,,,かげ
 陰 (Meaning),,,,SHADOW (SHADE)
-短 (Furigana),,,,たん
-短 (Meaning),,,,SHORT DISTANCE
-近 (Furigana),,,,きん
-近 (Meaning),,,,SHORT DISTANCE
-一 (Furigana),,,,いち
-一 (Meaning),,,,SIMULTANEOUSLY (ALL AT ONCE)
-魂 (Furigana),,,,こん
+短距離 (Furigana),,,,たんきょり
+短距離 (Meaning),,,,SHORT DISTANCE
+近距離 (Furigana),,,,きんきょり
+近距離 (Meaning),,,,SHORT DISTANCE
+一斉に (Furigana),,,,いっせいに
+一斉に (Meaning),,,,SIMULTANEOUSLY (ALL AT ONCE)
+魂 (Furigana),,,,たましい
 魂 (Meaning),,,,SOUL
-矛 (Furigana),,,,む
+矛 (Furigana),,,,ほこ
 矛 (Meaning),,,,SPEAR
-魂 (Furigana),,,,こん
-魂 (Meaning),,,,SPIRIT
-殺 (Furigana),,,,さつ
-殺 (Meaning),,,,STERILIZATION
-無 (Furigana),,,,む
-無 (Meaning),,,,STERILIZED (PASTEURIZED)
-硬 (Furigana),,,,こう
-硬 (Meaning),,,,STIFF (HARD, FIRM)
+〜魂 (Furigana),,,,こん
+〜魂 (Meaning),,,,SPIRIT
+殺菌 (Furigana),,,,さっきん
+殺菌 (Meaning),,,,STERILIZATION
+無菌 (Furigana),,,,むきん
+無菌 (Meaning),,,,STERILIZED (PASTEURIZED)
+硬い (Furigana),,,,かたい
+硬い (Meaning),,,,STIFF (HARD, FIRM)
 卓 (Furigana),,,,たく
 卓 (Meaning),,,,TABLE (DESK)
-卓 (Furigana),,,,たく
-卓 (Meaning),,,,TABLE TENNIS (PING PONG)
-肌 (Furigana),,,,はだ
-肌 (Meaning),,,,THE TOUCH OF (FEEL OF, TEXTURE)
-潮 (Furigana),,,,ちょう
-潮 (Meaning),,,,TIDAL HOUR (THE RIGHT TIME, HIGH TIME)
-襲 (Furigana),,,,しゅう
-襲 (Meaning),,,,TO ATTACK (TO ASSAULT)
-澄 (Furigana),,,,す
-澄 (Meaning),,,,TO BECOME CLEAR (TO BECOME TRANSPARENT)
-疲 (Furigana),,,,ひ
-疲 (Meaning),,,,TO BECOME EXHAUSTED (TO BECOME TIRED, TO GET TIRED)
-湿 (Furigana),,,,しつ
-湿 (Meaning),,,,TO BE DAMP (TO BE MOIST, TO BE WET)
-滅 (Furigana),,,,めつ
-滅 (Meaning),,,,TO BE DESTROYED (TO BE ANNIHILATED)
-焦 (Furigana),,,,しょう
-焦 (Meaning),,,,TO BE IN A HURRY (TO BE IMPATIENT)
-呪 (Furigana),,,,のろ
-呪 (Meaning),,,,TO CURSE (TO PUT A CURSE ON)
-稼 (Furigana),,,,か
-稼 (Meaning),,,,TO EARN INCOME (TO MAKE MONEY)
-翔 (Furigana),,,,かけ
-翔 (Meaning),,,,TO FLY (TO SOAR)
-賭 (Furigana),,,,か
-賭 (Meaning),,,,TO GAMBLE (TO BET, TO STAKE, TO RISK)
-曇 (Furigana),,,,くも
-曇 (Meaning),,,,TO GET CLOUDY (TO BECOME CLOUDY)
-狂 (Furigana),,,,きょう
-狂 (Meaning),,,,TO GO MAD (TO GO CRAZY)
-泊 (Furigana),,,,はく
-泊 (Meaning),,,,TO LET SOMEONE STAY OVER (TO LET SOMEONE STAY THE NIGHT)
-嫁 (Furigana),,,,よめ
-嫁 (Meaning),,,,TO MARRY
-磨 (Furigana),,,,みが
-磨 (Meaning),,,,TO POLISH (TO SHINE, TO BRUSH YOUR TEETH)
-擦 (Furigana),,,,さつ
-擦 (Meaning),,,,TO RUB (TO SCRUB)
-仕 (Furigana),,,,し
-仕 (Meaning),,,,TO SERVE
-眺 (Furigana),,,,ちょう
-眺 (Meaning),,,,TO STARE AT (TO LOOK AT, TO VIEW, TO GAZE AT)
-引 (Furigana),,,,ひ
-引 (Meaning),,,,TO TEAR UP (TO TEAR OFF, TO SPLIT)
-苛 (Furigana),,,,いじ
-苛 (Meaning),,,,TO TORMENT
+卓球 (Furigana),,,,たっきゅう
+卓球 (Meaning),,,,TABLE TENNIS (PING PONG)
+肌触り (Furigana),,,,はだざわり
+肌触り (Meaning),,,,THE TOUCH OF (FEEL OF, TEXTURE)
+潮時 (Furigana),,,,しおどき
+潮時 (Meaning),,,,TIDAL HOUR (THE RIGHT TIME, HIGH TIME)
+襲撃する (Furigana),,,,しゅうげきする
+襲撃する (Meaning),,,,TO ATTACK (TO ASSAULT)
+澄む (Furigana),,,,すむ
+澄む (Meaning),,,,TO BECOME CLEAR (TO BECOME TRANSPARENT)
+疲れる (Furigana),,,,つかれる
+疲れる (Meaning),,,,TO BECOME EXHAUSTED (TO BECOME TIRED, TO GET TIRED)
+湿る (Furigana),,,,しめる
+湿る (Meaning),,,,TO BE DAMP (TO BE MOIST, TO BE WET)
+滅びる (Furigana),,,,ほろびる
+滅びる (Meaning),,,,TO BE DESTROYED (TO BE ANNIHILATED)
+焦る (Furigana),,,,あせる
+焦る (Meaning),,,,TO BE IN A HURRY (TO BE IMPATIENT)
+呪う (Furigana),,,,のろう
+呪う (Meaning),,,,TO CURSE (TO PUT A CURSE ON)
+稼ぐ (Furigana),,,,かせぐ
+稼ぐ (Meaning),,,,TO EARN INCOME (TO MAKE MONEY)
+翔る (Furigana),,,,かける
+翔る (Meaning),,,,TO FLY (TO SOAR)
+賭ける (Furigana),,,,かける
+賭ける (Meaning),,,,TO GAMBLE (TO BET, TO STAKE, TO RISK)
+曇る (Furigana),,,,くもる
+曇る (Meaning),,,,TO GET CLOUDY (TO BECOME CLOUDY)
+狂う (Furigana),,,,くるう
+狂う (Meaning),,,,TO GO MAD (TO GO CRAZY)
+泊める (Furigana),,,,とめる
+泊める (Meaning),,,,TO LET SOMEONE STAY OVER (TO LET SOMEONE STAY THE NIGHT)
+嫁ぐ (Furigana),,,,とつぐ
+嫁ぐ (Meaning),,,,TO MARRY
+磨く (Furigana),,,,みがく
+磨く (Meaning),,,,TO POLISH (TO SHINE, TO BRUSH YOUR TEETH)
+擦る (Furigana),,,,する
+擦る (Meaning),,,,TO RUB (TO SCRUB)
+仕える (Furigana),,,,つかえる
+仕える (Meaning),,,,TO SERVE
+眺める (Furigana),,,,ながめる
+眺める (Meaning),,,,TO STARE AT (TO LOOK AT, TO VIEW, TO GAZE AT)
+引き裂く (Furigana),,,,ひきさく
+引き裂く (Meaning),,,,TO TEAR UP (TO TEAR OFF, TO SPLIT)
+苛む (Furigana),,,,さいなむ
+苛む (Meaning),,,,TO TORMENT
 滝 (Furigana),,,,たき
 滝 (Meaning),,,,WATERFALL
-井 (Furigana),,,,しょう
-井 (Meaning),,,,WELL
-湿 (Furigana),,,,しつ
-湿 (Meaning),,,,WETLANDS
-包 (Furigana),,,,ほう
-包 (Meaning),,,,WRAPPING PAPER
+井戸 (Furigana),,,,いど
+井戸 (Meaning),,,,WELL
+湿地 (Furigana),,,,しっち
+湿地 (Meaning),,,,WETLANDS
+包み紙 (Furigana),,,,つつみがみ
+包み紙 (Meaning),,,,WRAPPING PAPER

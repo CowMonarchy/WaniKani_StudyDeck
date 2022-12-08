@@ -70,169 +70,169 @@
 聡 (Meaning),,,,Wise
 枯 (Onyomi),,,,こ
 枯 (Meaning),,,,Wither
-慈 (Furigana),,,,じ
-慈 (Meaning),,,,AFFECTION (KINDNESS, LOVE)
+慈愛 (Furigana),,,,じあい
+慈愛 (Meaning),,,,AFFECTION (KINDNESS, LOVE)
 又 (Furigana),,,,また
 又 (Meaning),,,,AGAIN (AND ALSO, OR)
-耕 (Furigana),,,,こう
-耕 (Meaning),,,,ARABLE LAND
-喚 (Furigana),,,,かん
-喚 (Meaning),,,,AWAKEN (ROUSE, EVOKE, EXCITE)
+耕地 (Furigana),,,,こうち
+耕地 (Meaning),,,,ARABLE LAND
+喚起 (Furigana),,,,かんき
+喚起 (Meaning),,,,AWAKEN (ROUSE, EVOKE, EXCITE)
 浦 (Furigana),,,,うら
 浦 (Meaning),,,,BAY (INLET)
-沸 (Furigana),,,,ふつ
-沸 (Meaning),,,,BOILING POINT
+沸点 (Furigana),,,,ふってん
+沸点 (Meaning),,,,BOILING POINT
 瓶 (Furigana),,,,びん
 瓶 (Meaning),,,,BOTTLE (JAR)
-瓶 (Furigana),,,,びん
-瓶 (Meaning),,,,BOTTLING (BOTTLED)
-勘 (Furigana),,,,かん
-勘 (Meaning),,,,CALCULATION (COUNTING, ALLOWANCE, PAYMENT, BILL, CHECK)
-慈 (Furigana),,,,じ
-慈 (Meaning),,,,CHARITY (PHILANTHROPY)
-貞 (Furigana),,,,てい
-貞 (Meaning),,,,CHASTITY (VIRTUE, FIDELITY)
-貞 (Furigana),,,,てい
-貞 (Meaning),,,,CHASTITY (VIRTUE, FIDELITY)
+瓶詰 (Furigana),,,,びんづめ
+瓶詰 (Meaning),,,,BOTTLING (BOTTLED)
+勘定 (Furigana),,,,かんじょう
+勘定 (Meaning),,,,CALCULATION (COUNTING, ALLOWANCE, PAYMENT, BILL, CHECK)
+慈善 (Furigana),,,,じぜん
+慈善 (Meaning),,,,CHARITY (PHILANTHROPY)
+貞操 (Furigana),,,,ていそう
+貞操 (Meaning),,,,CHASTITY (VIRTUE, FIDELITY)
+貞節 (Furigana),,,,ていせつ
+貞節 (Meaning),,,,CHASTITY (VIRTUE, FIDELITY)
 襟 (Furigana),,,,えり
 襟 (Meaning),,,,COLLAR (LAPEL, NECK)
-慈 (Furigana),,,,じ
-慈 (Meaning),,,,COMPASSION (BENEVOLENCE, CHARITY, MERCY)
-片 (Furigana),,,,かた
-片 (Meaning),,,,CORNER (NOOK)
+慈悲 (Furigana),,,,じひ
+慈悲 (Meaning),,,,COMPASSION (BENEVOLENCE, CHARITY, MERCY)
+片隅 (Furigana),,,,かたすみ
+片隅 (Meaning),,,,CORNER (NOOK)
 隅 (Furigana),,,,すみ
 隅 (Meaning),,,,CORNER (NOOK, RECESS)
-耕 (Furigana),,,,こう
-耕 (Meaning),,,,CULTIVATION (FARMING)
-乾 (Furigana),,,,かん
-乾 (Meaning),,,,DEHYDRATION (DRYNESS)
-洗 (Furigana),,,,せん
-洗 (Meaning),,,,DETERGENT
+耕作 (Furigana),,,,こうさく
+耕作 (Meaning),,,,CULTIVATION (FARMING)
+乾燥 (Furigana),,,,かんそう
+乾燥 (Meaning),,,,DEHYDRATION (DRYNESS)
+洗濯粉 (Furigana),,,,せんたくこ
+洗濯粉 (Meaning),,,,DETERGENT
 郡 (Furigana),,,,ぐん
 郡 (Meaning),,,,DISTRICT (COUNTY)
-洗 (Furigana),,,,せん
-洗 (Meaning),,,,DRY CLEANERS (LAUNDROMAT)
-枯 (Furigana),,,,こ
-枯 (Meaning),,,,DRYING UP (DRY UP, RUNNING DRY)
-軒 (Furigana),,,,けん
+洗濯屋 (Furigana),,,,せんたくや
+洗濯屋 (Meaning),,,,DRY CLEANERS (LAUNDROMAT)
+枯渇 (Furigana),,,,こかつ
+枯渇 (Meaning),,,,DRYING UP (DRY UP, RUNNING DRY)
+軒 (Furigana),,,,のき
 軒 (Meaning),,,,EAVES (STAND IN A ROW, STAND SIDE BY SIDE)
-愛 (Furigana),,,,あい
-愛 (Meaning),,,,EHIME PREFECTURE
-空 (Furigana),,,,くう
-空 (Meaning),,,,EMPTY BOTTLE
-玄 (Furigana),,,,げん
-玄 (Meaning),,,,ENTRANCEWAY (ENTRY HALL, FOYER, ENTRYWAY)
-解 (Furigana),,,,かい
-解 (Meaning),,,,EXPLANATION (INTERPRETATION)
-釈 (Furigana),,,,しゃく
-釈 (Meaning),,,,EXPLANATION (VINDICATION)
-農 (Furigana),,,,のう
-農 (Meaning),,,,FARMING (AGRICULTURE)
-脂 (Furigana),,,,し
-脂 (Meaning),,,,FAT (GREASE, BLUBBER)
-柔 (Furigana),,,,じゅう
-柔 (Meaning),,,,FLEXIBLE (PLIABLE)
-四 (Furigana),,,,し
-四 (Meaning),,,,FOUR CORNERS
-偉 (Furigana),,,,い
-偉 (Meaning),,,,GREAT (EXCELLENT, ADMIRABLE, REMARKABLE)
-偉 (Furigana),,,,い
-偉 (Meaning),,,,GREATNESS (GRAND, OUTSTANDING)
-偉 (Furigana),,,,い
-偉 (Meaning),,,,GREAT PERSON (GREAT MAN, HERO)
-邸 (Furigana),,,,てい
-邸 (Meaning),,,,GROUNDS (PREMISES)
-軟 (Furigana),,,,なん
-軟 (Meaning),,,,HOUSE ARREST
-軒 (Furigana),,,,けん
-軒 (Meaning),,,,HOUSE COUNTER (COUNTER FOR HOUSES, BUILDING COUNTER, COUNTER FOR BUILDINGS)
-慌 (Furigana),,,,こう
-慌 (Meaning),,,,HURRIED (HASTY, BUSY, HECTIC, FRANTIC)
-焦 (Furigana),,,,しょう
-焦 (Meaning),,,,IMPATIENCE (UNEASY, IRRITATION)
-蓮 (Furigana),,,,れん
-蓮 (Meaning),,,,LOTUS FLOWER (LOTUS)
-邸 (Furigana),,,,てい
-邸 (Meaning),,,,MANSION (RESIDENCE)
-潤 (Furigana),,,,じゅん
-潤 (Meaning),,,,MOISTURE (RICHNESS, WETNESS)
-火 (Furigana),,,,か
-火 (Meaning),,,,MOLOTOV COCKTAIL
+愛媛県 (Furigana),,,,えひめけん
+愛媛県 (Meaning),,,,EHIME PREFECTURE
+空き瓶 (Furigana),,,,あきびん
+空き瓶 (Meaning),,,,EMPTY BOTTLE
+玄関 (Furigana),,,,げんかん
+玄関 (Meaning),,,,ENTRANCEWAY (ENTRY HALL, FOYER, ENTRYWAY)
+解釈 (Furigana),,,,かいしゃく
+解釈 (Meaning),,,,EXPLANATION (INTERPRETATION)
+釈明 (Furigana),,,,しゃくめい
+釈明 (Meaning),,,,EXPLANATION (VINDICATION)
+農耕 (Furigana),,,,のうこう
+農耕 (Meaning),,,,FARMING (AGRICULTURE)
+脂肪 (Furigana),,,,しぼう
+脂肪 (Meaning),,,,FAT (GREASE, BLUBBER)
+柔軟 (Furigana),,,,じゅうなん
+柔軟 (Meaning),,,,FLEXIBLE (PLIABLE)
+四隅 (Furigana),,,,よすみ
+四隅 (Meaning),,,,FOUR CORNERS
+偉い (Furigana),,,,えらい
+偉い (Meaning),,,,GREAT (EXCELLENT, ADMIRABLE, REMARKABLE)
+偉大 (Furigana),,,,いだい
+偉大 (Meaning),,,,GREATNESS (GRAND, OUTSTANDING)
+偉人 (Furigana),,,,いじん
+偉人 (Meaning),,,,GREAT PERSON (GREAT MAN, HERO)
+邸内 (Furigana),,,,ていない
+邸内 (Meaning),,,,GROUNDS (PREMISES)
+軟禁 (Furigana),,,,なんきん
+軟禁 (Meaning),,,,HOUSE ARREST
+〜軒 (Furigana),,,,けん
+〜軒 (Meaning),,,,HOUSE COUNTER (COUNTER FOR HOUSES, BUILDING COUNTER, COUNTER FOR BUILDINGS)
+慌ただしい (Furigana),,,,あわただしい
+慌ただしい (Meaning),,,,HURRIED (HASTY, BUSY, HECTIC, FRANTIC)
+焦燥 (Furigana),,,,しょうそう
+焦燥 (Meaning),,,,IMPATIENCE (UNEASY, IRRITATION)
+蓮花 (Furigana),,,,れんげ
+蓮花 (Meaning),,,,LOTUS FLOWER (LOTUS)
+邸宅 (Furigana),,,,ていたく
+邸宅 (Meaning),,,,MANSION (RESIDENCE)
+潤い (Furigana),,,,うるおい
+潤い (Meaning),,,,MOISTURE (RICHNESS, WETNESS)
+火炎瓶 (Furigana),,,,かえんびん
+火炎瓶 (Meaning),,,,MOLOTOV COCKTAIL
 塚 (Furigana),,,,つか
 塚 (Meaning),,,,MOUND (BURIAL MOUND)
-会 (Furigana),,,,かい
-会 (Meaning),,,,NOD (GREETING, BOW)
-隅 (Furigana),,,,すみ
-隅 (Meaning),,,,NOOKS (CORNERS)
-注 (Furigana),,,,ちゅう
-注 (Meaning),,,,NOTES (COMMENT, REMARK, ANNOTATION)
-官 (Furigana),,,,かん
-官 (Meaning),,,,OFFICIAL RESIDENCE
-公 (Furigana),,,,こう
-公 (Meaning),,,,OFFICIAL RESIDENCE
-肯 (Furigana),,,,こう
-肯 (Meaning),,,,POSITIVE (AFFIRMATION)
-私 (Furigana),,,,し
-私 (Meaning),,,,PRIVATE RESIDENCE
-樹 (Furigana),,,,じゅ
-樹 (Meaning),,,,RESIN
-亮 (Furigana),,,,りょう
-亮 (Meaning),,,,RYOHEI
-蓮 (Furigana),,,,れん
+会釈 (Furigana),,,,えしゃく
+会釈 (Meaning),,,,NOD (GREETING, BOW)
+隅々 (Furigana),,,,すみずみ
+隅々 (Meaning),,,,NOOKS (CORNERS)
+注釈 (Furigana),,,,ちゅうしゃく
+注釈 (Meaning),,,,NOTES (COMMENT, REMARK, ANNOTATION)
+官邸 (Furigana),,,,かんてい
+官邸 (Meaning),,,,OFFICIAL RESIDENCE
+公邸 (Furigana),,,,こうてい
+公邸 (Meaning),,,,OFFICIAL RESIDENCE
+肯定 (Furigana),,,,こうてい
+肯定 (Meaning),,,,POSITIVE (AFFIRMATION)
+私邸 (Furigana),,,,してい
+私邸 (Meaning),,,,PRIVATE RESIDENCE
+樹脂 (Furigana),,,,じゅし
+樹脂 (Meaning),,,,RESIN
+亮平 (Furigana),,,,りょうへい
+亮平 (Meaning),,,,RYOHEI
+蓮 (Furigana),,,,はす
 蓮 (Meaning),,,,SACRED LOTUS
-苗 (Furigana),,,,みょう
+苗 (Furigana),,,,なえ
 苗 (Meaning),,,,SEEDLING
-隻 (Furigana),,,,せき
-隻 (Meaning),,,,SHIP COUNTER (COUNTER FOR SHIPS)
-皮 (Furigana),,,,ひ
-皮 (Meaning),,,,SKIN
-聡 (Furigana),,,,そう
-聡 (Meaning),,,,SMART (SENSITIVE, DISCERNING)
-郊 (Furigana),,,,こう
-郊 (Meaning),,,,SUBURB (OUTSKIRTS)
-近 (Furigana),,,,きん
-近 (Meaning),,,,SUBURBS (OUTSKIRTS)
-山 (Furigana),,,,さん
-山 (Meaning),,,,SUMMIT
-召 (Furigana),,,,しょう
-召 (Meaning),,,,SUMMON (SUMMONS)
-苗 (Furigana),,,,みょう
-苗 (Meaning),,,,SURNAME (FAMILY NAME)
-世 (Furigana),,,,せい
-世 (Meaning),,,,THE GREAT DEPRESSION
-沸 (Furigana),,,,ふつ
-沸 (Meaning),,,,TO BOIL (TO GROW HOT, TO GET EXCITED)
-覆 (Furigana),,,,ふく
-覆 (Meaning),,,,TO COVER (TO HIDE, TO CONCEAL)
-頂 (Furigana),,,,ちょう
-頂 (Meaning),,,,TO HUMBLY RECEIVE (TO HUMBLY ACCEPT, TO HUMBLY EAT, TO HUMBLY DRINK)
-挟 (Furigana),,,,はさ
-挟 (Meaning),,,,TO PUT BETWEEN (TO SANDWICH, TO INSERT)
-召 (Furigana),,,,しょう
-召 (Meaning),,,,TO RESPECTFULLY CALL (TO RESPECTFULLY INVITE, TO RESPECTFULLY EAT, TO RESPECTFULLY DRINK)
-煎 (Furigana),,,,せん
-煎 (Meaning),,,,TO ROAST (TO TOAST)
-喚 (Furigana),,,,かん
-喚 (Meaning),,,,TO SHOUT (TO SCREAM)
-浸 (Furigana),,,,しん
-浸 (Meaning),,,,TO SOAK (TO STEEP, TO DIP)
-耕 (Furigana),,,,こう
-耕 (Meaning),,,,TO TILL (TO PLOW, TO PLOUGH, TO CULTIVATE)
-洗 (Furigana),,,,せん
-洗 (Meaning),,,,TO WASH (TO DO LAUNDRY)
-枯 (Furigana),,,,こ
-枯 (Meaning),,,,TO WITHER (TO DIE)
-不 (Furigana),,,,ふ
-不 (Meaning),,,,UNFAITHFUL (INFIDELITY)
-玄 (Furigana),,,,げん
-玄 (Meaning),,,,UNPOLISHED RICE (UNMILLED RICE, BROWN RICE)
-花 (Furigana),,,,はな
-花 (Meaning),,,,VASE (FLOWER VASE)
-渦 (Furigana),,,,か
-渦 (Meaning),,,,VORTEX (MAELSTROM)
-洗 (Furigana),,,,せん
-洗 (Meaning),,,,WASHING MACHINE (LAUNDRY MACHINE)
-渦 (Furigana),,,,か
+〜隻 (Furigana),,,,せき
+〜隻 (Meaning),,,,SHIP COUNTER (COUNTER FOR SHIPS)
+皮膚 (Furigana),,,,ひふ
+皮膚 (Meaning),,,,SKIN
+聡い (Furigana),,,,さとい
+聡い (Meaning),,,,SMART (SENSITIVE, DISCERNING)
+郊外 (Furigana),,,,こうがい
+郊外 (Meaning),,,,SUBURB (OUTSKIRTS)
+近郊 (Furigana),,,,きんこう
+近郊 (Meaning),,,,SUBURBS (OUTSKIRTS)
+山頂 (Furigana),,,,さんちょう
+山頂 (Meaning),,,,SUMMIT
+召喚 (Furigana),,,,しょうかん
+召喚 (Meaning),,,,SUMMON (SUMMONS)
+苗字 (Furigana),,,,みょうじ
+苗字 (Meaning),,,,SURNAME (FAMILY NAME)
+世界恐慌 (Furigana),,,,せかいきょうこう
+世界恐慌 (Meaning),,,,THE GREAT DEPRESSION
+沸く (Furigana),,,,わく
+沸く (Meaning),,,,TO BOIL (TO GROW HOT, TO GET EXCITED)
+覆う (Furigana),,,,おおう
+覆う (Meaning),,,,TO COVER (TO HIDE, TO CONCEAL)
+頂く (Furigana),,,,いただく
+頂く (Meaning),,,,TO HUMBLY RECEIVE (TO HUMBLY ACCEPT, TO HUMBLY EAT, TO HUMBLY DRINK)
+挟む (Furigana),,,,はさむ
+挟む (Meaning),,,,TO PUT BETWEEN (TO SANDWICH, TO INSERT)
+召す (Furigana),,,,めす
+召す (Meaning),,,,TO RESPECTFULLY CALL (TO RESPECTFULLY INVITE, TO RESPECTFULLY EAT, TO RESPECTFULLY DRINK)
+煎る (Furigana),,,,いる
+煎る (Meaning),,,,TO ROAST (TO TOAST)
+喚く (Furigana),,,,わめく
+喚く (Meaning),,,,TO SHOUT (TO SCREAM)
+浸す (Furigana),,,,ひたす
+浸す (Meaning),,,,TO SOAK (TO STEEP, TO DIP)
+耕す (Furigana),,,,たがやす
+耕す (Meaning),,,,TO TILL (TO PLOW, TO PLOUGH, TO CULTIVATE)
+洗濯する (Furigana),,,,せんたくする
+洗濯する (Meaning),,,,TO WASH (TO DO LAUNDRY)
+枯れる (Furigana),,,,かれる
+枯れる (Meaning),,,,TO WITHER (TO DIE)
+不貞 (Furigana),,,,ふてい
+不貞 (Meaning),,,,UNFAITHFUL (INFIDELITY)
+玄米 (Furigana),,,,げんまい
+玄米 (Meaning),,,,UNPOLISHED RICE (UNMILLED RICE, BROWN RICE)
+花瓶 (Furigana),,,,かびん
+花瓶 (Meaning),,,,VASE (FLOWER VASE)
+渦中 (Furigana),,,,かちゅう
+渦中 (Meaning),,,,VORTEX (MAELSTROM)
+洗濯機 (Furigana),,,,せんたくき
+洗濯機 (Meaning),,,,WASHING MACHINE (LAUNDRY MACHINE)
+渦 (Furigana),,,,うず
 渦 (Meaning),,,,WHIRLPOOL (EDDY, VORTEX)
-聡 (Furigana),,,,そう
-聡 (Meaning),,,,WISE (INTELLIGENT, WISDOM)
+聡明 (Furigana),,,,そうめい
+聡明 (Meaning),,,,WISE (INTELLIGENT, WISDOM)

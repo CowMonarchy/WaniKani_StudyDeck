@@ -72,199 +72,199 @@
 芯 (Meaning),,,,Wick
 柳 (Onyomi),,,,りゅう
 柳 (Meaning),,,,Willow
-補 (Furigana),,,,ほ
-補 (Meaning),,,,AID (HELP, ASSISTANCE)
-裸 (Furigana),,,,ら
-裸 (Meaning),,,,BAREFOOT
-胴 (Furigana),,,,どう
-胴 (Meaning),,,,BODY (TRUNK, TORSO)
-挿 (Furigana),,,,そう
-挿 (Meaning),,,,BOOK ILLUSTRATION
+補佐 (Furigana),,,,ほさ
+補佐 (Meaning),,,,AID (HELP, ASSISTANCE)
+裸足 (Furigana),,,,はだし
+裸足 (Meaning),,,,BAREFOOT
+胴体 (Furigana),,,,どうたい
+胴体 (Meaning),,,,BODY (TRUNK, TORSO)
+挿絵 (Furigana),,,,さしえ
+挿絵 (Meaning),,,,BOOK ILLUSTRATION
 箸 (Furigana),,,,はし
 箸 (Meaning),,,,CHOPSTICKS
-明 (Furigana),,,,めい
-明 (Meaning),,,,CLARITY (CLEARNESS)
-粘 (Furigana),,,,ねん
-粘 (Meaning),,,,CLAY
-崖 (Furigana),,,,がい
+明瞭 (Furigana),,,,めいりょう
+明瞭 (Meaning),,,,CLARITY (CLEARNESS)
+粘土 (Furigana),,,,ねんど
+粘土 (Meaning),,,,CLAY
+崖 (Furigana),,,,がけ
 崖 (Meaning),,,,CLIFF
-粘 (Furigana),,,,ねん
-粘 (Meaning),,,,COHESION (ADHESION, ADHESIVE)
-大 (Furigana),,,,たい
-大 (Meaning),,,,COLONEL (NAVY CAPTAIN)
-川 (Furigana),,,,かわ
-川 (Meaning),,,,COMIC HAIKU
-炊 (Furigana),,,,すい
-炊 (Meaning),,,,COOKING (CULINARY ARTS)
-自 (Furigana),,,,じ
-自 (Meaning),,,,COOKING FOR ONESELF
+粘着 (Furigana),,,,ねんちゃく
+粘着 (Meaning),,,,COHESION (ADHESION, ADHESIVE)
+大佐 (Furigana),,,,たいさ
+大佐 (Meaning),,,,COLONEL (NAVY CAPTAIN)
+川柳 (Furigana),,,,せんりゅう
+川柳 (Meaning),,,,COMIC HAIKU
+炊事 (Furigana),,,,すいじ
+炊事 (Meaning),,,,COOKING (CULINARY ARTS)
+自炊 (Furigana),,,,じすい
+自炊 (Meaning),,,,COOKING FOR ONESELF
 芯 (Furigana),,,,しん
 芯 (Meaning),,,,CORE (WICK, PENCIL LEAD, MARROW)
-畳 (Furigana),,,,じょう
-畳 (Meaning),,,,COUNTER FOR TATAMI MATS (TATAMI MAT COUNTER)
-布 (Furigana),,,,ふ
-布 (Meaning),,,,DISH CLOTH (TEA TOWEL)
-門 (Furigana),,,,もん
-門 (Meaning),,,,DOORS OF A GATE (GATE DOORS)
-水 (Furigana),,,,すい
-水 (Meaning),,,,DROP OF WATER (WATER DROP)
-雑 (Furigana),,,,ざつ
-雑 (Meaning),,,,DUST CLOTH (HOUSE CLOTH)
-稼 (Furigana),,,,か
-稼 (Meaning),,,,EARNINGS
-扇 (Furigana),,,,せん
-扇 (Meaning),,,,ELECTRIC FAN (ELECTRONIC FAN)
-伊 (Furigana),,,,い
-伊 (Meaning),,,,ELEGANCE (DANDYISM, SOPHISTICATION)
-挿 (Furigana),,,,そう
-挿 (Meaning),,,,EPISODE
-墜 (Furigana),,,,つい
-墜 (Meaning),,,,FALLING (CRASHING)
+〜畳 (Furigana),,,,じょう
+〜畳 (Meaning),,,,COUNTER FOR TATAMI MATS (TATAMI MAT COUNTER)
+布巾 (Furigana),,,,ふきん
+布巾 (Meaning),,,,DISH CLOTH (TEA TOWEL)
+門扉 (Furigana),,,,もんぴ
+門扉 (Meaning),,,,DOORS OF A GATE (GATE DOORS)
+水滴 (Furigana),,,,すいてき
+水滴 (Meaning),,,,DROP OF WATER (WATER DROP)
+雑巾 (Furigana),,,,ぞうきん
+雑巾 (Meaning),,,,DUST CLOTH (HOUSE CLOTH)
+稼ぎ (Furigana),,,,かせぎ
+稼ぎ (Meaning),,,,EARNINGS
+扇風機 (Furigana),,,,せんぷうき
+扇風機 (Meaning),,,,ELECTRIC FAN (ELECTRONIC FAN)
+伊達 (Furigana),,,,だて
+伊達 (Meaning),,,,ELEGANCE (DANDYISM, SOPHISTICATION)
+挿話 (Furigana),,,,そうわ
+挿話 (Meaning),,,,EPISODE
+墜落 (Furigana),,,,ついらく
+墜落 (Meaning),,,,FALLING (CRASHING)
 霧 (Furigana),,,,きり
 霧 (Meaning),,,,FOG (MIST)
-扇 (Furigana),,,,せん
-扇 (Meaning),,,,FOLDING FAN (TRADITIONAL PAPER FAN, PAPER FAN)
-詐 (Furigana),,,,さ
-詐 (Meaning),,,,FRAUD (SWINDLING, SCAM)
-扉 (Furigana),,,,ひ
+扇子 (Furigana),,,,せんす
+扇子 (Meaning),,,,FOLDING FAN (TRADITIONAL PAPER FAN, PAPER FAN)
+詐欺 (Furigana),,,,さぎ
+詐欺 (Meaning),,,,FRAUD (SWINDLING, SCAM)
+扉 (Furigana),,,,とびら
 扉 (Meaning),,,,FRONT DOOR (DOOR, GATE, FRONT PAGE)
-婆 (Furigana),,,,ば
-婆 (Meaning),,,,GRANDMOTHER (OLD WOMAN, OLD LADY)
-掌 (Furigana),,,,しょう
-掌 (Meaning),,,,GRASPING (SEIZING, HOLDING)
-砂 (Furigana),,,,さ
-砂 (Meaning),,,,GRAVEL
-煎 (Furigana),,,,せん
-煎 (Meaning),,,,GREEN TEA (GREEN LEAF TEA, SENCHA)
-帽 (Furigana),,,,ぼう
-帽 (Meaning),,,,HAT (CAP)
-狩 (Furigana),,,,か
-狩 (Meaning),,,,HUNTING
-挿 (Furigana),,,,そう
-挿 (Meaning),,,,INSERTION
-点 (Furigana),,,,てん
-点 (Meaning),,,,INTRAVENOUS DRIP (IV DRIP, RAINDROPS, FALLING DROPS OF WATER)
-伊 (Furigana),,,,い
-伊 (Meaning),,,,ISE
-塊 (Furigana),,,,かたまり
-塊 (Meaning),,,,KATAMARI DAMACY
-欠 (Furigana),,,,けつ
-欠 (Meaning),,,,LACK (DEFICIENCY)
-中 (Furigana),,,,ちゅう
-中 (Meaning),,,,LIEUTENANT COLONEL (NAVY COMMANDER)
-躍 (Furigana),,,,やく
-躍 (Meaning),,,,LIFELIKE (VIVID)
+お婆さん (Furigana),,,,おばあさん
+お婆さん (Meaning),,,,GRANDMOTHER (OLD WOMAN, OLD LADY)
+掌握 (Furigana),,,,しょうあく
+掌握 (Meaning),,,,GRASPING (SEIZING, HOLDING)
+砂利 (Furigana),,,,じゃり
+砂利 (Meaning),,,,GRAVEL
+煎茶 (Furigana),,,,せんちゃ
+煎茶 (Meaning),,,,GREEN TEA (GREEN LEAF TEA, SENCHA)
+帽子 (Furigana),,,,ぼうし
+帽子 (Meaning),,,,HAT (CAP)
+〜狩り (Furigana),,,,かり
+〜狩り (Meaning),,,,HUNTING
+挿入 (Furigana),,,,そうにゅう
+挿入 (Meaning),,,,INSERTION
+点滴 (Furigana),,,,てんてき
+点滴 (Meaning),,,,INTRAVENOUS DRIP (IV DRIP, RAINDROPS, FALLING DROPS OF WATER)
+伊勢 (Furigana),,,,いせ
+伊勢 (Meaning),,,,ISE
+塊魂 (Furigana),,,,かたまりだましい
+塊魂 (Meaning),,,,KATAMARI DAMACY
+欠如 (Furigana),,,,けつじょ
+欠如 (Meaning),,,,LACK (DEFICIENCY)
+中佐 (Furigana),,,,ちゅうさ
+中佐 (Meaning),,,,LIEUTENANT COLONEL (NAVY COMMANDER)
+躍如 (Furigana),,,,やくじょ
+躍如 (Meaning),,,,LIFELIKE (VIVID)
 唇 (Furigana),,,,くちびる
 唇 (Meaning),,,,LIPS
-愛 (Furigana),,,,あい
-愛 (Meaning),,,,LOVE AND HATE
-下 (Furigana),,,,か
-下 (Meaning),,,,LOWER LIP (BOTTOM LIP)
-少 (Furigana),,,,しょう
-少 (Meaning),,,,MAJOR (LIEUTENANT COMMANDER)
-化 (Furigana),,,,か
-化 (Meaning),,,,MAKEUP (COSMETICS)
-詐 (Furigana),,,,さ
-詐 (Meaning),,,,MISREPRESENTATION (FALSE STATEMENT)
-貨 (Furigana),,,,か
-貨 (Meaning),,,,MONEY (CURRENCY, COINAGE)
-朝 (Furigana),,,,あさ
-朝 (Meaning),,,,MORNING FOG
-土 (Furigana),,,,ど
-土 (Meaning),,,,MUD WALL (EARTHEN WALL)
-老 (Furigana),,,,ろう
-老 (Meaning),,,,OLD WOMAN (ELDERLY WOMAN)
-掌 (Furigana),,,,しょう
+愛憎 (Furigana),,,,あいぞう
+愛憎 (Meaning),,,,LOVE AND HATE
+下唇 (Furigana),,,,したくちびる
+下唇 (Meaning),,,,LOWER LIP (BOTTOM LIP)
+少佐 (Furigana),,,,しょうさ
+少佐 (Meaning),,,,MAJOR (LIEUTENANT COMMANDER)
+化粧 (Furigana),,,,けしょう
+化粧 (Meaning),,,,MAKEUP (COSMETICS)
+詐称 (Furigana),,,,さしょう
+詐称 (Meaning),,,,MISREPRESENTATION (FALSE STATEMENT)
+貨幣 (Furigana),,,,かへい
+貨幣 (Meaning),,,,MONEY (CURRENCY, COINAGE)
+朝霧 (Furigana),,,,あさぎり
+朝霧 (Meaning),,,,MORNING FOG
+土塀 (Furigana),,,,どべい
+土塀 (Meaning),,,,MUD WALL (EARTHEN WALL)
+老婆 (Furigana),,,,ろうば
+老婆 (Meaning),,,,OLD WOMAN (ELDERLY WOMAN)
+掌 (Furigana),,,,てのひら
 掌 (Meaning),,,,PALM OF ONE'S HAND (PALM)
-紙 (Furigana),,,,かみ
-紙 (Meaning),,,,PAPER MONEY (NOTES, BILLS)
-岳 (Furigana),,,,がく
+紙幣 (Furigana),,,,しへい
+紙幣 (Meaning),,,,PAPER MONEY (NOTES, BILLS)
+岳 (Furigana),,,,たけ
 岳 (Meaning),,,,PEAK (MOUNTAIN)
-可 (Furigana),,,,か
-可 (Meaning),,,,PITIFUL (POOR, PITIABLE, PATHETIC)
-哀 (Furigana),,,,あい
-哀 (Meaning),,,,PITY (SORROW, GRIEF)
-矛 (Furigana),,,,む
-矛 (Meaning),,,,POINT OF SPEAR (SPEARPOINT, BRUNT)
-粉 (Furigana),,,,ふん
-粉 (Meaning),,,,PULVERIZATION (SMASHING)
+可哀想 (Furigana),,,,かわいそう
+可哀想 (Meaning),,,,PITIFUL (POOR, PITIABLE, PATHETIC)
+哀れ (Furigana),,,,あわれ
+哀れ (Meaning),,,,PITY (SORROW, GRIEF)
+矛先 (Furigana),,,,ほこさき
+矛先 (Meaning),,,,POINT OF SPEAR (SPEARPOINT, BRUNT)
+粉砕 (Furigana),,,,ふんさい
+粉砕 (Meaning),,,,PULVERIZATION (SMASHING)
 虹 (Furigana),,,,にじ
 虹 (Meaning),,,,RAINBOW
-虹 (Furigana),,,,にじ
-虹 (Meaning),,,,RAINBOW COLORED
-花 (Furigana),,,,はな
-花 (Meaning),,,,RED LIGHT DISTRICT
-爽 (Furigana),,,,さわ
-爽 (Meaning),,,,REFRESHING (FRESH, INVIGORATING, ELOQUENT)
-痛 (Furigana),,,,つう
-痛 (Meaning),,,,REGRET (REGRETFUL, CONTRITION, REMORSE)
-休 (Furigana),,,,きゅう
-休 (Meaning),,,,REST (BREAK, RECESS, INTERMISSION)
-炊 (Furigana),,,,すい
-炊 (Meaning),,,,RICE COOKER
-砕 (Furigana),,,,さい
-砕 (Meaning),,,,RUBBLE (BROKEN STONE)
-煎 (Furigana),,,,せん
-煎 (Meaning),,,,SENBEI (RICE CRACKER)
+虹色 (Furigana),,,,にじいろ
+虹色 (Meaning),,,,RAINBOW COLORED
+花柳 (Furigana),,,,かりゅう
+花柳 (Meaning),,,,RED LIGHT DISTRICT
+爽やか (Furigana),,,,さわやか
+爽やか (Meaning),,,,REFRESHING (FRESH, INVIGORATING, ELOQUENT)
+痛恨 (Furigana),,,,つうこん
+痛恨 (Meaning),,,,REGRET (REGRETFUL, CONTRITION, REMORSE)
+休憩 (Furigana),,,,きゅうけい
+休憩 (Meaning),,,,REST (BREAK, RECESS, INTERMISSION)
+炊飯器 (Furigana),,,,すいはんき
+炊飯器 (Meaning),,,,RICE COOKER
+砕石 (Furigana),,,,さいせき
+砕石 (Meaning),,,,RUBBLE (BROKEN STONE)
+煎餅 (Furigana),,,,せんべい
+煎餅 (Meaning),,,,SENBEI (RICE CRACKER)
 尺 (Furigana),,,,しゃく
 尺 (Meaning),,,,SHAKU (JAPANESE FOOT)
-撃 (Furigana),,,,げき
-撃 (Meaning),,,,SHOOTING DOWN (SHOOTING DOWN AN AIRCRAFT)
-悲 (Furigana),,,,ひ
-悲 (Meaning),,,,SORROW (GRIEF, SADNESS)
-割 (Furigana),,,,わり
-割 (Meaning),,,,SPLITTABLE CHOPSTICKS (SPLITTABLE WOOD CHOPSTICKS)
-粘 (Furigana),,,,ねん
-粘 (Meaning),,,,STICKINESS (STICKY)
-突 (Furigana),,,,とつ
-突 (Meaning),,,,SUDDENLY (ALL OF A SUDDEN)
-詐 (Furigana),,,,さ
-詐 (Meaning),,,,SWINDLE (CHEAT, DEFRAUD, RIP-OFF)
-巻 (Furigana),,,,かん
-巻 (Meaning),,,,TAPE MEASURE (MEASURING TAPE)
-畳 (Furigana),,,,じょう
+撃墜 (Furigana),,,,げきつい
+撃墜 (Meaning),,,,SHOOTING DOWN (SHOOTING DOWN AN AIRCRAFT)
+悲哀 (Furigana),,,,ひあい
+悲哀 (Meaning),,,,SORROW (GRIEF, SADNESS)
+割り箸 (Furigana),,,,わりばし
+割り箸 (Meaning),,,,SPLITTABLE CHOPSTICKS (SPLITTABLE WOOD CHOPSTICKS)
+粘々 (Furigana),,,,ねばねば
+粘々 (Meaning),,,,STICKINESS (STICKY)
+突如 (Furigana),,,,とつじょ
+突如 (Meaning),,,,SUDDENLY (ALL OF A SUDDEN)
+詐取 (Furigana),,,,さしゅ
+詐取 (Meaning),,,,SWINDLE (CHEAT, DEFRAUD, RIP-OFF)
+巻尺 (Furigana),,,,まきじゃく
+巻尺 (Meaning),,,,TAPE MEASURE (MEASURING TAPE)
+畳 (Furigana),,,,たたみ
 畳 (Meaning),,,,TATAMI MAT (TATAMI)
-陰 (Furigana),,,,いん
-陰 (Meaning),,,,THANKS TO (BECAUSE OF)
-黒 (Furigana),,,,こく
-黒 (Meaning),,,,THICK FOG (BLACK VEIL, COVERED UP)
-疲 (Furigana),,,,ひ
-疲 (Meaning),,,,TIREDNESS (FATIGUE)
-粘 (Furigana),,,,ねん
-粘 (Meaning),,,,TO BE STICKY (TO PERSEVERE)
-歯 (Furigana),,,,は
-歯 (Meaning),,,,TO BRUSH ONE'S TEETH
-彫 (Furigana),,,,ちょう
-彫 (Meaning),,,,TO CARVE SOMETHING (TO ENGRAVE SOMETHING)
-欺 (Furigana),,,,ぎ
-欺 (Meaning),,,,TO DECEIVE (TO SWINDLE, TO DELUDE)
-滴 (Furigana),,,,てき
-滴 (Meaning),,,,TO DRIP
-扇 (Furigana),,,,せん
-扇 (Meaning),,,,TO FAN
-憎 (Furigana),,,,ぞう
-憎 (Meaning),,,,TO HATE (TO DETEST)
-恨 (Furigana),,,,こん
-恨 (Meaning),,,,TO HOLD A GRUDGE
-澄 (Furigana),,,,す
-澄 (Meaning),,,,TO MAKE SOMETHING CLEAR (TO CLEAR SOMETHING, TO STRAIN)
-湿 (Furigana),,,,しつ
-湿 (Meaning),,,,TO MOISTEN (TO DAMPEN)
-憩 (Furigana),,,,けい
-憩 (Meaning),,,,TO REST (TO RELAX)
+お陰で (Furigana),,,,おかげで
+お陰で (Meaning),,,,THANKS TO (BECAUSE OF)
+黒い霧 (Furigana),,,,くろいきり
+黒い霧 (Meaning),,,,THICK FOG (BLACK VEIL, COVERED UP)
+疲れ (Furigana),,,,つかれ
+疲れ (Meaning),,,,TIREDNESS (FATIGUE)
+粘る (Furigana),,,,ねばる
+粘る (Meaning),,,,TO BE STICKY (TO PERSEVERE)
+歯を磨く (Furigana),,,,はをみがく
+歯を磨く (Meaning),,,,TO BRUSH ONE'S TEETH
+彫る (Furigana),,,,ほる
+彫る (Meaning),,,,TO CARVE SOMETHING (TO ENGRAVE SOMETHING)
+欺く (Furigana),,,,あざむく
+欺く (Meaning),,,,TO DECEIVE (TO SWINDLE, TO DELUDE)
+滴る (Furigana),,,,したたる
+滴る (Meaning),,,,TO DRIP
+扇ぐ (Furigana),,,,あおぐ
+扇ぐ (Meaning),,,,TO FAN
+憎む (Furigana),,,,にくむ
+憎む (Meaning),,,,TO HATE (TO DETEST)
+恨む (Furigana),,,,うらむ
+恨む (Meaning),,,,TO HOLD A GRUDGE
+澄ます (Furigana),,,,すます
+澄ます (Meaning),,,,TO MAKE SOMETHING CLEAR (TO CLEAR SOMETHING, TO STRAIN)
+湿らせる (Furigana),,,,しめらせる
+湿らせる (Meaning),,,,TO MOISTEN (TO DAMPEN)
+憩う (Furigana),,,,いこう
+憩う (Meaning),,,,TO REST (TO RELAX)
 胴 (Furigana),,,,どう
 胴 (Meaning),,,,TORSO (ABDOMEN, WAIST)
-零 (Furigana),,,,れい
-零 (Meaning),,,,TO SPILL SOMETHING (TO DROP SOMETHING, TO SHED TEARS)
-車 (Furigana),,,,しゃ
-車 (Meaning),,,,TRAIN CONDUCTOR
-上 (Furigana),,,,じょう
-上 (Meaning),,,,UPPER LIP (TOP LIP)
-眺 (Furigana),,,,ちょう
-眺 (Meaning),,,,VIEW (SCENE, PROSPECT)
+零す (Furigana),,,,こぼす
+零す (Meaning),,,,TO SPILL SOMETHING (TO DROP SOMETHING, TO SHED TEARS)
+車掌 (Furigana),,,,しゃしょう
+車掌 (Meaning),,,,TRAIN CONDUCTOR
+上唇 (Furigana),,,,うわくちびる
+上唇 (Meaning),,,,UPPER LIP (TOP LIP)
+眺め (Furigana),,,,ながめ
+眺め (Meaning),,,,VIEW (SCENE, PROSPECT)
 塀 (Furigana),,,,へい
 塀 (Meaning),,,,WALL (FENCE)
-柳 (Furigana),,,,りゅう
+柳 (Furigana),,,,やなぎ
 柳 (Meaning),,,,WILLOW (WEEPING WILLOW)
-嬢 (Furigana),,,,じょう
-嬢 (Meaning),,,,YOUNG LADY (MISS, DAUGHTER)
+お嬢さん (Furigana),,,,おじょうさん
+お嬢さん (Meaning),,,,YOUNG LADY (MISS, DAUGHTER)

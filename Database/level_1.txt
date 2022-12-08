@@ -34,77 +34,77 @@
 二 (Meaning),,,,Two
 女 (Onyomi),,,,じょ
 女 (Meaning),,,,Woman
-大 (Furigana),,,,たい
-大 (Meaning),,,,ADULT (MATURE)
-一 (Furigana),,,,いち
-一 (Meaning),,,,ALONE (ONE PERSON)
-人 (Furigana),,,,にん
-人 (Meaning),,,,ARTIFICIAL (MAN MADE, HUMAN MADE)
-大 (Furigana),,,,たい
-大 (Meaning),,,,BIG (LARGE)
-下 (Furigana),,,,か
+大人 (Furigana),,,,おとな
+大人 (Meaning),,,,ADULT (MATURE)
+一人 (Furigana),,,,ひとり
+一人 (Meaning),,,,ALONE (ONE PERSON)
+人工 (Furigana),,,,じんこう
+人工 (Meaning),,,,ARTIFICIAL (MAN MADE, HUMAN MADE)
+大きい (Furigana),,,,おおきい
+大きい (Meaning),,,,BIG (LARGE)
+下 (Furigana),,,,した
 下 (Meaning),,,,DOWN (BELOW, UNDER, BENEATH)
 八 (Furigana),,,,はち
 八 (Meaning),,,,EIGHT
-八 (Furigana),,,,はち
-八 (Meaning),,,,EIGHT THINGS
-入 (Furigana),,,,にゅう
-入 (Meaning),,,,ENTRANCE
-大 (Furigana),,,,たい
-大 (Meaning),,,,GREAT (CONSIDERABLE, IMPORTANT, BIG DEAL)
-山 (Furigana),,,,さん
+八つ (Furigana),,,,やっつ
+八つ (Meaning),,,,EIGHT THINGS
+入り口 (Furigana),,,,いりぐち
+入り口 (Meaning),,,,ENTRANCE
+大した (Furigana),,,,たいした
+大した (Meaning),,,,GREAT (CONSIDERABLE, IMPORTANT, BIG DEAL)
+山 (Furigana),,,,やま
 山 (Meaning),,,,MOUNTAIN
-口 (Furigana),,,,こう
+口 (Furigana),,,,くち
 口 (Meaning),,,,MOUTH
-山 (Furigana),,,,さん
-山 (Meaning),,,,MT FUJI (MOUNT FUJI, MT. FUJI)
-九 (Furigana),,,,く
+ふじ山 (Furigana),,,,ふじさん
+ふじ山 (Meaning),,,,MT FUJI (MOUNT FUJI, MT. FUJI)
+九 (Furigana),,,,きゅう
 九 (Meaning),,,,NINE
-九 (Furigana),,,,く
-九 (Meaning),,,,NINE THINGS
+九つ (Furigana),,,,ここのつ
+九つ (Meaning),,,,NINE THINGS
 一 (Furigana),,,,いち
 一 (Meaning),,,,ONE
-一 (Furigana),,,,いち
-一 (Meaning),,,,ONE THING
-人 (Furigana),,,,にん
+一つ (Furigana),,,,ひとつ
+一つ (Meaning),,,,ONE THING
+人 (Furigana),,,,ひと
 人 (Meaning),,,,PERSON
-下 (Furigana),,,,か
-下 (Meaning),,,,PLEASE GIVE ME (PLEASE)
-人 (Furigana),,,,にん
-人 (Meaning),,,,POPULATION
-力 (Furigana),,,,りょく
+下さい (Furigana),,,,ください
+下さい (Meaning),,,,PLEASE GIVE ME (PLEASE)
+人口 (Furigana),,,,じんこう
+人口 (Meaning),,,,POPULATION
+力 (Furigana),,,,ちから
 力 (Meaning),,,,POWER (STRENGTH, ABILITY)
 川 (Furigana),,,,かわ
 川 (Meaning),,,,RIVER
-七 (Furigana),,,,しち
+七 (Furigana),,,,なな
 七 (Meaning),,,,SEVEN
-七 (Furigana),,,,しち
-七 (Meaning),,,,SEVEN THINGS
-大 (Furigana),,,,たい
-大 (Meaning),,,,SIZE
+七つ (Furigana),,,,ななつ
+七つ (Meaning),,,,SEVEN THINGS
+大きさ (Furigana),,,,おおきさ
+大きさ (Meaning),,,,SIZE
 十 (Furigana),,,,じゅう
 十 (Meaning),,,,TEN
 三 (Furigana),,,,さん
 三 (Meaning),,,,THREE
-三 (Furigana),,,,さん
-三 (Meaning),,,,THREE PEOPLE (THREE PERSONS)
-三 (Furigana),,,,さん
-三 (Meaning),,,,THREE THINGS
-入 (Furigana),,,,にゅう
-入 (Meaning),,,,TO ENTER (TO GO IN)
-上 (Furigana),,,,じょう
-上 (Meaning),,,,TO LIFT SOMETHING (TO RAISE SOMETHING, TO INCREASE SOMETHING)
-下 (Furigana),,,,か
-下 (Meaning),,,,TO LOWER SOMETHING (TO HANG SOMETHING)
+三人 (Furigana),,,,さんにん
+三人 (Meaning),,,,THREE PEOPLE (THREE PERSONS)
+三つ (Furigana),,,,みっつ
+三つ (Meaning),,,,THREE THINGS
+入る (Furigana),,,,はいる
+入る (Meaning),,,,TO ENTER (TO GO IN)
+上げる (Furigana),,,,あげる
+上げる (Meaning),,,,TO LIFT SOMETHING (TO RAISE SOMETHING, TO INCREASE SOMETHING)
+下げる (Furigana),,,,さげる
+下げる (Meaning),,,,TO LOWER SOMETHING (TO HANG SOMETHING)
 二 (Furigana),,,,に
 二 (Meaning),,,,TWO
-二 (Furigana),,,,に
-二 (Meaning),,,,TWO PEOPLE (PAIR, COUPLE, TWO PERSONS)
-二 (Furigana),,,,に
-二 (Meaning),,,,TWO THINGS
-上 (Furigana),,,,じょう
+二人 (Furigana),,,,ふたり
+二人 (Meaning),,,,TWO PEOPLE (PAIR, COUPLE, TWO PERSONS)
+二つ (Furigana),,,,ふたつ
+二つ (Meaning),,,,TWO THINGS
+上 (Furigana),,,,うえ
 上 (Meaning),,,,UP (ABOVE, OVER)
-力 (Furigana),,,,りょく
-力 (Meaning),,,,WITH ALL ONE'S STRENGTH (FULL POWER, AS HARD AS ONE CAN)
-女 (Furigana),,,,じょ
+力いっぱい (Furigana),,,,ちからいっぱい
+力いっぱい (Meaning),,,,WITH ALL ONE'S STRENGTH (FULL POWER, AS HARD AS ONE CAN)
+女 (Furigana),,,,おんな
 女 (Meaning),,,,WOMAN (FEMALE)

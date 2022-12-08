@@ -66,231 +66,231 @@
 樹 (Meaning),,,,Wood
 包 (Onyomi),,,,ほう
 包 (Meaning),,,,Wrap
-投 (Furigana),,,,とう
-投 (Meaning),,,,ABANDONMENT
-航 (Furigana),,,,こう
-航 (Meaning),,,,AIRCRAFT CARRIER
-徹 (Furigana),,,,てつ
-徹 (Meaning),,,,ALL NIGHT (SLEEPLESS NIGHT, ALL NIGHTER)
-凄 (Furigana),,,,せい
-凄 (Meaning),,,,AMAZING (WONDERFUL, TERRIBLE, AWFUL)
-鉱 (Furigana),,,,こう
-鉱 (Meaning),,,,A MINE (MINE)
-廃 (Furigana),,,,はい
-廃 (Meaning),,,,ANNULMENT (DISPOSAL)
-原 (Furigana),,,,げん
-原 (Meaning),,,,ATOMIC BOMB
-手 (Furigana),,,,て
-手 (Meaning),,,,BACK OF ONE'S HAND
-根 (Furigana),,,,こん
-根 (Meaning),,,,BASIS (GROUNDS)
-軍 (Furigana),,,,ぐん
-軍 (Meaning),,,,BATTLESHIP
+投棄 (Furigana),,,,とうき
+投棄 (Meaning),,,,ABANDONMENT
+航空母艦 (Furigana),,,,こうくうぼかん
+航空母艦 (Meaning),,,,AIRCRAFT CARRIER
+徹夜 (Furigana),,,,てつや
+徹夜 (Meaning),,,,ALL NIGHT (SLEEPLESS NIGHT, ALL NIGHTER)
+凄い (Furigana),,,,すごい
+凄い (Meaning),,,,AMAZING (WONDERFUL, TERRIBLE, AWFUL)
+鉱山 (Furigana),,,,こうざん
+鉱山 (Meaning),,,,A MINE (MINE)
+廃棄 (Furigana),,,,はいき
+廃棄 (Meaning),,,,ANNULMENT (DISPOSAL)
+原爆 (Furigana),,,,げんばく
+原爆 (Meaning),,,,ATOMIC BOMB
+手の甲 (Furigana),,,,てのこう
+手の甲 (Meaning),,,,BACK OF ONE'S HAND
+根拠 (Furigana),,,,こんきょ
+根拠 (Meaning),,,,BASIS (GROUNDS)
+軍艦 (Furigana),,,,ぐんかん
+軍艦 (Meaning),,,,BATTLESHIP
 蜂 (Furigana),,,,はち
 蜂 (Meaning),,,,BEE (HORNET, WASP)
-偽 (Furigana),,,,ぎ
-偽 (Meaning),,,,CAMOUFLAGE (DISGUISE)
-炭 (Furigana),,,,たん
-炭 (Meaning),,,,CARBON
-祝 (Furigana),,,,しゅく
-祝 (Meaning),,,,CELEBRATION (CONGRATULATIONS)
-儀 (Furigana),,,,ぎ
-儀 (Meaning),,,,CEREMONY (RITUAL)
-更 (Furigana),,,,こう
-更 (Meaning),,,,CHANGING ROOM (LOCKER ROOM, DRESSING ROOM)
-炭 (Furigana),,,,たん
+偽装 (Furigana),,,,ぎそう
+偽装 (Meaning),,,,CAMOUFLAGE (DISGUISE)
+炭素 (Furigana),,,,たんそ
+炭素 (Meaning),,,,CARBON
+祝儀 (Furigana),,,,しゅうぎ
+祝儀 (Meaning),,,,CELEBRATION (CONGRATULATIONS)
+儀式 (Furigana),,,,ぎしき
+儀式 (Meaning),,,,CEREMONY (RITUAL)
+更衣室 (Furigana),,,,こういしつ
+更衣室 (Meaning),,,,CHANGING ROOM (LOCKER ROOM, DRESSING ROOM)
+炭 (Furigana),,,,すみ
 炭 (Meaning),,,,CHARCOAL
-拳 (Furigana),,,,けん
-拳 (Meaning),,,,CLENCHED FIST (KNUCKLES)
-衣 (Furigana),,,,い
-衣 (Meaning),,,,CLOTHES (CLOTHING, GARMENT)
-衣 (Furigana),,,,い
+拳骨 (Furigana),,,,げんこつ
+拳骨 (Meaning),,,,CLENCHED FIST (KNUCKLES)
+衣服 (Furigana),,,,いふく
+衣服 (Meaning),,,,CLOTHES (CLOTHING, GARMENT)
+衣 (Furigana),,,,ころも
 衣 (Meaning),,,,CLOTHES (GARMENT)
-石 (Furigana),,,,せき
-石 (Meaning),,,,COAL
-炭 (Furigana),,,,たん
-炭 (Meaning),,,,COAL MINE (COAL PIT)
-思 (Furigana),,,,おも
-思 (Meaning),,,,CONSIDERATION (COMPASSION, SYMPATHY)
-潜 (Furigana),,,,せん
-潜 (Meaning),,,,DIVING
-雇 (Furigana),,,,こ
-雇 (Meaning),,,,EMPLOYER (EMPLOYEE)
-凄 (Furigana),,,,せい
-凄 (Meaning),,,,EXTREMELY GRUESOME (EXTREMELY FIERCE, EXTREMELY VIOLENT)
-偽 (Furigana),,,,ぎ
+石炭 (Furigana),,,,せきたん
+石炭 (Meaning),,,,COAL
+炭鉱 (Furigana),,,,たんこう
+炭鉱 (Meaning),,,,COAL MINE (COAL PIT)
+思い遣り (Furigana),,,,おもいやり
+思い遣り (Meaning),,,,CONSIDERATION (COMPASSION, SYMPATHY)
+潜水 (Furigana),,,,せんすい
+潜水 (Meaning),,,,DIVING
+雇用者 (Furigana),,,,こようしゃ
+雇用者 (Meaning),,,,EMPLOYER (EMPLOYEE)
+凄絶 (Furigana),,,,せいぜつ
+凄絶 (Meaning),,,,EXTREMELY GRUESOME (EXTREMELY FIERCE, EXTREMELY VIOLENT)
+偽 (Furigana),,,,にせ
 偽 (Meaning),,,,FAKE (IMITATION)
-畑 (Furigana),,,,はたけ
-畑 (Meaning),,,,FIELD (CROP)
-田 (Furigana),,,,た
-田 (Meaning),,,,FIELD (FIELD OF RICE, FIELD OF CROPS)
-喧 (Furigana),,,,けん
-喧 (Meaning),,,,FIGHT (QUARREL, ARGUMENT)
+〜畑 (Furigana),,,,はたけ
+〜畑 (Meaning),,,,FIELD (CROP)
+田畑 (Furigana),,,,たはた
+田畑 (Meaning),,,,FIELD (FIELD OF RICE, FIELD OF CROPS)
+喧嘩 (Furigana),,,,けんか
+喧嘩 (Meaning),,,,FIGHT (QUARREL, ARGUMENT)
 蛍 (Furigana),,,,ほたる
 蛍 (Meaning),,,,FIREFLY (LIGHTNING BUG, GLOWWORM)
-拳 (Furigana),,,,けん
+拳 (Furigana),,,,こぶし
 拳 (Meaning),,,,FIST
-偽 (Furigana),,,,ぎ
-偽 (Meaning),,,,FORGERY
-破 (Furigana),,,,は
-破 (Meaning),,,,FRAGMENT
-果 (Furigana),,,,か
-果 (Meaning),,,,FRUIT TREE
-葬 (Furigana),,,,そう
-葬 (Meaning),,,,FUNERAL
-岐 (Furigana),,,,き
-岐 (Meaning),,,,GIFU PREFECTURE
-郷 (Furigana),,,,きょう
-郷 (Meaning),,,,HOMETOWN (BIRTHPLACE)
-故 (Furigana),,,,こ
-故 (Meaning),,,,HOMETOWN (BIRTHPLACE)
-蜂 (Furigana),,,,はち
-蜂 (Meaning),,,,HONEY
+偽造 (Furigana),,,,ぎぞう
+偽造 (Meaning),,,,FORGERY
+破片 (Furigana),,,,はへん
+破片 (Meaning),,,,FRAGMENT
+果樹 (Furigana),,,,かじゅ
+果樹 (Meaning),,,,FRUIT TREE
+葬儀 (Furigana),,,,そうぎ
+葬儀 (Meaning),,,,FUNERAL
+岐阜県 (Furigana),,,,ぎふけん
+岐阜県 (Meaning),,,,GIFU PREFECTURE
+郷里 (Furigana),,,,きょうり
+郷里 (Meaning),,,,HOMETOWN (BIRTHPLACE)
+故郷 (Furigana),,,,こきょう
+故郷 (Meaning),,,,HOMETOWN (BIRTHPLACE)
+蜂蜜 (Furigana),,,,はちみつ
+蜂蜜 (Meaning),,,,HONEY
 蜜 (Furigana),,,,みつ
 蜜 (Meaning),,,,HONEY (NECTAR)
 仁 (Furigana),,,,じん
 仁 (Meaning),,,,HUMANITY
-仁 (Furigana),,,,じん
-仁 (Meaning),,,,HUMANITY AND JUSTICE (DUTY)
-謙 (Furigana),,,,けん
-謙 (Meaning),,,,HUMBLE (HUMILITY, MODESTY)
-必 (Furigana),,,,ひつ
-必 (Meaning),,,,INEVITABLE (NECESSARY, FOREGONE)
-侵 (Furigana),,,,しん
-侵 (Meaning),,,,INFRINGEMENT (VIOLATION)
-侵 (Furigana),,,,しん
-侵 (Meaning),,,,INTRUSION (PENETRATION)
-侵 (Furigana),,,,しん
-侵 (Meaning),,,,INVASION
-鉄 (Furigana),,,,てつ
-鉄 (Meaning),,,,IRON ORE
-躍 (Furigana),,,,やく
-躍 (Meaning),,,,JUMPING (LEAPING)
-包 (Furigana),,,,ほう
-包 (Meaning),,,,KITCHEN KNIFE
-嘘 (Furigana),,,,うそ
-嘘 (Meaning),,,,LIAR
+仁義 (Furigana),,,,じんぎ
+仁義 (Meaning),,,,HUMANITY AND JUSTICE (DUTY)
+謙遜 (Furigana),,,,けんそん
+謙遜 (Meaning),,,,HUMBLE (HUMILITY, MODESTY)
+必至 (Furigana),,,,ひっし
+必至 (Meaning),,,,INEVITABLE (NECESSARY, FOREGONE)
+侵害 (Furigana),,,,しんがい
+侵害 (Meaning),,,,INFRINGEMENT (VIOLATION)
+侵入 (Furigana),,,,しんにゅう
+侵入 (Meaning),,,,INTRUSION (PENETRATION)
+侵攻 (Furigana),,,,しんこう
+侵攻 (Meaning),,,,INVASION
+鉄鉱 (Furigana),,,,てっこう
+鉄鉱 (Meaning),,,,IRON ORE
+躍り (Furigana),,,,おどり
+躍り (Meaning),,,,JUMPING (LEAPING)
+包丁 (Furigana),,,,ほうちょう
+包丁 (Meaning),,,,KITCHEN KNIFE
+嘘吐き (Furigana),,,,うそつき
+嘘吐き (Meaning),,,,LIAR
 嘘 (Furigana),,,,うそ
 嘘 (Meaning),,,,LIE
-忠 (Furigana),,,,ちゅう
-忠 (Meaning),,,,LOYALTY
-礼 (Furigana),,,,れい
-礼 (Meaning),,,,MANNERS (COURTESY, ETIQUETTE)
-措 (Furigana),,,,そ
-措 (Meaning),,,,MEASURES (STEPS)
-鉱 (Furigana),,,,こう
-鉱 (Meaning),,,,MINERAL
-鉱 (Furigana),,,,こう
-鉱 (Meaning),,,,MINING INDUSTRY
-艦 (Furigana),,,,かん
-艦 (Meaning),,,,NAVAL FLEET (ARMADA)
-喧 (Furigana),,,,けん
-喧 (Meaning),,,,NOISY (PICKY)
-鉱 (Furigana),,,,こう
-鉱 (Meaning),,,,ORE (MINERAL)
-証 (Furigana),,,,しょう
-証 (Meaning),,,,PHYSICAL EVIDENCE (EVIDENCE, PROOF)
-拠 (Furigana),,,,きょ
-拠 (Meaning),,,,POSITION (LOCATION)
+忠誠 (Furigana),,,,ちゅうせい
+忠誠 (Meaning),,,,LOYALTY
+礼儀 (Furigana),,,,れいぎ
+礼儀 (Meaning),,,,MANNERS (COURTESY, ETIQUETTE)
+措置 (Furigana),,,,そち
+措置 (Meaning),,,,MEASURES (STEPS)
+鉱物 (Furigana),,,,こうぶつ
+鉱物 (Meaning),,,,MINERAL
+鉱業 (Furigana),,,,こうぎょう
+鉱業 (Meaning),,,,MINING INDUSTRY
+艦隊 (Furigana),,,,かんたい
+艦隊 (Meaning),,,,NAVAL FLEET (ARMADA)
+喧しい (Furigana),,,,やかましい
+喧しい (Meaning),,,,NOISY (PICKY)
+鉱石 (Furigana),,,,こうせき
+鉱石 (Meaning),,,,ORE (MINERAL)
+証拠 (Furigana),,,,しょうこ
+証拠 (Meaning),,,,PHYSICAL EVIDENCE (EVIDENCE, PROOF)
+拠点 (Furigana),,,,きょてん
+拠点 (Meaning),,,,POSITION (LOCATION)
 瀬 (Furigana),,,,せ
 瀬 (Meaning),,,,RAPIDS (SHALLOWS, CURRENT)
-生 (Furigana),,,,せい
-生 (Meaning),,,,REASON FOR LIVING (SOMETHING WORTH LIVING FOR)
-渋 (Furigana),,,,じゅう
-渋 (Meaning),,,,RELUCTANTLY (UNWILLINGLY)
-放 (Furigana),,,,ほう
-放 (Meaning),,,,RESIGNATION (ABANDONMENT)
-甲 (Furigana),,,,こう
-甲 (Meaning),,,,RESOURCEFULNESS (COMPETENCE)
-御 (Furigana),,,,ご
-御 (Meaning),,,,RESTROOM (BATHROOM, TOILET)
-拳 (Furigana),,,,けん
-拳 (Meaning),,,,REVOLVER (PISTOL, HANDGUN)
-廃 (Furigana),,,,はい
-廃 (Meaning),,,,RUINS (ABANDONED BUILDING)
-瀬 (Furigana),,,,せ
-瀬 (Meaning),,,,SETO
-高 (Furigana),,,,こう
-高 (Meaning),,,,SHALLOWS
-渋 (Furigana),,,,じゅう
-渋 (Meaning),,,,SHIBUYA
-焼 (Furigana),,,,や
-焼 (Meaning),,,,SHOCHU (SHOUCHUU, JAPANESE LIQUOR)
-包 (Furigana),,,,ほう
-包 (Meaning),,,,SIEGE (ENCIRCLEMENT)
-誠 (Furigana),,,,せい
-誠 (Meaning),,,,SINCERE (HONEST, FAITHFUL)
-誠 (Furigana),,,,せい
+生き甲斐 (Furigana),,,,いきがい
+生き甲斐 (Meaning),,,,REASON FOR LIVING (SOMETHING WORTH LIVING FOR)
+渋々 (Furigana),,,,しぶしぶ
+渋々 (Meaning),,,,RELUCTANTLY (UNWILLINGLY)
+放棄 (Furigana),,,,ほうき
+放棄 (Meaning),,,,RESIGNATION (ABANDONMENT)
+甲斐性 (Furigana),,,,かいしょう
+甲斐性 (Meaning),,,,RESOURCEFULNESS (COMPETENCE)
+御手洗 (Furigana),,,,おてあらい
+御手洗 (Meaning),,,,RESTROOM (BATHROOM, TOILET)
+拳銃 (Furigana),,,,けんじゅう
+拳銃 (Meaning),,,,REVOLVER (PISTOL, HANDGUN)
+廃墟 (Furigana),,,,はいきょ
+廃墟 (Meaning),,,,RUINS (ABANDONED BUILDING)
+瀬戸 (Furigana),,,,せと
+瀬戸 (Meaning),,,,SETO
+高瀬 (Furigana),,,,たかせ
+高瀬 (Meaning),,,,SHALLOWS
+渋谷 (Furigana),,,,しぶや
+渋谷 (Meaning),,,,SHIBUYA
+焼酎 (Furigana),,,,しょうちゅう
+焼酎 (Meaning),,,,SHOCHU (SHOUCHUU, JAPANESE LIQUOR)
+包囲 (Furigana),,,,ほうい
+包囲 (Meaning),,,,SIEGE (ENCIRCLEMENT)
+誠実 (Furigana),,,,せいじつ
+誠実 (Meaning),,,,SINCERE (HONEST, FAITHFUL)
+誠 (Furigana),,,,まこと
 誠 (Meaning),,,,SINCERITY (TRUTH)
-誠 (Furigana),,,,せい
-誠 (Meaning),,,,SINCERITY (GOOD FAITH)
-社 (Furigana),,,,しゃ
-社 (Meaning),,,,SOCIAL WELFARE
-御 (Furigana),,,,ご
-御 (Meaning),,,,SORRY (I BEG YOUR PARDON)
-潜 (Furigana),,,,せん
-潜 (Meaning),,,,SUBCONSCIOUS
-潜 (Furigana),,,,せん
-潜 (Meaning),,,,SUBMARINE
-夏 (Furigana),,,,なつ
-夏 (Meaning),,,,SUMMER SOLSTICE
-至 (Furigana),,,,し
-至 (Meaning),,,,SUPREMACY
-早 (Furigana),,,,そう
-早 (Meaning),,,,SWIFT CURRENTS (RAPIDS)
-徹 (Furigana),,,,てつ
-徹 (Meaning),,,,THOROUGHNESS (COMPLETENESS)
+誠意 (Furigana),,,,せいい
+誠意 (Meaning),,,,SINCERITY (GOOD FAITH)
+社会福祉 (Furigana),,,,しゃかいふくし
+社会福祉 (Meaning),,,,SOCIAL WELFARE
+御免なさい (Furigana),,,,ごめんなさい
+御免なさい (Meaning),,,,SORRY (I BEG YOUR PARDON)
+潜在意識 (Furigana),,,,せんざいいしき
+潜在意識 (Meaning),,,,SUBCONSCIOUS
+潜水艦 (Furigana),,,,せんすいかん
+潜水艦 (Meaning),,,,SUBMARINE
+夏至 (Furigana),,,,げし
+夏至 (Meaning),,,,SUMMER SOLSTICE
+至上 (Furigana),,,,しじょう
+至上 (Meaning),,,,SUPREMACY
+早瀬 (Furigana),,,,はやせ
+早瀬 (Meaning),,,,SWIFT CURRENTS (RAPIDS)
+徹底 (Furigana),,,,てってい
+徹底 (Meaning),,,,THOROUGHNESS (COMPLETENESS)
 虎 (Furigana),,,,とら
 虎 (Meaning),,,,TIGER
-控 (Furigana),,,,ひか
-控 (Meaning),,,,TO ABSTAIN
-至 (Furigana),,,,し
-至 (Meaning),,,,TO ARRIVE AT
-拠 (Furigana),,,,きょ
-拠 (Meaning),,,,TO BE DUE TO (TO BE CAUSED BY)
-辞 (Furigana),,,,じ
-辞 (Meaning),,,,TO BOW
-充 (Furigana),,,,じゅう
-充 (Meaning),,,,TO CHARGE A BATTERY (TO RECHARGE, TO RECHARGE A BATTERY)
-埋 (Furigana),,,,う
-埋 (Meaning),,,,TO COMPENSATE FOR
-徹 (Furigana),,,,てつ
-徹 (Meaning),,,,TO DEVOTE ONESELF (TO SINK IN, TO PENETRATE)
-群 (Furigana),,,,ぐん
-群 (Meaning),,,,TO FLOCK (TO CROWD, TO SWARM)
-埋 (Furigana),,,,う
-埋 (Meaning),,,,TO GET BURIED (TO BE BURIED)
-伺 (Furigana),,,,うかが
-伺 (Meaning),,,,TO INQUIRE (TO HEAR, TO VISIT)
-侵 (Furigana),,,,しん
-侵 (Meaning),,,,TO INVADE (TO VIOLATE, TO INTRUDE)
-偽 (Furigana),,,,ぎ
-偽 (Meaning),,,,TO LIE (TO CHEAT, TO DECEIVE)
-潜 (Furigana),,,,せん
-潜 (Meaning),,,,TO LURK (TO LIE DORMANT)
-帰 (Furigana),,,,かえ
-帰 (Meaning),,,,TO RETURN TO ONE'S HOMETOWN
-包 (Furigana),,,,ほう
-包 (Meaning),,,,TO WRAP
-樹 (Furigana),,,,じゅ
-樹 (Meaning),,,,TREE BARK (BARK)
-植 (Furigana),,,,しょく
-植 (Meaning),,,,TREE PLANTING
-脱 (Furigana),,,,だつ
-脱 (Meaning),,,,UNDRESSING
-艦 (Furigana),,,,かん
-艦 (Meaning),,,,WARSHIP (OCEAN VESSEL)
-麦 (Furigana),,,,むぎ
-麦 (Meaning),,,,WHEAT FIELD (BARLEY FIELD)
-冬 (Furigana),,,,ふゆ
-冬 (Meaning),,,,WINTER SOLSTICE
-撤 (Furigana),,,,てつ
-撤 (Meaning),,,,WITHDRAWAL (REMOVAL)
-撤 (Furigana),,,,てつ
-撤 (Meaning),,,,WITHDRAWAL (REPEAL, TAKING BACK)
-撤 (Furigana),,,,てつ
-撤 (Meaning),,,,WITHDRAWAL OF TROOPS
-措 (Furigana),,,,そ
-措 (Meaning),,,,WORDING
-甲 (Furigana),,,,こう
-甲 (Meaning),,,,WORTH DOING
+控える (Furigana),,,,ひかえる
+控える (Meaning),,,,TO ABSTAIN
+至る (Furigana),,,,いたる
+至る (Meaning),,,,TO ARRIVE AT
+拠る (Furigana),,,,よる
+拠る (Meaning),,,,TO BE DUE TO (TO BE CAUSED BY)
+辞儀する (Furigana),,,,じぎする
+辞儀する (Meaning),,,,TO BOW
+充電する (Furigana),,,,じゅうでんする
+充電する (Meaning),,,,TO CHARGE A BATTERY (TO RECHARGE, TO RECHARGE A BATTERY)
+埋め合わせる (Furigana),,,,うめあわせる
+埋め合わせる (Meaning),,,,TO COMPENSATE FOR
+徹する (Furigana),,,,てっする
+徹する (Meaning),,,,TO DEVOTE ONESELF (TO SINK IN, TO PENETRATE)
+群れる (Furigana),,,,むれる
+群れる (Meaning),,,,TO FLOCK (TO CROWD, TO SWARM)
+埋もれる (Furigana),,,,うもれる
+埋もれる (Meaning),,,,TO GET BURIED (TO BE BURIED)
+伺う (Furigana),,,,うかがう
+伺う (Meaning),,,,TO INQUIRE (TO HEAR, TO VISIT)
+侵す (Furigana),,,,おかす
+侵す (Meaning),,,,TO INVADE (TO VIOLATE, TO INTRUDE)
+偽る (Furigana),,,,いつわる
+偽る (Meaning),,,,TO LIE (TO CHEAT, TO DECEIVE)
+潜む (Furigana),,,,ひそむ
+潜む (Meaning),,,,TO LURK (TO LIE DORMANT)
+帰郷する (Furigana),,,,ききょうする
+帰郷する (Meaning),,,,TO RETURN TO ONE'S HOMETOWN
+包む (Furigana),,,,つつむ
+包む (Meaning),,,,TO WRAP
+樹皮 (Furigana),,,,じゅひ
+樹皮 (Meaning),,,,TREE BARK (BARK)
+植樹 (Furigana),,,,しょくじゅ
+植樹 (Meaning),,,,TREE PLANTING
+脱衣 (Furigana),,,,だつい
+脱衣 (Meaning),,,,UNDRESSING
+艦船 (Furigana),,,,かんせん
+艦船 (Meaning),,,,WARSHIP (OCEAN VESSEL)
+麦畑 (Furigana),,,,むぎばたけ
+麦畑 (Meaning),,,,WHEAT FIELD (BARLEY FIELD)
+冬至 (Furigana),,,,とうじ
+冬至 (Meaning),,,,WINTER SOLSTICE
+撤去 (Furigana),,,,てっきょ
+撤去 (Meaning),,,,WITHDRAWAL (REMOVAL)
+撤回 (Furigana),,,,てっかい
+撤回 (Meaning),,,,WITHDRAWAL (REPEAL, TAKING BACK)
+撤兵 (Furigana),,,,てっぺい
+撤兵 (Meaning),,,,WITHDRAWAL OF TROOPS
+措辞 (Furigana),,,,そじ
+措辞 (Meaning),,,,WORDING
+やり甲斐 (Furigana),,,,やりがい
+やり甲斐 (Meaning),,,,WORTH DOING

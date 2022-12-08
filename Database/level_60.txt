@@ -66,151 +66,151 @@
 寡 (Meaning),,,,Widow
 慕 (Onyomi),,,,ぼ
 慕 (Meaning),,,,Yearn For
-某 (Furigana),,,,ぼう
-某 (Meaning),,,,A CERTAIN COUNTRY
-某 (Furigana),,,,ぼう
-某 (Meaning),,,,A CERTAIN PERSON
-某 (Furigana),,,,ぼう
-某 (Meaning),,,,A CERTAIN PLACE
-約 (Furigana),,,,やく
-約 (Meaning),,,,AGREEMENT (STIPULATION, ARTICLE, CLAUSE)
-解 (Furigana),,,,かい
-解 (Meaning),,,,ANATOMY
-匿 (Furigana),,,,とく
-匿 (Meaning),,,,ANONYMITY (PSEUDONYM)
-定 (Furigana),,,,てい
-定 (Meaning),,,,ARTICLES OF INCORPORATION (COMPANY STATUTE, ARTICLES OF THE COMPANY LAWS)
-蛮 (Furigana),,,,ばん
-蛮 (Meaning),,,,BARBARISM (BRUTALITY)
-花 (Furigana),,,,はな
-花 (Meaning),,,,BRIDEGROOM (GROOM)
-煩 (Furigana),,,,はん
-煩 (Meaning),,,,BUSY
-某 (Furigana),,,,ぼう
-某 (Meaning),,,,CERTAIN (ONE)
-吸 (Furigana),,,,きゅう
-吸 (Meaning),,,,CIGARETTE BUTT (TOBACCO ASHES)
-煩 (Furigana),,,,はん
-煩 (Meaning),,,,COMPLEX (INTRICATE, COMPLICATED)
-矯 (Furigana),,,,きょう
-矯 (Meaning),,,,CORRECTION (REMEDY)
-逝 (Furigana),,,,せい
-逝 (Meaning),,,,DEATH
-感 (Furigana),,,,かん
-感 (Meaning),,,,DEEP EMOTION (DEEPLY MOVED, FILLED WITH EMOTION)
-感 (Furigana),,,,かん
-感 (Meaning),,,,DEEPLY MOVING (DEEPLY EMOTIVE)
-妄 (Furigana),,,,もう
-妄 (Meaning),,,,DELUSION (FANTASY)
-下 (Furigana),,,,か
-下 (Meaning),,,,DIARRHEA (DIARRHOEA)
-殉 (Furigana),,,,じゅん
-殉 (Meaning),,,,DIE AT ONE'S POST (DIE ON DUTY, DIE AT YOUR POST)
-罷 (Furigana),,,,ひ
-罷 (Meaning),,,,DISMISSAL (DISCHARGE)
-赤 (Furigana),,,,あか
-赤 (Meaning),,,,DYSENTERY
-漸 (Furigana),,,,ようや
-漸 (Meaning),,,,FINALLY (AT LAST, NARROWLY, HARDLY)
+某国 (Furigana),,,,ぼうこく
+某国 (Meaning),,,,A CERTAIN COUNTRY
+某氏 (Furigana),,,,ぼうし
+某氏 (Meaning),,,,A CERTAIN PERSON
+某所 (Furigana),,,,ぼうしょ
+某所 (Meaning),,,,A CERTAIN PLACE
+約款 (Furigana),,,,やっかん
+約款 (Meaning),,,,AGREEMENT (STIPULATION, ARTICLE, CLAUSE)
+解剖学 (Furigana),,,,かいぼうがく
+解剖学 (Meaning),,,,ANATOMY
+匿名 (Furigana),,,,とくめい
+匿名 (Meaning),,,,ANONYMITY (PSEUDONYM)
+定款 (Furigana),,,,ていかん
+定款 (Meaning),,,,ARTICLES OF INCORPORATION (COMPANY STATUTE, ARTICLES OF THE COMPANY LAWS)
+蛮行 (Furigana),,,,ばんこう
+蛮行 (Meaning),,,,BARBARISM (BRUTALITY)
+花婿 (Furigana),,,,はなむこ
+花婿 (Meaning),,,,BRIDEGROOM (GROOM)
+煩忙 (Furigana),,,,はんぼう
+煩忙 (Meaning),,,,BUSY
+某〜 (Furigana),,,,ぼう
+某〜 (Meaning),,,,CERTAIN (ONE)
+吸い殻 (Furigana),,,,すいがら
+吸い殻 (Meaning),,,,CIGARETTE BUTT (TOBACCO ASHES)
+煩雑 (Furigana),,,,はんざつ
+煩雑 (Meaning),,,,COMPLEX (INTRICATE, COMPLICATED)
+矯正 (Furigana),,,,きょうせい
+矯正 (Meaning),,,,CORRECTION (REMEDY)
+逝去 (Furigana),,,,せいきょ
+逝去 (Meaning),,,,DEATH
+感慨無量 (Furigana),,,,かんがいむりょう
+感慨無量 (Meaning),,,,DEEP EMOTION (DEEPLY MOVED, FILLED WITH EMOTION)
+感慨深い (Furigana),,,,かんがいぶかい
+感慨深い (Meaning),,,,DEEPLY MOVING (DEEPLY EMOTIVE)
+妄想 (Furigana),,,,もうそう
+妄想 (Meaning),,,,DELUSION (FANTASY)
+下痢 (Furigana),,,,げり
+下痢 (Meaning),,,,DIARRHEA (DIARRHOEA)
+殉職 (Furigana),,,,じゅんしょく
+殉職 (Meaning),,,,DIE AT ONE'S POST (DIE ON DUTY, DIE AT YOUR POST)
+罷免 (Furigana),,,,ひめん
+罷免 (Meaning),,,,DISMISSAL (DISCHARGE)
+赤痢 (Furigana),,,,せきり
+赤痢 (Meaning),,,,DYSENTERY
+漸く (Furigana),,,,ようやく
+漸く (Meaning),,,,FINALLY (AT LAST, NARROWLY, HARDLY)
 狐 (Furigana),,,,きつね
 狐 (Meaning),,,,FOX
 升 (Furigana),,,,ます
 升 (Meaning),,,,GRID (BOX, MEASURING CONTAINER, MEASURE)
-謹 (Furigana),,,,きん
-謹 (Meaning),,,,HAPPY NEW YEAR (HAPPY NEW YEAR!)
-隠 (Furigana),,,,いん
-隠 (Meaning),,,,HIDE (CONCEALMENT, CONCEAL)
+謹賀新年 (Furigana),,,,きんがしんねん
+謹賀新年 (Meaning),,,,HAPPY NEW YEAR (HAPPY NEW YEAR!)
+隠匿 (Furigana),,,,いんとく
+隠匿 (Meaning),,,,HIDE (CONCEALMENT, CONCEAL)
 婿 (Furigana),,,,むこ
 婿 (Meaning),,,,HUSBAND (GROOM, SON IN LAW)
-弾 (Furigana),,,,だん
-弾 (Meaning),,,,IMPEACHMENT (ACCUSATION, CENSURE, DENUNCIATION)
+弾劾 (Furigana),,,,だんがい
+弾劾 (Meaning),,,,IMPEACHMENT (ACCUSATION, CENSURE, DENUNCIATION)
 藍 (Furigana),,,,あい
 藍 (Meaning),,,,INDIGO
-湖 (Furigana),,,,こ
-湖 (Meaning),,,,LAKE SHORE
-長 (Furigana),,,,ちょう
-長 (Meaning),,,,LONG SHAMISEN SONG (EPIC SHAMISEN SONG, NAGAUTA)
-廉 (Furigana),,,,れん
-廉 (Meaning),,,,LOW PRICE (CHEAP)
-帆 (Furigana),,,,はん
-帆 (Meaning),,,,MAST
-渓 (Furigana),,,,けい
-渓 (Meaning),,,,MOUNTAIN STREAM
-煩 (Furigana),,,,はん
-煩 (Meaning),,,,NOISY (LOUD, ANNOYING)
-管 (Furigana),,,,かん
-管 (Meaning),,,,ORCHESTRA
-桟 (Furigana),,,,さん
-桟 (Meaning),,,,PIER (WHARF)
-戯 (Furigana),,,,ぎ
-戯 (Meaning),,,,PLAY FLIRT (JOKE, FLIRT)
-冥 (Furigana),,,,めい
-冥 (Meaning),,,,PLUTO
-冥 (Furigana),,,,めい
-冥 (Meaning),,,,REALM OF THE DEAD (UNDERWORLD, HADES)
-容 (Furigana),,,,よう
-容 (Meaning),,,,RELENTLESSLY (MERCILESSLY)
-帆 (Furigana),,,,はん
-帆 (Meaning),,,,SAILBOAT (SAILING BOAT, SAILING SHIP)
-野 (Furigana),,,,や
-野 (Meaning),,,,SAVAGE (UNCIVILIZED, UNCIVILISED)
-醜 (Furigana),,,,しゅう
-醜 (Meaning),,,,SCANDAL
-海 (Furigana),,,,かい
-海 (Meaning),,,,SEAWEED
-藻 (Furigana),,,,そう
+湖畔 (Furigana),,,,こはん
+湖畔 (Meaning),,,,LAKE SHORE
+長唄 (Furigana),,,,ながうた
+長唄 (Meaning),,,,LONG SHAMISEN SONG (EPIC SHAMISEN SONG, NAGAUTA)
+廉価 (Furigana),,,,れんか
+廉価 (Meaning),,,,LOW PRICE (CHEAP)
+帆柱 (Furigana),,,,ほばしら
+帆柱 (Meaning),,,,MAST
+渓流 (Furigana),,,,けいりゅう
+渓流 (Meaning),,,,MOUNTAIN STREAM
+煩い (Furigana),,,,うるさい
+煩い (Meaning),,,,NOISY (LOUD, ANNOYING)
+管弦楽団 (Furigana),,,,かんげんがくだん
+管弦楽団 (Meaning),,,,ORCHESTRA
+桟橋 (Furigana),,,,さんばし
+桟橋 (Meaning),,,,PIER (WHARF)
+戯れ (Furigana),,,,たわむれ
+戯れ (Meaning),,,,PLAY FLIRT (JOKE, FLIRT)
+冥王星 (Furigana),,,,めいおうせい
+冥王星 (Meaning),,,,PLUTO
+冥土 (Furigana),,,,めいど
+冥土 (Meaning),,,,REALM OF THE DEAD (UNDERWORLD, HADES)
+容赦なく (Furigana),,,,ようしゃなく
+容赦なく (Meaning),,,,RELENTLESSLY (MERCILESSLY)
+帆船 (Furigana),,,,はんせん
+帆船 (Meaning),,,,SAILBOAT (SAILING BOAT, SAILING SHIP)
+野蛮 (Furigana),,,,やばん
+野蛮 (Meaning),,,,SAVAGE (UNCIVILIZED, UNCIVILISED)
+醜聞 (Furigana),,,,しゅうぶん
+醜聞 (Meaning),,,,SCANDAL
+海藻 (Furigana),,,,かいそう
+海藻 (Meaning),,,,SEAWEED
+藻 (Furigana),,,,も
 藻 (Meaning),,,,SEAWEED (DUCKWEED, ALGAE)
-分 (Furigana),,,,ぶん
-分 (Meaning),,,,SECRETION (DISCHARGE)
-醜 (Furigana),,,,しゅう
-醜 (Meaning),,,,SHAMEFUL SIGHT (DISGRACEFUL BEHAVIOR)
-寡 (Furigana),,,,か
-寡 (Meaning),,,,SILENT (SHY)
-某 (Furigana),,,,ぼう
+分泌 (Furigana),,,,ぶんぴつ
+分泌 (Meaning),,,,SECRETION (DISCHARGE)
+醜態 (Furigana),,,,しゅうたい
+醜態 (Meaning),,,,SHAMEFUL SIGHT (DISGRACEFUL BEHAVIOR)
+寡黙 (Furigana),,,,かもく
+寡黙 (Meaning),,,,SILENT (SHY)
+某 (Furigana),,,,なにがし
 某 (Meaning),,,,SOMEONE OR OTHER (YOU-KNOW-WHO, SOMETHING)
 唄 (Furigana),,,,うた
 唄 (Meaning),,,,SONG (SHAMISEN SONG)
-娘 (Furigana),,,,むすめ
-娘 (Meaning),,,,SON IN LAW
-南 (Furigana),,,,なん
-南 (Meaning),,,,SOUTHERN BARBARIANS (NANBAN, SOUTH SEA COUNTRIES)
-湧 (Furigana),,,,ゆう
-湧 (Meaning),,,,SPRING WATER (SPRING)
-升 (Furigana),,,,ます
-升 (Meaning),,,,SQUARE (BOX, MEASURE)
-硫 (Furigana),,,,りゅう
-硫 (Meaning),,,,SULFUR (SULPHUR)
-悪 (Furigana),,,,あく
-悪 (Meaning),,,,TEASE (PRANK, LEWD BEHAVIOR)
-倹 (Furigana),,,,けん
-倹 (Meaning),,,,THRIFT (ECONOMY, FRUGALITY)
-慕 (Furigana),,,,ぼ
-慕 (Meaning),,,,TO ADORE (TO MISS, TO YEARN FOR)
-濁 (Furigana),,,,だく
-濁 (Meaning),,,,TO BECOME MUDDY (TO BECOME IMPURE, TO BECOME CLOUDY)
-詠 (Furigana),,,,えい
-詠 (Meaning),,,,TO COMPOSE (TO RECITE, TO SING)
-酌 (Furigana),,,,しゃく
-酌 (Meaning),,,,TO DRINK TOGETHER (TO POUR EACH OTHER A DRINK)
-拷 (Furigana),,,,ごう
-拷 (Meaning),,,,TORTURE (THE RACK, THIRD DEGREE)
-唄 (Furigana),,,,うた
-唄 (Meaning),,,,TO SING (TO RECITE, TO CHANT)
-湧 (Furigana),,,,ゆう
-湧 (Meaning),,,,TO WELL UP (TO GUSH FORTH, TO SPRING OUT, TO SURGE)
-坑 (Furigana),,,,こう
-坑 (Meaning),,,,TUNNEL (MINE, SHAFT)
-醜 (Furigana),,,,しゅう
-醜 (Meaning),,,,UGLY (MEAN, OFFENSIVE)
-醜 (Furigana),,,,しゅう
-醜 (Meaning),,,,UGLY (UNATTRACTIVE, UNSIGHTLY, UNSEEMLY)
-冥 (Furigana),,,,めい
-冥 (Meaning),,,,UNDERWORLD (HADES, REALM OF THE DEAD)
-泌 (Furigana),,,,ひ
-泌 (Meaning),,,,URINARY ORGANS
-渓 (Furigana),,,,けい
-渓 (Meaning),,,,VALLEY (RAVINE, CANYON)
-寡 (Furigana),,,,か
-寡 (Meaning),,,,WIDOW
-思 (Furigana),,,,おも
-思 (Meaning),,,,YEARNING (DEEP AFFECTION)
+娘婿 (Furigana),,,,むすめむこ
+娘婿 (Meaning),,,,SON IN LAW
+南蛮 (Furigana),,,,なんばん
+南蛮 (Meaning),,,,SOUTHERN BARBARIANS (NANBAN, SOUTH SEA COUNTRIES)
+湧水 (Furigana),,,,ゆうすい
+湧水 (Meaning),,,,SPRING WATER (SPRING)
+升目 (Furigana),,,,ますめ
+升目 (Meaning),,,,SQUARE (BOX, MEASURE)
+硫黄 (Furigana),,,,いおう
+硫黄 (Meaning),,,,SULFUR (SULPHUR)
+悪戯 (Furigana),,,,いたずら
+悪戯 (Meaning),,,,TEASE (PRANK, LEWD BEHAVIOR)
+倹約 (Furigana),,,,けんやく
+倹約 (Meaning),,,,THRIFT (ECONOMY, FRUGALITY)
+慕う (Furigana),,,,したう
+慕う (Meaning),,,,TO ADORE (TO MISS, TO YEARN FOR)
+濁る (Furigana),,,,にごる
+濁る (Meaning),,,,TO BECOME MUDDY (TO BECOME IMPURE, TO BECOME CLOUDY)
+詠う (Furigana),,,,うたう
+詠う (Meaning),,,,TO COMPOSE (TO RECITE, TO SING)
+酌み交わす (Furigana),,,,くみかわす
+酌み交わす (Meaning),,,,TO DRINK TOGETHER (TO POUR EACH OTHER A DRINK)
+拷問 (Furigana),,,,ごうもん
+拷問 (Meaning),,,,TORTURE (THE RACK, THIRD DEGREE)
+唄う (Furigana),,,,うたう
+唄う (Meaning),,,,TO SING (TO RECITE, TO CHANT)
+湧く (Furigana),,,,わく
+湧く (Meaning),,,,TO WELL UP (TO GUSH FORTH, TO SPRING OUT, TO SURGE)
+坑道 (Furigana),,,,こうどう
+坑道 (Meaning),,,,TUNNEL (MINE, SHAFT)
+醜悪 (Furigana),,,,しゅうあく
+醜悪 (Meaning),,,,UGLY (MEAN, OFFENSIVE)
+醜い (Furigana),,,,みにくい
+醜い (Meaning),,,,UGLY (UNATTRACTIVE, UNSIGHTLY, UNSEEMLY)
+冥界 (Furigana),,,,めいかい
+冥界 (Meaning),,,,UNDERWORLD (HADES, REALM OF THE DEAD)
+泌尿器 (Furigana),,,,ひにょうき
+泌尿器 (Meaning),,,,URINARY ORGANS
+渓谷 (Furigana),,,,けいこく
+渓谷 (Meaning),,,,VALLEY (RAVINE, CANYON)
+寡婦 (Furigana),,,,かふ
+寡婦 (Meaning),,,,WIDOW
+思慕 (Furigana),,,,しぼ
+思慕 (Meaning),,,,YEARNING (DEEP AFFECTION)

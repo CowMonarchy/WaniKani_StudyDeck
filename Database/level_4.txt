@@ -76,223 +76,223 @@
 世 (Meaning),,,,World
 年 (Onyomi),,,,ねん
 年 (Meaning),,,,Year
-他 (Furigana),,,,た
-他 (Meaning),,,,ANOTHER PERSON (OTHER PEOPLE, STRANGER)
-早 (Furigana),,,,そう
-早 (Meaning),,,,AS SOON AS (JUST AFTER, IMMEDIATELY AFTER, PROMPTLY, QUICKLY)
-大 (Furigana),,,,たい
-大 (Meaning),,,,ATMOSPHERE
-赤 (Furigana),,,,あか
-赤 (Meaning),,,,BABY
+他人 (Furigana),,,,たにん
+他人 (Meaning),,,,ANOTHER PERSON (OTHER PEOPLE, STRANGER)
+早々 (Furigana),,,,そうそう
+早々 (Meaning),,,,AS SOON AS (JUST AFTER, IMMEDIATELY AFTER, PROMPTLY, QUICKLY)
+大気 (Furigana),,,,たいき
+大気 (Meaning),,,,ATMOSPHERE
+赤ちゃん (Furigana),,,,あかちゃん
+赤ちゃん (Meaning),,,,BABY
 竹 (Furigana),,,,たけ
 竹 (Meaning),,,,BAMBOO
-竹 (Furigana),,,,たけ
-竹 (Meaning),,,,BAMBOO SHOOT (BAMBOO SPROUT)
-太 (Furigana),,,,たい
-太 (Meaning),,,,BOLD LETTER (BOLD, BOLD CHARACTER, BOLD TEXT, BOLDFACE)
-少 (Furigana),,,,しょう
-少 (Meaning),,,,BOY (YOUNG BOY, JUVENILE, YOUTH)
+竹の子 (Furigana),,,,たけのこ
+竹の子 (Meaning),,,,BAMBOO SHOOT (BAMBOO SPROUT)
+太字 (Furigana),,,,ふとじ
+太字 (Meaning),,,,BOLD LETTER (BOLD, BOLD CHARACTER, BOLD TEXT, BOLDFACE)
+少年 (Furigana),,,,しょうねん
+少年 (Meaning),,,,BOY (YOUNG BOY, JUVENILE, YOUTH)
 虫 (Furigana),,,,むし
 虫 (Meaning),,,,BUG (INSECT, CREEPY CRAWLY)
-年 (Furigana),,,,ねん
-年 (Meaning),,,,BY THE END OF THE YEAR (BEFORE THE END OF THIS YEAR, WITHIN THE YEAR)
-子 (Furigana),,,,し
-子 (Meaning),,,,CALF (BABY COW)
-平 (Furigana),,,,へい
-平 (Meaning),,,,CALM (COOL, ALL RIGHT, OKAY)
-車 (Furigana),,,,しゃ
+年内 (Furigana),,,,ねんない
+年内 (Meaning),,,,BY THE END OF THE YEAR (BEFORE THE END OF THIS YEAR, WITHIN THE YEAR)
+子牛 (Furigana),,,,こうし
+子牛 (Meaning),,,,CALF (BABY COW)
+平気 (Furigana),,,,へいき
+平気 (Meaning),,,,CALM (COOL, ALL RIGHT, OKAY)
+車 (Furigana),,,,くるま
 車 (Meaning),,,,CAR
-中 (Furigana),,,,ちゅう
-中 (Meaning),,,,CENTER (CENTRAL, CENTRE)
+中央 (Furigana),,,,ちゅうおう
+中央 (Meaning),,,,CENTER (CENTRAL, CENTRE)
 字 (Furigana),,,,じ
 字 (Meaning),,,,CHARACTER (KANJI CHARACTER, LETTER, SYMBOL)
 耳 (Furigana),,,,みみ
 耳 (Meaning),,,,EAR (EARS)
-早 (Furigana),,,,そう
-早 (Meaning),,,,EARLY (FAST, QUICK)
-元 (Furigana),,,,げん
-元 (Meaning),,,,ENERGY (HEALTH, ENERGETIC, HEALTHY)
-名 (Furigana),,,,めい
-名 (Meaning),,,,EXPERT (MASTER)
-気 (Furigana),,,,き
-気 (Meaning),,,,FEELING (MOOD)
-花 (Furigana),,,,はな
-花 (Meaning),,,,FIREWORKS
-先 (Furigana),,,,せん
-先 (Meaning),,,,FIRST OF ALL (TO START WITH, FIRSTLY, TO BEGIN WITH)
-一 (Furigana),,,,いち
-一 (Meaning),,,,FIRST YEAR STUDENT
-五 (Furigana),,,,ご
-五 (Meaning),,,,FIVE HUNDRED
-平 (Furigana),,,,へい
-平 (Meaning),,,,FLAT
+早い (Furigana),,,,はやい
+早い (Meaning),,,,EARLY (FAST, QUICK)
+元気 (Furigana),,,,げんき
+元気 (Meaning),,,,ENERGY (HEALTH, ENERGETIC, HEALTHY)
+名人 (Furigana),,,,めいじん
+名人 (Meaning),,,,EXPERT (MASTER)
+気分 (Furigana),,,,きぶん
+気分 (Meaning),,,,FEELING (MOOD)
+花火 (Furigana),,,,はなび
+花火 (Meaning),,,,FIREWORKS
+先ず (Furigana),,,,まず
+先ず (Meaning),,,,FIRST OF ALL (TO START WITH, FIRSTLY, TO BEGIN WITH)
+一年生 (Furigana),,,,いちねんせい
+一年生 (Meaning),,,,FIRST YEAR STUDENT
+五百 (Furigana),,,,ごひゃく
+五百 (Meaning),,,,FIVE HUNDRED
+平ら (Furigana),,,,たいら
+平ら (Meaning),,,,FLAT
 花 (Furigana),,,,はな
 花 (Meaning),,,,FLOWER
-足 (Furigana),,,,そく
+足 (Furigana),,,,あし
 足 (Meaning),,,,FOOT (LEG)
-四 (Furigana),,,,し
-四 (Meaning),,,,FORTY
-四 (Furigana),,,,し
-四 (Meaning),,,,FOUR HUNDRED
-四 (Furigana),,,,し
-四 (Meaning),,,,FOURTH DAY (DAY FOUR, FOUR DAYS)
-四 (Furigana),,,,し
-四 (Meaning),,,,FOUR THINGS
-四 (Furigana),,,,し
-四 (Meaning),,,,FOUR THOUSAND
-主 (Furigana),,,,しゅ
-主 (Meaning),,,,HEAD OF HOUSEHOLD (HUSBAND, HEAD OF A HOUSEHOLD, HEAD OF THE HOUSEHOLD, LANDLORD, MASTER)
-休 (Furigana),,,,きゅう
-休 (Meaning),,,,HOLIDAY
+四十 (Furigana),,,,よんじゅう
+四十 (Meaning),,,,FORTY
+四百 (Furigana),,,,よんひゃく
+四百 (Meaning),,,,FOUR HUNDRED
+四日 (Furigana),,,,よっか
+四日 (Meaning),,,,FOURTH DAY (DAY FOUR, FOUR DAYS)
+四つ (Furigana),,,,よっつ
+四つ (Meaning),,,,FOUR THINGS
+四千 (Furigana),,,,よんせん
+四千 (Meaning),,,,FOUR THOUSAND
+主人 (Furigana),,,,しゅじん
+主人 (Meaning),,,,HEAD OF HOUSEHOLD (HUSBAND, HEAD OF A HOUSEHOLD, HEAD OF THE HOUSEHOLD, LANDLORD, MASTER)
+休日 (Furigana),,,,きゅうじつ
+休日 (Meaning),,,,HOLIDAY
 百 (Furigana),,,,ひゃく
 百 (Meaning),,,,HUNDRED (ONE HUNDRED)
 氷 (Furigana),,,,こおり
 氷 (Meaning),,,,ICE
-丸 (Furigana),,,,まる
-丸 (Meaning),,,,IN ITS ENTIRETY (WHOLE, WHOLLY, ENTIRELY)
-不 (Furigana),,,,ふ
-不 (Meaning),,,,INJUSTICE (DISHONEST, UNAUTHORIZED)
-車 (Furigana),,,,しゃ
-車 (Meaning),,,,INSIDE THE CAR (INSIDE THE TRAIN, INSIDE THE BUS)
-宝 (Furigana),,,,ほう
-宝 (Meaning),,,,JEWEL (GEM)
-先 (Furigana),,,,せん
-先 (Meaning),,,,LAST MONTH
-去 (Furigana),,,,きょ
-去 (Meaning),,,,LAST YEAR
-左 (Furigana),,,,さ
-左 (Meaning),,,,LEFT HAND (LEFT ARM, LEFT-HAND SIDE)
-文 (Furigana),,,,ぶん
-文 (Meaning),,,,LETTER (OF THE ALPHABET) (CHARACTER, LETTER, TEXT)
-一 (Furigana),,,,いち
-一 (Meaning),,,,LIFETIME (ONE LIFETIME, GENERATION, ONE GENERATION)
-主 (Furigana),,,,しゅ
-主 (Meaning),,,,MAINLY (PRIMARILY)
-男 (Furigana),,,,だん
+丸ごと (Furigana),,,,まるごと
+丸ごと (Meaning),,,,IN ITS ENTIRETY (WHOLE, WHOLLY, ENTIRELY)
+不正 (Furigana),,,,ふせい
+不正 (Meaning),,,,INJUSTICE (DISHONEST, UNAUTHORIZED)
+車内 (Furigana),,,,しゃない
+車内 (Meaning),,,,INSIDE THE CAR (INSIDE THE TRAIN, INSIDE THE BUS)
+宝石 (Furigana),,,,ほうせき
+宝石 (Meaning),,,,JEWEL (GEM)
+先月 (Furigana),,,,せんげつ
+先月 (Meaning),,,,LAST MONTH
+去年 (Furigana),,,,きょねん
+去年 (Meaning),,,,LAST YEAR
+左手 (Furigana),,,,ひだりて
+左手 (Meaning),,,,LEFT HAND (LEFT ARM, LEFT-HAND SIDE)
+文字 (Furigana),,,,もじ
+文字 (Meaning),,,,LETTER (OF THE ALPHABET) (CHARACTER, LETTER, TEXT)
+一代 (Furigana),,,,いちだい
+一代 (Meaning),,,,LIFETIME (ONE LIFETIME, GENERATION, ONE GENERATION)
+主に (Furigana),,,,おもに
+主に (Meaning),,,,MAINLY (PRIMARILY)
+男 (Furigana),,,,おとこ
 男 (Meaning),,,,MAN
-仕 (Furigana),,,,し
-仕 (Meaning),,,,METHOD (WAY, WAY OF DOING)
-百 (Furigana),,,,ひゃく
-百 (Meaning),,,,MILLION (ONE MILLION)
-先 (Furigana),,,,せん
-先 (Meaning),,,,MONTH BEFORE LAST (THE MONTH BEFORE LAST)
-月 (Furigana),,,,げつ
-月 (Meaning),,,,MOON VIEWING
-名 (Furigana),,,,めい
+仕方 (Furigana),,,,しかた
+仕方 (Meaning),,,,METHOD (WAY, WAY OF DOING)
+百万 (Furigana),,,,ひゃくまん
+百万 (Meaning),,,,MILLION (ONE MILLION)
+先々月 (Furigana),,,,せんせんげつ
+先々月 (Meaning),,,,MONTH BEFORE LAST (THE MONTH BEFORE LAST)
+月見 (Furigana),,,,つきみ
+月見 (Meaning),,,,MOON VIEWING
+名 (Furigana),,,,な
 名 (Meaning),,,,NAME (REPUTATION)
 号 (Furigana),,,,ごう
 号 (Meaning),,,,NUMBER (EDITION, MODEL)
-一 (Furigana),,,,いち
-一 (Meaning),,,,ONE BREATH (ONE GO, ONE SITTING)
-一 (Furigana),,,,いち
-一 (Meaning),,,,ONE STRIKE (ONE STROKE, ONE HIT)
-一 (Furigana),,,,いち
-一 (Meaning),,,,ONE TRACK MIND (SINGLE MINDEDNESS)
-他 (Furigana),,,,た
+一気 (Furigana),,,,いっき
+一気 (Meaning),,,,ONE BREATH (ONE GO, ONE SITTING)
+一打 (Furigana),,,,いちだ
+一打 (Meaning),,,,ONE STRIKE (ONE STROKE, ONE HIT)
+一本気 (Furigana),,,,いっぽんぎ
+一本気 (Meaning),,,,ONE TRACK MIND (SINGLE MINDEDNESS)
+他 (Furigana),,,,ほか
 他 (Meaning),,,,OTHER
-休 (Furigana),,,,きゅう
-休 (Meaning),,,,PAUSE (REST, BREAK)
+休止 (Furigana),,,,きゅうし
+休止 (Meaning),,,,PAUSE (REST, BREAK)
 皿 (Furigana),,,,さら
 皿 (Meaning),,,,PLATE (DISH)
-人 (Furigana),,,,にん
-人 (Meaning),,,,POPULAR (POPULARITY)
-切 (Furigana),,,,せつ
-切 (Meaning),,,,POSTAGE STAMP (STAMP)
+人気 (Furigana),,,,にんき
+人気 (Meaning),,,,POPULAR (POPULARITY)
+切手 (Furigana),,,,きって
+切手 (Meaning),,,,POSTAGE STAMP (STAMP)
 赤 (Furigana),,,,あか
 赤 (Meaning),,,,RED
-赤 (Furigana),,,,あか
-赤 (Meaning),,,,RED
-休 (Furigana),,,,きゅう
-休 (Meaning),,,,REST (BREAK, VACATION, HOLIDAY)
-右 (Furigana),,,,ゆう
-右 (Meaning),,,,RIGHT HAND (RIGHT ARM, RIGHT-HAND SIDE)
-二 (Furigana),,,,に
-二 (Meaning),,,,SECOND GENERATION
-本 (Furigana),,,,ほん
-本 (Meaning),,,,SERIOUS (SERIOUSNESS)
-氷 (Furigana),,,,こおり
-氷 (Meaning),,,,SHAVED ICE
+赤い (Furigana),,,,あかい
+赤い (Meaning),,,,RED
+休み (Furigana),,,,やすみ
+休み (Meaning),,,,REST (BREAK, VACATION, HOLIDAY)
+右手 (Furigana),,,,みぎて
+右手 (Meaning),,,,RIGHT HAND (RIGHT ARM, RIGHT-HAND SIDE)
+二世 (Furigana),,,,にせい
+二世 (Meaning),,,,SECOND GENERATION
+本気 (Furigana),,,,ほんき
+本気 (Meaning),,,,SERIOUS (SERIOUSNESS)
+かき氷 (Furigana),,,,かきごおり
+かき氷 (Meaning),,,,SHAVED ICE
 貝 (Furigana),,,,かい
 貝 (Meaning),,,,SHELL (SHELLFISH, CLAM)
-不 (Furigana),,,,ふ
-不 (Meaning),,,,SHORTAGE (PHYSICAL SHORTAGE, INSUFFICIENT, NOT SUFFICIENT, NOT ENOUGH)
-小 (Furigana),,,,しょう
-小 (Meaning),,,,SMALL PLATE (SMALL DISH, LITTLE PLATE, LITTLE DISH)
+不足 (Furigana),,,,ふそく
+不足 (Meaning),,,,SHORTAGE (PHYSICAL SHORTAGE, INSUFFICIENT, NOT SUFFICIENT, NOT ENOUGH)
+小皿 (Furigana),,,,こざら
+小皿 (Meaning),,,,SMALL PLATE (SMALL DISH, LITTLE PLATE, LITTLE DISH)
 気 (Furigana),,,,き
 気 (Meaning),,,,SPIRIT (ENERGY)
-石 (Furigana),,,,せき
+石 (Furigana),,,,いし
 石 (Meaning),,,,STONE
-一 (Furigana),,,,いち
-一 (Meaning),,,,STRAIGHT LINE
-代 (Furigana),,,,だい
-代 (Meaning),,,,SUBSTITUTION
-名 (Furigana),,,,めい
-名 (Meaning),,,,SURNAME (LAST NAME, FAMILY NAME)
-先 (Furigana),,,,せん
-先 (Meaning),,,,TEACHER (MASTER, DOCTOR)
-申 (Furigana),,,,もう
-申 (Meaning),,,,TELEPHONE HELLO (HELLO, HELLO ON TELEPHONE)
-礼 (Furigana),,,,れい
-礼 (Meaning),,,,THANKS (GRATITUDE)
-先 (Furigana),,,,せん
-先 (Meaning),,,,THE OTHER DAY (A FEW DAYS AGO, OTHER DAY)
-三 (Furigana),,,,さん
-三 (Meaning),,,,THIRD GENERATION
+一文字 (Furigana),,,,いちもんじ
+一文字 (Meaning),,,,STRAIGHT LINE
+代用 (Furigana),,,,だいよう
+代用 (Meaning),,,,SUBSTITUTION
+名字 (Furigana),,,,みょうじ
+名字 (Meaning),,,,SURNAME (LAST NAME, FAMILY NAME)
+先生 (Furigana),,,,せんせい
+先生 (Meaning),,,,TEACHER (MASTER, DOCTOR)
+申し申し (Furigana),,,,もうしもうし
+申し申し (Meaning),,,,TELEPHONE HELLO (HELLO, HELLO ON TELEPHONE)
+お礼 (Furigana),,,,おれい
+お礼 (Meaning),,,,THANKS (GRATITUDE)
+先日 (Furigana),,,,せんじつ
+先日 (Meaning),,,,THE OTHER DAY (A FEW DAYS AGO, OTHER DAY)
+三世 (Furigana),,,,さんせい
+三世 (Meaning),,,,THIRD GENERATION
 糸 (Furigana),,,,いと
 糸 (Meaning),,,,THREAD
-先 (Furigana),,,,せん
+先 (Furigana),,,,さき
 先 (Meaning),,,,TIP (AHEAD, FIRST, FUTURE)
-足 (Furigana),,,,そく
-足 (Meaning),,,,TO BE ENOUGH (TO BE SUFFICIENT, TO SUFFICE)
-気 (Furigana),,,,き
-気 (Meaning),,,,TO BE PLEASED (TO BE SATISFIED, TO BE HAPPY)
-写 (Furigana),,,,しゃ
-写 (Meaning),,,,TO COPY (TO PHOTOGRAPH, TO TAKE A PICTURE)
-出 (Furigana),,,,しゅつ
-出 (Meaning),,,,TO GO OUT (TO LEAVE)
-打 (Furigana),,,,だ
-打 (Meaning),,,,TO HIT (TO POUND, TO TYPE)
-生 (Furigana),,,,せい
-生 (Meaning),,,,TO LIVE (TO BE ALIVE, TO EXIST)
-口 (Furigana),,,,こう
-口 (Meaning),,,,TO MENTION (TO SAY, TO EAT, TO DRINK)
-代 (Furigana),,,,だい
-代 (Meaning),,,,TO REPLACE (TO SUBSTITUTE FOR, TO SUBSTITUTE, TO BE REPLACED, TO BE SUBSTITUTED, TO BE SUBSTITUTED FOR)
-休 (Furigana),,,,きゅう
-休 (Meaning),,,,TO REST (TO TAKE TIME OFF)
-申 (Furigana),,,,もう
-申 (Meaning),,,,TO SAY HUMBLY (TO SAY)
-見 (Furigana),,,,み
-見 (Meaning),,,,TO SEE (TO LOOK)
-見 (Furigana),,,,み
-見 (Meaning),,,,TO SHOW
-町 (Furigana),,,,ちょう
+足りる (Furigana),,,,たりる
+足りる (Meaning),,,,TO BE ENOUGH (TO BE SUFFICIENT, TO SUFFICE)
+気に入る (Furigana),,,,きにいる
+気に入る (Meaning),,,,TO BE PLEASED (TO BE SATISFIED, TO BE HAPPY)
+写す (Furigana),,,,うつす
+写す (Meaning),,,,TO COPY (TO PHOTOGRAPH, TO TAKE A PICTURE)
+出かける (Furigana),,,,でかける
+出かける (Meaning),,,,TO GO OUT (TO LEAVE)
+打つ (Furigana),,,,うつ
+打つ (Meaning),,,,TO HIT (TO POUND, TO TYPE)
+生きる (Furigana),,,,いきる
+生きる (Meaning),,,,TO LIVE (TO BE ALIVE, TO EXIST)
+口にする (Furigana),,,,くちにする
+口にする (Meaning),,,,TO MENTION (TO SAY, TO EAT, TO DRINK)
+代わる (Furigana),,,,かわる
+代わる (Meaning),,,,TO REPLACE (TO SUBSTITUTE FOR, TO SUBSTITUTE, TO BE REPLACED, TO BE SUBSTITUTED, TO BE SUBSTITUTED FOR)
+休む (Furigana),,,,やすむ
+休む (Meaning),,,,TO REST (TO TAKE TIME OFF)
+申す (Furigana),,,,もうす
+申す (Meaning),,,,TO SAY HUMBLY (TO SAY)
+見る (Furigana),,,,みる
+見る (Meaning),,,,TO SEE (TO LOOK)
+見せる (Furigana),,,,みせる
+見せる (Meaning),,,,TO SHOW
+町 (Furigana),,,,まち
 町 (Meaning),,,,TOWN
-宝 (Furigana),,,,ほう
+宝 (Furigana),,,,たから
 宝 (Meaning),,,,TREASURE
-二 (Furigana),,,,に
-二 (Meaning),,,,TWENTIETH DAY (DAY TWENTY, TWENTY DAYS)
-二 (Furigana),,,,に
-二 (Meaning),,,,TWO HUNDRED
-花 (Furigana),,,,はな
-花 (Meaning),,,,VIEWING CHERRY BLOSSOMS (SAKURA VIEWING, CHERRY BLOSSOM VIEWING)
+二十日 (Furigana),,,,はつか
+二十日 (Meaning),,,,TWENTIETH DAY (DAY TWENTY, TWENTY DAYS)
+二百 (Furigana),,,,にひゃく
+二百 (Meaning),,,,TWO HUNDRED
+花見 (Furigana),,,,はなみ
+花見 (Meaning),,,,VIEWING CHERRY BLOSSOMS (SAKURA VIEWING, CHERRY BLOSSOM VIEWING)
 村 (Furigana),,,,むら
 村 (Meaning),,,,VILLAGE (RURAL TOWN)
-村 (Furigana),,,,むら
-村 (Meaning),,,,VILLAGER
-見 (Furigana),,,,み
-見 (Meaning),,,,WAY OF SEEING (POINT OF VIEW, PERSPECTIVE, VIEWPOINT)
-天 (Furigana),,,,てん
-天 (Meaning),,,,WEATHER
-平 (Furigana),,,,へい
-平 (Meaning),,,,WEEKDAYS
-白 (Furigana),,,,はく
-白 (Meaning),,,,WHITE
-世 (Furigana),,,,せい
+村人 (Furigana),,,,むらびと
+村人 (Meaning),,,,VILLAGER
+見方 (Furigana),,,,みかた
+見方 (Meaning),,,,WAY OF SEEING (POINT OF VIEW, PERSPECTIVE, VIEWPOINT)
+天気 (Furigana),,,,てんき
+天気 (Meaning),,,,WEATHER
+平日 (Furigana),,,,へいじつ
+平日 (Meaning),,,,WEEKDAYS
+白い (Furigana),,,,しろい
+白い (Meaning),,,,WHITE
+世 (Furigana),,,,よ
 世 (Meaning),,,,WORLD (SOCIETY, AGE, GENERATION)
-年 (Furigana),,,,ねん
+年 (Furigana),,,,とし
 年 (Meaning),,,,YEAR (AGE)
-年 (Furigana),,,,ねん
-年 (Meaning),,,,YEAR 2011 (2011, THE YEAR 2011)
-年 (Furigana),,,,ねん
-年 (Meaning),,,,YEAR ROUND (ALL YEAR, WHOLE YEAR, THROUGHOUT THE YEAR)
+２０１１年 (Furigana),,,,にせんじゅういちねん
+２０１１年 (Meaning),,,,YEAR 2011 (2011, THE YEAR 2011)
+年中 (Furigana),,,,ねんじゅう
+年中 (Meaning),,,,YEAR ROUND (ALL YEAR, WHOLE YEAR, THROUGHOUT THE YEAR)

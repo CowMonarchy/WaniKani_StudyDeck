@@ -76,271 +76,271 @@
 温 (Meaning),,,,Warm
 着 (Onyomi),,,,ちゃく
 着 (Meaning),,,,Wear
-行 (Furigana),,,,こう
-行 (Meaning),,,,ACTION (CONDUCT, BEHAVIOUR, BEHAVIOR)
-活 (Furigana),,,,かつ
-活 (Meaning),,,,ACTION (ACTIVITY)
-空 (Furigana),,,,くう
-空 (Meaning),,,,AIRPORT
-酒 (Furigana),,,,しゅ
-酒 (Meaning),,,,ALCOHOLIC (BOOZER, DRUNKARD)
-全 (Furigana),,,,ぜん
-全 (Meaning),,,,ALL MEMBERS (ALL HANDS, EVERYONE, EVERYBODY)
-動 (Furigana),,,,どう
-動 (Meaning),,,,ANIMAL
-鳴 (Furigana),,,,な
-鳴 (Meaning),,,,ANIMAL CRY (ANIMAL SOUND, ANIMAL NOISE, CHIRP, TWEET, ROAR, BARK, MEOW)
-勝 (Furigana),,,,しょう
-勝 (Meaning),,,,AS ONE PLEASES (ONE'S OWN CONVENIENCE, ONE'S OWN WAY, ONE'S WAY)
-悪 (Furigana),,,,あく
-悪 (Meaning),,,,BAD (POOR, WRONG)
-悪 (Furigana),,,,あく
-悪 (Meaning),,,,BAD PERSON (VILLAIN, EVILDOER, BAD GUY, WICKED PERSON, EVIL PERSON)
-野 (Furigana),,,,や
-野 (Meaning),,,,BASEBALL
-飲 (Furigana),,,,の
-飲 (Meaning),,,,BEVERAGE (DRINK)
-血 (Furigana),,,,けつ
-血 (Meaning),,,,BLOOD RELATIVE
-親 (Furigana),,,,しん
-親 (Meaning),,,,BOSS (KINGPIN, CHIEF, HEAD)
-息 (Furigana),,,,そく
+行動 (Furigana),,,,こうどう
+行動 (Meaning),,,,ACTION (CONDUCT, BEHAVIOUR, BEHAVIOR)
+活動 (Furigana),,,,かつどう
+活動 (Meaning),,,,ACTION (ACTIVITY)
+空港 (Furigana),,,,くうこう
+空港 (Meaning),,,,AIRPORT
+酒飲み (Furigana),,,,さけのみ
+酒飲み (Meaning),,,,ALCOHOLIC (BOOZER, DRUNKARD)
+全員 (Furigana),,,,ぜんいん
+全員 (Meaning),,,,ALL MEMBERS (ALL HANDS, EVERYONE, EVERYBODY)
+動物 (Furigana),,,,どうぶつ
+動物 (Meaning),,,,ANIMAL
+鳴き声 (Furigana),,,,なきごえ
+鳴き声 (Meaning),,,,ANIMAL CRY (ANIMAL SOUND, ANIMAL NOISE, CHIRP, TWEET, ROAR, BARK, MEOW)
+勝手 (Furigana),,,,かって
+勝手 (Meaning),,,,AS ONE PLEASES (ONE'S OWN CONVENIENCE, ONE'S OWN WAY, ONE'S WAY)
+悪い (Furigana),,,,わるい
+悪い (Meaning),,,,BAD (POOR, WRONG)
+悪人 (Furigana),,,,あくにん
+悪人 (Meaning),,,,BAD PERSON (VILLAIN, EVILDOER, BAD GUY, WICKED PERSON, EVIL PERSON)
+野球 (Furigana),,,,やきゅう
+野球 (Meaning),,,,BASEBALL
+飲み物 (Furigana),,,,のみもの
+飲み物 (Meaning),,,,BEVERAGE (DRINK)
+血族 (Furigana),,,,けつぞく
+血族 (Meaning),,,,BLOOD RELATIVE
+親分 (Furigana),,,,おやぶん
+親分 (Meaning),,,,BOSS (KINGPIN, CHIEF, HEAD)
+息 (Furigana),,,,いき
 息 (Meaning),,,,BREATH
-商 (Furigana),,,,しょう
-商 (Meaning),,,,BUSINESS (COMMERCE, TRADE)
-心 (Furigana),,,,しん
-心 (Meaning),,,,CARES (WORRIES, TROUBLES)
-虫 (Furigana),,,,むし
-虫 (Meaning),,,,CAVITY (DECAYED TOOTH, TOOTH DECAY)
-第 (Furigana),,,,だい
-第 (Meaning),,,,CHAPTER TWO (SECOND CHAPTER)
-陽 (Furigana),,,,よう
-陽 (Meaning),,,,CHEERFUL (JOVIAL, MERRY, LIVELY, SPRING SEASON, WARM WEATHER)
-童 (Furigana),,,,どう
-童 (Meaning),,,,CHILDREN'S STORY (FAIRY TALE)
-音 (Furigana),,,,おん
-音 (Meaning),,,,CHINESE READING (ON'YOMI)
-都 (Furigana),,,,と
-都 (Meaning),,,,CITY (TOWN, URBAN, CIVILIZATION)
-都 (Furigana),,,,と
-都 (Meaning),,,,CITY (A CITY, TOWN, MUNICIPAL, URBAN)
-寒 (Furigana),,,,さむ
-寒 (Meaning),,,,COLD
-会 (Furigana),,,,かい
-会 (Meaning),,,,COMPANY EMPLOYEE (OFFICE WORKER)
-落 (Furigana),,,,らく
-落 (Meaning),,,,CONCLUSION (FINAL RESULT, THE END, PUNCH LINE, SLIP, OMISSION, OUTCOME)
-大 (Furigana),,,,たい
-大 (Meaning),,,,DAIKON (JAPANESE RADISH)
-深 (Furigana),,,,しん
-深 (Meaning),,,,DEEP
-最 (Furigana),,,,さい
-最 (Meaning),,,,DEEPEST (THE DEEPEST)
-歯 (Furigana),,,,は
-歯 (Meaning),,,,DENTIST
-消 (Furigana),,,,しょう
-消 (Meaning),,,,DIGESTION
-二 (Furigana),,,,に
-二 (Meaning),,,,DOUBLE (TWO TIMES, TWICE, TWOFOLD)
-運 (Furigana),,,,うん
-運 (Meaning),,,,DRIVER
-社 (Furigana),,,,しゃ
-社 (Meaning),,,,EMPLOYEE (STAFF, COMPANY EMPLOYEE, COMPANY STAFF)
-民 (Furigana),,,,みん
-民 (Meaning),,,,ETHNIC GROUP (ETHNICITY, RACE)
-運 (Furigana),,,,うん
-運 (Meaning),,,,EXERCISE
-期 (Furigana),,,,き
-期 (Meaning),,,,EXPECTATION (EXPECT, ANTICIPATE)
-落 (Furigana),,,,らく
-落 (Meaning),,,,FALLEN LEAVES (FALLEN LEAF)
-家 (Furigana),,,,か
-家 (Meaning),,,,FAMILY (IMMEDIATE FAMILY)
-家 (Furigana),,,,か
-家 (Meaning),,,,FAMILY (HOUSEHOLD, HOME)
-父 (Furigana),,,,ちち
-父 (Meaning),,,,FATHER (DAD)
-祭 (Furigana),,,,さい
+商売 (Furigana),,,,しょうばい
+商売 (Meaning),,,,BUSINESS (COMMERCE, TRADE)
+心配事 (Furigana),,,,しんぱいごと
+心配事 (Meaning),,,,CARES (WORRIES, TROUBLES)
+虫歯 (Furigana),,,,むしば
+虫歯 (Meaning),,,,CAVITY (DECAYED TOOTH, TOOTH DECAY)
+第二章 (Furigana),,,,だいにしょう
+第二章 (Meaning),,,,CHAPTER TWO (SECOND CHAPTER)
+陽気 (Furigana),,,,ようき
+陽気 (Meaning),,,,CHEERFUL (JOVIAL, MERRY, LIVELY, SPRING SEASON, WARM WEATHER)
+童話 (Furigana),,,,どうわ
+童話 (Meaning),,,,CHILDREN'S STORY (FAIRY TALE)
+音読み (Furigana),,,,おんよみ
+音読み (Meaning),,,,CHINESE READING (ON'YOMI)
+都市 (Furigana),,,,とし
+都市 (Meaning),,,,CITY (A CITY, TOWN, MUNICIPAL, URBAN)
+都会 (Furigana),,,,とかい
+都会 (Meaning),,,,CITY (TOWN, URBAN, CIVILIZATION)
+寒い (Furigana),,,,さむい
+寒い (Meaning),,,,COLD
+会社員 (Furigana),,,,かいしゃいん
+会社員 (Meaning),,,,COMPANY EMPLOYEE (OFFICE WORKER)
+落ち (Furigana),,,,おち
+落ち (Meaning),,,,CONCLUSION (FINAL RESULT, THE END, PUNCH LINE, SLIP, OMISSION, OUTCOME)
+大根 (Furigana),,,,だいこん
+大根 (Meaning),,,,DAIKON (JAPANESE RADISH)
+深い (Furigana),,,,ふかい
+深い (Meaning),,,,DEEP
+最深 (Furigana),,,,さいしん
+最深 (Meaning),,,,DEEPEST (THE DEEPEST)
+歯医者 (Furigana),,,,はいしゃ
+歯医者 (Meaning),,,,DENTIST
+消化 (Furigana),,,,しょうか
+消化 (Meaning),,,,DIGESTION
+二倍 (Furigana),,,,にばい
+二倍 (Meaning),,,,DOUBLE (TWO TIMES, TWICE, TWOFOLD)
+運転手 (Furigana),,,,うんてんしゅ
+運転手 (Meaning),,,,DRIVER
+社員 (Furigana),,,,しゃいん
+社員 (Meaning),,,,EMPLOYEE (STAFF, COMPANY EMPLOYEE, COMPANY STAFF)
+民族 (Furigana),,,,みんぞく
+民族 (Meaning),,,,ETHNIC GROUP (ETHNICITY, RACE)
+運動 (Furigana),,,,うんどう
+運動 (Meaning),,,,EXERCISE
+期待 (Furigana),,,,きたい
+期待 (Meaning),,,,EXPECTATION (EXPECT, ANTICIPATE)
+落ち葉 (Furigana),,,,おちば
+落ち葉 (Meaning),,,,FALLEN LEAVES (FALLEN LEAF)
+家族 (Furigana),,,,かぞく
+家族 (Meaning),,,,FAMILY (IMMEDIATE FAMILY)
+家庭 (Furigana),,,,かてい
+家庭 (Meaning),,,,FAMILY (HOUSEHOLD, HOME)
+父親 (Furigana),,,,ちちおや
+父親 (Meaning),,,,FATHER (DAD)
+祭 (Furigana),,,,まつり
 祭 (Meaning),,,,FESTIVAL
-一 (Furigana),,,,いち
-一 (Meaning),,,,FIRST FLOOR (FLOOR ONE, FIRST STORY, GROUND FLOOR)
-第 (Furigana),,,,だい
-第 (Meaning),,,,FIRST PLACE (FIRST RANK)
-一 (Furigana),,,,いち
-一 (Meaning),,,,FIRST RATE (FIRST CLASS, TOP NOTCH, TOP GRADE)
-階 (Furigana),,,,かい
-階 (Meaning),,,,FLOOR (STORY, STOREY)
-四 (Furigana),,,,し
-四 (Meaning),,,,FORTY SECOND FLOOR (FLOOR FORTY TWO, FORTY SECOND STORY)
-庭 (Furigana),,,,てい
+一階 (Furigana),,,,いっかい
+一階 (Meaning),,,,FIRST FLOOR (FLOOR ONE, FIRST STORY, GROUND FLOOR)
+第一位 (Furigana),,,,だいいちい
+第一位 (Meaning),,,,FIRST PLACE (FIRST RANK)
+一流 (Furigana),,,,いちりゅう
+一流 (Meaning),,,,FIRST RATE (FIRST CLASS, TOP NOTCH, TOP GRADE)
+〜階 (Furigana),,,,かい
+〜階 (Meaning),,,,FLOOR (STORY, STOREY)
+四十二階 (Furigana),,,,よんじゅうにかい
+四十二階 (Meaning),,,,FORTY SECOND FLOOR (FLOOR FORTY TWO, FORTY SECOND STORY)
+庭 (Furigana),,,,にわ
 庭 (Meaning),,,,GARDEN (YARD)
-集 (Furigana),,,,しゅう
-集 (Meaning),,,,GATHERING (MEETING, ASSEMBLY, PARTY, COLLECTION, GET TOGETHER)
-大 (Furigana),,,,たい
-大 (Meaning),,,,GRADUATE STUDENT (GRAD STUDENT)
-港 (Furigana),,,,こう
+集まり (Furigana),,,,あつまり
+集まり (Meaning),,,,GATHERING (MEETING, ASSEMBLY, PARTY, COLLECTION, GET TOGETHER)
+大学院生 (Furigana),,,,だいがくいんせい
+大学院生 (Meaning),,,,GRADUATE STUDENT (GRAD STUDENT)
+港 (Furigana),,,,みなと
 港 (Meaning),,,,HARBOR (PORT)
-聞 (Furigana),,,,ぶん
-聞 (Meaning),,,,HEARABLE (AUDIBLE, TO BE ABLE TO HEAR, TO BE HEARD, TO BE AUDIBLE, CAN HEAR)
-広 (Furigana),,,,ひろ
-広 (Meaning),,,,HIROSHIMA
-温 (Furigana),,,,おん
-温 (Meaning),,,,HOT SPRINGS (ONSEN)
+聞こえる (Furigana),,,,きこえる
+聞こえる (Meaning),,,,HEARABLE (AUDIBLE, TO BE ABLE TO HEAR, TO BE HEARD, TO BE AUDIBLE, CAN HEAR)
+広島 (Furigana),,,,ひろしま
+広島 (Meaning),,,,HIROSHIMA
+温泉 (Furigana),,,,おんせん
+温泉 (Meaning),,,,HOT SPRINGS (ONSEN)
 湯 (Furigana),,,,ゆ
 湯 (Meaning),,,,HOT WATER
-暑 (Furigana),,,,あつ
-暑 (Meaning),,,,HOT WEATHER (HOT)
+暑い (Furigana),,,,あつい
+暑い (Meaning),,,,HOT WEATHER (HOT)
 僕 (Furigana),,,,ぼく
 僕 (Meaning),,,,I (ME)
-利 (Furigana),,,,り
-利 (Meaning),,,,INTEREST
+利息 (Furigana),,,,りそく
+利息 (Meaning),,,,INTEREST
 島 (Furigana),,,,しま
 島 (Meaning),,,,ISLAND
-顔 (Furigana),,,,かお
-顔 (Meaning),,,,KAOMOJI
-京 (Furigana),,,,きょう
-京 (Meaning),,,,KYOTO (KYOUTO)
-終 (Furigana),,,,しゅう
-終 (Meaning),,,,LAST TRAIN (THE LAST TRAIN)
+顔文字 (Furigana),,,,かおもじ
+顔文字 (Meaning),,,,KAOMOJI
+京都 (Furigana),,,,きょうと
+京都 (Meaning),,,,KYOTO (KYOUTO)
+終電 (Furigana),,,,しゅうでん
+終電 (Meaning),,,,LAST TRAIN (THE LAST TRAIN)
 運 (Furigana),,,,うん
 運 (Meaning),,,,LUCK
-本 (Furigana),,,,ほん
-本 (Meaning),,,,MAINSTREAM
-会 (Furigana),,,,かい
-会 (Meaning),,,,MEMBER (MEMBERSHIP)
-商 (Furigana),,,,しょう
-商 (Meaning),,,,MERCHANT (TRADER, SHOPKEEPER, TRADESPERSON)
-深 (Furigana),,,,しん
-深 (Meaning),,,,MIDDLE OF THE NIGHT (LATE AT NIGHT)
-母 (Furigana),,,,はは
-母 (Meaning),,,,MOTHER (MOM)
-登 (Furigana),,,,とう
-登 (Meaning),,,,MOUNTAIN CLIMBING
-祭 (Furigana),,,,さい
-祭 (Meaning),,,,NATIONAL HOLIDAY (FESTIVAL DAY)
-都 (Furigana),,,,と
-都 (Meaning),,,,ONE'S CONVENIENCE (CIRCUMSTANCES)
-根 (Furigana),,,,こん
-根 (Meaning),,,,PATIENCE (PERSEVERANCE, PERSISTENCE)
-期 (Furigana),,,,き
-期 (Meaning),,,,PERIOD (TERM, INTERVAL)
-植 (Furigana),,,,しょく
-植 (Meaning),,,,PLANT (VEGETATION)
-屋 (Furigana),,,,や
-屋 (Meaning),,,,ROOF
-根 (Furigana),,,,こん
+本流 (Furigana),,,,ほんりゅう
+本流 (Meaning),,,,MAINSTREAM
+会員 (Furigana),,,,かいいん
+会員 (Meaning),,,,MEMBER (MEMBERSHIP)
+商人 (Furigana),,,,しょうにん
+商人 (Meaning),,,,MERCHANT (TRADER, SHOPKEEPER, TRADESPERSON)
+深夜 (Furigana),,,,しんや
+深夜 (Meaning),,,,MIDDLE OF THE NIGHT (LATE AT NIGHT)
+母親 (Furigana),,,,ははおや
+母親 (Meaning),,,,MOTHER (MOM)
+登山 (Furigana),,,,とざん
+登山 (Meaning),,,,MOUNTAIN CLIMBING
+祭日 (Furigana),,,,さいじつ
+祭日 (Meaning),,,,NATIONAL HOLIDAY (FESTIVAL DAY)
+都合 (Furigana),,,,つごう
+都合 (Meaning),,,,ONE'S CONVENIENCE (CIRCUMSTANCES)
+根気 (Furigana),,,,こんき
+根気 (Meaning),,,,PATIENCE (PERSEVERANCE, PERSISTENCE)
+期間 (Furigana),,,,きかん
+期間 (Meaning),,,,PERIOD (TERM, INTERVAL)
+植物 (Furigana),,,,しょくぶつ
+植物 (Meaning),,,,PLANT (VEGETATION)
+屋根 (Furigana),,,,やね
+屋根 (Meaning),,,,ROOF
+根本 (Furigana),,,,こんぽん
+根本 (Meaning),,,,ROOT (SOURCE, ORIGIN, FOUNDATION)
+根 (Furigana),,,,ね
 根 (Meaning),,,,ROOT
-根 (Furigana),,,,こん
-根 (Meaning),,,,ROOT (SOURCE, ORIGIN, FOUNDATION)
-船 (Furigana),,,,せん
-船 (Meaning),,,,SAILOR (SEAMAN, MARINER, CREWMAN)
-学 (Furigana),,,,がく
-学 (Meaning),,,,SCHOOL TERM (SEMESTER)
-二 (Furigana),,,,に
-二 (Meaning),,,,SECOND FLOOR (FLOOR TWO, SECOND STORY)
-店 (Furigana),,,,てん
-店 (Meaning),,,,SHOP STAFF (STORE STAFF, STORE EMPLOYEE, SHOP EMPLOYEE, CLERK, SHOP ASSISTANT)
-短 (Furigana),,,,たん
-短 (Meaning),,,,SHORT
-短 (Furigana),,,,たん
-短 (Meaning),,,,SHORT PERIOD (SHORT TERM)
-短 (Furigana),,,,たん
-短 (Meaning),,,,SHORT SWORD (DAGGER, TANTO)
-息 (Furigana),,,,そく
-息 (Meaning),,,,SON
-球 (Furigana),,,,きゅう
+船員 (Furigana),,,,せんいん
+船員 (Meaning),,,,SAILOR (SEAMAN, MARINER, CREWMAN)
+学期 (Furigana),,,,がっき
+学期 (Meaning),,,,SCHOOL TERM (SEMESTER)
+二階 (Furigana),,,,にかい
+二階 (Meaning),,,,SECOND FLOOR (FLOOR TWO, SECOND STORY)
+店員 (Furigana),,,,てんいん
+店員 (Meaning),,,,SHOP STAFF (STORE STAFF, STORE EMPLOYEE, SHOP EMPLOYEE, CLERK, SHOP ASSISTANT)
+短い (Furigana),,,,みじかい
+短い (Meaning),,,,SHORT
+短期 (Furigana),,,,たんき
+短期 (Meaning),,,,SHORT PERIOD (SHORT TERM)
+短刀 (Furigana),,,,たんとう
+短刀 (Meaning),,,,SHORT SWORD (DAGGER, TANTO)
+息子 (Furigana),,,,むすこ
+息子 (Meaning),,,,SON
+球 (Furigana),,,,たま
 球 (Meaning),,,,SPHERE (BALL, SPORTS BALL)
-泉 (Furigana),,,,せん
+泉 (Furigana),,,,いずみ
 泉 (Meaning),,,,SPRING (FOUNTAIN)
-着 (Furigana),,,,ちゃく
-着 (Meaning),,,,STEADILY
-湯 (Furigana),,,,ゆ
-湯 (Meaning),,,,STEAM (VAPOR)
-勉 (Furigana),,,,べん
-勉 (Meaning),,,,STUDIES (STUDY)
-太 (Furigana),,,,たい
-太 (Meaning),,,,SUN (THE SUN, SOL)
-田 (Furigana),,,,た
-田 (Meaning),,,,TASHIROJIMA
-茶 (Furigana),,,,ちゃ
-茶 (Meaning),,,,TEA CEREMONY
-温 (Furigana),,,,おん
-温 (Meaning),,,,TEMPERATURE
-気 (Furigana),,,,き
-気 (Meaning),,,,TEMPERATURE (AIR TEMPERATURE)
-地 (Furigana),,,,ち
-地 (Meaning),,,,THE EARTH (THE GLOBE, EARTH)
-終 (Furigana),,,,しゅう
-終 (Meaning),,,,THE END (END, THE FINISH, FINISH)
-第 (Furigana),,,,だい
-第 (Meaning),,,,THE FIRST (FIRST, NUMBER ONE, BEST)
-最 (Furigana),,,,さい
-最 (Meaning),,,,THE WORST (WORST)
-三 (Furigana),,,,さん
-三 (Meaning),,,,THIRD THING (THE THIRD)
-時 (Furigana),,,,じ
-時 (Meaning),,,,TIME (SEASON, PERIOD)
-倍 (Furigana),,,,ばい
-倍 (Meaning),,,,TIMES (FOLD)
-始 (Furigana),,,,し
-始 (Meaning),,,,TO BEGIN (SOMETHING BEGINS, TO START, SOMETHING STARTS)
-伝 (Furigana),,,,でん
-伝 (Meaning),,,,TO BE TRANSMITTED (TO BE TOLD, TO BE HANDED DOWN)
-登 (Furigana),,,,とう
-登 (Meaning),,,,TO CLIMB (TO ASCEND)
-集 (Furigana),,,,しゅう
-集 (Meaning),,,,TO COME TOGETHER (TO GATHER, TO BE GATHERED)
-要 (Furigana),,,,よう
-要 (Meaning),,,,TO DEMAND SOMETHING
-落 (Furigana),,,,らく
-落 (Meaning),,,,TO DROP SOMETHING (TO LET SOMETHING FALL, TO LOSE SOMETHING)
-消 (Furigana),,,,しょう
-消 (Meaning),,,,TO EXTINGUISH SOMETHING (TO ERASE SOMETHING, TO TURN SOMETHING OFF)
-転 (Furigana),,,,てん
-転 (Meaning),,,,TO FALL OVER (TO FALL DOWN)
-終 (Furigana),,,,しゅう
-終 (Meaning),,,,TO FINISH SOMETHING (TO END SOMETHING)
-流 (Furigana),,,,りゅう
-流 (Meaning),,,,TO FLUSH SOMETHING (TO POUR SOMETHING, TO SET SOMETHING AFLOAT)
-苦 (Furigana),,,,く
-苦 (Meaning),,,,TO HURT SOMEONE (TO TORMENT, TO HARASS)
-東 (Furigana),,,,とう
-東 (Meaning),,,,TOKYO METROPOLIS (TOKYO METRO, TOKYO METROPOLITAN AREA, TOKYO METRO AREA)
-動 (Furigana),,,,どう
-動 (Meaning),,,,TO MOVE (TO OPERATE)
-起 (Furigana),,,,お
-起 (Meaning),,,,TO OCCUR (TO HAPPEN, TO TAKE PLACE)
-開 (Furigana),,,,かい
-開 (Meaning),,,,TO OPEN (TO BE OPEN)
+着々 (Furigana),,,,ちゃくちゃく
+着々 (Meaning),,,,STEADILY
+湯気 (Furigana),,,,ゆげ
+湯気 (Meaning),,,,STEAM (VAPOR)
+勉強 (Furigana),,,,べんきょう
+勉強 (Meaning),,,,STUDIES (STUDY)
+太陽 (Furigana),,,,たいよう
+太陽 (Meaning),,,,SUN (THE SUN, SOL)
+田代島 (Furigana),,,,たしろじま
+田代島 (Meaning),,,,TASHIROJIMA
+茶の湯 (Furigana),,,,ちゃのゆ
+茶の湯 (Meaning),,,,TEA CEREMONY
+気温 (Furigana),,,,きおん
+気温 (Meaning),,,,TEMPERATURE (AIR TEMPERATURE)
+温度 (Furigana),,,,おんど
+温度 (Meaning),,,,TEMPERATURE
+地球 (Furigana),,,,ちきゅう
+地球 (Meaning),,,,THE EARTH (THE GLOBE, EARTH)
+終わり (Furigana),,,,おわり
+終わり (Meaning),,,,THE END (END, THE FINISH, FINISH)
+第一 (Furigana),,,,だいいち
+第一 (Meaning),,,,THE FIRST (FIRST, NUMBER ONE, BEST)
+最悪 (Furigana),,,,さいあく
+最悪 (Meaning),,,,THE WORST (WORST)
+三番目 (Furigana),,,,さんばんめ
+三番目 (Meaning),,,,THIRD THING (THE THIRD)
+時期 (Furigana),,,,じき
+時期 (Meaning),,,,TIME (SEASON, PERIOD)
+〜倍 (Furigana),,,,ばい
+〜倍 (Meaning),,,,TIMES (FOLD)
+始まる (Furigana),,,,はじまる
+始まる (Meaning),,,,TO BEGIN (SOMETHING BEGINS, TO START, SOMETHING STARTS)
+伝わる (Furigana),,,,つたわる
+伝わる (Meaning),,,,TO BE TRANSMITTED (TO BE TOLD, TO BE HANDED DOWN)
+登る (Furigana),,,,のぼる
+登る (Meaning),,,,TO CLIMB (TO ASCEND)
+集まる (Furigana),,,,あつまる
+集まる (Meaning),,,,TO COME TOGETHER (TO GATHER, TO BE GATHERED)
+要求する (Furigana),,,,ようきゅうする
+要求する (Meaning),,,,TO DEMAND SOMETHING
+落とす (Furigana),,,,おとす
+落とす (Meaning),,,,TO DROP SOMETHING (TO LET SOMETHING FALL, TO LOSE SOMETHING)
+消す (Furigana),,,,けす
+消す (Meaning),,,,TO EXTINGUISH SOMETHING (TO ERASE SOMETHING, TO TURN SOMETHING OFF)
+転ぶ (Furigana),,,,ころぶ
+転ぶ (Meaning),,,,TO FALL OVER (TO FALL DOWN)
+終える (Furigana),,,,おえる
+終える (Meaning),,,,TO FINISH SOMETHING (TO END SOMETHING)
+流す (Furigana),,,,ながす
+流す (Meaning),,,,TO FLUSH SOMETHING (TO POUR SOMETHING, TO SET SOMETHING AFLOAT)
+苦しめる (Furigana),,,,くるしめる
+苦しめる (Meaning),,,,TO HURT SOMEONE (TO TORMENT, TO HARASS)
+東京都 (Furigana),,,,とうきょうと
+東京都 (Meaning),,,,TOKYO METROPOLIS (TOKYO METRO, TOKYO METROPOLITAN AREA, TOKYO METRO AREA)
+動く (Furigana),,,,うごく
+動く (Meaning),,,,TO MOVE (TO OPERATE)
+起こる (Furigana),,,,おこる
+起こる (Meaning),,,,TO OCCUR (TO HAPPEN, TO TAKE PLACE)
+開く (Furigana),,,,あく
+開く (Meaning),,,,TO OPEN (TO BE OPEN)
 歯 (Furigana),,,,は
 歯 (Meaning),,,,TOOTH (TEETH)
-植 (Furigana),,,,しょく
-植 (Meaning),,,,TO PLANT SOMETHING (TO GROW SOMETHING)
-鳴 (Furigana),,,,な
-鳴 (Meaning),,,,TO RING
-歌 (Furigana),,,,か
-歌 (Meaning),,,,TO SING
-合 (Furigana),,,,ごう
-合 (Meaning),,,,TO SUIT (TO COME TOGETHER, TO MEET, TO MATCH)
-待 (Furigana),,,,たい
-待 (Meaning),,,,TO WAIT
-着 (Furigana),,,,ちゃく
-着 (Meaning),,,,TO WEAR (TO PUT ON)
-心 (Furigana),,,,しん
-心 (Meaning),,,,TO WORRY (TO BE CONCERNED, TO BE ANXIOUS)
-流 (Furigana),,,,りゅう
-流 (Meaning),,,,TREND (FAD, CRAZE, PREVALENCE)
-旅 (Furigana),,,,りょ
+植える (Furigana),,,,うえる
+植える (Meaning),,,,TO PLANT SOMETHING (TO GROW SOMETHING)
+鳴る (Furigana),,,,なる
+鳴る (Meaning),,,,TO RING
+歌う (Furigana),,,,うたう
+歌う (Meaning),,,,TO SING
+合う (Furigana),,,,あう
+合う (Meaning),,,,TO SUIT (TO COME TOGETHER, TO MEET, TO MATCH)
+待つ (Furigana),,,,まつ
+待つ (Meaning),,,,TO WAIT
+着る (Furigana),,,,きる
+着る (Meaning),,,,TO WEAR (TO PUT ON)
+心配する (Furigana),,,,しんぱいする
+心配する (Meaning),,,,TO WORRY (TO BE CONCERNED, TO BE ANXIOUS)
+流行 (Furigana),,,,りゅうこう
+流行 (Meaning),,,,TREND (FAD, CRAZE, PREVALENCE)
+旅行 (Furigana),,,,りょこう
+旅行 (Meaning),,,,TRIP (TRAVEL)
+旅 (Furigana),,,,たび
 旅 (Meaning),,,,TRIP (TRAVEL)
-旅 (Furigana),,,,りょ
-旅 (Meaning),,,,TRIP (TRAVEL)
-温 (Furigana),,,,おん
-温 (Meaning),,,,WARM
-水 (Furigana),,,,すい
-水 (Meaning),,,,WATER DEPTH (DEPTH OF WATER)
-話 (Furigana),,,,わ
-話 (Meaning),,,,WAY OF SPEAKING (SPEAKING STYLE, WAY OF TALKING, TALKING STYLE)
-言 (Furigana),,,,げん
-言 (Meaning),,,,WORD (LANGUAGE, MANNER OF SPEECH)
-文 (Furigana),,,,ぶん
-文 (Meaning),,,,WRITING (ARTICLE, SENTENCE, COMPOSITION)
+温かい (Furigana),,,,あたたかい
+温かい (Meaning),,,,WARM
+水深 (Furigana),,,,すいしん
+水深 (Meaning),,,,WATER DEPTH (DEPTH OF WATER)
+話し方 (Furigana),,,,はなしかた
+話し方 (Meaning),,,,WAY OF SPEAKING (SPEAKING STYLE, WAY OF TALKING, TALKING STYLE)
+言葉 (Furigana),,,,ことば
+言葉 (Meaning),,,,WORD (LANGUAGE, MANNER OF SPEECH)
+文章 (Furigana),,,,ぶんしょう
+文章 (Meaning),,,,WRITING (ARTICLE, SENTENCE, COMPOSITION)

@@ -72,219 +72,219 @@
 脅 (Meaning),,,,Threaten
 尽 (Onyomi),,,,じん
 尽 (Meaning),,,,Use Up
-遂 (Furigana),,,,すい
-遂 (Meaning),,,,ACCOMPLISHMENT (EXECUTION)
-癖 (Furigana),,,,くせ
-癖 (Meaning),,,,AND YET (THOUGH, IN SPITE OF)
-麻 (Furigana),,,,ま
-麻 (Meaning),,,,ANESTHESIA (ANAESTHESIA)
-畜 (Furigana),,,,ちく
-畜 (Meaning),,,,ANIMAL HUSBANDRY
-塗 (Furigana),,,,と
-塗 (Meaning),,,,APPLICATION (COATING)
+遂行 (Furigana),,,,すいこう
+遂行 (Meaning),,,,ACCOMPLISHMENT (EXECUTION)
+癖に (Furigana),,,,くせに
+癖に (Meaning),,,,AND YET (THOUGH, IN SPITE OF)
+麻酔 (Furigana),,,,ますい
+麻酔 (Meaning),,,,ANESTHESIA (ANAESTHESIA)
+畜産 (Furigana),,,,ちくさん
+畜産 (Meaning),,,,ANIMAL HUSBANDRY
+塗布 (Furigana),,,,とふ
+塗布 (Meaning),,,,APPLICATION (COATING)
 脇 (Furigana),,,,わき
 脇 (Meaning),,,,ARMPIT (UNDER ONE'S ARM)
-未 (Furigana),,,,み
-未 (Meaning),,,,ATTEMPT
-後 (Furigana),,,,ご
-後 (Meaning),,,,BACKING (SUPPORT, BACKER, SUPPORTER)
-盆 (Furigana),,,,ぼん
-盆 (Meaning),,,,BON FESTIVAL DANCE (BON ODORI, LANTERN FESTIVAL DANCE)
+未遂 (Furigana),,,,みすい
+未遂 (Meaning),,,,ATTEMPT
+後ろ盾 (Furigana),,,,うしろだて
+後ろ盾 (Meaning),,,,BACKING (SUPPORT, BACKER, SUPPORTER)
+盆踊り (Furigana),,,,ぼんおどり
+盆踊り (Meaning),,,,BON FESTIVAL DANCE (BON ODORI, LANTERN FESTIVAL DANCE)
 鉢 (Furigana),,,,はち
 鉢 (Meaning),,,,BOWL (POT, BASIN)
-火 (Furigana),,,,か
-火 (Meaning),,,,BRAZIER (HIBACHI)
-光 (Furigana),,,,こう
-光 (Meaning),,,,BRIGHTNESS (SPLENDOR)
-迷 (Furigana),,,,めい
-迷 (Meaning),,,,CAMOUFLAGE (CAMO)
-麻 (Furigana),,,,ま
+火鉢 (Furigana),,,,ひばち
+火鉢 (Meaning),,,,BRAZIER (HIBACHI)
+光輝 (Furigana),,,,こうき
+光輝 (Meaning),,,,BRIGHTNESS (SPLENDOR)
+迷彩 (Furigana),,,,めいさい
+迷彩 (Meaning),,,,CAMOUFLAGE (CAMO)
+麻 (Furigana),,,,あさ
 麻 (Meaning),,,,CANNABIS (HEMP)
-騎 (Furigana),,,,き
-騎 (Meaning),,,,CAVALRY
-賢 (Furigana),,,,けん
-賢 (Meaning),,,,CLEVER (INTELLIGENT)
-塗 (Furigana),,,,と
-塗 (Meaning),,,,COATING (PAINTING)
-色 (Furigana),,,,いろ
-色 (Meaning),,,,COLOR
-返 (Furigana),,,,へん
-返 (Meaning),,,,COMEBACK (SECOND BLOOM)
-矛 (Furigana),,,,む
-矛 (Meaning),,,,CONTRADICTION
+騎兵 (Furigana),,,,きへい
+騎兵 (Meaning),,,,CAVALRY
+賢い (Furigana),,,,かしこい
+賢い (Meaning),,,,CLEVER (INTELLIGENT)
+塗装 (Furigana),,,,とそう
+塗装 (Meaning),,,,COATING (PAINTING)
+色彩 (Furigana),,,,しきさい
+色彩 (Meaning),,,,COLOR
+返り咲き (Furigana),,,,かえりざき
+返り咲き (Meaning),,,,COMEBACK (SECOND BLOOM)
+矛盾 (Furigana),,,,むじゅん
+矛盾 (Meaning),,,,CONTRADICTION
 隙 (Furigana),,,,すき
 隙 (Meaning),,,,CREVICE (GAP, SPACE, CHANCE, FAULT, ROOM)
-隙 (Furigana),,,,すき
-隙 (Meaning),,,,CREVICE (CRACK, GAP, OPENING)
-培 (Furigana),,,,ばい
-培 (Meaning),,,,CULTIVATION (NURTURE)
-畜 (Furigana),,,,ちく
-畜 (Meaning),,,,DAMN IT (BEAST, SON OF A BITCH)
-踊 (Furigana),,,,おど
-踊 (Meaning),,,,DANCE
-踊 (Furigana),,,,おど
-踊 (Meaning),,,,DANCE HALL (DANCE FLOOR)
-暗 (Furigana),,,,あん
-暗 (Meaning),,,,DARKNESS (THE DARK)
+隙間 (Furigana),,,,すきま
+隙間 (Meaning),,,,CREVICE (CRACK, GAP, OPENING)
+培養 (Furigana),,,,ばいよう
+培養 (Meaning),,,,CULTIVATION (NURTURE)
+畜生 (Furigana),,,,ちくしょう
+畜生 (Meaning),,,,DAMN IT (BEAST, SON OF A BITCH)
+踊り (Furigana),,,,おどり
+踊り (Meaning),,,,DANCE
+踊り場 (Furigana),,,,おどりば
+踊り場 (Meaning),,,,DANCE HALL (DANCE FLOOR)
+暗闇 (Furigana),,,,くらやみ
+暗闇 (Meaning),,,,DARKNESS (THE DARK)
 闇 (Furigana),,,,やみ
 闇 (Meaning),,,,DARKNESS (THE DARK)
-餓 (Furigana),,,,が
-餓 (Meaning),,,,DEATH FROM STARVATION (STARVING TO DEATH)
-斜 (Furigana),,,,しゃ
-斜 (Meaning),,,,DIAGONAL (SLANTING, TILTED)
-屈 (Furigana),,,,くつ
-屈 (Meaning),,,,DISGRACE (HUMILIATION)
-恥 (Furigana),,,,は
-恥 (Meaning),,,,DISGRACE (SHAME)
-家 (Furigana),,,,か
-家 (Meaning),,,,DOMESTIC ANIMALS (LIVESTOCK, CATTLE)
-耐 (Furigana),,,,たい
-耐 (Meaning),,,,DURABILITY
-土 (Furigana),,,,ど
-土 (Meaning),,,,EDGE OF A SUMO RING (LAST MOMENT, CRITICAL MOMENT)
-尽 (Furigana),,,,じん
-尽 (Meaning),,,,EFFORTS (ASSISTANCE)
-電 (Furigana),,,,でん
-電 (Meaning),,,,ELECTRIC LIGHT (LAMP, ELECTRIC LAMP)
-備 (Furigana),,,,び
-備 (Meaning),,,,EMERGENCY STORES (STOCKPILE, RESERVES)
-忍 (Furigana),,,,にん
-忍 (Meaning),,,,ENDURANCE (PERSEVERANCE)
-耐 (Furigana),,,,たい
-耐 (Meaning),,,,FIREPROOF
-紛 (Furigana),,,,ふん
-紛 (Meaning),,,,FLUKE (CHANCE)
+餓死 (Furigana),,,,がし
+餓死 (Meaning),,,,DEATH FROM STARVATION (STARVING TO DEATH)
+斜め (Furigana),,,,ななめ
+斜め (Meaning),,,,DIAGONAL (SLANTING, TILTED)
+屈辱 (Furigana),,,,くつじょく
+屈辱 (Meaning),,,,DISGRACE (HUMILIATION)
+恥辱 (Furigana),,,,ちじょく
+恥辱 (Meaning),,,,DISGRACE (SHAME)
+家畜 (Furigana),,,,かちく
+家畜 (Meaning),,,,DOMESTIC ANIMALS (LIVESTOCK, CATTLE)
+耐久性 (Furigana),,,,たいきゅうせい
+耐久性 (Meaning),,,,DURABILITY
+土俵際 (Furigana),,,,どひょうぎわ
+土俵際 (Meaning),,,,EDGE OF A SUMO RING (LAST MOMENT, CRITICAL MOMENT)
+尽力 (Furigana),,,,じんりょく
+尽力 (Meaning),,,,EFFORTS (ASSISTANCE)
+電灯 (Furigana),,,,でんとう
+電灯 (Meaning),,,,ELECTRIC LIGHT (LAMP, ELECTRIC LAMP)
+備蓄 (Furigana),,,,びちく
+備蓄 (Meaning),,,,EMERGENCY STORES (STOCKPILE, RESERVES)
+忍耐 (Furigana),,,,にんたい
+忍耐 (Meaning),,,,ENDURANCE (PERSEVERANCE)
+耐火 (Furigana),,,,たいか
+耐火 (Meaning),,,,FIREPROOF
+紛れ (Furigana),,,,まぐれ
+紛れ (Meaning),,,,FLUKE (CHANCE)
 霜 (Furigana),,,,しも
 霜 (Meaning),,,,FROST
-憶 (Furigana),,,,おく
-憶 (Meaning),,,,GUESS (SPECULATION)
-収 (Furigana),,,,しゅう
-収 (Meaning),,,,HARVEST (CROP)
-首 (Furigana),,,,くび
-首 (Meaning),,,,HEAD (LEADER)
-鉢 (Furigana),,,,はち
-鉢 (Meaning),,,,HEADBAND
-耐 (Furigana),,,,たい
-耐 (Meaning),,,,HEAT RESISTING (HEAT RESISTANT)
-殴 (Furigana),,,,おう
-殴 (Meaning),,,,HIT (STRIKE, BLOW)
-騎 (Furigana),,,,き
-騎 (Meaning),,,,HORSEBACK RIDING (HORSE RIDING, MOUNTED, NOMADIC)
-騎 (Furigana),,,,き
-騎 (Meaning),,,,HORSE RIDER
-帝 (Furigana),,,,てい
-帝 (Meaning),,,,IMPERIALISM
-斜 (Furigana),,,,しゃ
-斜 (Meaning),,,,ITALICS (ITALIC FONT STYLE)
-騎 (Furigana),,,,き
-騎 (Meaning),,,,KNIGHT
-灯 (Furigana),,,,とう
-灯 (Meaning),,,,LAMP (LIGHT, TORCH)
-遅 (Furigana),,,,ち
-遅 (Meaning),,,,LATE FLOWER (LATE BLOOMING)
-溶 (Furigana),,,,よう
-溶 (Meaning),,,,LAVA
-脇 (Furigana),,,,わき
-脇 (Meaning),,,,LOOKING AWAY (LOOKING ASIDE)
-輝 (Furigana),,,,き
-輝 (Meaning),,,,LUMINANCE (BRIGHTNESS, CLEARNESS)
-大 (Furigana),,,,たい
-大 (Meaning),,,,MARIJUANA (CANNABIS)
-帳 (Furigana),,,,ちょう
-帳 (Meaning),,,,MEMO BOOK (MEMO PAD, NOTEBOOK, NOTEPAD, SCRATCHPAD)
-記 (Furigana),,,,き
-記 (Meaning),,,,MEMORY (RECOLLECTION)
+憶測 (Furigana),,,,おくそく
+憶測 (Meaning),,,,GUESS (SPECULATION)
+収穫 (Furigana),,,,しゅうかく
+収穫 (Meaning),,,,HARVEST (CROP)
+首班 (Furigana),,,,しゅはん
+首班 (Meaning),,,,HEAD (LEADER)
+鉢巻 (Furigana),,,,はちまき
+鉢巻 (Meaning),,,,HEADBAND
+耐熱 (Furigana),,,,たいねつ
+耐熱 (Meaning),,,,HEAT RESISTING (HEAT RESISTANT)
+殴打 (Furigana),,,,おうだ
+殴打 (Meaning),,,,HIT (STRIKE, BLOW)
+騎馬 (Furigana),,,,きば
+騎馬 (Meaning),,,,HORSEBACK RIDING (HORSE RIDING, MOUNTED, NOMADIC)
+騎手 (Furigana),,,,きしゅ
+騎手 (Meaning),,,,HORSE RIDER
+帝国主義 (Furigana),,,,ていこくしゅぎ
+帝国主義 (Meaning),,,,IMPERIALISM
+斜体 (Furigana),,,,しゃたい
+斜体 (Meaning),,,,ITALICS (ITALIC FONT STYLE)
+騎士 (Furigana),,,,きし
+騎士 (Meaning),,,,KNIGHT
+灯り (Furigana),,,,あかり
+灯り (Meaning),,,,LAMP (LIGHT, TORCH)
+遅咲き (Furigana),,,,おそざき
+遅咲き (Meaning),,,,LATE FLOWER (LATE BLOOMING)
+溶岩 (Furigana),,,,ようがん
+溶岩 (Meaning),,,,LAVA
+脇見 (Furigana),,,,わきみ
+脇見 (Meaning),,,,LOOKING AWAY (LOOKING ASIDE)
+輝度 (Furigana),,,,きど
+輝度 (Meaning),,,,LUMINANCE (BRIGHTNESS, CLEARNESS)
+大麻 (Furigana),,,,たいま
+大麻 (Meaning),,,,MARIJUANA (CANNABIS)
+メモ帳 (Furigana),,,,めもちょう
+メモ帳 (Meaning),,,,MEMO BOOK (MEMO PAD, NOTEBOOK, NOTEPAD, SCRATCHPAD)
+記憶 (Furigana),,,,きおく
+記憶 (Meaning),,,,MEMORY (RECOLLECTION)
 蚊 (Furigana),,,,か
 蚊 (Meaning),,,,MOSQUITO
-蚊 (Furigana),,,,か
-蚊 (Meaning),,,,MOSQUITO NET
-手 (Furigana),,,,て
-手 (Meaning),,,,NOTEBOOK (PLANNER, MEMO PAD)
-油 (Furigana),,,,ゆ
-油 (Meaning),,,,OIL PAINTING
-塗 (Furigana),,,,と
-塗 (Meaning),,,,PAINTS (PAINTING MATERIAL)
-迅 (Furigana),,,,じん
-迅 (Meaning),,,,QUICK (FAST, RAPID, SWIFT)
-記 (Furigana),,,,き
-記 (Meaning),,,,REGISTRY (ENTRY)
-後 (Furigana),,,,ご
-後 (Meaning),,,,REGRET (REPENTANCE)
-悔 (Furigana),,,,かい
-悔 (Meaning),,,,REGRETTABLE (VEXING, ANNOYING)
-賢 (Furigana),,,,けん
-賢 (Meaning),,,,SAGE (WISE PERSON)
-貯 (Furigana),,,,ちょ
-貯 (Meaning),,,,SAVINGS
-盾 (Furigana),,,,じゅん
+蚊帳 (Furigana),,,,かや
+蚊帳 (Meaning),,,,MOSQUITO NET
+手帳 (Furigana),,,,てちょう
+手帳 (Meaning),,,,NOTEBOOK (PLANNER, MEMO PAD)
+油彩 (Furigana),,,,ゆさい
+油彩 (Meaning),,,,OIL PAINTING
+塗料 (Furigana),,,,とりょう
+塗料 (Meaning),,,,PAINTS (PAINTING MATERIAL)
+迅速 (Furigana),,,,じんそく
+迅速 (Meaning),,,,QUICK (FAST, RAPID, SWIFT)
+記帳 (Furigana),,,,きちょう
+記帳 (Meaning),,,,REGISTRY (ENTRY)
+後悔 (Furigana),,,,こうかい
+後悔 (Meaning),,,,REGRET (REPENTANCE)
+悔しい (Furigana),,,,くやしい
+悔しい (Meaning),,,,REGRETTABLE (VEXING, ANNOYING)
+賢人 (Furigana),,,,けんじん
+賢人 (Meaning),,,,SAGE (WISE PERSON)
+貯蓄 (Furigana),,,,ちょちく
+貯蓄 (Meaning),,,,SAVINGS
+盾 (Furigana),,,,たて
 盾 (Meaning),,,,SHIELD
-斜 (Furigana),,,,しゃ
-斜 (Meaning),,,,SLANT (SLOPE)
+斜面 (Furigana),,,,しゃめん
+斜面 (Meaning),,,,SLANT (SLOPE)
 蛇 (Furigana),,,,へび
 蛇 (Meaning),,,,SNAKE
 班 (Furigana),,,,はん
 班 (Meaning),,,,SQUAD (GROUP, PARTY, TEAM)
-班 (Furigana),,,,はん
-班 (Meaning),,,,SQUAD LEADER (HONCHO, TEAM LEADER, GROUP LEADER)
-飢 (Furigana),,,,き
-飢 (Meaning),,,,STARVATION (FAMINE, HUNGER)
-街 (Furigana),,,,がい
-街 (Meaning),,,,STREETLIGHT (STREET LAMP)
-脇 (Furigana),,,,わき
-脇 (Meaning),,,,SUPPORTING ACTOR (SUPPORTING ROLE, MINOR ROLE)
-電 (Furigana),,,,でん
-電 (Meaning),,,,TELEPHONE BOOK (TELEPHONE DIRECTORY)
-脅 (Furigana),,,,きょう
-脅 (Meaning),,,,THREAT (A THREAT)
-脅 (Furigana),,,,きょう
-脅 (Meaning),,,,THREAT (MENACE)
-蓄 (Furigana),,,,ちく
-蓄 (Meaning),,,,TO AMASS (TO STORE, TO LAY IN STOCK, TO HAVE A BEARD, TO GROW A BEARD)
-尽 (Furigana),,,,じん
-尽 (Meaning),,,,TO BE USED UP (TO BE EXHAUSTED, TO RUN OUT)
-咲 (Furigana),,,,さ
-咲 (Meaning),,,,TO BLOOM (TO BLOSSOM)
-彩 (Furigana),,,,さい
-彩 (Meaning),,,,TO COLOR SOMETHING (TO COLOR)
-炊 (Furigana),,,,すい
-炊 (Meaning),,,,TO COOK (TO BOIL, TO COOK GRAINS)
-涼 (Furigana),,,,りょう
-涼 (Meaning),,,,TO COOL ONESELF (TO COOL OFF)
-培 (Furigana),,,,ばい
-培 (Meaning),,,,TO CULTIVATE (TO FOSTER)
-踊 (Furigana),,,,おど
-踊 (Meaning),,,,TO DANCE
-耐 (Furigana),,,,たい
-耐 (Meaning),,,,TO ENDURE (TO WITHSTAND)
-零 (Furigana),,,,れい
-零 (Meaning),,,,TO GET SPILLED (TO SPILL, TO FALL OUT, TO OVERFLOW)
-辱 (Furigana),,,,じょく
-辱 (Meaning),,,,TO HUMILIATE (TO EMBARRASS)
-溶 (Furigana),,,,よう
-溶 (Meaning),,,,TO MELT SOMETHING (TO MELT)
-塗 (Furigana),,,,と
-塗 (Meaning),,,,TO PAINT (TO PLASTER, TO LACQUER, TO SPREAD)
-貼 (Furigana),,,,は
-貼 (Meaning),,,,TO PASTE (TO STICK)
-殴 (Furigana),,,,おう
-殴 (Meaning),,,,TO PUNCH (TO STRIKE, TO HIT)
-輝 (Furigana),,,,き
-輝 (Meaning),,,,TO SHINE (TO GLITTER, TO SPARKLE)
-砕 (Furigana),,,,さい
-砕 (Meaning),,,,TO SMASH (TO BREAK)
-飢 (Furigana),,,,き
-飢 (Meaning),,,,TO STARVE (TO THIRST, TO BE HUNGRY)
-理 (Furigana),,,,り
-理 (Meaning),,,,UNREASONABLE (IRRATIONAL)
-無 (Furigana),,,,む
-無 (Meaning),,,,UNREASONABLY (ABSURDLY)
-水 (Furigana),,,,すい
-水 (Meaning),,,,WATERCOLOR PAINTING
-水 (Furigana),,,,すい
-水 (Meaning),,,,WATER SOLUBLE
-車 (Furigana),,,,しゃ
-車 (Meaning),,,,WHEELCHAIR
-賢 (Furigana),,,,けん
-賢 (Meaning),,,,WISE (SENSIBLE)
-魔 (Furigana),,,,ま
-魔 (Meaning),,,,WIZARD (MAGICIAN, SORCERER)
+班長 (Furigana),,,,はんちょう
+班長 (Meaning),,,,SQUAD LEADER (HONCHO, TEAM LEADER, GROUP LEADER)
+飢餓 (Furigana),,,,きが
+飢餓 (Meaning),,,,STARVATION (FAMINE, HUNGER)
+街灯 (Furigana),,,,がいとう
+街灯 (Meaning),,,,STREETLIGHT (STREET LAMP)
+脇役 (Furigana),,,,わきやく
+脇役 (Meaning),,,,SUPPORTING ACTOR (SUPPORTING ROLE, MINOR ROLE)
+電話帳 (Furigana),,,,でんわちょう
+電話帳 (Meaning),,,,TELEPHONE BOOK (TELEPHONE DIRECTORY)
+脅し (Furigana),,,,おどし
+脅し (Meaning),,,,THREAT (A THREAT)
+脅迫 (Furigana),,,,きょうはく
+脅迫 (Meaning),,,,THREAT (MENACE)
+蓄える (Furigana),,,,たくわえる
+蓄える (Meaning),,,,TO AMASS (TO STORE, TO LAY IN STOCK, TO HAVE A BEARD, TO GROW A BEARD)
+尽きる (Furigana),,,,つきる
+尽きる (Meaning),,,,TO BE USED UP (TO BE EXHAUSTED, TO RUN OUT)
+咲く (Furigana),,,,さく
+咲く (Meaning),,,,TO BLOOM (TO BLOSSOM)
+彩る (Furigana),,,,いろどる
+彩る (Meaning),,,,TO COLOR SOMETHING (TO COLOR)
+炊く (Furigana),,,,たく
+炊く (Meaning),,,,TO COOK (TO BOIL, TO COOK GRAINS)
+涼む (Furigana),,,,すずむ
+涼む (Meaning),,,,TO COOL ONESELF (TO COOL OFF)
+培う (Furigana),,,,つちかう
+培う (Meaning),,,,TO CULTIVATE (TO FOSTER)
+踊る (Furigana),,,,おどる
+踊る (Meaning),,,,TO DANCE
+耐える (Furigana),,,,たえる
+耐える (Meaning),,,,TO ENDURE (TO WITHSTAND)
+零れる (Furigana),,,,こぼれる
+零れる (Meaning),,,,TO GET SPILLED (TO SPILL, TO FALL OUT, TO OVERFLOW)
+辱める (Furigana),,,,はずかしめる
+辱める (Meaning),,,,TO HUMILIATE (TO EMBARRASS)
+溶かす (Furigana),,,,とかす
+溶かす (Meaning),,,,TO MELT SOMETHING (TO MELT)
+塗る (Furigana),,,,ぬる
+塗る (Meaning),,,,TO PAINT (TO PLASTER, TO LACQUER, TO SPREAD)
+貼る (Furigana),,,,はる
+貼る (Meaning),,,,TO PASTE (TO STICK)
+殴る (Furigana),,,,なぐる
+殴る (Meaning),,,,TO PUNCH (TO STRIKE, TO HIT)
+輝く (Furigana),,,,かがやく
+輝く (Meaning),,,,TO SHINE (TO GLITTER, TO SPARKLE)
+砕く (Furigana),,,,くだく
+砕く (Meaning),,,,TO SMASH (TO BREAK)
+飢える (Furigana),,,,うえる
+飢える (Meaning),,,,TO STARVE (TO THIRST, TO BE HUNGRY)
+理不尽 (Furigana),,,,りふじん
+理不尽 (Meaning),,,,UNREASONABLE (IRRATIONAL)
+無闇に (Furigana),,,,むやみに
+無闇に (Meaning),,,,UNREASONABLY (ABSURDLY)
+水彩画 (Furigana),,,,すいさいが
+水彩画 (Meaning),,,,WATERCOLOR PAINTING
+水溶性 (Furigana),,,,すいようせい
+水溶性 (Meaning),,,,WATER SOLUBLE
+車椅子 (Furigana),,,,くるまいす
+車椅子 (Meaning),,,,WHEELCHAIR
+賢明 (Furigana),,,,けんめい
+賢明 (Meaning),,,,WISE (SENSIBLE)
+魔法使い (Furigana),,,,まほうつかい
+魔法使い (Meaning),,,,WIZARD (MAGICIAN, SORCERER)

@@ -66,213 +66,213 @@
 朱 (Meaning),,,,Vermilion
 翼 (Onyomi),,,,よく
 翼 (Meaning),,,,Wing
-挑 (Furigana),,,,ちょう
-挑 (Meaning),,,,A CHALLENGER (CHALLENGER)
-寝 (Furigana),,,,ね
-寝 (Meaning),,,,BED (CRIB)
+挑戦者 (Furigana),,,,ちょうせんしゃ
+挑戦者 (Meaning),,,,A CHALLENGER (CHALLENGER)
+寝床 (Furigana),,,,ねどこ
+寝床 (Meaning),,,,BED (CRIB)
 刃 (Furigana),,,,は
 刃 (Meaning),,,,BLADE (EDGE)
-金 (Furigana),,,,きん
-金 (Meaning),,,,BLONDE
-本 (Furigana),,,,ほん
-本 (Meaning),,,,BOOKCASE (BOOKSHELF)
-両 (Furigana),,,,りょう
-両 (Meaning),,,,BOTH WINGS (BOTH FLANKS)
-缶 (Furigana),,,,かん
-缶 (Meaning),,,,CAN BEER (CANNED BEER)
-缶 (Furigana),,,,かん
-缶 (Meaning),,,,CANNED COFFEE (CAN COFFEE)
-大 (Furigana),,,,たい
-大 (Meaning),,,,CANNON
-携 (Furigana),,,,けい
-携 (Meaning),,,,CELL PHONE STRAP (MOBILE PHONE STRAP)
-紛 (Furigana),,,,ふん
-紛 (Meaning),,,,CONFUSING (MISLEADING)
+金髪 (Furigana),,,,きんぱつ
+金髪 (Meaning),,,,BLONDE
+本棚 (Furigana),,,,ほんだな
+本棚 (Meaning),,,,BOOKCASE (BOOKSHELF)
+両翼 (Furigana),,,,りょうよく
+両翼 (Meaning),,,,BOTH WINGS (BOTH FLANKS)
+缶ビール (Furigana),,,,かんびーる
+缶ビール (Meaning),,,,CAN BEER (CANNED BEER)
+缶コーヒー (Furigana),,,,かんこーひー
+缶コーヒー (Meaning),,,,CANNED COFFEE (CAN COFFEE)
+大砲 (Furigana),,,,たいほう
+大砲 (Meaning),,,,CANNON
+携帯ストラップ (Furigana),,,,けいたいすとらっぷ
+携帯ストラップ (Meaning),,,,CELL PHONE STRAP (MOBILE PHONE STRAP)
+紛らわしい (Furigana),,,,まぎらわしい
+紛らわしい (Meaning),,,,CONFUSING (MISLEADING)
 笠 (Furigana),,,,かさ
 笠 (Meaning),,,,CONICAL HAT (BAMBOO HAT)
-管 (Furigana),,,,かん
-管 (Meaning),,,,CONTROL TOWER
-戸 (Furigana),,,,と
-戸 (Meaning),,,,CUPBOARD
-恐 (Furigana),,,,きょう
-恐 (Meaning),,,,DINOSAUR
+管制塔 (Furigana),,,,かんせいとう
+管制塔 (Meaning),,,,CONTROL TOWER
+戸棚 (Furigana),,,,とだな
+戸棚 (Meaning),,,,CUPBOARD
+恐竜 (Furigana),,,,きょうりゅう
+恐竜 (Meaning),,,,DINOSAUR
 竜 (Furigana),,,,りゅう
 竜 (Meaning),,,,DRAGON
-縁 (Furigana),,,,えん
+縁 (Furigana),,,,ふち
 縁 (Meaning),,,,EDGE (RIM, BRIM)
-刃 (Furigana),,,,は
-刃 (Meaning),,,,EDGED TOOL (CUTLERY, KITCHEN CUTLERY, KNIFE)
-刃 (Furigana),,,,は
-刃 (Meaning),,,,EDGE OF BLADE (BLADE EDGE)
-塔 (Furigana),,,,とう
-塔 (Meaning),,,,EIFFEL TOWER
-一 (Furigana),,,,いち
-一 (Meaning),,,,EIGHTEEN-LITER CONTAINER (FIVE-GALLON CONTAINER)
-空 (Furigana),,,,くう
-空 (Meaning),,,,EMPTY CAN
-絶 (Furigana),,,,ぜつ
-絶 (Meaning),,,,EXCLAMATION (SCREAM, SHOUT)
-釣 (Furigana),,,,つ
-釣 (Meaning),,,,FISHING
-揚 (Furigana),,,,あ
-揚 (Meaning),,,,FRIED
-手 (Furigana),,,,て
-手 (Meaning),,,,GLOVES
-吉 (Furigana),,,,きつ
+刃物 (Furigana),,,,はもの
+刃物 (Meaning),,,,EDGED TOOL (CUTLERY, KITCHEN CUTLERY, KNIFE)
+刃先 (Furigana),,,,はさき
+刃先 (Meaning),,,,EDGE OF BLADE (BLADE EDGE)
+エッフェル塔 (Furigana),,,,えっふぇるとう
+エッフェル塔 (Meaning),,,,EIFFEL TOWER
+一斗缶 (Furigana),,,,いっとかん
+一斗缶 (Meaning),,,,EIGHTEEN-LITER CONTAINER (FIVE-GALLON CONTAINER)
+空き缶 (Furigana),,,,あきかん
+空き缶 (Meaning),,,,EMPTY CAN
+絶叫 (Furigana),,,,ぜっきょう
+絶叫 (Meaning),,,,EXCLAMATION (SCREAM, SHOUT)
+釣り (Furigana),,,,つり
+釣り (Meaning),,,,FISHING
+揚げ (Furigana),,,,あげ
+揚げ (Meaning),,,,FRIED
+手袋 (Furigana),,,,てぶくろ
+手袋 (Meaning),,,,GLOVES
+吉 (Furigana),,,,きち
 吉 (Meaning),,,,GOOD OMEN
-粒 (Furigana),,,,りゅう
+粒 (Furigana),,,,つぶ
 粒 (Meaning),,,,GRAIN (BEAD, COUNTER FOR GRAINS)
-挨 (Furigana),,,,あい
-挨 (Meaning),,,,GREETING (SALUTATION, SPEECH)
-握 (Furigana),,,,あく
-握 (Meaning),,,,GRIP (HANDLE, HANDFUL, FISTFUL)
+挨拶 (Furigana),,,,あいさつ
+挨拶 (Meaning),,,,GREETING (SALUTATION, SPEECH)
+握り (Furigana),,,,にぎり
+握り (Meaning),,,,GRIP (HANDLE, HANDFUL, FISTFUL)
 髪 (Furigana),,,,かみ
 髪 (Meaning),,,,HAIR (HEAD HAIR, HAIR ON YOUR HEAD)
-髪 (Furigana),,,,かみ
-髪 (Meaning),,,,HAIRSTYLE (HAIR STYLE, HAIRDO)
-髪 (Furigana),,,,かみ
-髪 (Meaning),,,,HEAD HAIR
-丘 (Furigana),,,,きゅう
+髪型 (Furigana),,,,かみがた
+髪型 (Meaning),,,,HAIRSTYLE (HAIR STYLE, HAIRDO)
+髪の毛 (Furigana),,,,かみのけ
+髪の毛 (Meaning),,,,HEAD HAIR
+丘 (Furigana),,,,おか
 丘 (Meaning),,,,HILL (KNOLL)
 俺 (Furigana),,,,おれ
 俺 (Meaning),,,,I (ME)
 斗 (Furigana),,,,と
 斗 (Meaning),,,,LADLE (BIG DIPPER, MEASURE OF VOLUME, EIGHTEEN LITERS)
-左 (Furigana),,,,さ
-左 (Meaning),,,,LEFT WING
-縁 (Furigana),,,,えん
-縁 (Meaning),,,,MARRIAGE PROPOSAL
-寸 (Furigana),,,,すん
-寸 (Meaning),,,,MEASUREMENT (SIZE, DIMENSION)
-喪 (Furigana),,,,そう
-喪 (Meaning),,,,MOURNING DRESS (MOURNING CLOTHES)
+左翼 (Furigana),,,,さよく
+左翼 (Meaning),,,,LEFT WING
+縁談 (Furigana),,,,えんだん
+縁談 (Meaning),,,,MARRIAGE PROPOSAL
+寸法 (Furigana),,,,すんぽう
+寸法 (Meaning),,,,MEASUREMENT (SIZE, DIMENSION)
+喪服 (Furigana),,,,もふく
+喪服 (Meaning),,,,MOURNING DRESS (MOURNING CLOTHES)
 謎 (Furigana),,,,なぞ
 謎 (Meaning),,,,MYSTERY (RIDDLE)
-辛 (Furigana),,,,しん
-辛 (Meaning),,,,NARROW VICTORY
-忍 (Furigana),,,,にん
-忍 (Meaning),,,,NINJA
-縁 (Furigana),,,,えん
-縁 (Meaning),,,,OMEN (LUCK)
-不 (Furigana),,,,ふ
-不 (Meaning),,,,OMINOUS (SINISTER, BAD LUCK, ILL OMEN)
-寸 (Furigana),,,,すん
-寸 (Meaning),,,,ON THE BRINK (ON THE VERGE, JUST IN FRONT OF, JUST BEFORE)
-泊 (Furigana),,,,はく
-泊 (Meaning),,,,OVERNIGHT STAY (SLEEPOVER, STOPOVER)
-一 (Furigana),,,,いち
-一 (Meaning),,,,PART (A PART)
-粒 (Furigana),,,,りゅう
-粒 (Meaning),,,,PARTICLE (GRAIN, ATOMIC PARTICLE)
-辛 (Furigana),,,,しん
-辛 (Meaning),,,,PATIENCE (ENDURANCE)
+辛勝 (Furigana),,,,しんしょう
+辛勝 (Meaning),,,,NARROW VICTORY
+忍者 (Furigana),,,,にんじゃ
+忍者 (Meaning),,,,NINJA
+縁起 (Furigana),,,,えんぎ
+縁起 (Meaning),,,,OMEN (LUCK)
+不吉 (Furigana),,,,ふきつ
+不吉 (Meaning),,,,OMINOUS (SINISTER, BAD LUCK, ILL OMEN)
+寸前 (Furigana),,,,すんぜん
+寸前 (Meaning),,,,ON THE BRINK (ON THE VERGE, JUST IN FRONT OF, JUST BEFORE)
+泊まり (Furigana),,,,とまり
+泊まり (Meaning),,,,OVERNIGHT STAY (SLEEPOVER, STOPOVER)
+一翼 (Furigana),,,,いちよく
+一翼 (Meaning),,,,PART (A PART)
+粒子 (Furigana),,,,りゅうし
+粒子 (Meaning),,,,PARTICLE (GRAIN, ATOMIC PARTICLE)
+辛抱 (Furigana),,,,しんぼう
+辛抱 (Meaning),,,,PATIENCE (ENDURANCE)
 桃 (Furigana),,,,もも
 桃 (Meaning),,,,PEACH
-桃 (Furigana),,,,もも
-桃 (Meaning),,,,PEACH COLOR
+桃色 (Furigana),,,,ももいろ
+桃色 (Meaning),,,,PEACH COLOR
 梨 (Furigana),,,,なし
 梨 (Meaning),,,,PEAR
-哲 (Furigana),,,,てつ
-哲 (Meaning),,,,PHILOSOPHER
-滑 (Furigana),,,,かつ
-滑 (Meaning),,,,PLAYGROUND SLIDE (SLIDE)
-娯 (Furigana),,,,ご
-娯 (Meaning),,,,PLEASURE (AMUSEMENT)
+哲学者 (Furigana),,,,てつがくしゃ
+哲学者 (Meaning),,,,PHILOSOPHER
+滑り台 (Furigana),,,,すべりだい
+滑り台 (Meaning),,,,PLAYGROUND SLIDE (SLIDE)
+娯楽 (Furigana),,,,ごらく
+娯楽 (Meaning),,,,PLEASURE (AMUSEMENT)
 姫 (Furigana),,,,ひめ
 姫 (Meaning),,,,PRINCESS (NOBLE GIRL)
-姫 (Furigana),,,,ひめ
-姫 (Meaning),,,,PRINCESS
-朱 (Furigana),,,,しゅ
-朱 (Meaning),,,,RED SEAL
-謎 (Furigana),,,,なぞ
-謎 (Meaning),,,,RIDDLE (PUZZLE, ENIGMA)
-右 (Furigana),,,,ゆう
-右 (Meaning),,,,RIGHT WING
+姫様 (Furigana),,,,ひめさま
+姫様 (Meaning),,,,PRINCESS
+朱印 (Furigana),,,,しゅいん
+朱印 (Meaning),,,,RED SEAL
+謎々 (Furigana),,,,なぞなぞ
+謎々 (Meaning),,,,RIDDLE (PUZZLE, ENIGMA)
+右翼 (Furigana),,,,うよく
+右翼 (Meaning),,,,RIGHT WING
 侍 (Furigana),,,,さむらい
 侍 (Meaning),,,,SAMURAI
-砂 (Furigana),,,,さ
-砂 (Meaning),,,,SAND DUNE
-網 (Furigana),,,,もう
-網 (Meaning),,,,SCREEN DOOR
-土 (Furigana),,,,ど
-土 (Meaning),,,,SEDIMENT (EARTH AND SAND)
+砂丘 (Furigana),,,,さきゅう
+砂丘 (Meaning),,,,SAND DUNE
+網戸 (Furigana),,,,あみど
+網戸 (Meaning),,,,SCREEN DOOR
+土砂 (Furigana),,,,どしゃ
+土砂 (Meaning),,,,SEDIMENT (EARTH AND SAND)
 棚 (Furigana),,,,たな
 棚 (Meaning),,,,SHELF
-手 (Furigana),,,,て
-手 (Meaning),,,,SOLID (STEADY, FIRM)
-香 (Furigana),,,,こう
-香 (Meaning),,,,SPICES
-辛 (Furigana),,,,しん
-辛 (Meaning),,,,SPICY (HOT, DIFFICULT, PAINFUL)
+手堅い (Furigana),,,,てがたい
+手堅い (Meaning),,,,SOLID (STEADY, FIRM)
+香辛料 (Furigana),,,,こうしんりょう
+香辛料 (Meaning),,,,SPICES
+辛い (Furigana),,,,からい
+辛い (Meaning),,,,SPICY (HOT, DIFFICULT, PAINFUL)
 芽 (Furigana),,,,め
 芽 (Meaning),,,,SPROUT (BUD)
 嵐 (Furigana),,,,あらし
 嵐 (Meaning),,,,STORM (TEMPEST)
-荒 (Furigana),,,,あ
-荒 (Meaning),,,,STORMY SEAS (RAGING WAVES)
+荒波 (Furigana),,,,あらなみ
+荒波 (Meaning),,,,STORMY SEAS (RAGING WAVES)
 寸 (Furigana),,,,すん
 寸 (Meaning),,,,SUN (THREE POINT ZERO THREE CENTIMETERS, THREE CENTIMETERS, THREE POINT OH THREE CENTIMETERS)
-涙 (Furigana),,,,るい
+涙 (Furigana),,,,なみだ
 涙 (Meaning),,,,TEARS (TEAR, TEARDROP)
-感 (Furigana),,,,かん
-感 (Meaning),,,,TEARS OF GRATITUDE
-北 (Furigana),,,,ほく
-北 (Meaning),,,,THE BIG DIPPER (THE PLOUGH)
-雷 (Furigana),,,,らい
+感涙 (Furigana),,,,かんるい
+感涙 (Meaning),,,,TEARS OF GRATITUDE
+北斗七星 (Furigana),,,,ほくとしちせい
+北斗七星 (Meaning),,,,THE BIG DIPPER (THE PLOUGH)
+雷 (Furigana),,,,かみなり
 雷 (Meaning),,,,THUNDER (LIGHTNING, THUNDERBOLT)
-落 (Furigana),,,,らく
-落 (Meaning),,,,THUNDERBOLT (LIGHTNING, BOLT OF LIGHTNING, LIGHTNING STRIKE)
-雷 (Furigana),,,,らい
-雷 (Meaning),,,,THUNDERSTORM
+落雷 (Furigana),,,,らくらい
+落雷 (Meaning),,,,THUNDERBOLT (LIGHTNING, BOLT OF LIGHTNING, LIGHTNING STRIKE)
+雷雨 (Furigana),,,,らいう
+雷雨 (Meaning),,,,THUNDERSTORM
 缶 (Furigana),,,,かん
 缶 (Meaning),,,,TIN CAN (CAN, TIN)
-紛 (Furigana),,,,ふん
-紛 (Meaning),,,,TO BE DIVERTED (TO BE DISTRACTED)
-揺 (Furigana),,,,よう
-揺 (Meaning),,,,TO BE SHAKEN (TO BE JOLTED)
-裂 (Furigana),,,,れつ
-裂 (Meaning),,,,TO BE SPLIT (TO BE TORN, TO BURST APART)
-焦 (Furigana),,,,しょう
-焦 (Meaning),,,,TO BURN (TO SCORCH)
-克 (Furigana),,,,こく
-克 (Meaning),,,,TO CONQUER
-忍 (Furigana),,,,にん
-忍 (Meaning),,,,TO ENDURE (TO CONCEAL, TO HIDE)
-取 (Furigana),,,,しゅ
-取 (Meaning),,,,TO FAIL TO CATCH
-釣 (Furigana),,,,つ
-釣 (Meaning),,,,TO FISH
-荒 (Furigana),,,,あ
-荒 (Meaning),,,,TO LAY WASTE (TO DEVASTATE)
-見 (Furigana),,,,み
-見 (Meaning),,,,TO OVERLOOK
-竜 (Furigana),,,,りゅう
-竜 (Meaning),,,,TORNADO
-魚 (Furigana),,,,ぎょ
-魚 (Meaning),,,,TORPEDO
-叱 (Furigana),,,,しか
-叱 (Meaning),,,,TO SCOLD (TO CHIDE, TO REPRIMAND)
-揺 (Furigana),,,,よう
-揺 (Meaning),,,,TO SHAKE (TO ROCK, TO SWAY, TO JOLT)
-揺 (Furigana),,,,よう
-揺 (Meaning),,,,TO SHAKE (TO JOLT)
-叫 (Furigana),,,,きょう
-叫 (Meaning),,,,TO SHOUT (TO SCREAM)
-沈 (Furigana),,,,ちん
-沈 (Meaning),,,,TO SINK SOMETHING
+紛れる (Furigana),,,,まぎれる
+紛れる (Meaning),,,,TO BE DIVERTED (TO BE DISTRACTED)
+揺れる (Furigana),,,,ゆれる
+揺れる (Meaning),,,,TO BE SHAKEN (TO BE JOLTED)
+裂ける (Furigana),,,,さける
+裂ける (Meaning),,,,TO BE SPLIT (TO BE TORN, TO BURST APART)
+焦がす (Furigana),,,,こがす
+焦がす (Meaning),,,,TO BURN (TO SCORCH)
+克服する (Furigana),,,,こくふくする
+克服する (Meaning),,,,TO CONQUER
+忍ぶ (Furigana),,,,しのぶ
+忍ぶ (Meaning),,,,TO ENDURE (TO CONCEAL, TO HIDE)
+取り逃がす (Furigana),,,,とりにがす
+取り逃がす (Meaning),,,,TO FAIL TO CATCH
+釣る (Furigana),,,,つる
+釣る (Meaning),,,,TO FISH
+荒らす (Furigana),,,,あらす
+荒らす (Meaning),,,,TO LAY WASTE (TO DEVASTATE)
+見逃す (Furigana),,,,みのがす
+見逃す (Meaning),,,,TO OVERLOOK
+竜巻 (Furigana),,,,たつまき
+竜巻 (Meaning),,,,TORNADO
+魚雷 (Furigana),,,,ぎょらい
+魚雷 (Meaning),,,,TORPEDO
+叱る (Furigana),,,,しかる
+叱る (Meaning),,,,TO SCOLD (TO CHIDE, TO REPRIMAND)
+揺する (Furigana),,,,ゆする
+揺する (Meaning),,,,TO SHAKE (TO ROCK, TO SWAY, TO JOLT)
+揺さぶる (Furigana),,,,ゆさぶる
+揺さぶる (Meaning),,,,TO SHAKE (TO JOLT)
+叫ぶ (Furigana),,,,さけぶ
+叫ぶ (Meaning),,,,TO SHOUT (TO SCREAM)
+沈める (Furigana),,,,しずめる
+沈める (Meaning),,,,TO SINK SOMETHING
 塔 (Furigana),,,,とう
 塔 (Meaning),,,,TOWER (PAGODA)
-塔 (Furigana),,,,とう
-塔 (Meaning),,,,TOWER OF BABEL
-無 (Furigana),,,,む
-無 (Meaning),,,,UNRELATED
-朱 (Furigana),,,,しゅ
+バベルの塔 (Furigana),,,,ばべるのとう
+バベルの塔 (Meaning),,,,TOWER OF BABEL
+無縁 (Furigana),,,,むえん
+無縁 (Meaning),,,,UNRELATED
+朱 (Furigana),,,,あけ
 朱 (Meaning),,,,VERMILION (SCARLET RED, BLOOD)
-俺 (Furigana),,,,おれ
-俺 (Meaning),,,,WE (US)
-俺 (Furigana),,,,おれ
-俺 (Meaning),,,,WE
-荒 (Furigana),,,,あ
-荒 (Meaning),,,,WILD (ROUGH)
-翼 (Furigana),,,,よく
+俺たち (Furigana),,,,おれたち
+俺たち (Meaning),,,,WE (US)
+俺ら (Furigana),,,,おれら
+俺ら (Meaning),,,,WE
+荒々しい (Furigana),,,,あらあらしい
+荒々しい (Meaning),,,,WILD (ROUGH)
+翼 (Furigana),,,,つばさ
 翼 (Meaning),,,,WING

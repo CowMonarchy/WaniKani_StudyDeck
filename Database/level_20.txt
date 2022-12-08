@@ -64,243 +64,245 @@
 厚 (Meaning),,,,Thick
 妻 (Onyomi),,,,さい
 妻 (Meaning),,,,Wife
-共 (Furigana),,,,きょう
-共 (Meaning),,,,ACCOMPLICE
-正 (Furigana),,,,せい
-正 (Meaning),,,,ACCURATE (PRECISE, EXACT)
-余 (Furigana),,,,よ
-余 (Meaning),,,,AFTERSHOCK
-飛 (Furigana),,,,ひ
-飛 (Meaning),,,,AIRPLANE (AEROPLANE, AIRCRAFT, PLANE)
-留 (Furigana),,,,る
-留 (Meaning),,,,ANSWERING MACHINE
-人 (Furigana),,,,にん
-人 (Meaning),,,,ANTHROPOLOGY
-議 (Furigana),,,,ぎ
-議 (Meaning),,,,ARGUMENT (DISCUSSION, CONTROVERSY)
-倒 (Furigana),,,,とう
-倒 (Meaning),,,,BANKRUPTCY (GO BANKRUPT)
-血 (Furigana),,,,けつ
-血 (Meaning),,,,BLOOD PRESSURE
-借 (Furigana),,,,しゃく
-借 (Meaning),,,,BORROWER (TENANT)
-弓 (Furigana),,,,きゅう
-弓 (Meaning),,,,BOW AND ARROW
-尻 (Furigana),,,,しり
-尻 (Meaning),,,,BUTT (BUTTOCKS, BOTTOM)
-確 (Furigana),,,,かく
-確 (Meaning),,,,CERTAINLY (SURELY)
-議 (Furigana),,,,ぎ
-議 (Meaning),,,,CHAIRMAN (CHAIRPERSON, SPEAKER)
-会 (Furigana),,,,かい
-会 (Meaning),,,,CONFERENCE ROOM (COUNCIL ROOM, MEETING ROOM)
-穴 (Furigana),,,,あな
-穴 (Meaning),,,,CONGER EEL (ANAGO)
-喉 (Furigana),,,,こう
-喉 (Meaning),,,,COUGH DROP (THROAT LOZENGE)
-夢 (Furigana),,,,む
-夢 (Meaning),,,,CRAZY ABOUT (ABSORPTION, MAD ABOUT)
-犯 (Furigana),,,,はん
-犯 (Meaning),,,,CRIME
-犯 (Furigana),,,,はん
-犯 (Meaning),,,,CRIMINAL (CULPRIT)
-危 (Furigana),,,,き
-危 (Meaning),,,,CRISIS
-非 (Furigana),,,,ひ
-非 (Meaning),,,,CRITICISM
-被 (Furigana),,,,ひ
-被 (Meaning),,,,DAMAGE (HARM, INJURY)
-議 (Furigana),,,,ぎ
-議 (Meaning),,,,DIET (THE DIET, CONGRESS, PARLIAMENT, ASSEMBLY)
-難 (Furigana),,,,なん
-難 (Meaning),,,,DIFFICULT (HARD)
-災 (Furigana),,,,さい
-災 (Meaning),,,,DISASTER (MISFORTUNE)
-嫌 (Furigana),,,,けん
-嫌 (Meaning),,,,DISGUST (HATE, REPUGNANCE)
-皿 (Furigana),,,,さら
-皿 (Meaning),,,,DISHWASHING (DOING DISHES, WASHING DISHES)
-嫌 (Furigana),,,,けん
-嫌 (Meaning),,,,DISLIKE (HATE, DISLIKABLE, DETESTABLE)
-嫌 (Furigana),,,,けん
+共犯者 (Furigana),,,,きょうはんしゃ
+共犯者 (Meaning),,,,ACCOMPLICE
+正確 (Furigana),,,,せいかく
+正確 (Meaning),,,,ACCURATE (PRECISE, EXACT)
+余震 (Furigana),,,,よしん
+余震 (Meaning),,,,AFTERSHOCK
+飛行機 (Furigana),,,,ひこうき
+飛行機 (Meaning),,,,AIRPLANE (AEROPLANE, AIRCRAFT, PLANE)
+留守番電話 (Furigana),,,,るすばんでんわ
+留守番電話 (Meaning),,,,ANSWERING MACHINE
+人類学 (Furigana),,,,じんるいがく
+人類学 (Meaning),,,,ANTHROPOLOGY
+議論 (Furigana),,,,ぎろん
+議論 (Meaning),,,,ARGUMENT (DISCUSSION, CONTROVERSY)
+倒産 (Furigana),,,,とうさん
+倒産 (Meaning),,,,BANKRUPTCY (GO BANKRUPT)
+血圧 (Furigana),,,,けつあつ
+血圧 (Meaning),,,,BLOOD PRESSURE
+借り手 (Furigana),,,,かりて
+借り手 (Meaning),,,,BORROWER (TENANT)
+弓矢 (Furigana),,,,ゆみや
+弓矢 (Meaning),,,,BOW AND ARROW
+お尻 (Furigana),,,,おしり
+お尻 (Meaning),,,,BUTT (BUTTOCKS, BOTTOM)
+確かに (Furigana),,,,たしかに
+確かに (Meaning),,,,CERTAINLY (SURELY)
+議長 (Furigana),,,,ぎちょう
+議長 (Meaning),,,,CHAIRMAN (CHAIRPERSON, SPEAKER)
+会議室 (Furigana),,,,かいぎしつ
+会議室 (Meaning),,,,CONFERENCE ROOM (COUNCIL ROOM, MEETING ROOM)
+穴子 (Furigana),,,,あなご
+穴子 (Meaning),,,,CONGER EEL (ANAGO)
+喉飴 (Furigana),,,,のどあめ
+喉飴 (Meaning),,,,COUGH DROP (THROAT LOZENGE)
+夢中 (Furigana),,,,むちゅう
+夢中 (Meaning),,,,CRAZY ABOUT (ABSORPTION, MAD ABOUT)
+犯罪 (Furigana),,,,はんざい
+犯罪 (Meaning),,,,CRIME
+犯人 (Furigana),,,,はんにん
+犯人 (Meaning),,,,CRIMINAL (CULPRIT)
+危機 (Furigana),,,,きき
+危機 (Meaning),,,,CRISIS
+非難 (Furigana),,,,ひなん
+非難 (Meaning),,,,CRITICISM
+被害 (Furigana),,,,ひがい
+被害 (Meaning),,,,DAMAGE (HARM, INJURY)
+議会 (Furigana),,,,ぎかい
+議会 (Meaning),,,,DIET (THE DIET, CONGRESS, PARLIAMENT, ASSEMBLY)
+難しい (Furigana),,,,むずかしい
+難しい (Meaning),,,,DIFFICULT (HARD)
+災い (Furigana),,,,わざわい
+災い (Meaning),,,,DISASTER (MISFORTUNE)
+嫌悪 (Furigana),,,,けんお
+嫌悪 (Meaning),,,,DISGUST (HATE, REPUGNANCE)
+皿洗い (Furigana),,,,さらあらい
+皿洗い (Meaning),,,,DISHWASHING (DOING DISHES, WASHING DISHES)
+嫌い (Furigana),,,,きらい
+嫌い (Meaning),,,,DISLIKE (HATE, DISLIKABLE, DETESTABLE)
+嫌 (Furigana),,,,いや
 嫌 (Meaning),,,,DISLIKE (EWW, GROSS, RELUCTANT)
-立 (Furigana),,,,りつ
-立 (Meaning),,,,DO NOT ENTER (NO ENTRY, OFF-LIMITS)
-夢 (Furigana),,,,む
+立入禁止 (Furigana),,,,たちいりきんし
+立入禁止 (Meaning),,,,DO NOT ENTER (NO ENTRY, OFF-LIMITS)
+夢 (Furigana),,,,ゆめ
 夢 (Meaning),,,,DREAM
-地 (Furigana),,,,ち
-地 (Meaning),,,,EARTHQUAKE
-震 (Furigana),,,,しん
-震 (Meaning),,,,EARTHQUAKE DISASTER
-震 (Furigana),,,,しん
-震 (Meaning),,,,EARTHQUAKE INTENSITY (SEISMIC INTENSITY, SEISMIC SCALE)
-電 (Furigana),,,,でん
-電 (Meaning),,,,ELECTRONIC DEVICE (ELECTRONIC EQUIPMENT, ELECTRONICS)
-最 (Furigana),,,,さい
-最 (Meaning),,,,END OF A LINE
-存 (Furigana),,,,そん
-存 (Meaning),,,,EXISTENCE
-経 (Furigana),,,,けい
-経 (Meaning),,,,EXPERIENCE
-火 (Furigana),,,,か
-火 (Meaning),,,,FIRE DISASTER
-防 (Furigana),,,,ぼう
-防 (Meaning),,,,FIRE PREVENTION (FIRE FIGHTING, FIRE PROOF)
-水 (Furigana),,,,すい
-水 (Meaning),,,,FLOOD DAMAGE (WATER DAMAGE)
-忘 (Furigana),,,,ぼう
-忘 (Meaning),,,,FORGOTTEN ITEM (SOMETHING FORGOTTEN, FORGOTTEN THING, LOST PROPERTY)
-自 (Furigana),,,,じ
-自 (Meaning),,,,FREELY (AT WILL, FLEXIBLE, ADJUSTABLE)
-有 (Furigana),,,,ゆう
-有 (Meaning),,,,GUILTY (GUILT)
-手 (Furigana),,,,て
-手 (Meaning),,,,HAND WASHING (BATHROOM, RESTROOM, LAVATORY)
-困 (Furigana),,,,こん
-困 (Meaning),,,,HARDSHIP (DIFFICULTY, HARD, DIFFICULT)
-無 (Furigana),,,,む
-無 (Meaning),,,,HARMLESS
-胸 (Furigana),,,,むね
-胸 (Meaning),,,,HEARTBURN
+地震 (Furigana),,,,じしん
+地震 (Meaning),,,,EARTHQUAKE
+震災 (Furigana),,,,しんさい
+震災 (Meaning),,,,EARTHQUAKE DISASTER
+震度 (Furigana),,,,しんど
+震度 (Meaning),,,,EARTHQUAKE INTENSITY (SEISMIC INTENSITY, SEISMIC SCALE)
+電子機器 (Furigana),,,,でんしきき
+電子機器 (Meaning),,,,ELECTRONIC DEVICE (ELECTRONIC EQUIPMENT, ELECTRONICS)
+最後尾 (Furigana),,,,さいこうび
+最後尾 (Meaning),,,,END OF A LINE
+存在 (Furigana),,,,そんざい
+存在 (Meaning),,,,EXISTENCE
+経験 (Furigana),,,,けいけん
+経験 (Meaning),,,,EXPERIENCE
+火災 (Furigana),,,,かさい
+火災 (Meaning),,,,FIRE DISASTER
+防火 (Furigana),,,,ぼうか
+防火 (Meaning),,,,FIRE PREVENTION (FIRE FIGHTING, FIRE PROOF)
+水害 (Furigana),,,,すいがい
+水害 (Meaning),,,,FLOOD DAMAGE (WATER DAMAGE)
+忘れ物 (Furigana),,,,わすれもの
+忘れ物 (Meaning),,,,FORGOTTEN ITEM (SOMETHING FORGOTTEN, FORGOTTEN THING, LOST PROPERTY)
+自在 (Furigana),,,,じざい
+自在 (Meaning),,,,FREELY (AT WILL, FLEXIBLE, ADJUSTABLE)
+有罪 (Furigana),,,,ゆうざい
+有罪 (Meaning),,,,GUILTY (GUILT)
+手洗い (Furigana),,,,てあらい
+手洗い (Meaning),,,,HAND WASHING (BATHROOM, RESTROOM, LAVATORY)
+困難 (Furigana),,,,こんなん
+困難 (Meaning),,,,HARDSHIP (DIFFICULTY, HARD, DIFFICULT)
+無害 (Furigana),,,,むがい
+無害 (Meaning),,,,HARMLESS
+胸焼け (Furigana),,,,むねやけ
+胸焼け (Meaning),,,,HEARTBURN
 穴 (Furigana),,,,あな
 穴 (Meaning),,,,HOLE
-穴 (Furigana),,,,あな
-穴 (Meaning),,,,HOLE IN THE WALL (LITTLE KNOWN GOOD PLACE)
-夫 (Furigana),,,,ふう
-夫 (Meaning),,,,HUSBAND AND WIFE (MARRIED COUPLE, MR. AND MRS.)
-不 (Furigana),,,,ふ
-不 (Meaning),,,,INDIVISIBLE (INSEPARABLE)
-論 (Furigana),,,,ろん
-論 (Meaning),,,,LOGIC
-機 (Furigana),,,,き
-機 (Meaning),,,,MACHINE (MECHANISM)
+穴場 (Furigana),,,,あなば
+穴場 (Meaning),,,,HOLE IN THE WALL (LITTLE KNOWN GOOD PLACE)
+夫妻 (Furigana),,,,ふさい
+夫妻 (Meaning),,,,HUSBAND AND WIFE (MARRIED COUPLE, MR. AND MRS.)
+不可分 (Furigana),,,,ふかぶん
+不可分 (Meaning),,,,INDIVISIBLE (INSEPARABLE)
+論理 (Furigana),,,,ろんり
+論理 (Meaning),,,,LOGIC
+機械 (Furigana),,,,きかい
+機械 (Meaning),,,,MACHINE (MECHANISM)
 機 (Furigana),,,,き
 機 (Meaning),,,,MACHINE (CHANCE, OPPORTUNITY)
-会 (Furigana),,,,かい
-会 (Meaning),,,,MEETING (CONFERENCE, ASSEMBLY)
-議 (Furigana),,,,ぎ
-議 (Meaning),,,,MEMBER OF THE DIET (DIET MEMBER, LEGISLATOR, ASSEMBLY MEMBER)
-災 (Furigana),,,,さい
-災 (Meaning),,,,MISFORTUNE (CALAMITY, DISASTER)
-機 (Furigana),,,,き
-機 (Meaning),,,,MOOD (TEMPER)
-災 (Furigana),,,,さい
-災 (Meaning),,,,NATURAL DISASTER (DISASTER, ACCIDENT)
-悪 (Furigana),,,,あく
-悪 (Meaning),,,,NIGHTMARE (BAD DREAM)
-鼻 (Furigana),,,,はな
-鼻 (Meaning),,,,NOSTRIL (NOSE HOLE)
-妨 (Furigana),,,,ぼう
-妨 (Meaning),,,,OBSTRUCTION (INTERFERENCE)
-一 (Furigana),,,,いち
-一 (Meaning),,,,ONE SMALL THING (ONE THING, ONE SMALL OBJECT, ONE OBJECT)
-音 (Furigana),,,,おん
-音 (Meaning),,,,ON'YOMI AND KUN'YOMI (CHINESE AND JAPANESE READINGS)
-在 (Furigana),,,,ざい
-在 (Meaning),,,,OVERSEAS (ABROAD)
-人 (Furigana),,,,にん
-人 (Meaning),,,,PEOPLE
-比 (Furigana),,,,ひ
-比 (Meaning),,,,PERCENTAGE (RATIO)
-個 (Furigana),,,,こ
-個 (Meaning),,,,PERSONAL (INDIVIDUAL)
-公 (Furigana),,,,こう
-公 (Meaning),,,,POLLUTION
-一 (Furigana),,,,いち
-一 (Meaning),,,,POLYGAMY (POLYGYNY)
-可 (Furigana),,,,か
-可 (Meaning),,,,POSSIBILITY (LIKELIHOOD)
-圧 (Furigana),,,,あつ
-圧 (Meaning),,,,PRESSURE (STRESS)
-予 (Furigana),,,,よ
-予 (Meaning),,,,PREVENTION (PREVENT)
-防 (Furigana),,,,ぼう
-防 (Meaning),,,,PREVENTION
-個 (Furigana),,,,こ
-個 (Meaning),,,,PRIVATE ROOM (ONE'S OWN ROOM)
-確 (Furigana),,,,かく
-確 (Meaning),,,,PROBABILITY (LIKELIHOOD, CHANCES)
-静 (Furigana),,,,せい
-静 (Meaning),,,,QUIETLY (CALMLY)
-読 (Furigana),,,,よ
-読 (Meaning),,,,READER
-実 (Furigana),,,,じつ
-実 (Meaning),,,,REALITY (REAL EXISTENCE)
-残 (Furigana),,,,ざん
-残 (Meaning),,,,REMAINDER (RESIDUAL)
-在 (Furigana),,,,ざい
-在 (Meaning),,,,RESIDENCE
-経 (Furigana),,,,けい
-経 (Meaning),,,,ROUTE (COURSE)
-種 (Furigana),,,,しゅ
+会議 (Furigana),,,,かいぎ
+会議 (Meaning),,,,MEETING (CONFERENCE, ASSEMBLY)
+議員 (Furigana),,,,ぎいん
+議員 (Meaning),,,,MEMBER OF THE DIET (DIET MEMBER, LEGISLATOR, ASSEMBLY MEMBER)
+災難 (Furigana),,,,さいなん
+災難 (Meaning),,,,MISFORTUNE (CALAMITY, DISASTER)
+機嫌 (Furigana),,,,きげん
+機嫌 (Meaning),,,,MOOD (TEMPER)
+災害 (Furigana),,,,さいがい
+災害 (Meaning),,,,NATURAL DISASTER (DISASTER, ACCIDENT)
+悪夢 (Furigana),,,,あくむ
+悪夢 (Meaning),,,,NIGHTMARE (BAD DREAM)
+鼻の穴 (Furigana),,,,はなのあな
+鼻の穴 (Meaning),,,,NOSTRIL (NOSE HOLE)
+妨害 (Furigana),,,,ぼうがい
+妨害 (Meaning),,,,OBSTRUCTION (INTERFERENCE)
+一個 (Furigana),,,,いっこ
+一個 (Meaning),,,,ONE SMALL THING (ONE THING, ONE SMALL OBJECT, ONE OBJECT)
+音訓 (Furigana),,,,おんくん
+音訓 (Meaning),,,,ON'YOMI AND KUN'YOMI (CHINESE AND JAPANESE READINGS)
+在外 (Furigana),,,,ざいがい
+在外 (Meaning),,,,OVERSEAS (ABROAD)
+人達 (Furigana),,,,ひとたち
+人達 (Meaning),,,,PEOPLE
+比率 (Furigana),,,,ひりつ
+比率 (Meaning),,,,PERCENTAGE (RATIO)
+個人 (Furigana),,,,こじん
+個人 (Meaning),,,,PERSONAL (INDIVIDUAL)
+公害 (Furigana),,,,こうがい
+公害 (Meaning),,,,POLLUTION
+一夫多妻 (Furigana),,,,いっぷたさい
+一夫多妻 (Meaning),,,,POLYGAMY (POLYGYNY)
+可能性 (Furigana),,,,かのうせい
+可能性 (Meaning),,,,POSSIBILITY (LIKELIHOOD)
+圧力 (Furigana),,,,あつりょく
+圧力 (Meaning),,,,PRESSURE (STRESS)
+予防 (Furigana),,,,よぼう
+予防 (Meaning),,,,PREVENTION (PREVENT)
+防止 (Furigana),,,,ぼうし
+防止 (Meaning),,,,PREVENTION
+個室 (Furigana),,,,こしつ
+個室 (Meaning),,,,PRIVATE ROOM (ONE'S OWN ROOM)
+確率 (Furigana),,,,かくりつ
+確率 (Meaning),,,,PROBABILITY (LIKELIHOOD, CHANCES)
+静々 (Furigana),,,,しずしず
+静々 (Meaning),,,,QUIETLY (CALMLY)
+読者 (Furigana),,,,どくしゃ
+読者 (Meaning),,,,READER
+実在 (Furigana),,,,じつざい
+実在 (Meaning),,,,REALITY (REAL EXISTENCE)
+残余 (Furigana),,,,ざんよ
+残余 (Meaning),,,,REMAINDER (RESIDUAL)
+在留 (Furigana),,,,ざいりゅう
+在留 (Meaning),,,,RESIDENCE
+経路 (Furigana),,,,けいろ
+経路 (Meaning),,,,ROUTE (COURSE)
+種 (Furigana),,,,たね
 種 (Meaning),,,,SEED (SOURCE)
-高 (Furigana),,,,こう
-高 (Meaning),,,,SENIOR HIGH SCHOOL (HIGH SCHOOL)
-指 (Furigana),,,,し
-指 (Meaning),,,,SHIATSU (FINGER PRESSURE)
-罪 (Furigana),,,,ざい
+高等学校 (Furigana),,,,こうとうがっこう
+高等学校 (Meaning),,,,SENIOR HIGH SCHOOL (HIGH SCHOOL)
+指圧 (Furigana),,,,しあつ
+指圧 (Meaning),,,,SHIATSU (FINGER PRESSURE)
+罪 (Furigana),,,,つみ
 罪 (Meaning),,,,SIN (CRIME)
-煙 (Furigana),,,,えん
-煙 (Meaning),,,,SMOKY
-臭 (Furigana),,,,くさ
-臭 (Meaning),,,,STINKY (STINKING, SMELLY)
-余 (Furigana),,,,よ
-余 (Meaning),,,,SURPLUS (LEEWAY, ROOM)
-嫌 (Furigana),,,,けん
-嫌 (Meaning),,,,SUSPICION
-尾 (Furigana),,,,び
+煙い (Furigana),,,,けむい
+煙い (Meaning),,,,SMOKY
+臭い (Furigana),,,,くさい
+臭い (Meaning),,,,STINKY (STINKING, SMELLY)
+余裕 (Furigana),,,,よゆう
+余裕 (Meaning),,,,SURPLUS (LEEWAY, ROOM)
+嫌疑 (Furigana),,,,けんぎ
+嫌疑 (Meaning),,,,SUSPICION
+尾 (Furigana),,,,お
 尾 (Meaning),,,,TAIL
-理 (Furigana),,,,り
-理 (Meaning),,,,THEORY
-論 (Furigana),,,,ろん
-論 (Meaning),,,,THESIS (PAPER, ARTICLE, ESSAY)
-厚 (Furigana),,,,あつ
-厚 (Meaning),,,,THICK
-三 (Furigana),,,,さん
-三 (Meaning),,,,THREE SMALL THINGS (THREE THINGS, THREE OBJECTS, THREE SMALL OBJECTS)
-産 (Furigana),,,,さん
-産 (Meaning),,,,TO BE BORN
-焼 (Furigana),,,,や
-焼 (Meaning),,,,TO BE COOKED (TO BURN)
-困 (Furigana),,,,こん
-困 (Meaning),,,,TO BE DISTRESSED (TO BE TROUBLED, TO BE PERPLEXED, TO BE ANNOYED)
-余 (Furigana),,,,よ
-余 (Meaning),,,,TO BE IN SURPLUS (TO REMAIN LEFT OVER, TO BE IN EXCESS)
-改 (Furigana),,,,かい
-改 (Meaning),,,,TO BE RENEWED (TO BE FORMAL, TO BE ALTERED, TO BE REVISED)
-築 (Furigana),,,,ちく
-築 (Meaning),,,,TO BUILD SOMETHING (TO CONSTRUCT SOMETHING)
-犯 (Furigana),,,,はん
-犯 (Meaning),,,,TO COMMIT A CRIME (TO MAKE A MISTAKE)
-防 (Furigana),,,,ぼう
-防 (Meaning),,,,TO DEFEND AGAINST (TO PROTECT AGAINST, TO PREVENT)
-飛 (Furigana),,,,ひ
-飛 (Meaning),,,,TO FLY (TO JUMP)
-混 (Furigana),,,,こん
-混 (Meaning),,,,TO GET MIXED (TO BE MIXED, TO BE BLENDED WITH)
-倒 (Furigana),,,,とう
-倒 (Meaning),,,,TO KNOCK OVER (TO KNOCK DOWN, TO BRING DOWN)
-妨 (Furigana),,,,ぼう
-妨 (Meaning),,,,TO OBSTRUCT (TO PREVENT, TO HAMPER)
-経 (Furigana),,,,けい
-経 (Meaning),,,,TO PASS (TO ELAPSE)
-被 (Furigana),,,,ひ
-被 (Meaning),,,,TO PUT ON A HAT (TO WEAR A HAT)
-面 (Furigana),,,,めん
-面 (Meaning),,,,TROUBLE (DIFFICULTY)
-余 (Furigana),,,,よ
-余 (Meaning),,,,UNNEEDED (MORE THAN ENOUGH, TOO MUCH)
-経 (Furigana),,,,けい
-経 (Meaning),,,,VIA
-防 (Furigana),,,,ぼう
-防 (Meaning),,,,WATERPROOF (WATERTIGHT)
-裕 (Furigana),,,,ゆう
-裕 (Meaning),,,,WEALTHY (WEALTH)
-天 (Furigana),,,,てん
-天 (Meaning),,,,WEATHER FORECAST
-妻 (Furigana),,,,さい
+理論 (Furigana),,,,りろん
+理論 (Meaning),,,,THEORY
+論文 (Furigana),,,,ろんぶん
+論文 (Meaning),,,,THESIS (PAPER, ARTICLE, ESSAY)
+厚い (Furigana),,,,あつい
+厚い (Meaning),,,,THICK
+三個 (Furigana),,,,さんこ
+三個 (Meaning),,,,THREE SMALL THINGS (THREE THINGS, THREE OBJECTS, THREE SMALL OBJECTS)
+産まれる (Furigana),,,,うまれる
+産まれる (Meaning),,,,TO BE BORN
+焼ける (Furigana),,,,やける
+焼ける (Meaning),,,,TO BE COOKED (TO BURN)
+困る (Furigana),,,,こまる
+困る (Meaning),,,,TO BE DISTRESSED (TO BE TROUBLED, TO BE PERPLEXED, TO BE ANNOYED)
+無くなる (Furigana),,,,なくなる
+無くなる (Meaning),,,,TO BE GONE (TO RUN OUT, TO BE LOST, TO DISAPPEAR)
+余る (Furigana),,,,あまる
+余る (Meaning),,,,TO BE IN SURPLUS (TO REMAIN LEFT OVER, TO BE IN EXCESS)
+改まる (Furigana),,,,あらたまる
+改まる (Meaning),,,,TO BE RENEWED (TO BE FORMAL, TO BE ALTERED, TO BE REVISED)
+築く (Furigana),,,,きずく
+築く (Meaning),,,,TO BUILD SOMETHING (TO CONSTRUCT SOMETHING)
+犯す (Furigana),,,,おかす
+犯す (Meaning),,,,TO COMMIT A CRIME (TO MAKE A MISTAKE)
+防ぐ (Furigana),,,,ふせぐ
+防ぐ (Meaning),,,,TO DEFEND AGAINST (TO PROTECT AGAINST, TO PREVENT)
+飛ぶ (Furigana),,,,とぶ
+飛ぶ (Meaning),,,,TO FLY (TO JUMP)
+混ざる (Furigana),,,,まざる
+混ざる (Meaning),,,,TO GET MIXED (TO BE MIXED, TO BE BLENDED WITH)
+倒す (Furigana),,,,たおす
+倒す (Meaning),,,,TO KNOCK OVER (TO KNOCK DOWN, TO BRING DOWN)
+妨げる (Furigana),,,,さまたげる
+妨げる (Meaning),,,,TO OBSTRUCT (TO PREVENT, TO HAMPER)
+経つ (Furigana),,,,たつ
+経つ (Meaning),,,,TO PASS (TO ELAPSE)
+被る (Furigana),,,,かぶる
+被る (Meaning),,,,TO PUT ON A HAT (TO WEAR A HAT)
+面倒 (Furigana),,,,めんどう
+面倒 (Meaning),,,,TROUBLE (DIFFICULTY)
+余計 (Furigana),,,,よけい
+余計 (Meaning),,,,UNNEEDED (MORE THAN ENOUGH, TOO MUCH)
+経由 (Furigana),,,,けいゆ
+経由 (Meaning),,,,VIA
+防水 (Furigana),,,,ぼうすい
+防水 (Meaning),,,,WATERPROOF (WATERTIGHT)
+裕福 (Furigana),,,,ゆうふく
+裕福 (Meaning),,,,WEALTHY (WEALTH)
+天気予報 (Furigana),,,,てんきよほう
+天気予報 (Meaning),,,,WEATHER FORECAST
+妻 (Furigana),,,,つま
 妻 (Meaning),,,,WIFE (MY WIFE)
-妻 (Furigana),,,,さい
-妻 (Meaning),,,,WIFE AND KIDS (WIFE AND CHILDREN)
-不 (Furigana),,,,ふ
-不 (Meaning),,,,WONDER (MYSTERY, MARVELOUS)
+妻子 (Furigana),,,,さいし
+妻子 (Meaning),,,,WIFE AND KIDS (WIFE AND CHILDREN)
+不思議 (Furigana),,,,ふしぎ
+不思議 (Meaning),,,,WONDER (MYSTERY, MARVELOUS)

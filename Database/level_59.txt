@@ -70,179 +70,179 @@
 浪 (Meaning),,,,Wander
 崇 (Onyomi),,,,すう
 崇 (Meaning),,,,Worship
-環 (Furigana),,,,かん
-環 (Meaning),,,,ATOLL (CIRCULAR CORAL REEF)
-一 (Furigana),,,,いち
-一 (Meaning),,,,AT ONCE (AT ONE TIME)
-叔 (Furigana),,,,お
-叔 (Meaning),,,,AUNT
-慶 (Furigana),,,,けい
-慶 (Meaning),,,,AUSPICIOUS EVENT (HAPPY EVENT)
-梓 (Furigana),,,,あずさ
-梓 (Meaning),,,,AZUSA RIVER (AZUSAGAWA)
-弁 (Furigana),,,,べん
-弁 (Meaning),,,,BENKEI (STRONG PERSON)
-憂 (Furigana),,,,ゆう
-憂 (Meaning),,,,BITTERNESS (MISERY, HARDSHIP, DISTRESS)
-大 (Furigana),,,,たい
-大 (Meaning),,,,BOLD (DARING, AUDACIOUS)
+環礁 (Furigana),,,,かんしょう
+環礁 (Meaning),,,,ATOLL (CIRCULAR CORAL REEF)
+一遍に (Furigana),,,,いっぺんに
+一遍に (Meaning),,,,AT ONCE (AT ONE TIME)
+叔母 (Furigana),,,,おば
+叔母 (Meaning),,,,AUNT
+慶事 (Furigana),,,,けいじ
+慶事 (Meaning),,,,AUSPICIOUS EVENT (HAPPY EVENT)
+梓川 (Furigana),,,,あずさがわ
+梓川 (Meaning),,,,AZUSA RIVER (AZUSAGAWA)
+弁慶 (Furigana),,,,べんけい
+弁慶 (Meaning),,,,BENKEI (STRONG PERSON)
+憂き目 (Furigana),,,,うきめ
+憂き目 (Meaning),,,,BITTERNESS (MISERY, HARDSHIP, DISTRESS)
+大胆 (Furigana),,,,だいたん
+大胆 (Meaning),,,,BOLD (DARING, AUDACIOUS)
 岬 (Furigana),,,,みさき
 岬 (Meaning),,,,CAPE
-鋳 (Furigana),,,,ちゅう
-鋳 (Meaning),,,,CASTING (FOUNDING, MINTING)
-変 (Furigana),,,,へん
-変 (Meaning),,,,CHANGE (TRANSITION)
-慶 (Furigana),,,,けい
-慶 (Meaning),,,,CONGRATULATION (CELEBRATION)
-慶 (Furigana),,,,けい
-慶 (Meaning),,,,CONGRATULATIONS AND CONDOLENCES
-危 (Furigana),,,,き
-危 (Meaning),,,,CRITICAL CONDITION (CRITICAL ILLNESS, ON THE VERGE OF DEATH)
-遮 (Furigana),,,,しゃ
-遮 (Meaning),,,,CROSSING GATE (RAILWAY CROSSING GATE, CIRCUIT BREAKER)
-酪 (Furigana),,,,らく
-酪 (Meaning),,,,DAIRY FARMING
-回 (Furigana),,,,かい
-回 (Meaning),,,,DEATH ANNIVERSARY (ANNIVERSARY OF DEATH)
-詠 (Furigana),,,,えい
-詠 (Meaning),,,,DEEP FEELING (EXCLAMATION, MARVEL)
-左 (Furigana),,,,さ
-左 (Meaning),,,,DEMOTION (DEGRADATION, DEMOLISH)
-閑 (Furigana),,,,かん
-閑 (Meaning),,,,DESERTED (INACTIVE, LEISURE, QUIET)
-落 (Furigana),,,,らく
-落 (Meaning),,,,DISCOURAGEMENT (DESPONDENCY, DEJECTION, DISAPPOINTMENT)
-擬 (Furigana),,,,ぎ
-擬 (Meaning),,,,DISGUISE (CAMOUFLAGE)
-東 (Furigana),,,,とう
-東 (Meaning),,,,EAST ASIA (THE ORIENT)
-大 (Furigana),,,,たい
-大 (Meaning),,,,E. COLI (ESCHERICHIA COLI, E COLI)
+鋳造 (Furigana),,,,ちゅうぞう
+鋳造 (Meaning),,,,CASTING (FOUNDING, MINTING)
+変遷 (Furigana),,,,へんせん
+変遷 (Meaning),,,,CHANGE (TRANSITION)
+慶祝 (Furigana),,,,けいしゅく
+慶祝 (Meaning),,,,CONGRATULATION (CELEBRATION)
+慶弔 (Furigana),,,,けいちょう
+慶弔 (Meaning),,,,CONGRATULATIONS AND CONDOLENCES
+危篤 (Furigana),,,,きとく
+危篤 (Meaning),,,,CRITICAL CONDITION (CRITICAL ILLNESS, ON THE VERGE OF DEATH)
+遮断機 (Furigana),,,,しゃだんき
+遮断機 (Meaning),,,,CROSSING GATE (RAILWAY CROSSING GATE, CIRCUIT BREAKER)
+酪農 (Furigana),,,,らくのう
+酪農 (Meaning),,,,DAIRY FARMING
+回忌 (Furigana),,,,かいき
+回忌 (Meaning),,,,DEATH ANNIVERSARY (ANNIVERSARY OF DEATH)
+詠嘆 (Furigana),,,,えいたん
+詠嘆 (Meaning),,,,DEEP FEELING (EXCLAMATION, MARVEL)
+左遷 (Furigana),,,,させん
+左遷 (Meaning),,,,DEMOTION (DEGRADATION, DEMOLISH)
+閑散 (Furigana),,,,かんさん
+閑散 (Meaning),,,,DESERTED (INACTIVE, LEISURE, QUIET)
+落胆 (Furigana),,,,らくたん
+落胆 (Meaning),,,,DISCOURAGEMENT (DESPONDENCY, DEJECTION, DISAPPOINTMENT)
+擬装 (Furigana),,,,ぎそう
+擬装 (Meaning),,,,DISGUISE (CAMOUFLAGE)
+東亜 (Furigana),,,,とうあ
+東亜 (Meaning),,,,EAST ASIA (THE ORIENT)
+大腸菌 (Furigana),,,,だいちょうきん
+大腸菌 (Meaning),,,,E. COLI (ESCHERICHIA COLI, E COLI)
 雌 (Furigana),,,,めす
 雌 (Meaning),,,,FEMALE (FEMALE ANIMAL)
-雌 (Furigana),,,,めす
-雌 (Meaning),,,,FEMALE FLOWER
-一 (Furigana),,,,いち
-一 (Meaning),,,,FIRST ANNIVERSARY OF DEATH (FIRST DEATH ANNIVERSARY)
-取 (Furigana),,,,しゅ
-取 (Meaning),,,,FOR THE TIME BEING (FIRST OF ALL, AT ONCE, IMMEDIATELY)
-親 (Furigana),,,,しん
-親 (Meaning),,,,FRIENDSHIP (AMITY)
-胆 (Furigana),,,,たん
-胆 (Meaning),,,,GALLSTONES
+雌花 (Furigana),,,,めばな
+雌花 (Meaning),,,,FEMALE FLOWER
+一周忌 (Furigana),,,,いっしゅうき
+一周忌 (Meaning),,,,FIRST ANNIVERSARY OF DEATH (FIRST DEATH ANNIVERSARY)
+取り敢えず (Furigana),,,,とりあえず
+取り敢えず (Meaning),,,,FOR THE TIME BEING (FIRST OF ALL, AT ONCE, IMMEDIATELY)
+親睦 (Furigana),,,,しんぼく
+親睦 (Meaning),,,,FRIENDSHIP (AMITY)
+胆石 (Furigana),,,,たんせき
+胆石 (Meaning),,,,GALLSTONES
 胆 (Furigana),,,,たん
 胆 (Meaning),,,,GUTS (INNARDS, COURAGE)
-不 (Furigana),,,,ふ
-不 (Meaning),,,,IMBALANCE (DISPARITY, INEQUALITY)
-模 (Furigana),,,,も
-模 (Meaning),,,,IMITATION (SHAM, MOCK, SIMULATION)
-甚 (Furigana),,,,じん
-甚 (Meaning),,,,IMMENSE (TREMENDOUS, ENORMOUS)
-侮 (Furigana),,,,ぶ
-侮 (Meaning),,,,INSULT (CONTEMPT, SLIGHT)
-漆 (Furigana),,,,しつ
-漆 (Meaning),,,,JET BLACK (PITCH BLACK)
-漆 (Furigana),,,,しつ
+不均衡 (Furigana),,,,ふきんこう
+不均衡 (Meaning),,,,IMBALANCE (DISPARITY, INEQUALITY)
+模擬 (Furigana),,,,もぎ
+模擬 (Meaning),,,,IMITATION (SHAM, MOCK, SIMULATION)
+甚大 (Furigana),,,,じんだい
+甚大 (Meaning),,,,IMMENSE (TREMENDOUS, ENORMOUS)
+侮辱 (Furigana),,,,ぶじょく
+侮辱 (Meaning),,,,INSULT (CONTEMPT, SLIGHT)
+漆黒 (Furigana),,,,しっこく
+漆黒 (Meaning),,,,JET BLACK (PITCH BLACK)
+漆 (Furigana),,,,うるし
 漆 (Meaning),,,,LACQUER
-漆 (Furigana),,,,しつ
-漆 (Meaning),,,,LACQUERWARE (LACQUER WARE)
-法 (Furigana),,,,ほう
-法 (Meaning),,,,LAWYER (LEGAL PROFESSION)
-崇 (Furigana),,,,すう
-崇 (Meaning),,,,LOFTINESS (SUBLIMITY, NOBILITY)
-婚 (Furigana),,,,こん
-婚 (Meaning),,,,MARRIAGE (MATRIMONY)
-卑 (Furigana),,,,ひ
-卑 (Meaning),,,,MEAN (FOUL PLAY, COWARDLY, BASE)
+漆器 (Furigana),,,,しっき
+漆器 (Meaning),,,,LACQUERWARE (LACQUER WARE)
+法曹 (Furigana),,,,ほうそう
+法曹 (Meaning),,,,LAWYER (LEGAL PROFESSION)
+崇高 (Furigana),,,,すうこう
+崇高 (Meaning),,,,LOFTINESS (SUBLIMITY, NOBILITY)
+婚姻 (Furigana),,,,こんいん
+婚姻 (Meaning),,,,MARRIAGE (MATRIMONY)
+卑劣 (Furigana),,,,ひれつ
+卑劣 (Meaning),,,,MEAN (FOUL PLAY, COWARDLY, BASE)
 忌 (Furigana),,,,き
 忌 (Meaning),,,,MOURNING (MOURNING PERIOD)
-遷 (Furigana),,,,せん
-遷 (Meaning),,,,MOVE THE CAPITAL (TRANSFER THE CAPITAL, RELOCATION OF THE CAPITAL)
-無 (Furigana),,,,む
-無 (Meaning),,,,NEGLECTING TO CONTACT (LONG SILENCE)
+遷都 (Furigana),,,,せんと
+遷都 (Meaning),,,,MOVE THE CAPITAL (TRANSFER THE CAPITAL, RELOCATION OF THE CAPITAL)
+ご無沙汰 (Furigana),,,,ごぶさた
+ご無沙汰 (Meaning),,,,NEGLECTING TO CONTACT (LONG SILENCE)
 峠 (Furigana),,,,とうげ
 峠 (Meaning),,,,PEAK (MOUNTAIN PASS, RIDGE)
-漬 (Furigana),,,,つ
-漬 (Meaning),,,,PICKLED (PRESERVED IN, MARINATED IN)
-魂 (Furigana),,,,こん
-魂 (Meaning),,,,PLOT (ULTERIOR MOTIVE, SECRET INTENTION, HIDDEN PURPOSE)
-詠 (Furigana),,,,えい
-詠 (Meaning),,,,POEM (SONG, COMPOSING A POEM OR SONG)
-閑 (Furigana),,,,かん
-閑 (Meaning),,,,QUIET
-岩 (Furigana),,,,いわ
-岩 (Meaning),,,,REEF (SUNKEN ROCKS, SHORE REEF, ROCK REEF)
-暗 (Furigana),,,,あん
-暗 (Meaning),,,,REEF (SUNKEN REEF)
-早 (Furigana),,,,そう
-早 (Meaning),,,,RICE PLANTING GIRL (SAOTOME)
-浪 (Furigana),,,,ろう
-浪 (Meaning),,,,RONIN (MASTERLESS SAMURAI)
-禍 (Furigana),,,,か
-禍 (Meaning),,,,ROOT OF EVIL (SOURCE OF EVIL)
-沙 (Furigana),,,,さ
-沙 (Meaning),,,,SARA
-侮 (Furigana),,,,ぶ
-侮 (Meaning),,,,SCORN (DISDAIN, CONTEMPT, SLIGHT)
-軽 (Furigana),,,,かる
-軽 (Meaning),,,,SCORN (DISDAIN, CONTEMPT)
-吟 (Furigana),,,,ぎん
-吟 (Meaning),,,,SCRUTINY (TESTING, CAREFUL INVESTIGATION)
-紡 (Furigana),,,,ぼう
-紡 (Meaning),,,,SPINNING (YARN SPINNING)
-紡 (Furigana),,,,ぼう
-紡 (Meaning),,,,SPINNING AND WEAVING (WEAVING AND SPINNING)
-萌 (Furigana),,,,ほう
-萌 (Meaning),,,,SPROUTING (BUDDING, CRUSH, INFATUATION, MOE)
-駐 (Furigana),,,,ちゅう
-駐 (Meaning),,,,STATIONED (OCCUPANCY)
-卑 (Furigana),,,,ひ
-卑 (Meaning),,,,SUBSERVIENT (ABJECT)
-禁 (Furigana),,,,きん
-禁 (Meaning),,,,TABOO
-凹 (Furigana),,,,おう
-凹 (Meaning),,,,TO BECOME HOLLOW (TO BE DENTED, TO SINK, TO COLLAPSE)
-漬 (Furigana),,,,つ
-漬 (Meaning),,,,TO BE PICKLED (TO BE WELL SEASONED, TO BE SUBMERGED, TO BE SOAKED)
-詠 (Furigana),,,,えい
-詠 (Meaning),,,,TO COMPOSE (TO RECITE)
-侮 (Furigana),,,,ぶ
-侮 (Meaning),,,,TO DESPISE (TO DISDAIN, TO MAKE LIGHT OF)
-堪 (Furigana),,,,こら
-堪 (Meaning),,,,TO ENDURE (TO BEAR)
-憧 (Furigana),,,,あこが
-憧 (Meaning),,,,TO LONG FOR (TO YEARN AFTER, TO ADMIRE, TO BE ATTRACTED BY)
-蔑 (Furigana),,,,べつ
-蔑 (Meaning),,,,TO SCORN (TO DESPISE)
-紡 (Furigana),,,,ぼう
-紡 (Meaning),,,,TO SPIN (TO MAKE YARN)
-漬 (Furigana),,,,つ
-漬 (Meaning),,,,TSUKEMONO (JAPANESE PICKLED VEGETABLES, PICKLED VEGETABLES, PRESERVED VEGETABLES)
-叔 (Furigana),,,,お
-叔 (Meaning),,,,UNCLE
-凸 (Furigana),,,,とつ
-凸 (Meaning),,,,UNEVEN (ROUGH, RUGGED)
-普 (Furigana),,,,ふ
-普 (Meaning),,,,UNIVERSAL (OMNIPRESENT, UBIQUITOUS)
-忌 (Furigana),,,,き
-忌 (Meaning),,,,UNPLEASANT (DISGUSTING, INAUSPICIOUS)
-稚 (Furigana),,,,ち
-稚 (Meaning),,,,UNSKILLFUL (CHILDISH)
-流 (Furigana),,,,りゅう
-流 (Meaning),,,,VAGRANCY (WANDERING, NOMADISM)
-浮 (Furigana),,,,う
-浮 (Meaning),,,,VAGRANT (BUM)
-甚 (Furigana),,,,じん
-甚 (Meaning),,,,VERY (VERY MUCH, GREATLY)
-放 (Furigana),,,,ほう
-放 (Meaning),,,,WANDERING (ROAMING)
-戦 (Furigana),,,,せん
-戦 (Meaning),,,,WAR DAMAGES (RAVAGES OF WAR)
-浪 (Furigana),,,,ろう
-浪 (Meaning),,,,WASTE (EXTRAVAGANCE)
-惜 (Furigana),,,,せき
-惜 (Meaning),,,,WITHOUT SPARING (SPARE NO)
-崇 (Furigana),,,,すう
-崇 (Meaning),,,,WORSHIP (ADORATION, ADMIRATION, CULT)
-憧 (Furigana),,,,あこが
-憧 (Meaning),,,,YEARNING (LONGING, ASPIRATION)
+〜漬け (Furigana),,,,づけ
+〜漬け (Meaning),,,,PICKLED (PRESERVED IN, MARINATED IN)
+魂胆 (Furigana),,,,こんたん
+魂胆 (Meaning),,,,PLOT (ULTERIOR MOTIVE, SECRET INTENTION, HIDDEN PURPOSE)
+詠歌 (Furigana),,,,えいか
+詠歌 (Meaning),,,,POEM (SONG, COMPOSING A POEM OR SONG)
+閑静 (Furigana),,,,かんせい
+閑静 (Meaning),,,,QUIET
+岩礁 (Furigana),,,,がんしょう
+岩礁 (Meaning),,,,REEF (SUNKEN ROCKS, SHORE REEF, ROCK REEF)
+暗礁 (Furigana),,,,あんしょう
+暗礁 (Meaning),,,,REEF (SUNKEN REEF)
+早乙女 (Furigana),,,,さおとめ
+早乙女 (Meaning),,,,RICE PLANTING GIRL (SAOTOME)
+浪人 (Furigana),,,,ろうにん
+浪人 (Meaning),,,,RONIN (MASTERLESS SAMURAI)
+禍根 (Furigana),,,,かこん
+禍根 (Meaning),,,,ROOT OF EVIL (SOURCE OF EVIL)
+沙羅 (Furigana),,,,さら
+沙羅 (Meaning),,,,SARA
+侮蔑 (Furigana),,,,ぶべつ
+侮蔑 (Meaning),,,,SCORN (DISDAIN, CONTEMPT, SLIGHT)
+軽蔑 (Furigana),,,,けいべつ
+軽蔑 (Meaning),,,,SCORN (DISDAIN, CONTEMPT)
+吟味 (Furigana),,,,ぎんみ
+吟味 (Meaning),,,,SCRUTINY (TESTING, CAREFUL INVESTIGATION)
+紡績 (Furigana),,,,ぼうせき
+紡績 (Meaning),,,,SPINNING (YARN SPINNING)
+紡織 (Furigana),,,,ぼうしょく
+紡織 (Meaning),,,,SPINNING AND WEAVING (WEAVING AND SPINNING)
+萌え (Furigana),,,,もえ
+萌え (Meaning),,,,SPROUTING (BUDDING, CRUSH, INFATUATION, MOE)
+駐屯 (Furigana),,,,ちゅうとん
+駐屯 (Meaning),,,,STATIONED (OCCUPANCY)
+卑屈 (Furigana),,,,ひくつ
+卑屈 (Meaning),,,,SUBSERVIENT (ABJECT)
+禁忌 (Furigana),,,,きんき
+禁忌 (Meaning),,,,TABOO
+凹む (Furigana),,,,へこむ
+凹む (Meaning),,,,TO BECOME HOLLOW (TO BE DENTED, TO SINK, TO COLLAPSE)
+漬かる (Furigana),,,,つかる
+漬かる (Meaning),,,,TO BE PICKLED (TO BE WELL SEASONED, TO BE SUBMERGED, TO BE SOAKED)
+詠む (Furigana),,,,よむ
+詠む (Meaning),,,,TO COMPOSE (TO RECITE)
+侮る (Furigana),,,,あなどる
+侮る (Meaning),,,,TO DESPISE (TO DISDAIN, TO MAKE LIGHT OF)
+堪える (Furigana),,,,こらえる
+堪える (Meaning),,,,TO ENDURE (TO BEAR)
+憧れる (Furigana),,,,あこがれる
+憧れる (Meaning),,,,TO LONG FOR (TO YEARN AFTER, TO ADMIRE, TO BE ATTRACTED BY)
+蔑む (Furigana),,,,さげすむ
+蔑む (Meaning),,,,TO SCORN (TO DESPISE)
+紡ぐ (Furigana),,,,つむぐ
+紡ぐ (Meaning),,,,TO SPIN (TO MAKE YARN)
+漬物 (Furigana),,,,つけもの
+漬物 (Meaning),,,,TSUKEMONO (JAPANESE PICKLED VEGETABLES, PICKLED VEGETABLES, PRESERVED VEGETABLES)
+叔父 (Furigana),,,,おじ
+叔父 (Meaning),,,,UNCLE
+凸凹 (Furigana),,,,でこぼこ
+凸凹 (Meaning),,,,UNEVEN (ROUGH, RUGGED)
+普遍的 (Furigana),,,,ふへんてき
+普遍的 (Meaning),,,,UNIVERSAL (OMNIPRESENT, UBIQUITOUS)
+忌まわしい (Furigana),,,,いまわしい
+忌まわしい (Meaning),,,,UNPLEASANT (DISGUSTING, INAUSPICIOUS)
+稚拙 (Furigana),,,,ちせつ
+稚拙 (Meaning),,,,UNSKILLFUL (CHILDISH)
+流浪 (Furigana),,,,るろう
+流浪 (Meaning),,,,VAGRANCY (WANDERING, NOMADISM)
+浮浪者 (Furigana),,,,ふろうしゃ
+浮浪者 (Meaning),,,,VAGRANT (BUM)
+甚だ (Furigana),,,,はなはだ
+甚だ (Meaning),,,,VERY (VERY MUCH, GREATLY)
+放浪 (Furigana),,,,ほうろう
+放浪 (Meaning),,,,WANDERING (ROAMING)
+戦禍 (Furigana),,,,せんか
+戦禍 (Meaning),,,,WAR DAMAGES (RAVAGES OF WAR)
+浪費 (Furigana),,,,ろうひ
+浪費 (Meaning),,,,WASTE (EXTRAVAGANCE)
+惜しまない (Furigana),,,,おしまない
+惜しまない (Meaning),,,,WITHOUT SPARING (SPARE NO)
+崇拝 (Furigana),,,,すうはい
+崇拝 (Meaning),,,,WORSHIP (ADORATION, ADMIRATION, CULT)
+憧れ (Furigana),,,,あこがれ
+憧れ (Meaning),,,,YEARNING (LONGING, ASPIRATION)

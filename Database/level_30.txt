@@ -57,232 +57,234 @@
 適 (Onyomi),,,,てき
 適 (Meaning),,,,Suitable
 翌 (Onyomi),,,,よく
-翌 (Meaning),,,,The Following
+翌 (Meaning),,,,The Next
 渇 (Onyomi),,,,かわ
 渇 (Meaning),,,,Thirst
 符 (Onyomi),,,,ふ
 符 (Meaning),,,,Token
 濡 (Onyomi),,,,ぬ
 濡 (Meaning),,,,Wet
-浮 (Furigana),,,,う
-浮 (Meaning),,,,AFFAIR (INFIDELITY)
-魅 (Furigana),,,,み
-魅 (Meaning),,,,ALLURE (CHARM, ATTRACTION, APPEAL)
-一 (Furigana),,,,いち
-一 (Meaning),,,,A LOOK (A GLANCE, LIST, TABLE)
-変 (Furigana),,,,へん
-変 (Meaning),,,,ALTERATION (CHANGE)
-遊 (Furigana),,,,ゆう
-遊 (Meaning),,,,AMUSEMENT PARK (THEME PARK)
-適 (Furigana),,,,てき
-適 (Meaning),,,,APPROPRIATE (PROPER, SUITABLE, IRRESPONSIBLE)
-服 (Furigana),,,,ふく
-服 (Meaning),,,,ATTIRE (FASHION, CLOTHING)
-先 (Furigana),,,,せん
-先 (Meaning),,,,A WHILE AGO
-背 (Furigana),,,,はい
-背 (Meaning),,,,BACKGROUND (BEHIND THE SCENES)
-背 (Furigana),,,,はい
-背 (Meaning),,,,BACKGROUND
-預 (Furigana),,,,よ
-預 (Meaning),,,,BANK DEPOSIT (DEPOSIT, BANK ACCOUNT)
-官 (Furigana),,,,かん
-官 (Meaning),,,,BUREAUCRATIC
-強 (Furigana),,,,きょう
-強 (Meaning),,,,BURGLARY (ROBBERY, BURGLAR, ROBBER)
-版 (Furigana),,,,はん
-版 (Meaning),,,,COPYRIGHT
-電 (Furigana),,,,でん
-電 (Meaning),,,,DECORATIVE LIGHTING
-電 (Furigana),,,,でん
-電 (Meaning),,,,ELECTRIC FENCE
-移 (Furigana),,,,い
-移 (Meaning),,,,EMIGRANT (IMMIGRANT, MIGRANT)
-博 (Furigana),,,,はく
-博 (Meaning),,,,EXPOSITION (EXHIBITION, FAIR)
+浮気 (Furigana),,,,うわき
+浮気 (Meaning),,,,AFFAIR (INFIDELITY)
+魅力 (Furigana),,,,みりょく
+魅力 (Meaning),,,,ALLURE (CHARM, ATTRACTION, APPEAL)
+一覧 (Furigana),,,,いちらん
+一覧 (Meaning),,,,A LOOK (A GLANCE, LIST, TABLE)
+変更 (Furigana),,,,へんこう
+変更 (Meaning),,,,ALTERATION (CHANGE)
+遊園地 (Furigana),,,,ゆうえんち
+遊園地 (Meaning),,,,AMUSEMENT PARK (THEME PARK)
+適当 (Furigana),,,,てきとう
+適当 (Meaning),,,,APPROPRIATE (PROPER, SUITABLE, IRRESPONSIBLE)
+服飾 (Furigana),,,,ふくしょく
+服飾 (Meaning),,,,ATTIRE (FASHION, CLOTHING)
+先程 (Furigana),,,,さきほど
+先程 (Meaning),,,,A WHILE AGO
+背後 (Furigana),,,,はいご
+背後 (Meaning),,,,BACKGROUND (BEHIND THE SCENES)
+背景 (Furigana),,,,はいけい
+背景 (Meaning),,,,BACKGROUND
+預金 (Furigana),,,,よきん
+預金 (Meaning),,,,BANK DEPOSIT (DEPOSIT, BANK ACCOUNT)
+官僚的 (Furigana),,,,かんりょうてき
+官僚的 (Meaning),,,,BUREAUCRATIC
+強盗 (Furigana),,,,ごうとう
+強盗 (Meaning),,,,BURGLARY (ROBBERY, BURGLAR, ROBBER)
+版権 (Furigana),,,,はんけん
+版権 (Meaning),,,,COPYRIGHT
+電飾 (Furigana),,,,でんしょく
+電飾 (Meaning),,,,DECORATIVE LIGHTING
+電気柵 (Furigana),,,,でんきさく
+電気柵 (Meaning),,,,ELECTRIC FENCE
+移住者 (Furigana),,,,いじゅうしゃ
+移住者 (Meaning),,,,EMIGRANT (IMMIGRANT, MIGRANT)
+博覧会 (Furigana),,,,はくらんかい
+博覧会 (Meaning),,,,EXPOSITION (EXHIBITION, FAIR)
 柵 (Furigana),,,,さく
 柵 (Meaning),,,,FENCE
-初 (Furigana),,,,しょ
-初 (Meaning),,,,FIRST EDITION
-旗 (Furigana),,,,き
+初版 (Furigana),,,,しょはん
+初版 (Meaning),,,,FIRST EDITION
+旗 (Furigana),,,,はた
 旗 (Meaning),,,,FLAG
-更 (Furigana),,,,こう
-更 (Meaning),,,,FURTHERMORE (FURTHER, AGAIN)
-背 (Furigana),,,,はい
+更に (Furigana),,,,さらに
+更に (Meaning),,,,FURTHERMORE (FURTHER, AGAIN)
+背 (Furigana),,,,せ
 背 (Meaning),,,,HEIGHT (BACK, SPINE)
-快 (Furigana),,,,かい
-快 (Meaning),,,,HIGH SPEED (EXPRESS)
-新 (Furigana),,,,しん
-新 (Meaning),,,,HONEYMOON
-照 (Furigana),,,,しょう
-照 (Meaning),,,,ILLUMINATION (LIGHTING)
-鉄 (Furigana),,,,てつ
-鉄 (Meaning),,,,IRON FENCE
-成 (Furigana),,,,せい
-成 (Meaning),,,,I SEE (THAT'S RIGHT, INDEED)
-日 (Furigana),,,,にち
-日 (Meaning),,,,JAPANESE DESCENT (OF JAPANESE DESCENT)
-幼 (Furigana),,,,よう
-幼 (Meaning),,,,KINDERGARTEN
-欠 (Furigana),,,,けつ
-欠 (Meaning),,,,LACK (SCARCITY, DEFICIENCY)
-漏 (Furigana),,,,ろう
-漏 (Meaning),,,,LEAK
-覧 (Furigana),,,,らん
-覧 (Meaning),,,,LOOK AT (SEE)
-結 (Furigana),,,,けつ
-結 (Meaning),,,,MARRIAGE
-求 (Furigana),,,,きゅう
-求 (Meaning),,,,MARRIAGE PROPOSAL
-主 (Furigana),,,,しゅ
+快速 (Furigana),,,,かいそく
+快速 (Meaning),,,,HIGH SPEED (EXPRESS)
+新婚旅行 (Furigana),,,,しんこんりょこう
+新婚旅行 (Meaning),,,,HONEYMOON
+照明 (Furigana),,,,しょうめい
+照明 (Meaning),,,,ILLUMINATION (LIGHTING)
+鉄柵 (Furigana),,,,てっさく
+鉄柵 (Meaning),,,,IRON FENCE
+成程 (Furigana),,,,なるほど
+成程 (Meaning),,,,I SEE (THAT'S RIGHT, INDEED)
+日系 (Furigana),,,,にっけい
+日系 (Meaning),,,,JAPANESE DESCENT (OF JAPANESE DESCENT)
+幼稚園 (Furigana),,,,ようちえん
+幼稚園 (Meaning),,,,KINDERGARTEN
+欠乏 (Furigana),,,,けつぼう
+欠乏 (Meaning),,,,LACK (SCARCITY, DEFICIENCY)
+漏出 (Furigana),,,,ろうしゅつ
+漏出 (Meaning),,,,LEAK
+ご覧 (Furigana),,,,ごらん
+ご覧 (Meaning),,,,LOOK AT (SEE)
+結婚 (Furigana),,,,けっこん
+結婚 (Meaning),,,,MARRIAGE
+求婚 (Furigana),,,,きゅうこん
+求婚 (Meaning),,,,MARRIAGE PROPOSAL
+主 (Furigana),,,,ぬし
 主 (Meaning),,,,MASTER (HEAD OF HOUSEHOLD, LEADER)
-精 (Furigana),,,,せい
-精 (Meaning),,,,MENTAL ILLNESS (MENTAL DISORDER)
-国 (Furigana),,,,こく
-国 (Meaning),,,,NATIONAL FLAG
-騒 (Furigana),,,,そう
-騒 (Meaning),,,,NOISE (DIN)
-懐 (Furigana),,,,なつ
-懐 (Meaning),,,,NOSTALGIC (NOSTALGIA)
-我 (Furigana),,,,が
-我 (Meaning),,,,OUR (ONE'S OWN, MY)
-越 (Furigana),,,,えつ
-越 (Meaning),,,,OVERSTEPPING YOUR AUTHORITY (OVERSTEP ONE'S AUTHORITY, OVERSTEPPING ONE'S AUTHORITY)
-撮 (Furigana),,,,さつ
-撮 (Meaning),,,,PHOTOSHOOT (MOVIE SHOOT, PHOTOGRAPHING, FILMING)
+精神病 (Furigana),,,,せいしんびょう
+精神病 (Meaning),,,,MENTAL ILLNESS (MENTAL DISORDER)
+国旗 (Furigana),,,,こっき
+国旗 (Meaning),,,,NATIONAL FLAG
+騒音 (Furigana),,,,そうおん
+騒音 (Meaning),,,,NOISE (DIN)
+懐かしい (Furigana),,,,なつかしい
+懐かしい (Meaning),,,,NOSTALGIC (NOSTALGIA)
+我が〜 (Furigana),,,,わが
+我が〜 (Meaning),,,,OUR (ONE'S OWN, MY)
+越権 (Furigana),,,,えっけん
+越権 (Meaning),,,,OVERSTEPPING YOUR AUTHORITY (OVERSTEP ONE'S AUTHORITY, OVERSTEPPING ONE'S AUTHORITY)
+撮影 (Furigana),,,,さつえい
+撮影 (Meaning),,,,PHOTOSHOOT (MOVIE SHOOT, PHOTOGRAPHING, FILMING)
 枕 (Furigana),,,,まくら
 枕 (Meaning),,,,PILLOW
-盗 (Furigana),,,,とう
-盗 (Meaning),,,,PLAGIARISM
-快 (Furigana),,,,かい
-快 (Meaning),,,,PLEASANT
-快 (Furigana),,,,かい
-快 (Meaning),,,,PLEASANT (AGREEABLE, COMFORTABLE)
-快 (Furigana),,,,かい
-快 (Meaning),,,,PLEASURE (ENJOYMENT)
-快 (Furigana),,,,かい
-快 (Meaning),,,,PLEASURE (PLEASANT FEELING)
-貧 (Furigana),,,,びん
-貧 (Meaning),,,,POOR (POVERTY)
-貧 (Furigana),,,,びん
-貧 (Meaning),,,,POOR
-延 (Furigana),,,,えん
-延 (Meaning),,,,PROLONGING (EXTENSION)
-程 (Furigana),,,,てい
-程 (Meaning),,,,PROPERLY (WELL)
-出 (Furigana),,,,しゅつ
-出 (Meaning),,,,PUBLISHING
-購 (Furigana),,,,こう
-購 (Meaning),,,,PURCHASE
-購 (Furigana),,,,こう
-購 (Meaning),,,,PURCHASING
-押 (Furigana),,,,お
-押 (Meaning),,,,PUSH (PRESSURE)
-更 (Furigana),,,,こう
-更 (Meaning),,,,REBIRTH (RESUSCITATION, REHABILITATION)
-更 (Furigana),,,,こう
-更 (Meaning),,,,RENEWAL (UPDATE)
-乏 (Furigana),,,,ぼう
-乏 (Meaning),,,,SCARCE (MEAGER)
-盗 (Furigana),,,,とう
-盗 (Meaning),,,,SECRET PHOTOGRAPHY (SECRET FILMING)
-太 (Furigana),,,,たい
-太 (Meaning),,,,SOLAR SYSTEM
-精 (Furigana),,,,せい
-精 (Meaning),,,,SPIRITUAL (MENTAL, EMOTIONAL)
-盗 (Furigana),,,,とう
-盗 (Meaning),,,,STOLEN GOODS (STOLEN ITEMS)
-購 (Furigana),,,,こう
-購 (Meaning),,,,SUBSCRIPTION
-体 (Furigana),,,,たい
-体 (Meaning),,,,SYSTEMATIC
-翌 (Furigana),,,,よく
-翌 (Meaning),,,,THE NEXT DAY (NEXT DAY, THE FOLLOWING DAY)
-翌 (Furigana),,,,よく
-翌 (Meaning),,,,THE NEXT MONTH (NEXT MONTH, THE FOLLOWING MONTH)
-翌 (Furigana),,,,よく
-翌 (Meaning),,,,THE NEXT MORNING (NEXT MORNING, THE FOLLOWING MORNING)
-翌 (Furigana),,,,よく
-翌 (Meaning),,,,THE NEXT YEAR (NEXT YEAR, THE FOLLOWING YEAR)
-切 (Furigana),,,,せつ
-切 (Meaning),,,,TICKET
-攻 (Furigana),,,,こう
-攻 (Meaning),,,,TO ATTACK
-渇 (Furigana),,,,かわ
-渇 (Meaning),,,,TO BECOME THIRSTY (TO BE THIRSTY, TO BECOME DRY)
-匂 (Furigana),,,,にお
-匂 (Meaning),,,,TO BE FRAGRANT (TO SMELL GOOD)
-怖 (Furigana),,,,ふ
-怖 (Meaning),,,,TO BE SCARED (TO BE AFRAID OF, TO FEAR)
-移 (Furigana),,,,い
-移 (Meaning),,,,TO BE SHIFTED (TO BE TRANSFERRED)
-詰 (Furigana),,,,つ
-詰 (Meaning),,,,TO BE STUFFED (TO BE CRAMMED FULL, TO BE STUCK)
-冷 (Furigana),,,,れい
-冷 (Meaning),,,,TO CHILL SOMETHING (TO CHILL)
-飾 (Furigana),,,,しょく
-飾 (Meaning),,,,TO DECORATE
-預 (Furigana),,,,よ
-預 (Meaning),,,,TO DEPOSIT (TO ENTRUST, TO LEAVE SOMETHING WITH SOMEONE)
-診 (Furigana),,,,しん
-診 (Meaning),,,,TO DIAGNOSE
-絶 (Furigana),,,,ぜつ
-絶 (Meaning),,,,TO DIE OUT (TO END, TO BE CUT OFF)
-照 (Furigana),,,,しょう
-照 (Meaning),,,,TO FEEL EMBARRASSED (TO BE SHY, TO BE EMBARRASSED, TO FEEL SHY)
-浮 (Furigana),,,,う
-浮 (Meaning),,,,TO FLOAT
-越 (Furigana),,,,えつ
-越 (Meaning),,,,TO GO BEYOND (TO CROSS OVER)
-押 (Furigana),,,,お
-押 (Meaning),,,,TO HOLD SOMETHING DOWN (TO GRASP SOMETHING)
-痛 (Furigana),,,,つう
-痛 (Meaning),,,,TO INJURE SOMETHING (TO HURT SOMETHING, TO HURT SOMEONE)
-漏 (Furigana),,,,ろう
-漏 (Meaning),,,,TO LEAK (TO LEAK OUT)
-並 (Furigana),,,,へい
-並 (Meaning),,,,TO LINE SOMETHING UP (TO PUT SOMETHING IN ORDER)
-騒 (Furigana),,,,そう
-騒 (Meaning),,,,TO MAKE NOISE (TO BE BOISTEROUS, TO MAKE A FUSS)
-寄 (Furigana),,,,き
-寄 (Meaning),,,,TO MOVE SOMETHING CLOSE TO (TO PULL SOMETHING OVER, TO CONTRIBUTE SOMETHING)
-豚 (Furigana),,,,ぶた
-豚 (Meaning),,,,TONKOTSU RAMEN (PORK BONE RAMEN)
-遊 (Furigana),,,,ゆう
-遊 (Meaning),,,,TO PLAY
-延 (Furigana),,,,えん
-延 (Meaning),,,,TO POSTPONE
-延 (Furigana),,,,えん
-延 (Meaning),,,,TO PROLONG SOMETHING (TO LENGTHEN SOMETHING, TO EXTEND SOMETHING)
-押 (Furigana),,,,お
-押 (Meaning),,,,TO PUSH
-登 (Furigana),,,,とう
-登 (Meaning),,,,TO REGISTER
-退 (Furigana),,,,たい
-退 (Meaning),,,,TO REPEL SOMETHING (TO DISMISS SOMETHING, TO REJECT SOMETHING)
-盗 (Furigana),,,,とう
-盗 (Meaning),,,,TO STEAL
-撮 (Furigana),,,,さつ
-撮 (Meaning),,,,TO TAKE A PICTURE (TO TAKE A PHOTO, TO TAKE A VIDEO)
-濡 (Furigana),,,,ぬ
-濡 (Meaning),,,,TO WET (TO MOISTEN, TO DAMPEN, TO SOAK)
-研 (Furigana),,,,けん
-研 (Meaning),,,,TRAINEE
-系 (Furigana),,,,けい
-系 (Meaning),,,,TRIBE (LINEAGE, GROUP)
-浮 (Furigana),,,,う
-浮 (Meaning),,,,UKIYO-E (UKIYO-E WOODBLOCK PRINT, UKIYO-E PAINTING)
-未 (Furigana),,,,み
-未 (Meaning),,,,UNMARRIED
-不 (Furigana),,,,ふ
-不 (Meaning),,,,UNPLEASANT (UNCOMFORTABLE)
-不 (Furigana),,,,ふ
-不 (Meaning),,,,UNSUITABLE (INAPPROPRIATE)
-逆 (Furigana),,,,ぎゃく
-逆 (Meaning),,,,UPSIDE DOWN
-観 (Furigana),,,,かん
-観 (Meaning),,,,VIEWING (SEEING)
-漏 (Furigana),,,,ろう
-漏 (Meaning),,,,WATER LEAKAGE
-精 (Furigana),,,,せい
-精 (Meaning),,,,WITH ALL ONE'S MIGHT (WITH ALL YOUR MIGHT)
+盗作 (Furigana),,,,とうさく
+盗作 (Meaning),,,,PLAGIARISM
+快適 (Furigana),,,,かいてき
+快適 (Meaning),,,,PLEASANT (AGREEABLE, COMFORTABLE)
+快い (Furigana),,,,こころよい
+快い (Meaning),,,,PLEASANT
+快感 (Furigana),,,,かいかん
+快感 (Meaning),,,,PLEASURE (PLEASANT FEELING)
+快楽 (Furigana),,,,かいらく
+快楽 (Meaning),,,,PLEASURE (ENJOYMENT)
+貧乏 (Furigana),,,,びんぼう
+貧乏 (Meaning),,,,POOR (POVERTY)
+貧しい (Furigana),,,,まずしい
+貧しい (Meaning),,,,POOR
+延長 (Furigana),,,,えんちょう
+延長 (Meaning),,,,PROLONGING (EXTENSION)
+程よく (Furigana),,,,ほどよく
+程よく (Meaning),,,,PROPERLY (WELL)
+出版 (Furigana),,,,しゅっぱん
+出版 (Meaning),,,,PUBLISHING
+購入 (Furigana),,,,こうにゅう
+購入 (Meaning),,,,PURCHASE
+購買 (Furigana),,,,こうばい
+購買 (Meaning),,,,PURCHASING
+押し (Furigana),,,,おし
+押し (Meaning),,,,PUSH (PRESSURE)
+更生 (Furigana),,,,こうせい
+更生 (Meaning),,,,REBIRTH (RESUSCITATION, REHABILITATION)
+更新 (Furigana),,,,こうしん
+更新 (Meaning),,,,RENEWAL (UPDATE)
+乏しい (Furigana),,,,とぼしい
+乏しい (Meaning),,,,SCARCE (MEAGER)
+盗撮 (Furigana),,,,とうさつ
+盗撮 (Meaning),,,,SECRET PHOTOGRAPHY (SECRET FILMING)
+太陽系 (Furigana),,,,たいようけい
+太陽系 (Meaning),,,,SOLAR SYSTEM
+精神的 (Furigana),,,,せいしんてき
+精神的 (Meaning),,,,SPIRITUAL (MENTAL, EMOTIONAL)
+盗品 (Furigana),,,,とうひん
+盗品 (Meaning),,,,STOLEN GOODS (STOLEN ITEMS)
+購読 (Furigana),,,,こうどく
+購読 (Meaning),,,,SUBSCRIPTION
+体系的 (Furigana),,,,たいけいてき
+体系的 (Meaning),,,,SYSTEMATIC
+翌日 (Furigana),,,,よくじつ
+翌日 (Meaning),,,,THE NEXT DAY (NEXT DAY, THE FOLLOWING DAY)
+翌月 (Furigana),,,,よくげつ
+翌月 (Meaning),,,,THE NEXT MONTH (NEXT MONTH, THE FOLLOWING MONTH)
+翌朝 (Furigana),,,,よくあさ
+翌朝 (Meaning),,,,THE NEXT MORNING (NEXT MORNING, THE FOLLOWING MORNING)
+翌年 (Furigana),,,,よくねん
+翌年 (Meaning),,,,THE NEXT YEAR (NEXT YEAR, THE FOLLOWING YEAR)
+切符 (Furigana),,,,きっぷ
+切符 (Meaning),,,,TICKET
+攻撃する (Furigana),,,,こうげきする
+攻撃する (Meaning),,,,TO ATTACK
+渇く (Furigana),,,,かわく
+渇く (Meaning),,,,TO BECOME THIRSTY (TO BE THIRSTY, TO BECOME DRY)
+匂う (Furigana),,,,におう
+匂う (Meaning),,,,TO BE FRAGRANT (TO SMELL GOOD)
+怖がる (Furigana),,,,こわがる
+怖がる (Meaning),,,,TO BE SCARED (TO BE AFRAID OF, TO FEAR)
+移る (Furigana),,,,うつる
+移る (Meaning),,,,TO BE SHIFTED (TO BE TRANSFERRED)
+詰まる (Furigana),,,,つまる
+詰まる (Meaning),,,,TO BE STUFFED (TO BE CRAMMED FULL, TO BE STUCK)
+冷やす (Furigana),,,,ひやす
+冷やす (Meaning),,,,TO CHILL SOMETHING (TO CHILL)
+飾る (Furigana),,,,かざる
+飾る (Meaning),,,,TO DECORATE
+預ける (Furigana),,,,あずける
+預ける (Meaning),,,,TO DEPOSIT (TO ENTRUST, TO LEAVE SOMETHING WITH SOMEONE)
+診断する (Furigana),,,,しんだんする
+診断する (Meaning),,,,TO DIAGNOSE
+絶える (Furigana),,,,たえる
+絶える (Meaning),,,,TO DIE OUT (TO END, TO BE CUT OFF)
+照れる (Furigana),,,,てれる
+照れる (Meaning),,,,TO FEEL EMBARRASSED (TO BE SHY, TO BE EMBARRASSED, TO FEEL SHY)
+浮く (Furigana),,,,うく
+浮く (Meaning),,,,TO FLOAT
+越える (Furigana),,,,こえる
+越える (Meaning),,,,TO GO BEYOND (TO CROSS OVER)
+押さえる (Furigana),,,,おさえる
+押さえる (Meaning),,,,TO HOLD SOMETHING DOWN (TO GRASP SOMETHING)
+痛める (Furigana),,,,いためる
+痛める (Meaning),,,,TO INJURE SOMETHING (TO HURT SOMETHING, TO HURT SOMEONE)
+漏れる (Furigana),,,,もれる
+漏れる (Meaning),,,,TO LEAK (TO LEAK OUT)
+並べる (Furigana),,,,ならべる
+並べる (Meaning),,,,TO LINE SOMETHING UP (TO PUT SOMETHING IN ORDER)
+騒ぐ (Furigana),,,,さわぐ
+騒ぐ (Meaning),,,,TO MAKE NOISE (TO BE BOISTEROUS, TO MAKE A FUSS)
+寄せる (Furigana),,,,よせる
+寄せる (Meaning),,,,TO MOVE SOMETHING CLOSE TO (TO PULL SOMETHING OVER, TO CONTRIBUTE SOMETHING)
+豚骨ラーメン (Furigana),,,,とんこつらーめん
+豚骨ラーメン (Meaning),,,,TONKOTSU RAMEN (PORK BONE RAMEN)
+遊ぶ (Furigana),,,,あそぶ
+遊ぶ (Meaning),,,,TO PLAY
+延期する (Furigana),,,,えんきする
+延期する (Meaning),,,,TO POSTPONE
+延ばす (Furigana),,,,のばす
+延ばす (Meaning),,,,TO PROLONG SOMETHING (TO LENGTHEN SOMETHING, TO EXTEND SOMETHING)
+押す (Furigana),,,,おす
+押す (Meaning),,,,TO PUSH
+登録する (Furigana),,,,とうろくする
+登録する (Meaning),,,,TO REGISTER
+退ける (Furigana),,,,しりぞける
+退ける (Meaning),,,,TO REPEL SOMETHING (TO DISMISS SOMETHING, TO REJECT SOMETHING)
+盗む (Furigana),,,,ぬすむ
+盗む (Meaning),,,,TO STEAL
+撮る (Furigana),,,,とる
+撮る (Meaning),,,,TO TAKE A PICTURE (TO TAKE A PHOTO, TO TAKE A VIDEO)
+濡らす (Furigana),,,,ぬらす
+濡らす (Meaning),,,,TO WET (TO MOISTEN, TO DAMPEN, TO SOAK)
+研修生 (Furigana),,,,けんしゅうせい
+研修生 (Meaning),,,,TRAINEE
+〜系 (Furigana),,,,けい
+〜系 (Meaning),,,,TRIBE (LINEAGE, GROUP)
+浮世絵 (Furigana),,,,うきよえ
+浮世絵 (Meaning),,,,UKIYO-E (UKIYO-E WOODBLOCK PRINT, UKIYO-E PAINTING)
+未婚 (Furigana),,,,みこん
+未婚 (Meaning),,,,UNMARRIED
+不快 (Furigana),,,,ふかい
+不快 (Meaning),,,,UNPLEASANT (UNCOMFORTABLE)
+不適 (Furigana),,,,ふてき
+不適 (Meaning),,,,UNSUITABLE (INAPPROPRIATE)
+逆さま (Furigana),,,,さかさま
+逆さま (Meaning),,,,UPSIDE DOWN
+節々 (Furigana),,,,ふしぶし
+節々 (Meaning),,,,VARIOUS JOINTS (EVERY JOINT, VARIOUS PARTS)
+観覧 (Furigana),,,,かんらん
+観覧 (Meaning),,,,VIEWING (SEEING)
+漏水 (Furigana),,,,ろうすい
+漏水 (Meaning),,,,WATER LEAKAGE
+精一杯 (Furigana),,,,せいいっぱい
+精一杯 (Meaning),,,,WITH ALL ONE'S MIGHT (WITH ALL YOUR MIGHT)

@@ -64,189 +64,189 @@
 遍 (Meaning),,,,Universal
 胎 (Onyomi),,,,たい
 胎 (Meaning),,,,Womb
-甲 (Furigana),,,,こう
-甲 (Meaning),,,,A AND B (FIRST AND SECOND)
-堕 (Furigana),,,,だ
-堕 (Meaning),,,,ABORTION (FETICIDE)
-年 (Furigana),,,,ねん
-年 (Meaning),,,,ANNUAL SALARY
-盲 (Furigana),,,,もう
-盲 (Meaning),,,,APPENDIX
-平 (Furigana),,,,へい
-平 (Meaning),,,,BALANCE (EQUILIBRIUM)
-山 (Furigana),,,,さん
-山 (Meaning),,,,BANDIT (BRIGAND)
-浴 (Furigana),,,,よく
-浴 (Meaning),,,,BATHTUB
-鼓 (Furigana),,,,こ
-鼓 (Meaning),,,,BEAT (PALPITATE, PULSE, THROB)
-恐 (Furigana),,,,きょう
-恐 (Meaning),,,,BLACKMAIL (EXTORTION)
-盲 (Furigana),,,,もう
-盲 (Meaning),,,,BLINDNESS (BLIND)
-盲 (Furigana),,,,もう
-盲 (Meaning),,,,BLIND PERSON
-盲 (Furigana),,,,もう
-盲 (Meaning),,,,BLIND SPOT
-敢 (Furigana),,,,かん
-敢 (Meaning),,,,BOLDLY (BRAVELY, FEARLESSLY)
-勇 (Furigana),,,,ゆう
-勇 (Meaning),,,,BRAVE (HEROIC, GALLANT)
-醸 (Furigana),,,,じょう
-醸 (Meaning),,,,BREW (FERMENT, BREED)
-醸 (Furigana),,,,じょう
-醸 (Meaning),,,,BREWING (DISTILLATION)
-閲 (Furigana),,,,えつ
-閲 (Meaning),,,,BROWSING (PERUSAL, READING)
-検 (Furigana),,,,けん
-検 (Meaning),,,,CENSOR (INSPECT)
-海 (Furigana),,,,かい
-海 (Meaning),,,,CHANNEL (STRAIT)
-循 (Furigana),,,,じゅん
-循 (Meaning),,,,CIRCULATORY ORGAN
-熊 (Furigana),,,,くま
-熊 (Meaning),,,,CLOWNFISH (ANEMONE FISH)
-色 (Furigana),,,,いろ
-色 (Meaning),,,,COLOR BLINDNESS
-羅 (Furigana),,,,ら
-羅 (Meaning),,,,COMPASS
-受 (Furigana),,,,じゅ
-受 (Meaning),,,,CONCEPTION (FERTILIZATION, FERTILISATION)
-弔 (Furigana),,,,ちょう
-弔 (Meaning),,,,CONDOLENCE (SYMPATHY, MOURNING)
-角 (Furigana),,,,かく
-角 (Meaning),,,,CORNEA
-堕 (Furigana),,,,だ
-堕 (Meaning),,,,CORRUPTION (DEPRAVITY, DEGRADATION)
-網 (Furigana),,,,もう
-網 (Meaning),,,,COVERING (ENCOMPASSING, INCLUDING)
+甲乙 (Furigana),,,,こうおつ
+甲乙 (Meaning),,,,A AND B (FIRST AND SECOND)
+堕胎 (Furigana),,,,だたい
+堕胎 (Meaning),,,,ABORTION (FETICIDE)
+年俸 (Furigana),,,,ねんぽう
+年俸 (Meaning),,,,ANNUAL SALARY
+盲腸 (Furigana),,,,もうちょう
+盲腸 (Meaning),,,,APPENDIX
+平衡 (Furigana),,,,へいこう
+平衡 (Meaning),,,,BALANCE (EQUILIBRIUM)
+山賊 (Furigana),,,,さんぞく
+山賊 (Meaning),,,,BANDIT (BRIGAND)
+浴槽 (Furigana),,,,よくそう
+浴槽 (Meaning),,,,BATHTUB
+鼓動 (Furigana),,,,こどう
+鼓動 (Meaning),,,,BEAT (PALPITATE, PULSE, THROB)
+恐喝 (Furigana),,,,きょうかつ
+恐喝 (Meaning),,,,BLACKMAIL (EXTORTION)
+盲目 (Furigana),,,,もうもく
+盲目 (Meaning),,,,BLINDNESS (BLIND)
+盲人 (Furigana),,,,もうじん
+盲人 (Meaning),,,,BLIND PERSON
+盲点 (Furigana),,,,もうてん
+盲点 (Meaning),,,,BLIND SPOT
+敢然 (Furigana),,,,かんぜん
+敢然 (Meaning),,,,BOLDLY (BRAVELY, FEARLESSLY)
+勇敢 (Furigana),,,,ゆうかん
+勇敢 (Meaning),,,,BRAVE (HEROIC, GALLANT)
+醸成 (Furigana),,,,じょうせい
+醸成 (Meaning),,,,BREW (FERMENT, BREED)
+醸造 (Furigana),,,,じょうぞう
+醸造 (Meaning),,,,BREWING (DISTILLATION)
+閲覧 (Furigana),,,,えつらん
+閲覧 (Meaning),,,,BROWSING (PERUSAL, READING)
+検閲 (Furigana),,,,けんえつ
+検閲 (Meaning),,,,CENSOR (INSPECT)
+海峡 (Furigana),,,,かいきょう
+海峡 (Meaning),,,,CHANNEL (STRAIT)
+循環器 (Furigana),,,,じゅんかんき
+循環器 (Meaning),,,,CIRCULATORY ORGAN
+熊之実 (Furigana),,,,くまのみ
+熊之実 (Meaning),,,,CLOWNFISH (ANEMONE FISH)
+色盲 (Furigana),,,,しきもう
+色盲 (Meaning),,,,COLOR BLINDNESS
+羅針盤 (Furigana),,,,らしんばん
+羅針盤 (Meaning),,,,COMPASS
+受胎 (Furigana),,,,じゅたい
+受胎 (Meaning),,,,CONCEPTION (FERTILIZATION, FERTILISATION)
+弔意 (Furigana),,,,ちょうい
+弔意 (Meaning),,,,CONDOLENCE (SYMPATHY, MOURNING)
+角膜 (Furigana),,,,かくまく
+角膜 (Meaning),,,,CORNEA
+堕落 (Furigana),,,,だらく
+堕落 (Meaning),,,,CORRUPTION (DEPRAVITY, DEGRADATION)
+網羅 (Furigana),,,,もうら
+網羅 (Meaning),,,,COVERING (ENCOMPASSING, INCLUDING)
 烏 (Furigana),,,,からす
 烏 (Meaning),,,,CROW (RAVEN)
-敢 (Furigana),,,,かん
-敢 (Meaning),,,,DARE TO (PRESUME TO, DARINGLY)
-濃 (Furigana),,,,のう
-濃 (Meaning),,,,DARK BLUE
-敢 (Furigana),,,,かん
-敢 (Meaning),,,,DECISIVE ACTION (PERFORM, DARE, CARRY OUT)
-太 (Furigana),,,,たい
-太 (Meaning),,,,DRUM (TAIKO)
-鼓 (Furigana),,,,こ
-鼓 (Meaning),,,,EARDRUM
-胎 (Furigana),,,,たい
-胎 (Meaning),,,,EMBRYO (FETUS, FOETUS)
-羅 (Furigana),,,,ら
-羅 (Meaning),,,,ENUMERATION
-酵 (Furigana),,,,こう
-酵 (Meaning),,,,ENZYME
-均 (Furigana),,,,きん
-均 (Meaning),,,,EQUILIBRIUM (BALANCE)
-遍 (Furigana),,,,へん
-遍 (Meaning),,,,EXPERIENCES  (HISTORY, JOURNEY, TRAVELS)
-発 (Furigana),,,,はつ
-発 (Meaning),,,,FERMENTATION
-敢 (Furigana),,,,かん
-敢 (Meaning),,,,FIGHT BRAVELY
-水 (Furigana),,,,すい
-水 (Meaning),,,,FISH TANK (WATER TANK)
-萌 (Furigana),,,,ほう
-萌 (Meaning),,,,GERMINATION (SPROUT)
-憂 (Furigana),,,,ゆう
-憂 (Meaning),,,,GRIEF (DISTRESS, SORROW)
+敢えて (Furigana),,,,あえて
+敢えて (Meaning),,,,DARE TO (PRESUME TO, DARINGLY)
+濃紺 (Furigana),,,,のうこん
+濃紺 (Meaning),,,,DARK BLUE
+敢行 (Furigana),,,,かんこう
+敢行 (Meaning),,,,DECISIVE ACTION (PERFORM, DARE, CARRY OUT)
+太鼓 (Furigana),,,,たいこ
+太鼓 (Meaning),,,,DRUM (TAIKO)
+鼓膜 (Furigana),,,,こまく
+鼓膜 (Meaning),,,,EARDRUM
+胎児 (Furigana),,,,たいじ
+胎児 (Meaning),,,,EMBRYO (FETUS, FOETUS)
+羅列 (Furigana),,,,られつ
+羅列 (Meaning),,,,ENUMERATION
+酵素 (Furigana),,,,こうそ
+酵素 (Meaning),,,,ENZYME
+均衡 (Furigana),,,,きんこう
+均衡 (Meaning),,,,EQUILIBRIUM (BALANCE)
+遍歴 (Furigana),,,,へんれき
+遍歴 (Meaning),,,,EXPERIENCES  (HISTORY, JOURNEY, TRAVELS)
+発酵 (Furigana),,,,はっこう
+発酵 (Meaning),,,,FERMENTATION
+敢闘 (Furigana),,,,かんとう
+敢闘 (Meaning),,,,FIGHT BRAVELY
+水槽 (Furigana),,,,すいそう
+水槽 (Meaning),,,,FISH TANK (WATER TANK)
+萌芽 (Furigana),,,,ほうが
+萌芽 (Meaning),,,,GERMINATION (SPROUT)
+憂い (Furigana),,,,うれい
+憂い (Meaning),,,,GRIEF (DISTRESS, SORROW)
 腸 (Furigana),,,,ちょう
 腸 (Meaning),,,,GUTS (BOWELS, INTESTINES)
-鼓 (Furigana),,,,こ
+鼓 (Furigana),,,,つづみ
 鼓 (Meaning),,,,HAND DRUM (TSUZUMI)
-何 (Furigana),,,,なに
-何 (Meaning),,,,HOW MANY TIMES (HOW OFTEN)
-鼓 (Furigana),,,,こ
-鼓 (Meaning),,,,INSPIRATION (ENCOURAGEMENT)
-遮 (Furigana),,,,しゃ
-遮 (Meaning),,,,ISOLATION (CUT OFF, BLOCKADE, QUARANTINE)
-大 (Furigana),,,,たい
-大 (Meaning),,,,LARGE INTESTINE (LARGE BOWEL, COLON)
-凸 (Furigana),,,,とつ
-凸 (Meaning),,,,LETTERPRESS (RELIEF PRINTING)
-伐 (Furigana),,,,ばつ
-伐 (Meaning),,,,LUMBERING (FELLING, DEFORESTATION)
-奉 (Furigana),,,,ほう
-奉 (Meaning),,,,MAGISTRATE (SHOGUNATE ADMINISTRATOR)
+何遍 (Furigana),,,,なんべん
+何遍 (Meaning),,,,HOW MANY TIMES (HOW OFTEN)
+鼓舞 (Furigana),,,,こぶ
+鼓舞 (Meaning),,,,INSPIRATION (ENCOURAGEMENT)
+遮断 (Furigana),,,,しゃだん
+遮断 (Meaning),,,,ISOLATION (CUT OFF, BLOCKADE, QUARANTINE)
+大腸 (Furigana),,,,だいちょう
+大腸 (Meaning),,,,LARGE INTESTINE (LARGE BOWEL, COLON)
+凸版 (Furigana),,,,とっぱん
+凸版 (Meaning),,,,LETTERPRESS (RELIEF PRINTING)
+伐採 (Furigana),,,,ばっさい
+伐採 (Meaning),,,,LUMBERING (FELLING, DEFORESTATION)
+奉行 (Furigana),,,,ぶぎょう
+奉行 (Meaning),,,,MAGISTRATE (SHOGUNATE ADMINISTRATOR)
 楓 (Furigana),,,,かえで
 楓 (Meaning),,,,MAPLE (MAPLE TREE)
-楓 (Furigana),,,,かえで
-楓 (Meaning),,,,MAPLE SUGAR
-旋 (Furigana),,,,せん
-旋 (Meaning),,,,MELODY (TUNE)
+楓糖 (Furigana),,,,ふうとう
+楓糖 (Meaning),,,,MAPLE SUGAR
+旋律 (Furigana),,,,せんりつ
+旋律 (Meaning),,,,MELODY (TUNE)
 膜 (Furigana),,,,まく
 膜 (Meaning),,,,MEMBRANE (FILM)
-弔 (Furigana),,,,ちょう
-弔 (Meaning),,,,MEMORIAL ADDRESS (FUNERAL ADDRESS)
+弔辞 (Furigana),,,,ちょうじ
+弔辞 (Meaning),,,,MEMORIAL ADDRESS (FUNERAL ADDRESS)
 紺 (Furigana),,,,こん
 紺 (Meaning),,,,NAVY BLUE (DEEP BLUE, NAVY)
-一 (Furigana),,,,いち
-一 (Meaning),,,,ONCE (ONE TIME)
-烏 (Furigana),,,,からす
-烏 (Meaning),,,,OOLONG TEA (OOLONG)
-蒼 (Furigana),,,,そう
-蒼 (Meaning),,,,PALLID (PALE, PALLOR)
-海 (Furigana),,,,かい
-海 (Meaning),,,,PIRATE
-胎 (Furigana),,,,たい
-胎 (Meaning),,,,PLACENTA (AFTERBIRTH)
-峡 (Furigana),,,,きょう
-峡 (Meaning),,,,RAVINE (GORGE, CANYON)
-迎 (Furigana),,,,げい
-迎 (Meaning),,,,RECEPTION HALL (GUEST HOUSE)
-惜 (Furigana),,,,せき
-惜 (Meaning),,,,REGRETTABLE (DISAPPOINTING, PRECIOUS, DEAR)
-果 (Furigana),,,,か
-果 (Meaning),,,,RESOLUTE (DETERMINED, BOLD, DARING)
-網 (Furigana),,,,もう
-網 (Meaning),,,,RETINA
-校 (Furigana),,,,こう
-校 (Meaning),,,,REVISION (PROOFREADING)
-旋 (Furigana),,,,せん
-旋 (Meaning),,,,REVOLUTION (ROTATION, TURNING, CIRCLING)
-減 (Furigana),,,,げん
-減 (Meaning),,,,SALARY REDUCTION (SALARY CUT)
-粗 (Furigana),,,,そ
-粗 (Meaning),,,,SEA SALT (COARSE SALT)
+一遍 (Furigana),,,,いっぺん
+一遍 (Meaning),,,,ONCE (ONE TIME)
+烏龍茶 (Furigana),,,,うーろんちゃ
+烏龍茶 (Meaning),,,,OOLONG TEA (OOLONG)
+蒼白 (Furigana),,,,そうはく
+蒼白 (Meaning),,,,PALLID (PALE, PALLOR)
+海賊 (Furigana),,,,かいぞく
+海賊 (Meaning),,,,PIRATE
+胎盤 (Furigana),,,,たいばん
+胎盤 (Meaning),,,,PLACENTA (AFTERBIRTH)
+峡谷 (Furigana),,,,きょうこく
+峡谷 (Meaning),,,,RAVINE (GORGE, CANYON)
+迎賓館 (Furigana),,,,げいひんかん
+迎賓館 (Meaning),,,,RECEPTION HALL (GUEST HOUSE)
+惜しい (Furigana),,,,おしい
+惜しい (Meaning),,,,REGRETTABLE (DISAPPOINTING, PRECIOUS, DEAR)
+果敢 (Furigana),,,,かかん
+果敢 (Meaning),,,,RESOLUTE (DETERMINED, BOLD, DARING)
+網膜 (Furigana),,,,もうまく
+網膜 (Meaning),,,,RETINA
+校閲 (Furigana),,,,こうえつ
+校閲 (Meaning),,,,REVISION (PROOFREADING)
+旋回 (Furigana),,,,せんかい
+旋回 (Meaning),,,,REVOLUTION (ROTATION, TURNING, CIRCLING)
+減俸 (Furigana),,,,げんぽう
+減俸 (Meaning),,,,SALARY REDUCTION (SALARY CUT)
+粗塩 (Furigana),,,,あらじお
+粗塩 (Meaning),,,,SEA SALT (COARSE SALT)
 乙 (Furigana),,,,おつ
 乙 (Meaning),,,,SECOND (B, THANKS, CHIC)
-烏 (Furigana),,,,からす
-烏 (Meaning),,,,SQUID (CUTTLEFISH)
-胃 (Furigana),,,,い
-胃 (Meaning),,,,STOMACH (GASTROINTESTINE)
-拓 (Furigana),,,,たく
-拓 (Meaning),,,,TAKUYA
-盗 (Furigana),,,,とう
-盗 (Meaning),,,,THIEF (ROBBER)
-醸 (Furigana),,,,じょう
-醸 (Meaning),,,,TO BREW (TO CAUSE, TO GIVE RISE TO, TO DISTILL)
-癒 (Furigana),,,,ゆ
-癒 (Meaning),,,,TO HEAL SOMETHING (TO CURE SOMETHING, TO QUENCH A THIRST)
-遮 (Furigana),,,,しゃ
-遮 (Meaning),,,,TO INTERRUPT (TO INTERCEPT, TO OBSTRUCT)
-弔 (Furigana),,,,ちょう
-弔 (Meaning),,,,TO MOURN FOR (TO HOLD A MEMORIAL SERVICE FOR, TO CONDOLE)
-鎮 (Furigana),,,,ちん
-鎮 (Meaning),,,,TO QUIET DOWN (TO CALM DOWN, TO SUBSIDE, TO DIE DOWN)
-漬 (Furigana),,,,つ
-漬 (Meaning),,,,TO SOAK (TO STEEP, TO DIP IN, TO PICKLE)
-間 (Furigana),,,,かん
-間 (Meaning),,,,TREE THINNING (THINNING, PERIODIC THINNING)
+烏賊 (Furigana),,,,いか
+烏賊 (Meaning),,,,SQUID (CUTTLEFISH)
+胃腸 (Furigana),,,,いちょう
+胃腸 (Meaning),,,,STOMACH (GASTROINTESTINE)
+拓哉 (Furigana),,,,たくや
+拓哉 (Meaning),,,,TAKUYA
+盗賊 (Furigana),,,,とうぞく
+盗賊 (Meaning),,,,THIEF (ROBBER)
+醸す (Furigana),,,,かもす
+醸す (Meaning),,,,TO BREW (TO CAUSE, TO GIVE RISE TO, TO DISTILL)
+癒す (Furigana),,,,いやす
+癒す (Meaning),,,,TO HEAL SOMETHING (TO CURE SOMETHING, TO QUENCH A THIRST)
+遮る (Furigana),,,,さえぎる
+遮る (Meaning),,,,TO INTERRUPT (TO INTERCEPT, TO OBSTRUCT)
+弔う (Furigana),,,,とむらう
+弔う (Meaning),,,,TO MOURN FOR (TO HOLD A MEMORIAL SERVICE FOR, TO CONDOLE)
+鎮まる (Furigana),,,,しずまる
+鎮まる (Meaning),,,,TO QUIET DOWN (TO CALM DOWN, TO SUBSIDE, TO DIE DOWN)
+漬ける (Furigana),,,,つける
+漬ける (Meaning),,,,TO SOAK (TO STEEP, TO DIP IN, TO PICKLE)
+間伐 (Furigana),,,,かんばつ
+間伐 (Meaning),,,,TREE THINNING (THINNING, PERIODIC THINNING)
 坪 (Furigana),,,,つぼ
 坪 (Meaning),,,,TSUBO (TWO MAT AREA)
-凹 (Furigana),,,,おう
-凹 (Meaning),,,,UNEVEN (ROUGH, RUGGED)
-普 (Furigana),,,,ふ
-普 (Meaning),,,,UNIVERSAL (UBIQUITOUS, OMNIPRESENT)
-不 (Furigana),,,,ふ
-不 (Meaning),,,,UNPLEASANT (UNHAPPY, DISCOMFORT, DISAGREEABLE)
-悪 (Furigana),,,,あく
-悪 (Meaning),,,,VICIOUS CYCLE
-傍 (Furigana),,,,ぼう
-傍 (Meaning),,,,WHILE (WHILE DOING, BESIDES)
-旋 (Furigana),,,,せん
-旋 (Meaning),,,,WHIRLWIND (COMMOTION, SENSATION)
-酵 (Furigana),,,,こう
-酵 (Meaning),,,,YEAST (LEAVEN)
+凹凸 (Furigana),,,,おうとつ
+凹凸 (Meaning),,,,UNEVEN (ROUGH, RUGGED)
+普遍 (Furigana),,,,ふへん
+普遍 (Meaning),,,,UNIVERSAL (UBIQUITOUS, OMNIPRESENT)
+不愉快 (Furigana),,,,ふゆかい
+不愉快 (Meaning),,,,UNPLEASANT (UNHAPPY, DISCOMFORT, DISAGREEABLE)
+悪循環 (Furigana),,,,あくじゅんかん
+悪循環 (Meaning),,,,VICIOUS CYCLE
+傍ら (Furigana),,,,かたわら
+傍ら (Meaning),,,,WHILE (WHILE DOING, BESIDES)
+旋風 (Furigana),,,,せんぷう
+旋風 (Meaning),,,,WHIRLWIND (COMMOTION, SENSATION)
+酵母 (Furigana),,,,こうぼ
+酵母 (Meaning),,,,YEAST (LEAVEN)

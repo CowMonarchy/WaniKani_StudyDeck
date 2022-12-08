@@ -58,6 +58,8 @@
 頁 (Meaning),,,,Page
 親 (Onyomi),,,,しん
 親 (Meaning),,,,Parent
+公 (Onyomi),,,,こう
+公 (Meaning),,,,Public
 読 (Onyomi),,,,よ
 読 (Meaning),,,,Read
 求 (Onyomi),,,,きゅう
@@ -74,259 +76,261 @@
 歌 (Meaning),,,,Song
 起 (Onyomi),,,,お
 起 (Meaning),,,,Wake Up
-学 (Furigana),,,,がく
-学 (Meaning),,,,ACADEMY (INSTITUTE)
-足 (Furigana),,,,そく
-足 (Meaning),,,,ADDITION
-進 (Furigana),,,,しん
-進 (Meaning),,,,ADVANCE (PROGRESS)
-農 (Furigana),,,,のう
-農 (Meaning),,,,AGRICULTURE
-路 (Furigana),,,,ろ
-路 (Meaning),,,,ALLEY (PATH, DIRT ROAD)
-回 (Furigana),,,,かい
-回 (Meaning),,,,ANSWER (RESPONSE, REPLY)
-算 (Furigana),,,,さん
-算 (Meaning),,,,ARITHMETIC (MATH, MATHEMATICS)
-助 (Furigana),,,,じょ
-助 (Meaning),,,,ASSISTANT (HELPER, AIDE)
-早 (Furigana),,,,そう
-早 (Meaning),,,,AT ONCE (IMMEDIATELY, WITHOUT DELAY, RIGHT AWAY, RIGHT NOW)
-心 (Furigana),,,,しん
-心 (Meaning),,,,A WORRY (CONCERN, ANXIETY, WORRY)
-自 (Furigana),,,,じ
-自 (Meaning),,,,BICYCLE (BIKE, PUSHBIKE)
-苦 (Furigana),,,,く
-苦 (Meaning),,,,BITTER TASTING (BITTER)
-千 (Furigana),,,,せん
-千 (Meaning),,,,CHIBA
-親 (Furigana),,,,しん
-親 (Meaning),,,,CLOSE FRIEND (BEST FRIEND, GOOD FRIEND)
-集 (Furigana),,,,しゅう
-集 (Meaning),,,,COLLECTING MONEY (MONEY COLLECTION)
-集 (Furigana),,,,しゅう
-集 (Meaning),,,,CONCENTRATION (FOCUSING)
-調 (Furigana),,,,ちょう
-調 (Meaning),,,,CONDITION
-曲 (Furigana),,,,きょく
-曲 (Meaning),,,,CURVE (CURVED LINE)
-要 (Furigana),,,,よう
-要 (Meaning),,,,DEMAND (REQUIREMENT)
-開 (Furigana),,,,かい
-開 (Meaning),,,,DEVELOPMENT
-病 (Furigana),,,,びょう
-病 (Meaning),,,,DISEASE (SICKNESS, ILLNESS)
-電 (Furigana),,,,でん
-電 (Meaning),,,,ELECTRIC RAILWAY
-強 (Furigana),,,,きょう
-強 (Meaning),,,,EMPHASIS (HIGHLIGHT, STRESS)
-終 (Furigana),,,,しゅう
-終 (Meaning),,,,END (FINISH, CLOSE)
-進 (Furigana),,,,しん
-進 (Meaning),,,,EVOLUTION (PROGRESS)
-顔 (Furigana),,,,かお
-顔 (Meaning),,,,EXPRESSION (FACIAL EXPRESSION)
-目 (Furigana),,,,め
-目 (Meaning),,,,EYE DOCTOR (OCULIST, OPHTHALMOLOGIST)
+学院 (Furigana),,,,がくいん
+学院 (Meaning),,,,ACADEMY (INSTITUTE)
+足し算 (Furigana),,,,たしざん
+足し算 (Meaning),,,,ADDITION
+進行 (Furigana),,,,しんこう
+進行 (Meaning),,,,ADVANCE (PROGRESS)
+農業 (Furigana),,,,のうぎょう
+農業 (Meaning),,,,AGRICULTURE
+路地 (Furigana),,,,ろじ
+路地 (Meaning),,,,ALLEY (PATH, DIRT ROAD)
+高度 (Furigana),,,,こうど
+高度 (Meaning),,,,ALTITUDE (HIGH-LEVEL)
+回答 (Furigana),,,,かいとう
+回答 (Meaning),,,,ANSWER (RESPONSE, REPLY)
+算数 (Furigana),,,,さんすう
+算数 (Meaning),,,,ARITHMETIC (MATH, MATHEMATICS)
+助手 (Furigana),,,,じょしゅ
+助手 (Meaning),,,,ASSISTANT (HELPER, AIDE)
+早速 (Furigana),,,,さっそく
+早速 (Meaning),,,,AT ONCE (IMMEDIATELY, WITHOUT DELAY, RIGHT AWAY, RIGHT NOW)
+心配 (Furigana),,,,しんぱい
+心配 (Meaning),,,,A WORRY (CONCERN, ANXIETY, WORRY)
+自転車 (Furigana),,,,じてんしゃ
+自転車 (Meaning),,,,BICYCLE (BIKE, PUSHBIKE)
+苦い (Furigana),,,,にがい
+苦い (Meaning),,,,BITTER TASTING (BITTER)
+千葉 (Furigana),,,,ちば
+千葉 (Meaning),,,,CHIBA
+親友 (Furigana),,,,しんゆう
+親友 (Meaning),,,,CLOSE FRIEND (BEST FRIEND, GOOD FRIEND)
+集金 (Furigana),,,,しゅうきん
+集金 (Meaning),,,,COLLECTING MONEY (MONEY COLLECTION)
+集中 (Furigana),,,,しゅうちゅう
+集中 (Meaning),,,,CONCENTRATION (FOCUSING)
+調子 (Furigana),,,,ちょうし
+調子 (Meaning),,,,CONDITION
+曲線 (Furigana),,,,きょくせん
+曲線 (Meaning),,,,CURVE (CURVED LINE)
+要求 (Furigana),,,,ようきゅう
+要求 (Meaning),,,,DEMAND (REQUIREMENT)
+開発 (Furigana),,,,かいはつ
+開発 (Meaning),,,,DEVELOPMENT
+〜病 (Furigana),,,,びょう
+〜病 (Meaning),,,,DISEASE (SICKNESS, ILLNESS)
+電鉄 (Furigana),,,,でんてつ
+電鉄 (Meaning),,,,ELECTRIC RAILWAY
+強調 (Furigana),,,,きょうちょう
+強調 (Meaning),,,,EMPHASIS (HIGHLIGHT, STRESS)
+終了 (Furigana),,,,しゅうりょう
+終了 (Meaning),,,,END (FINISH, CLOSE)
+進化 (Furigana),,,,しんか
+進化 (Meaning),,,,EVOLUTION (PROGRESS)
+顔付き (Furigana),,,,かおつき
+顔付き (Meaning),,,,EXPRESSION (FACIAL EXPRESSION)
+目医者 (Furigana),,,,めいしゃ
+目医者 (Meaning),,,,EYE DOCTOR (OCULIST, OPHTHALMOLOGIST)
 顔 (Furigana),,,,かお
 顔 (Meaning),,,,FACE
-農 (Furigana),,,,のう
-農 (Meaning),,,,FARM
-速 (Furigana),,,,そく
-速 (Meaning),,,,FAST
-一 (Furigana),,,,いち
-一 (Meaning),,,,FIRST THING (THE FIRST)
-外 (Furigana),,,,がい
-外 (Meaning),,,,FOREIGN WORD (BORROWED WORD, LOANWORD)
-語 (Furigana),,,,ご
-語 (Meaning),,,,FRENCH LANGUAGE (FRENCH)
-青 (Furigana),,,,せい
-青 (Meaning),,,,FRESH LEAVES (GREENERY, YOUNG LEAVES)
-大 (Furigana),,,,たい
-大 (Meaning),,,,GRADUATE SCHOOL (GRAD SCHOOL)
+農場 (Furigana),,,,のうじょう
+農場 (Meaning),,,,FARM
+速い (Furigana),,,,はやい
+速い (Meaning),,,,FAST
+一番目 (Furigana),,,,いちばんめ
+一番目 (Meaning),,,,FIRST THING (THE FIRST)
+外来語 (Furigana),,,,がいらいご
+外来語 (Meaning),,,,FOREIGN WORD (BORROWED WORD, LOANWORD)
+フランス語 (Furigana),,,,ふらんすご
+フランス語 (Meaning),,,,FRENCH LANGUAGE (FRENCH)
+青葉 (Furigana),,,,あおば
+青葉 (Meaning),,,,FRESH LEAVES (GREENERY, YOUNG LEAVES)
+大学院 (Furigana),,,,だいがくいん
+大学院 (Meaning),,,,GRADUATE SCHOOL (GRAD SCHOOL)
 頭 (Furigana),,,,あたま
 頭 (Meaning),,,,HEAD
-病 (Furigana),,,,びょう
-病 (Meaning),,,,HOSPITAL
-入 (Furigana),,,,にゅう
-入 (Meaning),,,,HOSPITALIZATION (HOSPITAL ADMISSION, ADMISSION TO A HOSPITAL)
-工 (Furigana),,,,こう
-工 (Meaning),,,,INDUSTRY
-親 (Furigana),,,,しん
-親 (Meaning),,,,INTIMATE (FRIENDLY, CLOSE)
-日 (Furigana),,,,にち
-日 (Meaning),,,,JAPANESE LANGUAGE (JAPANESE)
-日 (Furigana),,,,にち
-日 (Meaning),,,,JAPANESE STYLE ALCOHOL (JAPANESE ALCOHOL, SAKE)
-漢 (Furigana),,,,かん
-漢 (Meaning),,,,KANJI (CHINESE LETTERS, CHINESE CHARACTERS)
-親 (Furigana),,,,しん
-親 (Meaning),,,,KIND (KINDNESS)
-台 (Furigana),,,,だい
-台 (Meaning),,,,KITCHEN
-研 (Furigana),,,,けん
-研 (Meaning),,,,LABORATORY (LAB, STUDY ROOM, PROFESSOR'S OFFICE, TEACHER'S OFFICE)
-言 (Furigana),,,,げん
-言 (Meaning),,,,LANGUAGE (A LANGUAGE)
-最 (Furigana),,,,さい
-最 (Meaning),,,,LAST (FINAL, THE LAST, THE FINAL)
-最 (Furigana),,,,さい
-最 (Meaning),,,,LAST (LATEST, END, CONCLUSION, FINAL)
-終 (Furigana),,,,しゅう
-終 (Meaning),,,,LAST STOP (FINAL STOP, TERMINUS)
+病院 (Furigana),,,,びょういん
+病院 (Meaning),,,,HOSPITAL
+入院 (Furigana),,,,にゅういん
+入院 (Meaning),,,,HOSPITALIZATION (HOSPITAL ADMISSION, ADMISSION TO A HOSPITAL)
+工業 (Furigana),,,,こうぎょう
+工業 (Meaning),,,,INDUSTRY
+親しい (Furigana),,,,したしい
+親しい (Meaning),,,,INTIMATE (FRIENDLY, CLOSE)
+日本語 (Furigana),,,,にほんご
+日本語 (Meaning),,,,JAPANESE LANGUAGE (JAPANESE)
+日本酒 (Furigana),,,,にほんしゅ
+日本酒 (Meaning),,,,JAPANESE STYLE ALCOHOL (JAPANESE ALCOHOL, SAKE)
+漢字 (Furigana),,,,かんじ
+漢字 (Meaning),,,,KANJI (CHINESE LETTERS, CHINESE CHARACTERS)
+親切 (Furigana),,,,しんせつ
+親切 (Meaning),,,,KIND (KINDNESS)
+台所 (Furigana),,,,だいどころ
+台所 (Meaning),,,,KITCHEN
+研究室 (Furigana),,,,けんきゅうしつ
+研究室 (Meaning),,,,LABORATORY (LAB, STUDY ROOM, PROFESSOR'S OFFICE, TEACHER'S OFFICE)
+言語 (Furigana),,,,げんご
+言語 (Meaning),,,,LANGUAGE (A LANGUAGE)
+最後 (Furigana),,,,さいご
+最後 (Meaning),,,,LAST (LATEST, END, CONCLUSION, FINAL)
+最終 (Furigana),,,,さいしゅう
+最終 (Meaning),,,,LAST (FINAL, THE LAST, THE FINAL)
+終点 (Furigana),,,,しゅうてん
+終点 (Meaning),,,,LAST STOP (FINAL STOP, TERMINUS)
 葉 (Furigana),,,,は
 葉 (Meaning),,,,LEAF (LEAVES)
-軽 (Furigana),,,,かる
-軽 (Meaning),,,,LIGHTWEIGHT (LIGHT, LIGHT WEIGHT)
+軽い (Furigana),,,,かるい
+軽い (Meaning),,,,LIGHTWEIGHT (LIGHT, LIGHT WEIGHT)
 線 (Furigana),,,,せん
 線 (Meaning),,,,LINE
-楽 (Furigana),,,,らく
-楽 (Meaning),,,,LOOKING FORWARD TO (HOPE, EXPECTATION, ANTICIPATION, PLEASURE, ENJOYMENT)
-運 (Furigana),,,,うん
-運 (Meaning),,,,LUCKY
-向 (Furigana),,,,こう
-向 (Meaning),,,,MADE FOR (INTENDED FOR, AIMED AT)
-山 (Furigana),,,,さん
-山 (Meaning),,,,MOUNTAIN ROAD (MOUNTAIN TRAIL, MOUNTAIN PATH)
-近 (Furigana),,,,きん
-近 (Meaning),,,,NEIGHBORHOOD
-新 (Furigana),,,,しん
-新 (Meaning),,,,NEWSPAPER
-番 (Furigana),,,,ばん
-番 (Meaning),,,,NUMBERED TAG (NUMBERED TICKET)
-開 (Furigana),,,,かい
-開 (Meaning),,,,OPENING A BUSINESS (OPENING OF BUSINESS, STARTING A BUSINESS)
-公 (Furigana),,,,こう
-公 (Meaning),,,,OPEN TO THE PUBLIC (RELEASING)
+楽しみ (Furigana),,,,たのしみ
+楽しみ (Meaning),,,,LOOKING FORWARD TO (HOPE, EXPECTATION, ANTICIPATION, PLEASURE, ENJOYMENT)
+運がいい (Furigana),,,,うんがいい
+運がいい (Meaning),,,,LUCKY
+〜向け (Furigana),,,,むけ
+〜向け (Meaning),,,,MADE FOR (INTENDED FOR, AIMED AT)
+山道 (Furigana),,,,やまみち
+山道 (Meaning),,,,MOUNTAIN ROAD (MOUNTAIN TRAIL, MOUNTAIN PATH)
+近所 (Furigana),,,,きんじょ
+近所 (Meaning),,,,NEIGHBORHOOD
+新聞 (Furigana),,,,しんぶん
+新聞 (Meaning),,,,NEWSPAPER
+番号札 (Furigana),,,,ばんごうふだ
+番号札 (Meaning),,,,NUMBERED TAG (NUMBERED TICKET)
+開業 (Furigana),,,,かいぎょう
+開業 (Meaning),,,,OPENING A BUSINESS (OPENING OF BUSINESS, STARTING A BUSINESS)
+公開 (Furigana),,,,こうかい
+公開 (Meaning),,,,OPEN TO THE PUBLIC (RELEASING)
 頁 (Furigana),,,,ページ
 頁 (Meaning),,,,PAGE
-親 (Furigana),,,,しん
+親 (Furigana),,,,おや
 親 (Meaning),,,,PARENT
-道 (Furigana),,,,どう
-道 (Meaning),,,,PAVED ROAD (ROAD, SEALED ROAD)
-農 (Furigana),,,,のう
-農 (Meaning),,,,PEASANTS (FARMERS)
-当 (Furigana),,,,とう
-当 (Meaning),,,,PHONETIC KANJI
-私 (Furigana),,,,し
-私 (Meaning),,,,PRIVATE COLLEGE (PRIVATE UNIVERSITY, PRIVATE UNI)
-私 (Furigana),,,,し
-私 (Meaning),,,,PRIVATE RAILWAY
-線 (Furigana),,,,せん
-線 (Meaning),,,,RAILROAD TRACK (TRAIN TRACK, RAILWAY TRACK, TRACK, LINE)
-読 (Furigana),,,,よ
-読 (Meaning),,,,READING (PRONUNCIATION, WAY OF READING)
-最 (Furigana),,,,さい
-最 (Meaning),,,,RECENT (LATEST, LATELY, RECENTLY)
-求 (Furigana),,,,きゅう
-求 (Meaning),,,,RECRUITMENT (SEEKING WORKERS, HELP WANTED, JOB OFFER)
-研 (Furigana),,,,けん
-研 (Meaning),,,,RESEARCH INSTITUTE (RESEARCH LABORATORY, RESEARCH ESTABLISHMENT, RESEARCH LAB, RESEARCH FACILITY)
-回 (Furigana),,,,かい
-回 (Meaning),,,,ROTATION (REVOLUTION, REVOLVE, ROTATE)
-酒 (Furigana),,,,しゅ
-酒 (Meaning),,,,SAKE (ALCOHOL)
-近 (Furigana),,,,きん
-近 (Meaning),,,,SHORTCUT (SHORT WAY)
-病 (Furigana),,,,びょう
-病 (Meaning),,,,SICK (ILLNESS, SICKNESS, DISEASE)
-病 (Furigana),,,,びょう
-病 (Meaning),,,,SICK PERSON (PATIENT)
+道路 (Furigana),,,,どうろ
+道路 (Meaning),,,,PAVED ROAD (ROAD, SEALED ROAD)
+農民 (Furigana),,,,のうみん
+農民 (Meaning),,,,PEASANTS (FARMERS)
+当て字 (Furigana),,,,あてじ
+当て字 (Meaning),,,,PHONETIC KANJI
+私大 (Furigana),,,,しだい
+私大 (Meaning),,,,PRIVATE COLLEGE (PRIVATE UNIVERSITY, PRIVATE UNI)
+私鉄 (Furigana),,,,してつ
+私鉄 (Meaning),,,,PRIVATE RAILWAY
+線路 (Furigana),,,,せんろ
+線路 (Meaning),,,,RAILROAD TRACK (TRAIN TRACK, RAILWAY TRACK, TRACK, LINE)
+読み方 (Furigana),,,,よみかた
+読み方 (Meaning),,,,READING (PRONUNCIATION, WAY OF READING)
+最近 (Furigana),,,,さいきん
+最近 (Meaning),,,,RECENT (LATEST, LATELY, RECENTLY)
+求人 (Furigana),,,,きゅうじん
+求人 (Meaning),,,,RECRUITMENT (SEEKING WORKERS, HELP WANTED, JOB OFFER)
+研究所 (Furigana),,,,けんきゅうしょ
+研究所 (Meaning),,,,RESEARCH INSTITUTE (RESEARCH LABORATORY, RESEARCH ESTABLISHMENT, RESEARCH LAB, RESEARCH FACILITY)
+回転 (Furigana),,,,かいてん
+回転 (Meaning),,,,ROTATION (REVOLUTION, REVOLVE, ROTATE)
+お酒 (Furigana),,,,おさけ
+お酒 (Meaning),,,,SAKE (ALCOHOL)
+近道 (Furigana),,,,ちかみち
+近道 (Meaning),,,,SHORTCUT (SHORT WAY)
+病気 (Furigana),,,,びょうき
+病気 (Meaning),,,,SICK (ILLNESS, SICKNESS, DISEASE)
+病人 (Furigana),,,,びょうにん
+病人 (Meaning),,,,SICK PERSON (PATIENT)
 横 (Furigana),,,,よこ
 横 (Meaning),,,,SIDE (BESIDE, NEXT TO, HORIZONTAL)
-歌 (Furigana),,,,か
-歌 (Meaning),,,,SINGER
-歌 (Furigana),,,,か
+歌手 (Furigana),,,,かしゅ
+歌手 (Meaning),,,,SINGER
+歌 (Furigana),,,,うた
 歌 (Meaning),,,,SONG
-語 (Furigana),,,,ご
-語 (Meaning),,,,SPANISH LANGUAGE (SPANISH)
-速 (Furigana),,,,そく
-速 (Meaning),,,,SPEED
-立 (Furigana),,,,りつ
-立 (Meaning),,,,STANDING AND DRINKING (DRINKING WHILE STANDING)
-開 (Furigana),,,,かい
-開 (Meaning),,,,START (BEGINNING, OPENING)
-話 (Furigana),,,,わ
+スペイン語 (Furigana),,,,すぺいんご
+スペイン語 (Meaning),,,,SPANISH LANGUAGE (SPANISH)
+速度 (Furigana),,,,そくど
+速度 (Meaning),,,,SPEED
+立ち飲み (Furigana),,,,たちのみ
+立ち飲み (Meaning),,,,STANDING AND DRINKING (DRINKING WHILE STANDING)
+開始 (Furigana),,,,かいし
+開始 (Meaning),,,,START (BEGINNING, OPENING)
+話 (Furigana),,,,はなし
 話 (Meaning),,,,STORY (TALK, SPEECH, CONVERSATION)
-鉄 (Furigana),,,,てつ
-鉄 (Meaning),,,,STRONG MAN (BADASS, IRON MAN, MACHO MAN, TOUGH GUY)
-主 (Furigana),,,,しゅ
-主 (Meaning),,,,SUBJECT
-引 (Furigana),,,,ひ
-引 (Meaning),,,,SUBTRACTION
-地 (Furigana),,,,ち
-地 (Meaning),,,,SUBWAY (THE UNDERGROUND, THE TUBE, THE METRO)
-最 (Furigana),,,,さい
-最 (Meaning),,,,THE BEST (BEST, SUPREME, THE MOST, MOST)
-最 (Furigana),,,,さい
-最 (Meaning),,,,THE MOST (MOST, EXTREMELY)
-今 (Furigana),,,,こん
-今 (Meaning),,,,THIS MORNING
-進 (Furigana),,,,しん
-進 (Meaning),,,,TO ADVANCE (TO GO FORWARD, TO PROGRESS)
-決 (Furigana),,,,けつ
-決 (Meaning),,,,TO BE DECIDED (TO BE SETTLED)
-始 (Furigana),,,,し
-始 (Meaning),,,,TO BEGIN SOMETHING (TO START SOMETHING, TO BEGIN , TO START)
-助 (Furigana),,,,じょ
-助 (Meaning),,,,TO BE HELPED (TO BE SAVED, TO BE RESCUED)
-病 (Furigana),,,,びょう
-病 (Meaning),,,,TO BE SICK (TO FALL ILL, TO BE ILL, TO COME DOWN WITH, TO SUFFER FROM)
-売 (Furigana),,,,ばい
-売 (Meaning),,,,TO BE SOLD (TO SELL)
-化 (Furigana),,,,か
-化 (Meaning),,,,TO BEWITCH (TO ENCHANT)
-算 (Furigana),,,,さん
-算 (Meaning),,,,TO CALCULATE
-運 (Furigana),,,,うん
-運 (Meaning),,,,TO CARRY (TO TRANSPORT, TO MOVE)
-集 (Furigana),,,,しゅう
-集 (Meaning),,,,TO COLLECT SOMETHING (TO GATHER SOMETHING)
-配 (Furigana),,,,はい
-配 (Meaning),,,,TO DISTRIBUTE (TO PASS OUT, TO DELIVER)
-飲 (Furigana),,,,の
-飲 (Meaning),,,,TO DRINK
-運 (Furigana),,,,うん
-運 (Meaning),,,,TO DRIVE
-終 (Furigana),,,,しゅう
-終 (Meaning),,,,TO END (TO BE OVER)
-楽 (Furigana),,,,らく
-楽 (Meaning),,,,TO ENJOY (TO ENJOY ONESELF, TO HAVE FUN)
-落 (Furigana),,,,らく
-落 (Meaning),,,,TO FALL DOWN (TO FALL, TO DROP, TO FAIL)
-乗 (Furigana),,,,の
-乗 (Meaning),,,,TO GIVE SOMEONE A RIDE (TO PLACE SOMETHING ON, TO LOAD SOMETHING)
-聞 (Furigana),,,,ぶん
-聞 (Meaning),,,,TO HEAR (TO ASK, TO LISTEN)
-調 (Furigana),,,,ちょう
-調 (Meaning),,,,TO INVESTIGATE (TO EXAMINE, TO RESEARCH, TO LOOK INTO)
-習 (Furigana),,,,しゅう
-習 (Meaning),,,,TO LEARN (TO TAKE LESSONS IN)
-鳴 (Furigana),,,,な
-鳴 (Meaning),,,,TO MAKE AN ANIMAL SOUND (TO BARK, TO CHIRP)
-出 (Furigana),,,,しゅつ
-出 (Meaning),,,,TO MEET BY CHANCE (TO MEET UNEXPECTEDLY, TO COME ACROSS, TO ENCOUNTER, TO RUN INTO)
-口 (Furigana),,,,こう
-口 (Meaning),,,,TONE (TONE OF VOICE, VERBAL EXPRESSION)
-開 (Furigana),,,,かい
-開 (Meaning),,,,TO OPEN SOMETHING
-読 (Furigana),,,,よ
-読 (Meaning),,,,TO READ
-転 (Furigana),,,,てん
-転 (Meaning),,,,TO ROLL (TO TUMBLE, TO LIE DOWN, TO BE SCATTERED ABOUT)
-語 (Furigana),,,,ご
-語 (Meaning),,,,TO TALK (TO TELL, TO RECITE)
-投 (Furigana),,,,とう
-投 (Meaning),,,,TO THROW AGAINST (TO THROW AT)
-起 (Furigana),,,,お
-起 (Meaning),,,,TO WAKE UP (TO GET UP, TO OCCUR)
-求 (Furigana),,,,きゅう
-求 (Meaning),,,,TO WANT SOMETHING (TO REQUEST SOMETHING, TO DEMAND SOMETHING)
-役 (Furigana),,,,やく
-役 (Meaning),,,,TOWN HALL (TOWN OFFICE, PUBLIC OFFICE)
-転 (Furigana),,,,てん
-転 (Meaning),,,,TRANSFER (FORWARDING, TRANSMISSION)
-思 (Furigana),,,,おも
-思 (Meaning),,,,UNINTENTIONALLY (REFLEXIVELY, SPONTANEOUSLY, INVOLUNTARILY)
-作 (Furigana),,,,さく
-作 (Meaning),,,,WORK (OPERATION, MANUFACTURING)
+鉄人 (Furigana),,,,てつじん
+鉄人 (Meaning),,,,STRONG MAN (BADASS, IRON MAN, MACHO MAN, TOUGH GUY)
+主語 (Furigana),,,,しゅご
+主語 (Meaning),,,,SUBJECT
+引き算 (Furigana),,,,ひきざん
+引き算 (Meaning),,,,SUBTRACTION
+地下鉄 (Furigana),,,,ちかてつ
+地下鉄 (Meaning),,,,SUBWAY (THE UNDERGROUND, THE TUBE, THE METRO)
+最高 (Furigana),,,,さいこう
+最高 (Meaning),,,,THE BEST (BEST, SUPREME, THE MOST, MOST)
+最も (Furigana),,,,もっとも
+最も (Meaning),,,,THE MOST (MOST, EXTREMELY)
+今朝 (Furigana),,,,けさ
+今朝 (Meaning),,,,THIS MORNING
+進む (Furigana),,,,すすむ
+進む (Meaning),,,,TO ADVANCE (TO GO FORWARD, TO PROGRESS)
+決まる (Furigana),,,,きまる
+決まる (Meaning),,,,TO BE DECIDED (TO BE SETTLED)
+始める (Furigana),,,,はじめる
+始める (Meaning),,,,TO BEGIN SOMETHING (TO START SOMETHING, TO BEGIN , TO START)
+助かる (Furigana),,,,たすかる
+助かる (Meaning),,,,TO BE HELPED (TO BE SAVED, TO BE RESCUED)
+病む (Furigana),,,,やむ
+病む (Meaning),,,,TO BE SICK (TO FALL ILL, TO BE ILL, TO COME DOWN WITH, TO SUFFER FROM)
+売れる (Furigana),,,,うれる
+売れる (Meaning),,,,TO BE SOLD (TO SELL)
+化かす (Furigana),,,,ばかす
+化かす (Meaning),,,,TO BEWITCH (TO ENCHANT)
+算定する (Furigana),,,,さんていする
+算定する (Meaning),,,,TO CALCULATE
+運ぶ (Furigana),,,,はこぶ
+運ぶ (Meaning),,,,TO CARRY (TO TRANSPORT, TO MOVE)
+集める (Furigana),,,,あつめる
+集める (Meaning),,,,TO COLLECT SOMETHING (TO GATHER SOMETHING)
+配る (Furigana),,,,くばる
+配る (Meaning),,,,TO DISTRIBUTE (TO PASS OUT, TO DELIVER)
+飲む (Furigana),,,,のむ
+飲む (Meaning),,,,TO DRINK
+運転する (Furigana),,,,うんてんする
+運転する (Meaning),,,,TO DRIVE
+終わる (Furigana),,,,おわる
+終わる (Meaning),,,,TO END (TO BE OVER)
+楽しむ (Furigana),,,,たのしむ
+楽しむ (Meaning),,,,TO ENJOY (TO ENJOY ONESELF, TO HAVE FUN)
+落ちる (Furigana),,,,おちる
+落ちる (Meaning),,,,TO FALL DOWN (TO FALL, TO DROP, TO FAIL)
+乗せる (Furigana),,,,のせる
+乗せる (Meaning),,,,TO GIVE SOMEONE A RIDE (TO PLACE SOMETHING ON, TO LOAD SOMETHING)
+聞く (Furigana),,,,きく
+聞く (Meaning),,,,TO HEAR (TO ASK, TO LISTEN)
+調べる (Furigana),,,,しらべる
+調べる (Meaning),,,,TO INVESTIGATE (TO EXAMINE, TO RESEARCH, TO LOOK INTO)
+習う (Furigana),,,,ならう
+習う (Meaning),,,,TO LEARN (TO TAKE LESSONS IN)
+鳴く (Furigana),,,,なく
+鳴く (Meaning),,,,TO MAKE AN ANIMAL SOUND (TO BARK, TO CHIRP)
+出会う (Furigana),,,,であう
+出会う (Meaning),,,,TO MEET BY CHANCE (TO MEET UNEXPECTEDLY, TO COME ACROSS, TO ENCOUNTER, TO RUN INTO)
+口調 (Furigana),,,,くちょう
+口調 (Meaning),,,,TONE (TONE OF VOICE, VERBAL EXPRESSION)
+開ける (Furigana),,,,あける
+開ける (Meaning),,,,TO OPEN SOMETHING
+読む (Furigana),,,,よむ
+読む (Meaning),,,,TO READ
+転がる (Furigana),,,,ころがる
+転がる (Meaning),,,,TO ROLL (TO TUMBLE, TO LIE DOWN, TO BE SCATTERED ABOUT)
+語る (Furigana),,,,かたる
+語る (Meaning),,,,TO TALK (TO TELL, TO RECITE)
+投げ付ける (Furigana),,,,なげつける
+投げ付ける (Meaning),,,,TO THROW AGAINST (TO THROW AT)
+起きる (Furigana),,,,おきる
+起きる (Meaning),,,,TO WAKE UP (TO GET UP, TO OCCUR)
+求める (Furigana),,,,もとめる
+求める (Meaning),,,,TO WANT SOMETHING (TO REQUEST SOMETHING, TO DEMAND SOMETHING)
+役場 (Furigana),,,,やくば
+役場 (Meaning),,,,TOWN HALL (TOWN OFFICE, PUBLIC OFFICE)
+転送 (Furigana),,,,てんそう
+転送 (Meaning),,,,TRANSFER (FORWARDING, TRANSMISSION)
+思わず (Furigana),,,,おもわず
+思わず (Meaning),,,,UNINTENTIONALLY (REFLEXIVELY, SPONTANEOUSLY, INVOLUNTARILY)
+作業 (Furigana),,,,さぎょう
+作業 (Meaning),,,,WORK (OPERATION, MANUFACTURING)

@@ -74,279 +74,279 @@
 洋 (Meaning),,,,Western Style
 働 (Onyomi),,,,どう
 働 (Meaning),,,,Work
-上 (Furigana),,,,じょう
-上 (Meaning),,,,ADVANCED LEVEL (HIGH GRADE, ADVANCED GRADE, HIGH LEVEL)
-味 (Furigana),,,,み
-味 (Meaning),,,,ALLY (SUPPORTER, FRIEND)
-売 (Furigana),,,,ばい
-売 (Meaning),,,,AMOUNT SOLD (SALES, PROCEEDS)
-不 (Furigana),,,,ふ
-不 (Meaning),,,,BAD (SUBSTANDARD, DELINQUENT)
-初 (Furigana),,,,しょ
-初 (Meaning),,,,BASICS (RUDIMENTS, ELEMENTS, ABCS)
-戦 (Furigana),,,,せん
-戦 (Meaning),,,,BATTLE (FIGHT, CONFLICT)
-戦 (Furigana),,,,せん
-戦 (Meaning),,,,BATTLEFIELD (BATTLEGROUND)
-予 (Furigana),,,,よ
-予 (Meaning),,,,BEFOREHAND (IN ADVANCE, PREVIOUSLY, AHEAD OF TIME)
-初 (Furigana),,,,しょ
-初 (Meaning),,,,BEGINNER LEVEL (ELEMENTARY LEVEL, BEGINNING LEVEL)
-伝 (Furigana),,,,でん
-伝 (Meaning),,,,BIOGRAPHY (LIFE STORY)
-生 (Furigana),,,,せい
-生 (Meaning),,,,BIOLOGY
-乗 (Furigana),,,,の
-乗 (Meaning),,,,BUS STOP (TAXI STAND, TRAIN PLATFORM, BOARDING AREA)
-注 (Furigana),,,,ちゅう
-注 (Meaning),,,,CAUTION (ATTENTION, WARNING)
-洋 (Furigana),,,,よう
-洋 (Meaning),,,,CLOTHES (WESTERN CLOTHING, WESTERN STYLE CLOTHES)
-共 (Furigana),,,,きょう
-共 (Meaning),,,,COMMON POINT (COMMON FEATURE, COMMONALITY)
-仲 (Furigana),,,,なか
-仲 (Meaning),,,,COMPANION (COMRADE, ASSOCIATE)
-競 (Furigana),,,,きょう
-競 (Meaning),,,,COMPETITION
-便 (Furigana),,,,べん
-便 (Meaning),,,,CONVENIENT (HANDY, USEFUL)
-共 (Furigana),,,,きょう
-共 (Meaning),,,,COOPERATION (COLLABORATION, JOINT)
+上級 (Furigana),,,,じょうきゅう
+上級 (Meaning),,,,ADVANCED LEVEL (HIGH GRADE, ADVANCED GRADE, HIGH LEVEL)
+味方 (Furigana),,,,みかた
+味方 (Meaning),,,,ALLY (SUPPORTER, FRIEND)
+売り上げ (Furigana),,,,うりあげ
+売り上げ (Meaning),,,,AMOUNT SOLD (SALES, PROCEEDS)
+不良 (Furigana),,,,ふりょう
+不良 (Meaning),,,,BAD (SUBSTANDARD, DELINQUENT)
+初歩 (Furigana),,,,しょほ
+初歩 (Meaning),,,,BASICS (RUDIMENTS, ELEMENTS, ABCS)
+戦い (Furigana),,,,たたかい
+戦い (Meaning),,,,BATTLE (FIGHT, CONFLICT)
+戦場 (Furigana),,,,せんじょう
+戦場 (Meaning),,,,BATTLEFIELD (BATTLEGROUND)
+予め (Furigana),,,,あらかじめ
+予め (Meaning),,,,BEFOREHAND (IN ADVANCE, PREVIOUSLY, AHEAD OF TIME)
+初級 (Furigana),,,,しょきゅう
+初級 (Meaning),,,,BEGINNER LEVEL (ELEMENTARY LEVEL, BEGINNING LEVEL)
+伝記 (Furigana),,,,でんき
+伝記 (Meaning),,,,BIOGRAPHY (LIFE STORY)
+生物学 (Furigana),,,,せいぶつがく
+生物学 (Meaning),,,,BIOLOGY
+乗り場 (Furigana),,,,のりば
+乗り場 (Meaning),,,,BUS STOP (TAXI STAND, TRAIN PLATFORM, BOARDING AREA)
+注意 (Furigana),,,,ちゅうい
+注意 (Meaning),,,,CAUTION (ATTENTION, WARNING)
+洋服 (Furigana),,,,ようふく
+洋服 (Meaning),,,,CLOTHES (WESTERN CLOTHING, WESTERN STYLE CLOTHES)
+共通点 (Furigana),,,,きょうつうてん
+共通点 (Meaning),,,,COMMON POINT (COMMON FEATURE, COMMONALITY)
+仲間 (Furigana),,,,なかま
+仲間 (Meaning),,,,COMPANION (COMRADE, ASSOCIATE)
+競争 (Furigana),,,,きょうそう
+競争 (Meaning),,,,COMPETITION
+便利 (Furigana),,,,べんり
+便利 (Meaning),,,,CONVENIENT (HANDY, USEFUL)
+共同 (Furigana),,,,きょうどう
+共同 (Meaning),,,,COOPERATION (COLLABORATION, JOINT)
 別 (Furigana),,,,べつ
 別 (Meaning),,,,DIFFERENT (SEPARATE)
-別 (Furigana),,,,べつ
-別 (Meaning),,,,DIFFERENT PERSON (CHANGED PERSON, CHANGED MAN)
-教 (Furigana),,,,きょう
-教 (Meaning),,,,EDUCATION
-入 (Furigana),,,,にゅう
-入 (Meaning),,,,ENTRANCE EXAM (ENTRANCE EXAMINATION, ADMISSION TEST, ADMISSION EXAM, ADMISSION EXAMINATION, ENTRANCE TEST)
-特 (Furigana),,,,とく
-特 (Meaning),,,,ESPECIALLY (PARTICULARLY)
-運 (Furigana),,,,うん
-運 (Meaning),,,,FATE (DESTINY)
-気 (Furigana),,,,き
-気 (Meaning),,,,FEELING
-心 (Furigana),,,,しん
-心 (Meaning),,,,FEELING (MOOD, SOMEWHAT, SLIGHTLY)
-指 (Furigana),,,,し
+別人 (Furigana),,,,べつじん
+別人 (Meaning),,,,DIFFERENT PERSON (CHANGED PERSON, CHANGED MAN)
+教育 (Furigana),,,,きょういく
+教育 (Meaning),,,,EDUCATION
+入学試験 (Furigana),,,,にゅうがくしけん
+入学試験 (Meaning),,,,ENTRANCE EXAM (ENTRANCE EXAMINATION, ADMISSION TEST, ADMISSION EXAM, ADMISSION EXAMINATION, ENTRANCE TEST)
+特に (Furigana),,,,とくに
+特に (Meaning),,,,ESPECIALLY (PARTICULARLY)
+運命 (Furigana),,,,うんめい
+運命 (Meaning),,,,FATE (DESTINY)
+心持ち (Furigana),,,,こころもち
+心持ち (Meaning),,,,FEELING (MOOD, SOMEWHAT, SLIGHTLY)
+気持ち (Furigana),,,,きもち
+気持ち (Meaning),,,,FEELING
+指 (Furigana),,,,ゆび
 指 (Meaning),,,,FINGER (TOE)
-首 (Furigana),,,,くび
-首 (Meaning),,,,FIRST PLACE (HEAD POSITION, LEADING POSITION, FIRST POSITION)
-一 (Furigana),,,,いち
-一 (Meaning),,,,FIRST PLACE (FIRST RANK)
-昔 (Furigana),,,,むかし
-昔 (Meaning),,,,FOLK TALE (LEGEND, OLD STORY, FOLKLORE)
-食 (Furigana),,,,しょく
-食 (Meaning),,,,FOOD
-友 (Furigana),,,,ゆう
-友 (Meaning),,,,FRIENDSHIP
-仕 (Furigana),,,,し
-仕 (Meaning),,,,GETTING EVEN (GETTING BACK AT, RETALIATION, REVENGE)
-神 (Furigana),,,,しん
+首位 (Furigana),,,,しゅい
+首位 (Meaning),,,,FIRST PLACE (HEAD POSITION, LEADING POSITION, FIRST POSITION)
+一位 (Furigana),,,,いちい
+一位 (Meaning),,,,FIRST PLACE (FIRST RANK)
+昔話 (Furigana),,,,むかしばなし
+昔話 (Meaning),,,,FOLK TALE (LEGEND, OLD STORY, FOLKLORE)
+食べ物 (Furigana),,,,たべもの
+食べ物 (Meaning),,,,FOOD
+友好 (Furigana),,,,ゆうこう
+友好 (Meaning),,,,FRIENDSHIP
+仕返し (Furigana),,,,しかえし
+仕返し (Meaning),,,,GETTING EVEN (GETTING BACK AT, RETALIATION, REVENGE)
+神 (Furigana),,,,かみ
 神 (Meaning),,,,GOD (GODS)
-良 (Furigana),,,,りょう
-良 (Meaning),,,,GOOD
-気 (Furigana),,,,き
-気 (Meaning),,,,GOOD FEELING (FEELING GOOD, FEELS GOOD)
-努 (Furigana),,,,ど
-努 (Meaning),,,,GREAT EFFORT (EXERTION, GRUELING EFFORT)
-苦 (Furigana),,,,く
-苦 (Meaning),,,,HARDSHIP (TROUBLES)
-苦 (Furigana),,,,く
-苦 (Meaning),,,,HARD TO DEAL WITH (WEAK POINT, POOR AT, NOT VERY GOOD AT, BAD AT)
-高 (Furigana),,,,こう
-高 (Meaning),,,,HIGH CLASS (HIGH GRADE, HIGH LEVEL)
-平 (Furigana),,,,へい
-平 (Meaning),,,,HIRAGANA
-使 (Furigana),,,,し
-使 (Meaning),,,,HOW TO USE (WAY OF USING)
-付 (Furigana),,,,つ
-付 (Meaning),,,,INCLUDING (INCLUDED, FURNISHED WITH, ATTACHED TO)
-不 (Furigana),,,,ふ
-不 (Meaning),,,,INCONVENIENT (NOT CONVENIENT)
-中 (Furigana),,,,ちゅう
-中 (Meaning),,,,INTERMEDIATE LEVEL (INTERMEDIATE RANK, INTERMEDIATE GRADE)
-始 (Furigana),,,,し
-始 (Meaning),,,,IN THE BEGINNING (TO BEGIN WITH, TO START WITH)
-仕 (Furigana),,,,し
-仕 (Meaning),,,,JOB (WORK, OCCUPATION)
-丁 (Furigana),,,,ちょう
-丁 (Meaning),,,,JUST RIGHT (EXACTLY RIGHT)
-労 (Furigana),,,,ろう
-労 (Meaning),,,,LABORER (BLUE COLLAR WORKER, MANUAL LABORER)
-命 (Furigana),,,,めい
+良い (Furigana),,,,よい
+良い (Meaning),,,,GOOD
+気持ちいい (Furigana),,,,きもちいい
+気持ちいい (Meaning),,,,GOOD FEELING (FEELING GOOD, FEELS GOOD)
+努力 (Furigana),,,,どりょく
+努力 (Meaning),,,,GREAT EFFORT (EXERTION, GRUELING EFFORT)
+苦労 (Furigana),,,,くろう
+苦労 (Meaning),,,,HARDSHIP (TROUBLES)
+苦手 (Furigana),,,,にがて
+苦手 (Meaning),,,,HARD TO DEAL WITH (WEAK POINT, POOR AT, NOT VERY GOOD AT, BAD AT)
+高級 (Furigana),,,,こうきゅう
+高級 (Meaning),,,,HIGH CLASS (HIGH GRADE, HIGH LEVEL)
+平仮名 (Furigana),,,,ひらがな
+平仮名 (Meaning),,,,HIRAGANA
+使い方 (Furigana),,,,つかいかた
+使い方 (Meaning),,,,HOW TO USE (WAY OF USING)
+〜付き (Furigana),,,,つき
+〜付き (Meaning),,,,INCLUDING (INCLUDED, FURNISHED WITH, ATTACHED TO)
+不便 (Furigana),,,,ふべん
+不便 (Meaning),,,,INCONVENIENT (NOT CONVENIENT)
+中級 (Furigana),,,,ちゅうきゅう
+中級 (Meaning),,,,INTERMEDIATE LEVEL (INTERMEDIATE RANK, INTERMEDIATE GRADE)
+始めに (Furigana),,,,はじめに
+始めに (Meaning),,,,IN THE BEGINNING (TO BEGIN WITH, TO START WITH)
+仕事 (Furigana),,,,しごと
+仕事 (Meaning),,,,JOB (WORK, OCCUPATION)
+丁度いい (Furigana),,,,ちょうどいい
+丁度いい (Meaning),,,,JUST RIGHT (EXACTLY RIGHT)
+労働者 (Furigana),,,,ろうどうしゃ
+労働者 (Meaning),,,,LABORER (BLUE COLLAR WORKER, MANUAL LABORER)
+命 (Furigana),,,,いのち
 命 (Meaning),,,,LIFE
-好 (Furigana),,,,こう
-好 (Meaning),,,,LIKE (LOVE, LIKABLE, LOVABLE)
-文 (Furigana),,,,ぶん
-文 (Meaning),,,,LITERAL (LITERALLY, TO THE LETTER)
+好き (Furigana),,,,すき
+好き (Meaning),,,,LIKE (LOVE, LIKABLE, LOVABLE)
+文字通り (Furigana),,,,もじどおり
+文字通り (Meaning),,,,LITERAL (LITERALLY, TO THE LETTER)
 昔 (Furigana),,,,むかし
 昔 (Meaning),,,,LONG AGO (LONG TIME AGO)
-負 (Furigana),,,,ふ
-負 (Meaning),,,,LOSER
-低 (Furigana),,,,てい
-低 (Meaning),,,,LOW (SHORT)
-労 (Furigana),,,,ろう
-労 (Meaning),,,,MANUAL LABOR (LABOR, WORK)
-意 (Furigana),,,,い
-意 (Meaning),,,,MEANING
-新 (Furigana),,,,しん
-新 (Meaning),,,,NEW (FRESH, NOVEL, NEWLY, FRESHLY)
-別 (Furigana),,,,べつ
-別 (Meaning),,,,NOT PARTICULARLY (NOT REALLY, SEPARATELY, IN ADDITION TO)
-発 (Furigana),,,,はつ
-発 (Meaning),,,,NOW FOR SALE (IN STORES NOW, NOW AVAILABLE)
-老 (Furigana),,,,ろう
-老 (Meaning),,,,OLD PERSON (ELDERLY PERSON)
-意 (Furigana),,,,い
-意 (Meaning),,,,OPINION (VIEW)
-注 (Furigana),,,,ちゅう
-注 (Meaning),,,,ORDER (REQUEST)
-命 (Furigana),,,,めい
-命 (Meaning),,,,ORDER (COMMAND)
-太 (Furigana),,,,たい
-太 (Meaning),,,,PACIFIC OCEAN
-支 (Furigana),,,,し
-支 (Meaning),,,,PREPARATION (ARRANGEMENTS, GETTING READY)
-用 (Furigana),,,,よう
-用 (Meaning),,,,PREPARATION (ARRANGEMENTS, PROVISION, GETTING READY)
-公 (Furigana),,,,こう
-公 (Meaning),,,,PUBLIC (COMMUNITY)
-位 (Furigana),,,,い
-位 (Meaning),,,,RANK
-本 (Furigana),,,,ほん
-本 (Meaning),,,,REAL THING (REAL DEAL, GENUINE ARTICLE)
-電 (Furigana),,,,でん
-電 (Meaning),,,,RECEPTION (RADIO WAVE, ELECTROMAGNETIC WAVE)
-受 (Furigana),,,,じゅ
-受 (Meaning),,,,RECEPTIONIST (RECEPTION)
-仲 (Furigana),,,,なか
-仲 (Meaning),,,,RECONCILIATION (MAKING PEACE, MAKING UP)
+負け犬 (Furigana),,,,まけいぬ
+負け犬 (Meaning),,,,LOSER
+低い (Furigana),,,,ひくい
+低い (Meaning),,,,LOW (SHORT)
+労働 (Furigana),,,,ろうどう
+労働 (Meaning),,,,MANUAL LABOR (LABOR, WORK)
+意味 (Furigana),,,,いみ
+意味 (Meaning),,,,MEANING
+新た (Furigana),,,,あらた
+新た (Meaning),,,,NEW (FRESH, NOVEL, NEWLY, FRESHLY)
+別に (Furigana),,,,べつに
+別に (Meaning),,,,NOT PARTICULARLY (NOT REALLY, SEPARATELY, IN ADDITION TO)
+発売中 (Furigana),,,,はつばいちゅう
+発売中 (Meaning),,,,NOW FOR SALE (IN STORES NOW, NOW AVAILABLE)
+老人 (Furigana),,,,ろうじん
+老人 (Meaning),,,,OLD PERSON (ELDERLY PERSON)
+意見 (Furigana),,,,いけん
+意見 (Meaning),,,,OPINION (VIEW)
+注文 (Furigana),,,,ちゅうもん
+注文 (Meaning),,,,ORDER (REQUEST)
+命令 (Furigana),,,,めいれい
+命令 (Meaning),,,,ORDER (COMMAND)
+太平洋 (Furigana),,,,たいへいよう
+太平洋 (Meaning),,,,PACIFIC OCEAN
+用意 (Furigana),,,,ようい
+用意 (Meaning),,,,PREPARATION (ARRANGEMENTS, PROVISION, GETTING READY)
+支度 (Furigana),,,,したく
+支度 (Meaning),,,,PREPARATION (ARRANGEMENTS, GETTING READY)
+公共 (Furigana),,,,こうきょう
+公共 (Meaning),,,,PUBLIC (COMMUNITY)
+〜位 (Furigana),,,,い
+〜位 (Meaning),,,,RANK
+本物 (Furigana),,,,ほんもの
+本物 (Meaning),,,,REAL THING (REAL DEAL, GENUINE ARTICLE)
+電波 (Furigana),,,,でんぱ
+電波 (Meaning),,,,RECEPTION (RADIO WAVE, ELECTROMAGNETIC WAVE)
+受付 (Furigana),,,,うけつけ
+受付 (Meaning),,,,RECEPTIONIST (RECEPTION)
+仲直り (Furigana),,,,なかなおり
+仲直り (Meaning),,,,RECONCILIATION (MAKING PEACE, MAKING UP)
 仲 (Furigana),,,,なか
 仲 (Meaning),,,,RELATIONSHIP (RELATION)
-金 (Furigana),,,,きん
-金 (Meaning),,,,RICH PERSON (RICH, WEALTHY)
-屋 (Furigana),,,,や
-屋 (Meaning),,,,ROOFTOP (HOUSETOP)
-海 (Furigana),,,,かい
-海 (Meaning),,,,SEASHORE (COAST, SEACOAST)
+金持ち (Furigana),,,,かねもち
+金持ち (Meaning),,,,RICH PERSON (RICH, WEALTHY)
+屋上 (Furigana),,,,おくじょう
+屋上 (Meaning),,,,ROOFTOP (HOUSETOP)
+海岸 (Furigana),,,,かいがん
+海岸 (Meaning),,,,SEASHORE (COAST, SEACOAST)
 秒 (Furigana),,,,びょう
 秒 (Meaning),,,,SECOND
-安 (Furigana),,,,あん
-安 (Meaning),,,,SELL CHEAPLY (DISCOUNT, BARGAIN SALE, SALE)
-売 (Furigana),,,,ばい
-売 (Meaning),,,,SELLER (VENDOR)
-別 (Furigana),,,,べつ
-別 (Meaning),,,,SEPARATE (DIFFERENT, ANOTHER, SEPARATE THING, DIFFERENT THING, ANOTHER THING)
-別 (Furigana),,,,べつ
-別 (Meaning),,,,SEPARATELY (INDIVIDUALLY)
-共 (Furigana),,,,きょう
-共 (Meaning),,,,SHARED (CO OWNERSHIP, JOINT OWNERSHIP, SHARE)
-神 (Furigana),,,,しん
-神 (Meaning),,,,SHINTO (SHINTOU)
-神 (Furigana),,,,しん
-神 (Meaning),,,,SHINTO SHRINE
-買 (Furigana),,,,か
-買 (Meaning),,,,SHOPPING
-見 (Furigana),,,,み
-見 (Meaning),,,,SIGHTSEEING (SIGHTSEER, WATCHING)
-売 (Furigana),,,,ばい
-売 (Meaning),,,,SOLD OUT (OUT OF STOCK)
-時 (Furigana),,,,じ
-時 (Meaning),,,,SOMETIMES (AT TIMES)
-特 (Furigana),,,,とく
-特 (Meaning),,,,SPECIAL
-見 (Furigana),,,,み
-見 (Meaning),,,,SPLENDID (MAGNIFICENT, BEAUTIFUL, ADMIRABLE, PRAISEWORTHY ACT)
-成 (Furigana),,,,せい
-成 (Meaning),,,,SUCCESS
-作 (Furigana),,,,さく
-作 (Meaning),,,,TACTICS (STRATEGY, OPERATION)
-物 (Furigana),,,,ぶつ
-物 (Meaning),,,,TALE (STORY, LEGEND)
-戦 (Furigana),,,,せん
-戦 (Meaning),,,,TANK
-味 (Furigana),,,,み
+安売り (Furigana),,,,やすうり
+安売り (Meaning),,,,SELL CHEAPLY (DISCOUNT, BARGAIN SALE, SALE)
+売り手 (Furigana),,,,うりて
+売り手 (Meaning),,,,SELLER (VENDOR)
+別の (Furigana),,,,べつの
+別の (Meaning),,,,SEPARATE (DIFFERENT, ANOTHER, SEPARATE THING, DIFFERENT THING, ANOTHER THING)
+別々 (Furigana),,,,べつべつ
+別々 (Meaning),,,,SEPARATELY (INDIVIDUALLY)
+共有 (Furigana),,,,きょうゆう
+共有 (Meaning),,,,SHARED (CO OWNERSHIP, JOINT OWNERSHIP, SHARE)
+神道 (Furigana),,,,しんとう
+神道 (Meaning),,,,SHINTO (SHINTOU)
+神社 (Furigana),,,,じんじゃ
+神社 (Meaning),,,,SHINTO SHRINE
+買い物 (Furigana),,,,かいもの
+買い物 (Meaning),,,,SHOPPING
+見物 (Furigana),,,,けんぶつ
+見物 (Meaning),,,,SIGHTSEEING (SIGHTSEER, WATCHING)
+売り切れ (Furigana),,,,うりきれ
+売り切れ (Meaning),,,,SOLD OUT (OUT OF STOCK)
+時々 (Furigana),,,,ときどき
+時々 (Meaning),,,,SOMETIMES (AT TIMES)
+特別 (Furigana),,,,とくべつ
+特別 (Meaning),,,,SPECIAL
+見事 (Furigana),,,,みごと
+見事 (Meaning),,,,SPLENDID (MAGNIFICENT, BEAUTIFUL, ADMIRABLE, PRAISEWORTHY ACT)
+成功 (Furigana),,,,せいこう
+成功 (Meaning),,,,SUCCESS
+作戦 (Furigana),,,,さくせん
+作戦 (Meaning),,,,TACTICS (STRATEGY, OPERATION)
+物語 (Furigana),,,,ものがたり
+物語 (Meaning),,,,TALE (STORY, LEGEND)
+戦車 (Furigana),,,,せんしゃ
+戦車 (Meaning),,,,TANK
+味 (Furigana),,,,あじ
 味 (Meaning),,,,TASTE (FLAVOR)
-最 (Furigana),,,,さい
-最 (Meaning),,,,THE FIRST (FIRST, BEGINNING, OUTSET)
-初 (Furigana),,,,しょ
-初 (Meaning),,,,THE FIRST TIME (FIRST TIME)
-最 (Furigana),,,,さい
-最 (Meaning),,,,THE LOWEST (THE WORST, THE MINIMUM, NASTY, TERRIBLE)
-西 (Furigana),,,,せい
-西 (Meaning),,,,THE WEST (WESTERN COUNTRIES, WESTERN)
-進 (Furigana),,,,しん
-進 (Meaning),,,,TO ADVANCE SOMETHING (TO MOVE SOMETHING FORWARD)
-指 (Furigana),,,,し
-指 (Meaning),,,,TO APPOINT (TO ASSIGN, TO DESIGNATE, TO SPECIFY)
-成 (Furigana),,,,せい
-成 (Meaning),,,,TO BECOME
-育 (Furigana),,,,いく
-育 (Meaning),,,,TO BE RAISED (TO BE BROUGHT UP, TO GROW UP)
-返 (Furigana),,,,へん
-返 (Meaning),,,,TO BE RETURNED (TO RETURN, TO COME BACK)
-放 (Furigana),,,,ほう
-放 (Meaning),,,,TO BROADCAST SOMETHING
-追 (Furigana),,,,お
-追 (Meaning),,,,TO FOLLOW (TO CHASE)
-通 (Furigana),,,,つう
-通 (Meaning),,,,TO COMMUTE (TO ATTEND, TO GO BACK AND FORTH)
-争 (Furigana),,,,そう
-争 (Meaning),,,,TO COMPETE (TO ARGUE, TO QUARREL)
-競 (Furigana),,,,きょう
-競 (Meaning),,,,TO COMPETE
-集 (Furigana),,,,しゅう
-集 (Meaning),,,,TO CONCENTRATE (TO FOCUS)
-決 (Furigana),,,,けつ
-決 (Meaning),,,,TO DECIDE (TO DETERMINE)
-便 (Furigana),,,,べん
-便 (Meaning),,,,TOILET (RESTROOM, BATHROOM)
-欠 (Furigana),,,,けつ
-欠 (Meaning),,,,TO LACK SOMETHING
-保 (Furigana),,,,ほ
-保 (Meaning),,,,TO MAINTAIN (TO PRESERVE, TO RETAIN)
-欠 (Furigana),,,,けつ
-欠 (Meaning),,,,TO MISS AN EVENT (TO FAIL TO DO, TO FAIL TO HAVE)
-開 (Furigana),,,,かい
-開 (Meaning),,,,TO OPEN SOMETHING UP (TO THROW SOMETHING OPEN, TO OPEN SOMETHING TO THE PUBLIC)
-拾 (Furigana),,,,ひろ
-拾 (Meaning),,,,TO PICK SOMETHING UP (TO FIND SOMETHING, TO GATHER SOMETHING)
-指 (Furigana),,,,し
-指 (Meaning),,,,TO POINT (TO POINT AT, TO INDICATE, TO REFER TO)
-注 (Furigana),,,,ちゅう
-注 (Meaning),,,,TO POUR
-気 (Furigana),,,,き
-気 (Meaning),,,,TO REALIZE (TO NOTICE)
-放 (Furigana),,,,ほう
-放 (Meaning),,,,TO RELEASE (TO LET GO, TO RELEASE SOMETHING, TO LET GO OF SOMETHING)
-転 (Furigana),,,,てん
-転 (Meaning),,,,TO ROLL SOMETHING (TO TURN SOMETHING OVER)
-見 (Furigana),,,,み
-見 (Meaning),,,,TO SEE OFF (TO PUT OFF, TO PASS ON)
-苦 (Furigana),,,,く
-苦 (Meaning),,,,TO SUFFER (TO STRUGGLE)
-伝 (Furigana),,,,でん
-伝 (Meaning),,,,TO TRANSMIT (TO TELL, TO PASS DOWN, TO CONVEY)
-試 (Furigana),,,,し
-試 (Meaning),,,,TO TRY SOMETHING OUT (TO GIVE SOMETHING A TRY)
-働 (Furigana),,,,どう
-働 (Meaning),,,,TO WORK (TO LABOR, TO COMMIT)
-利 (Furigana),,,,り
-利 (Meaning),,,,TO WORK WELL (TO BE POSSIBLE, TO BE EFFECTIVE)
-意 (Furigana),,,,い
-意 (Meaning),,,,UNEXPECTED (SURPRISING)
-乗 (Furigana),,,,の
-乗 (Meaning),,,,VEHICLE
-勝 (Furigana),,,,しょう
-勝 (Meaning),,,,VICTORY (WIN, A VICTORY, A WIN)
-戦 (Furigana),,,,せん
-戦 (Meaning),,,,WAR
-波 (Furigana),,,,は
+最初 (Furigana),,,,さいしょ
+最初 (Meaning),,,,THE FIRST (FIRST, BEGINNING, OUTSET)
+初回 (Furigana),,,,しょかい
+初回 (Meaning),,,,THE FIRST TIME (FIRST TIME)
+最低 (Furigana),,,,さいてい
+最低 (Meaning),,,,THE LOWEST (THE WORST, THE MINIMUM, NASTY, TERRIBLE)
+西洋 (Furigana),,,,せいよう
+西洋 (Meaning),,,,THE WEST (WESTERN COUNTRIES, WESTERN)
+進める (Furigana),,,,すすめる
+進める (Meaning),,,,TO ADVANCE SOMETHING (TO MOVE SOMETHING FORWARD)
+指定する (Furigana),,,,していする
+指定する (Meaning),,,,TO APPOINT (TO ASSIGN, TO DESIGNATE, TO SPECIFY)
+成る (Furigana),,,,なる
+成る (Meaning),,,,TO BECOME
+育つ (Furigana),,,,そだつ
+育つ (Meaning),,,,TO BE RAISED (TO BE BROUGHT UP, TO GROW UP)
+返る (Furigana),,,,かえる
+返る (Meaning),,,,TO BE RETURNED (TO RETURN, TO COME BACK)
+放送する (Furigana),,,,ほうそうする
+放送する (Meaning),,,,TO BROADCAST SOMETHING
+追う (Furigana),,,,おう
+追う (Meaning),,,,TO FOLLOW (TO CHASE)
+通う (Furigana),,,,かよう
+通う (Meaning),,,,TO COMMUTE (TO ATTEND, TO GO BACK AND FORTH)
+競う (Furigana),,,,きそう
+競う (Meaning),,,,TO COMPETE
+争う (Furigana),,,,あらそう
+争う (Meaning),,,,TO COMPETE (TO ARGUE, TO QUARREL)
+集中する (Furigana),,,,しゅうちゅうする
+集中する (Meaning),,,,TO CONCENTRATE (TO FOCUS)
+決定する (Furigana),,,,けっていする
+決定する (Meaning),,,,TO DECIDE (TO DETERMINE)
+便所 (Furigana),,,,べんじょ
+便所 (Meaning),,,,TOILET (RESTROOM, BATHROOM)
+欠く (Furigana),,,,かく
+欠く (Meaning),,,,TO LACK SOMETHING
+保持する (Furigana),,,,ほじする
+保持する (Meaning),,,,TO MAINTAIN (TO PRESERVE, TO RETAIN)
+欠かす (Furigana),,,,かかす
+欠かす (Meaning),,,,TO MISS AN EVENT (TO FAIL TO DO, TO FAIL TO HAVE)
+開放する (Furigana),,,,かいほうする
+開放する (Meaning),,,,TO OPEN SOMETHING UP (TO THROW SOMETHING OPEN, TO OPEN SOMETHING TO THE PUBLIC)
+拾う (Furigana),,,,ひろう
+拾う (Meaning),,,,TO PICK SOMETHING UP (TO FIND SOMETHING, TO GATHER SOMETHING)
+指す (Furigana),,,,さす
+指す (Meaning),,,,TO POINT (TO POINT AT, TO INDICATE, TO REFER TO)
+注ぐ (Furigana),,,,そそぐ
+注ぐ (Meaning),,,,TO POUR
+気付く (Furigana),,,,きづく
+気付く (Meaning),,,,TO REALIZE (TO NOTICE)
+放す (Furigana),,,,はなす
+放す (Meaning),,,,TO RELEASE (TO LET GO, TO RELEASE SOMETHING, TO LET GO OF SOMETHING)
+転がす (Furigana),,,,ころがす
+転がす (Meaning),,,,TO ROLL SOMETHING (TO TURN SOMETHING OVER)
+見送る (Furigana),,,,みおくる
+見送る (Meaning),,,,TO SEE OFF (TO PUT OFF, TO PASS ON)
+苦しむ (Furigana),,,,くるしむ
+苦しむ (Meaning),,,,TO SUFFER (TO STRUGGLE)
+伝える (Furigana),,,,つたえる
+伝える (Meaning),,,,TO TRANSMIT (TO TELL, TO PASS DOWN, TO CONVEY)
+試す (Furigana),,,,ためす
+試す (Meaning),,,,TO TRY SOMETHING OUT (TO GIVE SOMETHING A TRY)
+働く (Furigana),,,,はたらく
+働く (Meaning),,,,TO WORK (TO LABOR, TO COMMIT)
+利く (Furigana),,,,きく
+利く (Meaning),,,,TO WORK WELL (TO BE POSSIBLE, TO BE EFFECTIVE)
+意外 (Furigana),,,,いがい
+意外 (Meaning),,,,UNEXPECTED (SURPRISING)
+乗り物 (Furigana),,,,のりもの
+乗り物 (Meaning),,,,VEHICLE
+勝ち (Furigana),,,,かち
+勝ち (Meaning),,,,VICTORY (WIN, A VICTORY, A WIN)
+戦争 (Furigana),,,,せんそう
+戦争 (Meaning),,,,WAR
+波 (Furigana),,,,なみ
 波 (Meaning),,,,WAVE
-洋 (Furigana),,,,よう
-洋 (Meaning),,,,WESTERN FOOD (WESTERN STYLE FOOD)
-洋 (Furigana),,,,よう
-洋 (Meaning),,,,WESTERN STYLE
-洋 (Furigana),,,,よう
-洋 (Meaning),,,,WESTERN STYLE ROOM
+洋食 (Furigana),,,,ようしょく
+洋食 (Meaning),,,,WESTERN FOOD (WESTERN STYLE FOOD)
+洋風 (Furigana),,,,ようふう
+洋風 (Meaning),,,,WESTERN STYLE
+洋室 (Furigana),,,,ようしつ
+洋室 (Meaning),,,,WESTERN STYLE ROOM

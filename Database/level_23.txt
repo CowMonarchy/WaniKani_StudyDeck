@@ -62,217 +62,223 @@
 幹 (Meaning),,,,Tree Trunk
 看 (Onyomi),,,,かん
 看 (Meaning),,,,Watch Over
-吸 (Furigana),,,,きゅう
-吸 (Meaning),,,,ABSORPTION
-演 (Furigana),,,,えん
-演 (Meaning),,,,ACTING (PERFORMANCE)
-俳 (Furigana),,,,はい
-俳 (Meaning),,,,ACTOR
-男 (Furigana),,,,だん
-男 (Meaning),,,,ACTOR (MALE ACTOR)
-現 (Furigana),,,,げん
-現 (Meaning),,,,ACTUALLY (REALLY)
-沢 (Furigana),,,,たく
-沢 (Meaning),,,,A LOT (MANY, MUCH)
-弁 (Furigana),,,,べん
-弁 (Meaning),,,,ATTORNEY (LAWYER)
-新 (Furigana),,,,しん
-新 (Meaning),,,,BULLET TRAIN (SHINKANSEN)
-停 (Furigana),,,,てい
-停 (Meaning),,,,BUS STOP
+吸収 (Furigana),,,,きゅうしゅう
+吸収 (Meaning),,,,ABSORPTION
+演技 (Furigana),,,,えんぎ
+演技 (Meaning),,,,ACTING (PERFORMANCE)
+男優 (Furigana),,,,だんゆう
+男優 (Meaning),,,,ACTOR (MALE ACTOR)
+俳優 (Furigana),,,,はいゆう
+俳優 (Meaning),,,,ACTOR
+現に (Furigana),,,,げんに
+現に (Meaning),,,,ACTUALLY (REALLY)
+沢山 (Furigana),,,,たくさん
+沢山 (Meaning),,,,A LOT (MANY, MUCH)
+弁護士 (Furigana),,,,べんごし
+弁護士 (Meaning),,,,ATTORNEY (LAWYER)
+新幹線 (Furigana),,,,しんかんせん
+新幹線 (Meaning),,,,BULLET TRAIN (SHINKANSEN)
+出張 (Furigana),,,,しゅっちょう
+出張 (Meaning),,,,BUSINESS TRIP (OFFICIAL TRIP, SERVICE CALL)
+バス停 (Furigana),,,,ばすてい
+バス停 (Meaning),,,,BUS STOP
 崎 (Furigana),,,,さき
 崎 (Meaning),,,,CAPE (SMALL PENINSULA)
 城 (Furigana),,,,しろ
 城 (Meaning),,,,CASTLE
-委 (Furigana),,,,い
-委 (Meaning),,,,COMMITTEE
-了 (Furigana),,,,りょう
-了 (Meaning),,,,COMPREHENSION (UNDERSTANDING, ROGER)
-保 (Furigana),,,,ほ
-保 (Meaning),,,,CONSERVATIVE (CONSERVATISM)
-鬼 (Furigana),,,,き
+委員会 (Furigana),,,,いいんかい
+委員会 (Meaning),,,,COMMITTEE
+了解 (Furigana),,,,りょうかい
+了解 (Meaning),,,,COMPREHENSION (UNDERSTANDING, ROGER)
+保守主義 (Furigana),,,,ほしゅしゅぎ
+保守主義 (Meaning),,,,CONSERVATIVE (CONSERVATISM)
+鬼 (Furigana),,,,おに
 鬼 (Meaning),,,,DEMON (OGRE)
-割 (Furigana),,,,わり
-割 (Meaning),,,,DIVISION
-医 (Furigana),,,,い
-医 (Meaning),,,,DOCTOR
-住 (Furigana),,,,じゅう
-住 (Meaning),,,,DWELLING (RESIDENCE, HOUSING)
-経 (Furigana),,,,けい
-経 (Meaning),,,,ECONOMIC (FINANCIAL, ECONOMICAL)
-経 (Furigana),,,,けい
-経 (Meaning),,,,ECONOMICS (STUDY OF ECONOMICS)
-有 (Furigana),,,,ゆう
-有 (Meaning),,,,EMPLOYED
-施 (Furigana),,,,し
-施 (Meaning),,,,ENFORCEMENT (CARRYING OUT)
-羨 (Furigana),,,,せん
-羨 (Meaning),,,,ENVIOUS (JEALOUS)
-表 (Furigana),,,,ひょう
-表 (Meaning),,,,EXPRESSION (FIGURE OF SPEECH, REPRESENTATION)
-贅 (Furigana),,,,ぜい
-贅 (Meaning),,,,EXTRAVAGANT (LUXURY)
-反 (Furigana),,,,はん
-反 (Meaning),,,,FOUL (VIOLATION)
-優 (Furigana),,,,ゆう
-優 (Meaning),,,,GENTLE (KIND, WARM HEARTED, NICE)
-指 (Furigana),,,,し
-指 (Meaning),,,,GUIDANCE
-俳 (Furigana),,,,はい
-俳 (Meaning),,,,HAIKU
+割り算 (Furigana),,,,わりざん
+割り算 (Meaning),,,,DIVISION
+医師 (Furigana),,,,いし
+医師 (Meaning),,,,DOCTOR
+住宅 (Furigana),,,,じゅうたく
+住宅 (Meaning),,,,DWELLING (RESIDENCE, HOUSING)
+経済的 (Furigana),,,,けいざいてき
+経済的 (Meaning),,,,ECONOMIC (FINANCIAL, ECONOMICAL)
+経済学 (Furigana),,,,けいざいがく
+経済学 (Meaning),,,,ECONOMICS (STUDY OF ECONOMICS)
+有職 (Furigana),,,,ゆうしょく
+有職 (Meaning),,,,EMPLOYED
+施行 (Furigana),,,,しこう
+施行 (Meaning),,,,ENFORCEMENT (CARRYING OUT)
+羨ましい (Furigana),,,,うらやましい
+羨ましい (Meaning),,,,ENVIOUS (JEALOUS)
+表現 (Furigana),,,,ひょうげん
+表現 (Meaning),,,,EXPRESSION (FIGURE OF SPEECH, REPRESENTATION)
+贅沢 (Furigana),,,,ぜいたく
+贅沢 (Meaning),,,,EXTRAVAGANT (LUXURY)
+反則 (Furigana),,,,はんそく
+反則 (Meaning),,,,FOUL (VIOLATION)
+優しい (Furigana),,,,やさしい
+優しい (Meaning),,,,GENTLE (KIND, WARM HEARTED, NICE)
+公社 (Furigana),,,,こうしゃ
+公社 (Meaning),,,,GOVERNMENT-RUN COMPANY (GOVERNMENT-OWNED COMPANY)
+指導 (Furigana),,,,しどう
+指導 (Meaning),,,,GUIDANCE
+俳句 (Furigana),,,,はいく
+俳句 (Meaning),,,,HAIKU
 宅 (Furigana),,,,たく
 宅 (Meaning),,,,HOME (HOUSE)
-収 (Furigana),,,,しゅう
-収 (Meaning),,,,INCOME
-施 (Furigana),,,,し
-施 (Meaning),,,,INSTITUTION (FACILITIES, FACILITY, ESTABLISHMENT)
-痒 (Furigana),,,,かゆ
-痒 (Meaning),,,,ITCHY
-求 (Furigana),,,,きゅう
-求 (Meaning),,,,JOB HUNTING
-川 (Furigana),,,,かわ
-川 (Meaning),,,,KAWASAKI (KAWASAKI CITY)
-法 (Furigana),,,,ほう
-法 (Meaning),,,,LAW
-皮 (Furigana),,,,ひ
-皮 (Meaning),,,,LEATHER (HIDES, PELTS)
-革 (Furigana),,,,かく
+収入 (Furigana),,,,しゅうにゅう
+収入 (Meaning),,,,INCOME
+施設 (Furigana),,,,しせつ
+施設 (Meaning),,,,INSTITUTION (FACILITIES, FACILITY, ESTABLISHMENT)
+痒い (Furigana),,,,かゆい
+痒い (Meaning),,,,ITCHY
+求職 (Furigana),,,,きゅうしょく
+求職 (Meaning),,,,JOB HUNTING
+川崎 (Furigana),,,,かわさき
+川崎 (Meaning),,,,KAWASAKI (KAWASAKI CITY)
+法律 (Furigana),,,,ほうりつ
+法律 (Meaning),,,,LAW
+皮革 (Furigana),,,,ひかく
+皮革 (Meaning),,,,LEATHER (HIDES, PELTS)
+革 (Furigana),,,,かわ
 革 (Meaning),,,,LEATHER
-各 (Furigana),,,,かく
-各 (Meaning),,,,LOCAL TRAIN
-牛 (Furigana),,,,ぎゅう
-牛 (Meaning),,,,MILK (COW'S MILK)
-沢 (Furigana),,,,たく
+各駅停車 (Furigana),,,,かくえきていしゃ
+各駅停車 (Meaning),,,,LOCAL TRAIN
+牛乳 (Furigana),,,,ぎゅうにゅう
+牛乳 (Meaning),,,,MILK (COW'S MILK)
+沢 (Furigana),,,,さわ
 沢 (Meaning),,,,MOUNTAIN STREAM (SWAMP)
-長 (Furigana),,,,ちょう
-長 (Meaning),,,,NAGASAKI
-乳 (Furigana),,,,にゅう
-乳 (Meaning),,,,NIPPLE
-看 (Furigana),,,,かん
-看 (Meaning),,,,NURSE
-職 (Furigana),,,,しょく
-職 (Meaning),,,,OCCUPATION
-自 (Furigana),,,,じ
-自 (Meaning),,,,ONE'S HOME (ONE'S OWN HOME)
-楽 (Furigana),,,,らく
-楽 (Meaning),,,,OPTIMISM
-上 (Furigana),,,,じょう
-上 (Meaning),,,,PERFORMANCE (PRESENTATION, PRODUCTION, STAGING, MOUNT)
-演 (Furigana),,,,えん
-演 (Meaning),,,,PERFORMANCE (ENTERTAINMENT)
-職 (Furigana),,,,しょく
-職 (Meaning),,,,PERSONNEL (STAFF, EMPLOYEE)
-法 (Furigana),,,,ほう
-法 (Meaning),,,,PHYSICAL LAW (LAW)
-職 (Furigana),,,,しょく
-職 (Meaning),,,,PLACE OF WORK (WORKPLACE, PLACE OF EMPLOYMENT)
-停 (Furigana),,,,てい
-停 (Meaning),,,,POWER OUTAGE (CUTOFF OF ELECTRICITY, POWER CUT)
-準 (Furigana),,,,じゅん
-準 (Meaning),,,,PREPARATIONS
-現 (Furigana),,,,げん
-現 (Meaning),,,,PRESENT (NOW, CURRENT)
-総 (Furigana),,,,そう
-総 (Meaning),,,,PRIME MINISTER'S OFFICE
-優 (Furigana),,,,ゆう
-優 (Meaning),,,,PRIORITY
-割 (Furigana),,,,わり
-割 (Meaning),,,,RATIO (PERCENTAGE)
-現 (Furigana),,,,げん
-現 (Meaning),,,,REALITY
-領 (Furigana),,,,りょう
-領 (Meaning),,,,RECEIPT
-辞 (Furigana),,,,じ
-辞 (Meaning),,,,RESIGNATION (QUITTING)
-革 (Furigana),,,,かく
-革 (Meaning),,,,REVOLUTION
-律 (Furigana),,,,りつ
-律 (Meaning),,,,RHYTHM
-役 (Furigana),,,,やく
-役 (Meaning),,,,ROLE
-規 (Furigana),,,,き
-規 (Meaning),,,,RULE (REGULATION)
-規 (Furigana),,,,き
-規 (Meaning),,,,RULE (LAW, DISCIPLINE)
-現 (Furigana),,,,げん
-現 (Meaning),,,,SCENE (SPOT, SITE)
-責 (Furigana),,,,せき
-責 (Meaning),,,,SENSE OF RESPONSIBILITY
-台 (Furigana),,,,だい
-台 (Meaning),,,,SPEECH (WORDS, ONE'S LINES, REMARKS)
-基 (Furigana),,,,き
-基 (Meaning),,,,STANDARD (A STANDARD)
-停 (Furigana),,,,てい
-停 (Meaning),,,,STOPPAGE (SUSPENSION)
-優 (Furigana),,,,ゆう
-優 (Meaning),,,,SUPERIOR (SUPERIORITY)
-教 (Furigana),,,,きょう
-教 (Meaning),,,,TEACHER
-一 (Furigana),,,,いち
-一 (Meaning),,,,TEN PERCENT
-現 (Furigana),,,,げん
-現 (Meaning),,,,TO APPEAR (TO EMERGE)
-加 (Furigana),,,,か
-加 (Meaning),,,,TO BE ADDED TO (TO JOIN IN)
-呼 (Furigana),,,,よ
-呼 (Meaning),,,,TO CALL (TO CALL OUT)
-確 (Furigana),,,,かく
-確 (Meaning),,,,TO CONFIRM (TO VERIFY)
-保 (Furigana),,,,ほ
-保 (Meaning),,,,TO CONSERVE (TO PROTECT)
-批 (Furigana),,,,ひ
-批 (Meaning),,,,TO CRITICIZE
-断 (Furigana),,,,だん
-断 (Meaning),,,,TO CUT OFF (TO QUIT DOING SOMETHING)
-割 (Furigana),,,,わり
-割 (Meaning),,,,TO DIVIDE (TO SPLIT, TO BREAK)
-選 (Furigana),,,,せん
-選 (Meaning),,,,TO ELECT
-検 (Furigana),,,,けん
-検 (Meaning),,,,TO EXAMINE (TO INSPECT, TO CHECK)
-秀 (Furigana),,,,しゅう
-秀 (Meaning),,,,TO EXCEL (TO SURPASS)
-済 (Furigana),,,,さい
-済 (Meaning),,,,TO FINISH SOMETHING (TO SETTLE SOMETHING)
-収 (Furigana),,,,しゅう
-収 (Meaning),,,,TO FIT INSIDE (TO SETTLE DOWN, TO BE FINISHED)
-混 (Furigana),,,,こん
-混 (Meaning),,,,TO GET MIXED UP IN (TO GET MIXED, TO BE MIXED)
-増 (Furigana),,,,ぞう
-増 (Meaning),,,,TO INCREASE SOMETHING (TO INCREASE)
-判 (Furigana),,,,はん
-判 (Meaning),,,,TO JUDGE (TO CONCLUDE)
-裁 (Furigana),,,,さい
-裁 (Meaning),,,,TO JUDGE
-心 (Furigana),,,,しん
-心 (Meaning),,,,TO KNOW (TO UNDERSTAND, TO BE AWARE OF, TO CONSENT, TO AGREE)
-導 (Furigana),,,,どう
-導 (Meaning),,,,TO LEAD (TO GUIDE)
-演 (Furigana),,,,えん
-演 (Meaning),,,,TO PERFORM (TO PLAY)
-備 (Furigana),,,,び
-備 (Meaning),,,,TO PROVIDE (TO FURNISH, TO EQUIP, TO PREPARE FOR)
-挙 (Furigana),,,,きょ
-挙 (Meaning),,,,TO RAISE SOMETHING (TO CITE SOMETHING, TO HOLD SOMETHING)
-解 (Furigana),,,,かい
-解 (Meaning),,,,TO SOLVE (TO SOLVE SOMETHING, TO UNTIE, TO UNTIE SOMETHING)
-張 (Furigana),,,,ちょう
-張 (Meaning),,,,TO STRETCH
-理 (Furigana),,,,り
-理 (Meaning),,,,TO UNDERSTAND (TO COMPREHEND)
-幹 (Furigana),,,,かん
+長崎 (Furigana),,,,ながさき
+長崎 (Meaning),,,,NAGASAKI
+乳首 (Furigana),,,,ちくび
+乳首 (Meaning),,,,NIPPLE
+看護師 (Furigana),,,,かんごし
+看護師 (Meaning),,,,NURSE
+職業 (Furigana),,,,しょくぎょう
+職業 (Meaning),,,,OCCUPATION
+自宅 (Furigana),,,,じたく
+自宅 (Meaning),,,,ONE'S HOME (ONE'S OWN HOME)
+楽天主義 (Furigana),,,,らくてんしゅぎ
+楽天主義 (Meaning),,,,OPTIMISM
+町外れ (Furigana),,,,まちはずれ
+町外れ (Meaning),,,,OUTSKIRTS OF TOWN (OUTSKIRTS)
+上演 (Furigana),,,,じょうえん
+上演 (Meaning),,,,PERFORMANCE (PRESENTATION, PRODUCTION, STAGING, MOUNT)
+演芸 (Furigana),,,,えんげい
+演芸 (Meaning),,,,PERFORMANCE (ENTERTAINMENT)
+職員 (Furigana),,,,しょくいん
+職員 (Meaning),,,,PERSONNEL (STAFF, EMPLOYEE)
+法則 (Furigana),,,,ほうそく
+法則 (Meaning),,,,PHYSICAL LAW (LAW)
+職場 (Furigana),,,,しょくば
+職場 (Meaning),,,,PLACE OF WORK (WORKPLACE, PLACE OF EMPLOYMENT)
+停電 (Furigana),,,,ていでん
+停電 (Meaning),,,,POWER OUTAGE (CUTOFF OF ELECTRICITY, POWER CUT)
+準備 (Furigana),,,,じゅんび
+準備 (Meaning),,,,PREPARATIONS
+現在 (Furigana),,,,げんざい
+現在 (Meaning),,,,PRESENT (NOW, CURRENT)
+総理府 (Furigana),,,,そうりふ
+総理府 (Meaning),,,,PRIME MINISTER'S OFFICE
+優先 (Furigana),,,,ゆうせん
+優先 (Meaning),,,,PRIORITY
+割合 (Furigana),,,,わりあい
+割合 (Meaning),,,,RATIO (PERCENTAGE)
+現実 (Furigana),,,,げんじつ
+現実 (Meaning),,,,REALITY
+領収書 (Furigana),,,,りょうしゅうしょ
+領収書 (Meaning),,,,RECEIPT
+辞職 (Furigana),,,,じしょく
+辞職 (Meaning),,,,RESIGNATION (QUITTING)
+革命 (Furigana),,,,かくめい
+革命 (Meaning),,,,REVOLUTION
+律動 (Furigana),,,,りつどう
+律動 (Meaning),,,,RHYTHM
+役割 (Furigana),,,,やくわり
+役割 (Meaning),,,,ROLE
+規則 (Furigana),,,,きそく
+規則 (Meaning),,,,RULE (REGULATION)
+規律 (Furigana),,,,きりつ
+規律 (Meaning),,,,RULE (LAW, DISCIPLINE)
+現場 (Furigana),,,,げんば
+現場 (Meaning),,,,SCENE (SPOT, SITE)
+責任感 (Furigana),,,,せきにんかん
+責任感 (Meaning),,,,SENSE OF RESPONSIBILITY
+台詞 (Furigana),,,,せりふ
+台詞 (Meaning),,,,SPEECH (WORDS, ONE'S LINES, REMARKS)
+基準 (Furigana),,,,きじゅん
+基準 (Meaning),,,,STANDARD (A STANDARD)
+停止 (Furigana),,,,ていし
+停止 (Meaning),,,,STOPPAGE (SUSPENSION)
+優秀 (Furigana),,,,ゆうしゅう
+優秀 (Meaning),,,,SUPERIOR (SUPERIORITY)
+教師 (Furigana),,,,きょうし
+教師 (Meaning),,,,TEACHER
+一割 (Furigana),,,,いちわり
+一割 (Meaning),,,,TEN PERCENT
+現れる (Furigana),,,,あらわれる
+現れる (Meaning),,,,TO APPEAR (TO EMERGE)
+加わる (Furigana),,,,くわわる
+加わる (Meaning),,,,TO BE ADDED TO (TO JOIN IN)
+呼ぶ (Furigana),,,,よぶ
+呼ぶ (Meaning),,,,TO CALL (TO CALL OUT)
+確認する (Furigana),,,,かくにんする
+確認する (Meaning),,,,TO CONFIRM (TO VERIFY)
+保護する (Furigana),,,,ほごする
+保護する (Meaning),,,,TO CONSERVE (TO PROTECT)
+批判する (Furigana),,,,ひはんする
+批判する (Meaning),,,,TO CRITICIZE
+断つ (Furigana),,,,たつ
+断つ (Meaning),,,,TO CUT OFF (TO QUIT DOING SOMETHING)
+割る (Furigana),,,,わる
+割る (Meaning),,,,TO DIVIDE (TO SPLIT, TO BREAK)
+選挙する (Furigana),,,,せんきょする
+選挙する (Meaning),,,,TO ELECT
+検査する (Furigana),,,,けんさする
+検査する (Meaning),,,,TO EXAMINE (TO INSPECT, TO CHECK)
+秀でる (Furigana),,,,ひいでる
+秀でる (Meaning),,,,TO EXCEL (TO SURPASS)
+済ます (Furigana),,,,すます
+済ます (Meaning),,,,TO FINISH SOMETHING (TO SETTLE SOMETHING)
+収まる (Furigana),,,,おさまる
+収まる (Meaning),,,,TO FIT INSIDE (TO SETTLE DOWN, TO BE FINISHED)
+混じる (Furigana),,,,まじる
+混じる (Meaning),,,,TO GET MIXED UP IN (TO GET MIXED, TO BE MIXED)
+増やす (Furigana),,,,ふやす
+増やす (Meaning),,,,TO INCREASE SOMETHING (TO INCREASE)
+裁く (Furigana),,,,さばく
+裁く (Meaning),,,,TO JUDGE
+判断する (Furigana),,,,はんだんする
+判断する (Meaning),,,,TO JUDGE (TO CONCLUDE)
+心得る (Furigana),,,,こころえる
+心得る (Meaning),,,,TO KNOW (TO UNDERSTAND, TO BE AWARE OF, TO CONSENT, TO AGREE)
+導く (Furigana),,,,みちびく
+導く (Meaning),,,,TO LEAD (TO GUIDE)
+演ずる (Furigana),,,,えんずる
+演ずる (Meaning),,,,TO PERFORM (TO PLAY)
+備える (Furigana),,,,そなえる
+備える (Meaning),,,,TO PROVIDE (TO FURNISH, TO EQUIP, TO PREPARE FOR)
+挙げる (Furigana),,,,あげる
+挙げる (Meaning),,,,TO RAISE SOMETHING (TO CITE SOMETHING, TO HOLD SOMETHING)
+解く (Furigana),,,,とく
+解く (Meaning),,,,TO SOLVE (TO SOLVE SOMETHING, TO UNTIE, TO UNTIE SOMETHING)
+張る (Furigana),,,,はる
+張る (Meaning),,,,TO STRETCH
+理解する (Furigana),,,,りかいする
+理解する (Meaning),,,,TO UNDERSTAND (TO COMPREHEND)
+幹 (Furigana),,,,みき
 幹 (Meaning),,,,TREE TRUNK
-裁 (Furigana),,,,さい
-裁 (Meaning),,,,TRIAL
-節 (Furigana),,,,せつ
-節 (Meaning),,,,TURNING POINT (CRITICAL JUNCTURE, MILESTONE)
-無 (Furigana),,,,む
-無 (Meaning),,,,UNEMPLOYED (UNEMPLOYMENT)
-不 (Furigana),,,,ふ
-不 (Meaning),,,,UNWRITTEN LAW (UNWRITTEN RULE, COMMON LAW)
-吸 (Furigana),,,,きゅう
-吸 (Meaning),,,,VAMPIRE
-優 (Furigana),,,,ゆう
-優 (Meaning),,,,VICTORY (CHAMPIONSHIP)
-素 (Furigana),,,,そ
-素 (Meaning),,,,WONDERFUL (SPLENDID, MAGNIFICENT, THE BEST)
+裁判 (Furigana),,,,さいばん
+裁判 (Meaning),,,,TRIAL
+節目 (Furigana),,,,ふしめ
+節目 (Meaning),,,,TURNING POINT (CRITICAL JUNCTURE, MILESTONE)
+無職 (Furigana),,,,むしょく
+無職 (Meaning),,,,UNEMPLOYED (UNEMPLOYMENT)
+不文律 (Furigana),,,,ふぶんりつ
+不文律 (Meaning),,,,UNWRITTEN LAW (UNWRITTEN RULE, COMMON LAW)
+吸血鬼 (Furigana),,,,きゅうけつき
+吸血鬼 (Meaning),,,,VAMPIRE
+優勝 (Furigana),,,,ゆうしょう
+優勝 (Meaning),,,,VICTORY (CHAMPIONSHIP)
+素晴らしい (Furigana),,,,すばらしい
+素晴らしい (Meaning),,,,WONDERFUL (SPLENDID, MAGNIFICENT, THE BEST)

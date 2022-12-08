@@ -66,207 +66,207 @@
 超 (Meaning),,,,Ultra
 幅 (Onyomi),,,,はば
 幅 (Meaning),,,,Width
-廃 (Furigana),,,,はい
-廃 (Meaning),,,,ABOLITION (ELIMINATION, EXTINCTION)
-廃 (Furigana),,,,はい
-廃 (Meaning),,,,ABOLITION (ABOLISHMENT)
-受 (Furigana),,,,じゅ
-受 (Meaning),,,,ACCEPTANCE
-同 (Furigana),,,,どう
-同 (Meaning),,,,ALLIANCE
-大 (Furigana),,,,たい
-大 (Meaning),,,,BIG (LARGE, DRASTIC, SUBSTANTIAL, MAJOR)
-献 (Furigana),,,,けん
-献 (Meaning),,,,BLOOD DONATION
-債 (Furigana),,,,さい
-債 (Meaning),,,,BOND
-親 (Furigana),,,,しん
-親 (Meaning),,,,CHICKEN AND EGG RICE BOWL (PARENT AND CHILD RICE BOWL, OYAKO-DON)
-同 (Furigana),,,,どう
-同 (Meaning),,,,CLASS REUNION (SCHOOL REUNION, ALUMNI ASSOCIATION)
-主 (Furigana),,,,しゅ
-主 (Meaning),,,,COMMANDER (COMMANDER IN CHIEF, TEAM CAPTAIN)
-指 (Furigana),,,,し
-指 (Meaning),,,,CONDUCTOR (COMMANDER)
-承 (Furigana),,,,しょう
-承 (Meaning),,,,CONSENT (AGREEMENT, ACCEPTANCE)
-諾 (Furigana),,,,だく
-諾 (Meaning),,,,CONSENT OR REFUSAL (YES OR NO)
-変 (Furigana),,,,へん
-変 (Meaning),,,,CONVERSION (CHANGE)
-遺 (Furigana),,,,い
-遺 (Meaning),,,,CORPSE (REMAINS)
-債 (Furigana),,,,さい
-債 (Meaning),,,,CREDIT (CLAIM, DEBT, LIABILITIES)
-舞 (Furigana),,,,ぶ
-舞 (Meaning),,,,DANCING
-舞 (Furigana),,,,ぶ
+廃絶 (Furigana),,,,はいぜつ
+廃絶 (Meaning),,,,ABOLITION (ELIMINATION, EXTINCTION)
+廃止 (Furigana),,,,はいし
+廃止 (Meaning),,,,ABOLITION (ABOLISHMENT)
+受諾 (Furigana),,,,じゅだく
+受諾 (Meaning),,,,ACCEPTANCE
+同盟 (Furigana),,,,どうめい
+同盟 (Meaning),,,,ALLIANCE
+大幅 (Furigana),,,,おおはば
+大幅 (Meaning),,,,BIG (LARGE, DRASTIC, SUBSTANTIAL, MAJOR)
+献血 (Furigana),,,,けんけつ
+献血 (Meaning),,,,BLOOD DONATION
+債券 (Furigana),,,,さいけん
+債券 (Meaning),,,,BOND
+親子丼 (Furigana),,,,おやこどんぶり
+親子丼 (Meaning),,,,CHICKEN AND EGG RICE BOWL (PARENT AND CHILD RICE BOWL, OYAKO-DON)
+同窓会 (Furigana),,,,どうそうかい
+同窓会 (Meaning),,,,CLASS REUNION (SCHOOL REUNION, ALUMNI ASSOCIATION)
+主将 (Furigana),,,,しゅしょう
+主将 (Meaning),,,,COMMANDER (COMMANDER IN CHIEF, TEAM CAPTAIN)
+指揮者 (Furigana),,,,しきしゃ
+指揮者 (Meaning),,,,CONDUCTOR (COMMANDER)
+承諾 (Furigana),,,,しょうだく
+承諾 (Meaning),,,,CONSENT (AGREEMENT, ACCEPTANCE)
+諾否 (Furigana),,,,だくひ
+諾否 (Meaning),,,,CONSENT OR REFUSAL (YES OR NO)
+変換 (Furigana),,,,へんかん
+変換 (Meaning),,,,CONVERSION (CHANGE)
+遺体 (Furigana),,,,いたい
+遺体 (Meaning),,,,CORPSE (REMAINS)
+債権 (Furigana),,,,さいけん
+債権 (Meaning),,,,CREDIT (CLAIM, DEBT, LIABILITIES)
+舞踏 (Furigana),,,,ぶとう
+舞踏 (Meaning),,,,DANCING
+舞 (Furigana),,,,まい
 舞 (Meaning),,,,DANCING (DANCE)
-鹿 (Furigana),,,,か
+鹿 (Furigana),,,,しか
 鹿 (Meaning),,,,DEER
-依 (Furigana),,,,い
-依 (Meaning),,,,DEPENDENCE (RELIANCE)
-普 (Furigana),,,,ふ
-普 (Meaning),,,,DIFFUSION
-汚 (Furigana),,,,お
-汚 (Meaning),,,,DIRTY (FILTHY, FOUL, UNCLEAN)
-献 (Furigana),,,,けん
-献 (Meaning),,,,DONATION (OFFERING)
-枝 (Furigana),,,,し
-枝 (Meaning),,,,EDAMAME (STEAMED SOYBEANS)
-丼 (Furigana),,,,どん
-丼 (Meaning),,,,EEL BOWL (EEL RICE BOWL)
-電 (Furigana),,,,でん
-電 (Meaning),,,,ELECTROMAGNETIC FIELD
-牙 (Furigana),,,,げ
+依存 (Furigana),,,,いぞん
+依存 (Meaning),,,,DEPENDENCE (RELIANCE)
+普及 (Furigana),,,,ふきゅう
+普及 (Meaning),,,,DIFFUSION
+汚い (Furigana),,,,きたない
+汚い (Meaning),,,,DIRTY (FILTHY, FOUL, UNCLEAN)
+献金 (Furigana),,,,けんきん
+献金 (Meaning),,,,DONATION (OFFERING)
+枝豆 (Furigana),,,,えだまめ
+枝豆 (Meaning),,,,EDAMAME (STEAMED SOYBEANS)
+うなぎ丼 (Furigana),,,,うなぎどんぶり
+うなぎ丼 (Meaning),,,,EEL BOWL (EEL RICE BOWL)
+電磁場 (Furigana),,,,でんじば
+電磁場 (Meaning),,,,ELECTROMAGNETIC FIELD
+牙 (Furigana),,,,きば
 牙 (Meaning),,,,FANG (TUSK)
-姓 (Furigana),,,,せい
-姓 (Meaning),,,,FULL NAME
-将 (Furigana),,,,しょう
-将 (Meaning),,,,FUTURE
-大 (Furigana),,,,たい
-大 (Meaning),,,,GENERAL (ADMIRAL, HEAD, LEADER)
-一 (Furigana),,,,いち
-一 (Meaning),,,,GENERAL (COMMON)
-遺 (Furigana),,,,い
-遺 (Meaning),,,,HEREDITY
-馬 (Furigana),,,,ば
-馬 (Meaning),,,,IDIOT (DUMB, FOOL, STUPID, ABSURD)
-遺 (Furigana),,,,い
-遺 (Meaning),,,,INHERITANCE
-怪 (Furigana),,,,かい
-怪 (Meaning),,,,INJURY
-象 (Furigana),,,,ぞう
-象 (Meaning),,,,IVORY (ELEPHANT TUSK)
-縄 (Furigana),,,,じょう
-縄 (Meaning),,,,JOMON (JOMON PEOPLE, ANCIENT JAPANESE)
-歌 (Furigana),,,,か
-歌 (Meaning),,,,KABUKI
-鹿 (Furigana),,,,か
-鹿 (Meaning),,,,KAGOSHIMA PREFECTURE
-神 (Furigana),,,,しん
-神 (Meaning),,,,KANAGAWA PREFECTURE
-連 (Furigana),,,,れん
-連 (Meaning),,,,LEAGUE (FEDERATION)
-口 (Furigana),,,,こう
-口 (Meaning),,,,LIPSTICK
-遺 (Furigana),,,,い
-遺 (Meaning),,,,LOSS
-旧 (Furigana),,,,きゅう
-旧 (Meaning),,,,MAIDEN NAME
-維 (Furigana),,,,い
-維 (Meaning),,,,MAINTENANCE (SUPPORT)
-治 (Furigana),,,,じ
-治 (Meaning),,,,MEDICAL THERAPY (MEDICAL TREATMENT)
-医 (Furigana),,,,い
-医 (Meaning),,,,MEDICAL TREATMENT
-誤 (Furigana),,,,ご
-誤 (Meaning),,,,MISTAKE (ERROR, SLIP, BUG, FAULT)
-奈 (Furigana),,,,な
-奈 (Meaning),,,,NARA
-国 (Furigana),,,,こく
-国 (Meaning),,,,NATIONAL DEBT (BONDS)
-吐 (Furigana),,,,は
-吐 (Meaning),,,,NAUSEA
-核 (Furigana),,,,かく
-核 (Meaning),,,,NUCLEAR TEST (NUCLEAR BOMB TEST, NUCLEAR TESTING)
-核 (Furigana),,,,かく
-核 (Meaning),,,,NUCLEAR WEAPONS
+姓名 (Furigana),,,,せいめい
+姓名 (Meaning),,,,FULL NAME
+将来 (Furigana),,,,しょうらい
+将来 (Meaning),,,,FUTURE
+大将 (Furigana),,,,たいしょう
+大将 (Meaning),,,,GENERAL (ADMIRAL, HEAD, LEADER)
+一般 (Furigana),,,,いっぱん
+一般 (Meaning),,,,GENERAL (COMMON)
+遺伝 (Furigana),,,,いでん
+遺伝 (Meaning),,,,HEREDITY
+馬鹿 (Furigana),,,,ばか
+馬鹿 (Meaning),,,,IDIOT (DUMB, FOOL, STUPID, ABSURD)
+遺産 (Furigana),,,,いさん
+遺産 (Meaning),,,,INHERITANCE
+怪我 (Furigana),,,,けが
+怪我 (Meaning),,,,INJURY
+象牙 (Furigana),,,,ぞうげ
+象牙 (Meaning),,,,IVORY (ELEPHANT TUSK)
+縄文 (Furigana),,,,じょうもん
+縄文 (Meaning),,,,JOMON (JOMON PEOPLE, ANCIENT JAPANESE)
+歌舞伎 (Furigana),,,,かぶき
+歌舞伎 (Meaning),,,,KABUKI
+鹿児島県 (Furigana),,,,かごしまけん
+鹿児島県 (Meaning),,,,KAGOSHIMA PREFECTURE
+神奈川県 (Furigana),,,,かながわけん
+神奈川県 (Meaning),,,,KANAGAWA PREFECTURE
+連盟 (Furigana),,,,れんめい
+連盟 (Meaning),,,,LEAGUE (FEDERATION)
+口紅 (Furigana),,,,くちべに
+口紅 (Meaning),,,,LIPSTICK
+遺失 (Furigana),,,,いしつ
+遺失 (Meaning),,,,LOSS
+旧姓 (Furigana),,,,きゅうせい
+旧姓 (Meaning),,,,MAIDEN NAME
+維持 (Furigana),,,,いじ
+維持 (Meaning),,,,MAINTENANCE (SUPPORT)
+治療 (Furigana),,,,ちりょう
+治療 (Meaning),,,,MEDICAL THERAPY (MEDICAL TREATMENT)
+医療 (Furigana),,,,いりょう
+医療 (Meaning),,,,MEDICAL TREATMENT
+誤り (Furigana),,,,あやまり
+誤り (Meaning),,,,MISTAKE (ERROR, SLIP, BUG, FAULT)
+奈良 (Furigana),,,,なら
+奈良 (Meaning),,,,NARA
+国債 (Furigana),,,,こくさい
+国債 (Meaning),,,,NATIONAL DEBT (BONDS)
+吐き気 (Furigana),,,,はきけ
+吐き気 (Meaning),,,,NAUSEA
+核実験 (Furigana),,,,かくじっけん
+核実験 (Meaning),,,,NUCLEAR TEST (NUCLEAR BOMB TEST, NUCLEAR TESTING)
+核兵器 (Furigana),,,,かくへいき
+核兵器 (Meaning),,,,NUCLEAR WEAPONS
 核 (Furigana),,,,かく
 核 (Meaning),,,,NUCLEUS (CORE, NUCLEAR)
-沖 (Furigana),,,,おき
-沖 (Meaning),,,,OPEN SEA
-及 (Furigana),,,,きゅう
-及 (Meaning),,,,PASSING AN EXAM (MAKE THE GRADE, PASSING THE EXAM)
-許 (Furigana),,,,きょ
-許 (Meaning),,,,PERMISSION (CONSENT)
-盟 (Furigana),,,,めい
-盟 (Meaning),,,,PLEDGE (PACT)
-指 (Furigana),,,,し
-指 (Meaning),,,,POINTING OUT (IDENTIFICATION)
-放 (Furigana),,,,ほう
-放 (Meaning),,,,RADIOACTIVITY (RADIATION)
-薦 (Furigana),,,,せん
-薦 (Meaning),,,,RECOMMENDATION (ADVICE)
-信 (Furigana),,,,しん
-信 (Meaning),,,,RELIANCE (TRUST)
-依 (Furigana),,,,い
-依 (Meaning),,,,REQUEST (ENTRUST)
-維 (Furigana),,,,い
-維 (Meaning),,,,RESTORATION (MEIJI RESTORATION)
-復 (Furigana),,,,ふく
-復 (Meaning),,,,RESTORATION (RECOVERY)
-縄 (Furigana),,,,じょう
+沖合 (Furigana),,,,おきあい
+沖合 (Meaning),,,,OPEN SEA
+及第 (Furigana),,,,きゅうだい
+及第 (Meaning),,,,PASSING AN EXAM (MAKE THE GRADE, PASSING THE EXAM)
+許諾 (Furigana),,,,きょだく
+許諾 (Meaning),,,,PERMISSION (CONSENT)
+盟約 (Furigana),,,,めいやく
+盟約 (Meaning),,,,PLEDGE (PACT)
+指摘 (Furigana),,,,してき
+指摘 (Meaning),,,,POINTING OUT (IDENTIFICATION)
+放射能 (Furigana),,,,ほうしゃのう
+放射能 (Meaning),,,,RADIOACTIVITY (RADIATION)
+薦め (Furigana),,,,すすめ
+薦め (Meaning),,,,RECOMMENDATION (ADVICE)
+信頼 (Furigana),,,,しんらい
+信頼 (Meaning),,,,RELIANCE (TRUST)
+依頼 (Furigana),,,,いらい
+依頼 (Meaning),,,,REQUEST (ENTRUST)
+維新 (Furigana),,,,いしん
+維新 (Meaning),,,,RESTORATION (MEIJI RESTORATION)
+復旧 (Furigana),,,,ふっきゅう
+復旧 (Meaning),,,,RESTORATION (RECOVERY)
+縄 (Furigana),,,,なわ
 縄 (Meaning),,,,ROPE
 鮭 (Furigana),,,,さけ
 鮭 (Meaning),,,,SALMON
-砂 (Furigana),,,,さ
+砂 (Furigana),,,,すな
 砂 (Meaning),,,,SAND (GRIT)
-将 (Furigana),,,,しょう
-将 (Meaning),,,,SHOGUN (GENERAL, COMMANDER, SHOUGUN)
-舞 (Furigana),,,,ぶ
-舞 (Meaning),,,,STAGE
-継 (Furigana),,,,けい
-継 (Meaning),,,,STEPFATHER
-依 (Furigana),,,,い
-依 (Meaning),,,,STILL (AS YET, AS IT WAS)
-継 (Furigana),,,,けい
-継 (Meaning),,,,SUCCESSION (INHERITANCE)
-超 (Furigana),,,,ちょう
-超 (Meaning),,,,SUPERNATURAL
-甘 (Furigana),,,,あま
-甘 (Meaning),,,,SWEET
-甘 (Furigana),,,,あま
-甘 (Meaning),,,,SWEET TOOTH
-源 (Furigana),,,,げん
-源 (Meaning),,,,TALE OF GENJI (THE TALE OF GENJI)
-奴 (Furigana),,,,ど
-奴 (Meaning),,,,THOSE DUDES (THOSE GUYS)
-頼 (Furigana),,,,らい
-頼 (Meaning),,,,TO ASK FOR (TO REQUEST, TO ENTRUST, TO RELY ON)
-廃 (Furigana),,,,はい
-廃 (Meaning),,,,TO BECOME OBSOLETE
-傷 (Furigana),,,,しょう
-傷 (Meaning),,,,TO DAMAGE SOMETHING (TO INJURE SOMETHING)
-舞 (Furigana),,,,ぶ
-舞 (Meaning),,,,TO DANCE (TO FLUTTER)
-換 (Furigana),,,,かん
-換 (Meaning),,,,TO EXCHANGE
-豆 (Furigana),,,,とう
-豆 (Meaning),,,,TOFU (TOUFU)
-降 (Furigana),,,,こう
-降 (Meaning),,,,TO GET OFF
-伸 (Furigana),,,,の
-伸 (Meaning),,,,TO GROW LONGER (TO BE STRETCHED, TO MAKE PROGRESS)
-継 (Furigana),,,,けい
-継 (Meaning),,,,TO INHERIT
-甘 (Furigana),,,,あま
-甘 (Meaning),,,,TO NOT TAKE SERIOUSLY (TO TAKE LIGHTLY)
-摘 (Furigana),,,,てき
-摘 (Meaning),,,,TO PLUCK (TO PICK, TO PRUNE)
-及 (Furigana),,,,きゅう
-及 (Meaning),,,,TO REACH (TO AMOUNT TO)
-吐 (Furigana),,,,は
-吐 (Meaning),,,,TO SPIT OUT (TO DISGORGE, TO SPEW OUT)
-踏 (Furigana),,,,とう
-踏 (Meaning),,,,TO STEP ON (TO TREAD ON)
-降 (Furigana),,,,こう
-降 (Meaning),,,,TO SURRENDER
-摘 (Furigana),,,,てき
-摘 (Meaning),,,,TO UNMASK (TO EXPOSE)
-貿 (Furigana),,,,ぼう
-貿 (Meaning),,,,TRADE (COMMERCE)
-津 (Furigana),,,,つ
-津 (Meaning),,,,TSUNAMI (TIDAL WAVE)
-超 (Furigana),,,,ちょう
-超 (Meaning),,,,ULTRA (SUPER, REALLY)
-超 (Furigana),,,,ちょう
-超 (Meaning),,,,ULTRASONIC WAVE
-貴 (Furigana),,,,き
-貴 (Meaning),,,,VALUABLES (TREASURES)
-換 (Furigana),,,,かん
-換 (Meaning),,,,VENTILATION
+将軍 (Furigana),,,,しょうぐん
+将軍 (Meaning),,,,SHOGUN (GENERAL, COMMANDER, SHOUGUN)
+舞台 (Furigana),,,,ぶたい
+舞台 (Meaning),,,,STAGE
+継父 (Furigana),,,,けいふ
+継父 (Meaning),,,,STEPFATHER
+依然 (Furigana),,,,いぜん
+依然 (Meaning),,,,STILL (AS YET, AS IT WAS)
+継承 (Furigana),,,,けいしょう
+継承 (Meaning),,,,SUCCESSION (INHERITANCE)
+超自然的 (Furigana),,,,ちょうしぜんてき
+超自然的 (Meaning),,,,SUPERNATURAL
+甘い (Furigana),,,,あまい
+甘い (Meaning),,,,SWEET
+甘党 (Furigana),,,,あまとう
+甘党 (Meaning),,,,SWEET TOOTH
+源氏物語 (Furigana),,,,げんじものがたり
+源氏物語 (Meaning),,,,TALE OF GENJI (THE TALE OF GENJI)
+奴ら (Furigana),,,,やつら
+奴ら (Meaning),,,,THOSE DUDES (THOSE GUYS)
+頼む (Furigana),,,,たのむ
+頼む (Meaning),,,,TO ASK FOR (TO REQUEST, TO ENTRUST, TO RELY ON)
+廃れる (Furigana),,,,すたれる
+廃れる (Meaning),,,,TO BECOME OBSOLETE
+傷める (Furigana),,,,いためる
+傷める (Meaning),,,,TO DAMAGE SOMETHING (TO INJURE SOMETHING)
+舞う (Furigana),,,,まう
+舞う (Meaning),,,,TO DANCE (TO FLUTTER)
+換える (Furigana),,,,かえる
+換える (Meaning),,,,TO EXCHANGE
+豆腐 (Furigana),,,,とうふ
+豆腐 (Meaning),,,,TOFU (TOUFU)
+降りる (Furigana),,,,おりる
+降りる (Meaning),,,,TO GET OFF
+伸びる (Furigana),,,,のびる
+伸びる (Meaning),,,,TO GROW LONGER (TO BE STRETCHED, TO MAKE PROGRESS)
+継ぐ (Furigana),,,,つぐ
+継ぐ (Meaning),,,,TO INHERIT
+甘く見る (Furigana),,,,あまくみる
+甘く見る (Meaning),,,,TO NOT TAKE SERIOUSLY (TO TAKE LIGHTLY)
+摘む (Furigana),,,,つむ
+摘む (Meaning),,,,TO PLUCK (TO PICK, TO PRUNE)
+及ぶ (Furigana),,,,およぶ
+及ぶ (Meaning),,,,TO REACH (TO AMOUNT TO)
+吐き出す (Furigana),,,,はきだす
+吐き出す (Meaning),,,,TO SPIT OUT (TO DISGORGE, TO SPEW OUT)
+踏む (Furigana),,,,ふむ
+踏む (Meaning),,,,TO STEP ON (TO TREAD ON)
+降参する (Furigana),,,,こうさんする
+降参する (Meaning),,,,TO SURRENDER
+摘発する (Furigana),,,,てきはつする
+摘発する (Meaning),,,,TO UNMASK (TO EXPOSE)
+貿易 (Furigana),,,,ぼうえき
+貿易 (Meaning),,,,TRADE (COMMERCE)
+津波 (Furigana),,,,つなみ
+津波 (Meaning),,,,TSUNAMI (TIDAL WAVE)
+超〜 (Furigana),,,,ちょう
+超〜 (Meaning),,,,ULTRA (SUPER, REALLY)
+超音波 (Furigana),,,,ちょうおんぱ
+超音波 (Meaning),,,,ULTRASONIC WAVE
+貴重品 (Furigana),,,,きちょうひん
+貴重品 (Meaning),,,,VALUABLES (TREASURES)
+換気 (Furigana),,,,かんき
+換気 (Meaning),,,,VENTILATION
 幅 (Furigana),,,,はば
 幅 (Meaning),,,,WIDTH
-勤 (Furigana),,,,きん
-勤 (Meaning),,,,WORK (JOB, DUTIES)
+勤め (Furigana),,,,つとめ
+勤め (Meaning),,,,WORK (JOB, DUTIES)

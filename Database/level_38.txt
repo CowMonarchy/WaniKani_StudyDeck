@@ -68,217 +68,217 @@
 緒 (Meaning),,,,Together
 盤 (Onyomi),,,,ばん
 盤 (Meaning),,,,Tray
-馬 (Furigana),,,,ば
-馬 (Meaning),,,,ABSURD
-馬 (Furigana),,,,ば
-馬 (Meaning),,,,ABSURD (RIDICULOUS, SILLY)
-頼 (Furigana),,,,らい
-頼 (Meaning),,,,A FAVOR (FAVOR, A REQUEST, REQUEST)
-冷 (Furigana),,,,れい
-冷 (Meaning),,,,AIR CONDITIONING
-及 (Furigana),,,,きゅう
-及 (Meaning),,,,AS WELL AS
-舞 (Furigana),,,,ぶ
-舞 (Meaning),,,,BALL (DANCE)
-基 (Furigana),,,,き
-基 (Meaning),,,,BASE (BASIS, FOUNDATION)
-受 (Furigana),,,,じゅ
-受 (Meaning),,,,BE ENTRUSTED WITH
-避 (Furigana),,,,ひ
-避 (Meaning),,,,BIRTH CONTROL (CONTRACEPTION)
-湯 (Furigana),,,,ゆ
-湯 (Meaning),,,,BOILED TOFU
-賄 (Furigana),,,,わい
-賄 (Meaning),,,,BRIBE
-贈 (Furigana),,,,ぞう
-贈 (Meaning),,,,BRIBERY
-依 (Furigana),,,,い
-依 (Meaning),,,,CLIENT
-房 (Furigana),,,,ぼう
+馬鹿らしい (Furigana),,,,ばからしい
+馬鹿らしい (Meaning),,,,ABSURD
+馬鹿馬鹿しい (Furigana),,,,ばかばかしい
+馬鹿馬鹿しい (Meaning),,,,ABSURD (RIDICULOUS, SILLY)
+頼み (Furigana),,,,たのみ
+頼み (Meaning),,,,A FAVOR (FAVOR, A REQUEST, REQUEST)
+冷房 (Furigana),,,,れいぼう
+冷房 (Meaning),,,,AIR CONDITIONING
+及び (Furigana),,,,および
+及び (Meaning),,,,AS WELL AS
+舞踏会 (Furigana),,,,ぶとうかい
+舞踏会 (Meaning),,,,BALL (DANCE)
+基盤 (Furigana),,,,きばん
+基盤 (Meaning),,,,BASE (BASIS, FOUNDATION)
+受託 (Furigana),,,,じゅたく
+受託 (Meaning),,,,BE ENTRUSTED WITH
+避妊 (Furigana),,,,ひにん
+避妊 (Meaning),,,,BIRTH CONTROL (CONTRACEPTION)
+湯豆腐 (Furigana),,,,ゆどうふ
+湯豆腐 (Meaning),,,,BOILED TOFU
+賄賂 (Furigana),,,,わいろ
+賄賂 (Meaning),,,,BRIBE
+贈収賄 (Furigana),,,,ぞうしゅうわい
+贈収賄 (Meaning),,,,BRIBERY
+依頼人 (Furigana),,,,いらいにん
+依頼人 (Meaning),,,,CLIENT
+房 (Furigana),,,,ふさ
 房 (Meaning),,,,CLUSTER (TASSEL, BUNCH, TUFT)
-考 (Furigana),,,,こう
-考 (Meaning),,,,CONSIDERATION
-配 (Furigana),,,,はい
-配 (Meaning),,,,CONSIDERATION (CARE)
-委 (Furigana),,,,い
-委 (Meaning),,,,CONSIGN (ENTRUST, CONSIGNMENT)
-抑 (Furigana),,,,よく
-抑 (Meaning),,,,CONTROL (RESTRAINT)
-日 (Furigana),,,,にち
-日 (Meaning),,,,DAILY EDITION
-需 (Furigana),,,,じゅ
-需 (Meaning),,,,DEMAND
-描 (Furigana),,,,びょう
-描 (Meaning),,,,DEPICTION
-奥 (Furigana),,,,おく
-奥 (Meaning),,,,DEPTHS (BOTTOM)
-抑 (Furigana),,,,よく
-抑 (Meaning),,,,DETERRENT (DETERRENCE, DETER, STAVE OFF)
-円 (Furigana),,,,えん
-円 (Meaning),,,,DISK (FLYING SAUCER)
-併 (Furigana),,,,へい
-併 (Meaning),,,,DOUBLE PLAY
-描 (Furigana),,,,びょう
-描 (Meaning),,,,DRAWING (PAINTING)
-懸 (Furigana),,,,けん
-懸 (Meaning),,,,EAGER (EAGERNESS)
-高 (Furigana),,,,こう
-高 (Meaning),,,,ELDERLY PERSON (OLD PERSON)
-逃 (Furigana),,,,とう
-逃 (Meaning),,,,ESCAPE (FLIGHT)
-避 (Furigana),,,,ひ
-避 (Meaning),,,,EVACUATION
-夕 (Furigana),,,,ゆう
-夕 (Meaning),,,,EVENING EDITION
+考慮 (Furigana),,,,こうりょ
+考慮 (Meaning),,,,CONSIDERATION
+配慮 (Furigana),,,,はいりょ
+配慮 (Meaning),,,,CONSIDERATION (CARE)
+委託 (Furigana),,,,いたく
+委託 (Meaning),,,,CONSIGN (ENTRUST, CONSIGNMENT)
+抑制 (Furigana),,,,よくせい
+抑制 (Meaning),,,,CONTROL (RESTRAINT)
+日刊 (Furigana),,,,にっかん
+日刊 (Meaning),,,,DAILY EDITION
+需要 (Furigana),,,,じゅよう
+需要 (Meaning),,,,DEMAND
+描写 (Furigana),,,,びょうしゃ
+描写 (Meaning),,,,DEPICTION
+奥底 (Furigana),,,,おくそこ
+奥底 (Meaning),,,,DEPTHS (BOTTOM)
+抑止 (Furigana),,,,よくし
+抑止 (Meaning),,,,DETERRENT (DETERRENCE, DETER, STAVE OFF)
+円盤 (Furigana),,,,えんばん
+円盤 (Meaning),,,,DISK (FLYING SAUCER)
+併殺 (Furigana),,,,へいさつ
+併殺 (Meaning),,,,DOUBLE PLAY
+描画 (Furigana),,,,びょうが
+描画 (Meaning),,,,DRAWING (PAINTING)
+懸命 (Furigana),,,,けんめい
+懸命 (Meaning),,,,EAGER (EAGERNESS)
+高齢者 (Furigana),,,,こうれいしゃ
+高齢者 (Meaning),,,,ELDERLY PERSON (OLD PERSON)
+逃亡 (Furigana),,,,とうぼう
+逃亡 (Meaning),,,,ESCAPE (FLIGHT)
+避難 (Furigana),,,,ひなん
+避難 (Meaning),,,,EVACUATION
+夕刊 (Furigana),,,,ゆうかん
+夕刊 (Meaning),,,,EVENING EDITION
 奥 (Furigana),,,,おく
 奥 (Meaning),,,,FAR BACK (IN THE BACK)
-致 (Furigana),,,,ち
-致 (Meaning),,,,FATAL
-一 (Furigana),,,,いち
-一 (Meaning),,,,FIRST PERSON
-全 (Furigana),,,,ぜん
-全 (Meaning),,,,GENERAL (OVERALL, ACROSS THE BOARD)
-遺 (Furigana),,,,い
-遺 (Meaning),,,,GENES
-宜 (Furigana),,,,よろ
-宜 (Meaning),,,,GOOD (OKAY, ALL RIGHT, FINE)
-暖 (Furigana),,,,だん
-暖 (Meaning),,,,HEATING (HEAT)
+致命的 (Furigana),,,,ちめいてき
+致命的 (Meaning),,,,FATAL
+一人称 (Furigana),,,,いちにんしょう
+一人称 (Meaning),,,,FIRST PERSON
+全般的 (Furigana),,,,ぜんぱんてき
+全般的 (Meaning),,,,GENERAL (OVERALL, ACROSS THE BOARD)
+遺伝子 (Furigana),,,,いでんし
+遺伝子 (Meaning),,,,GENES
+宜しい (Furigana),,,,よろしい
+宜しい (Meaning),,,,GOOD (OKAY, ALL RIGHT, FINE)
+暖房 (Furigana),,,,だんぼう
+暖房 (Meaning),,,,HEATING (HEAT)
 膝 (Furigana),,,,ひざ
 膝 (Meaning),,,,KNEE
-膝 (Furigana),,,,ひざ
-膝 (Meaning),,,,KNEECAP (PATELLA)
-由 (Furigana),,,,ゆう
-由 (Meaning),,,,LINEAGE (HISTORY)
-緩 (Furigana),,,,ゆる
-緩 (Meaning),,,,LOOSE
-緩 (Furigana),,,,ゆる
-緩 (Meaning),,,,LOOSE (MILD, GENTLE)
-明 (Furigana),,,,めい
-明 (Meaning),,,,MEIJI RESTORATION
-併 (Furigana),,,,へい
-併 (Meaning),,,,MERGER
-月 (Furigana),,,,げつ
-月 (Meaning),,,,MONTHLY EDITION
-朝 (Furigana),,,,あさ
-朝 (Meaning),,,,MORNING EDITION
-奏 (Furigana),,,,そう
-奏 (Meaning),,,,MUSICAL PERFORMANCE (INSTRUMENTAL MUSIC)
-演 (Furigana),,,,えん
-演 (Meaning),,,,MUSICAL PERFORMANCE (PERFORMANCE)
-奈 (Furigana),,,,な
-奈 (Meaning),,,,NARA PREFECTURE
-必 (Furigana),,,,ひつ
-必 (Meaning),,,,NECESSITIES (ESSENTIALS)
-沖 (Furigana),,,,おき
-沖 (Meaning),,,,OKINAWA
-老 (Furigana),,,,ろう
-老 (Meaning),,,,OLD AGE
-却 (Furigana),,,,きゃく
-却 (Meaning),,,,ON THE CONTRARY (INSTEAD)
-抑 (Furigana),,,,よく
-抑 (Meaning),,,,OPPRESSION
-一 (Furigana),,,,いち
-一 (Meaning),,,,ORDINARY (GENERAL, COMMON)
-完 (Furigana),,,,かん
-完 (Meaning),,,,PERFECT (FLAWLESS, COMPLETE)
-妊 (Furigana),,,,にん
-妊 (Meaning),,,,PREGNANT WOMAN
-奥 (Furigana),,,,おく
-奥 (Meaning),,,,PROFOUND (DEEP)
-生 (Furigana),,,,せい
-生 (Meaning),,,,REACHING HOME PLATE (RETURNING ALIVE)
-却 (Furigana),,,,きゃく
-却 (Meaning),,,,REJECTION (DISMISSAL)
-遠 (Furigana),,,,えん
-遠 (Meaning),,,,RESTRAINT (DECLINE, HESITATION)
-返 (Furigana),,,,へん
-返 (Meaning),,,,RETURN (RESTORATION)
-還 (Furigana),,,,かん
-還 (Meaning),,,,RETURN TO ORIGINS (REDUCTION)
-縄 (Furigana),,,,じょう
-縄 (Meaning),,,,ROPE OFF (TURF, TERRITORY, DOMAIN)
-内 (Furigana),,,,ない
-内 (Meaning),,,,SECRET (CONFIDENTIAL)
-選 (Furigana),,,,せん
-選 (Meaning),,,,SELECTION (CHOICE)
-対 (Furigana),,,,たい
-対 (Meaning),,,,SYMMETRY
-見 (Furigana),,,,み
-見 (Meaning),,,,SYMPATHY VISIT
-傾 (Furigana),,,,けい
-傾 (Meaning),,,,TENDENCY
-廃 (Furigana),,,,はい
-廃 (Meaning),,,,TO ABOLISH
-同 (Furigana),,,,どう
-同 (Meaning),,,,TO ACCOMPANY
-伴 (Furigana),,,,はん
-伴 (Meaning),,,,TO ACCOMPANY
-避 (Furigana),,,,ひ
-避 (Meaning),,,,TO AVOID (TO DODGE)
-傾 (Furigana),,,,けい
-傾 (Meaning),,,,TO BE LEANED (TO BE TILTED)
-妊 (Furigana),,,,にん
-妊 (Meaning),,,,TO BE PREGNANT (TO GET PREGNANT)
-噛 (Furigana),,,,か
-噛 (Meaning),,,,TO BITE (TO CHEW)
-致 (Furigana),,,,ち
-致 (Meaning),,,,TO DO
-描 (Furigana),,,,びょう
-描 (Meaning),,,,TO DRAW (TO SKETCH)
-託 (Furigana),,,,たく
-託 (Meaning),,,,TO ENTRUST
-逃 (Furigana),,,,とう
-逃 (Meaning),,,,TO ESCAPE (TO FLEE, TO RUN AWAY)
-超 (Furigana),,,,ちょう
-超 (Meaning),,,,TO EXCEED (TO GO OVER, TO SURPASS)
-及 (Furigana),,,,きゅう
-及 (Meaning),,,,TO EXERT (TO CAUSE)
-一 (Furigana),,,,いち
-一 (Meaning),,,,TOGETHER
-贈 (Furigana),,,,ぞう
-贈 (Meaning),,,,TO GIVE A PRESENT (TO GIVE)
-扱 (Furigana),,,,あつか
-扱 (Meaning),,,,TO HANDLE (TO TREAT)
-緩 (Furigana),,,,ゆる
-緩 (Meaning),,,,TO LOOSEN
-維 (Furigana),,,,い
-維 (Meaning),,,,TO MAINTAIN
-一 (Furigana),,,,いち
-一 (Meaning),,,,TO MATCH
-賄 (Furigana),,,,わい
-賄 (Meaning),,,,TO PAY (TO COVER)
-指 (Furigana),,,,し
-指 (Meaning),,,,TO POINT OUT (TO IDENTIFY)
-刊 (Furigana),,,,かん
-刊 (Meaning),,,,TO PUBLISH
-頼 (Furigana),,,,らい
-頼 (Meaning),,,,TO RELY ON (TO TRUST, TO DEPEND ON)
-戻 (Furigana),,,,もど
-戻 (Meaning),,,,TO RETURN (TO RETURN SOMETHING)
-繰 (Furigana),,,,く
-繰 (Meaning),,,,TO SPIN (TO TURN OVER, TO REEL IN, TO SHUFFLE)
-懸 (Furigana),,,,けん
-懸 (Meaning),,,,TO STAKE (TO RISK)
-踏 (Furigana),,,,とう
-踏 (Meaning),,,,TO STEP INTO (TO RUSH INTO)
-伸 (Furigana),,,,の
-伸 (Meaning),,,,TO STRETCH SOMETHING
-降 (Furigana),,,,こう
-降 (Meaning),,,,TO TAKE DOWN (TO LAUNCH, TO DROP, TO LOWER, TO BRING DOWN)
-乗 (Furigana),,,,の
-乗 (Meaning),,,,TO TRANSFER (TO CHANGE TRAINS)
-貿 (Furigana),,,,ぼう
-貿 (Meaning),,,,TRADING FIRM
+膝頭 (Furigana),,,,ひざがしら
+膝頭 (Meaning),,,,KNEECAP (PATELLA)
+由緒 (Furigana),,,,ゆいしょ
+由緒 (Meaning),,,,LINEAGE (HISTORY)
+緩い (Furigana),,,,ゆるい
+緩い (Meaning),,,,LOOSE
+緩やか (Furigana),,,,ゆるやか
+緩やか (Meaning),,,,LOOSE (MILD, GENTLE)
+明治維新 (Furigana),,,,めいじいしん
+明治維新 (Meaning),,,,MEIJI RESTORATION
+併合 (Furigana),,,,へいごう
+併合 (Meaning),,,,MERGER
+月刊 (Furigana),,,,げっかん
+月刊 (Meaning),,,,MONTHLY EDITION
+朝刊 (Furigana),,,,ちょうかん
+朝刊 (Meaning),,,,MORNING EDITION
+奏楽 (Furigana),,,,そうがく
+奏楽 (Meaning),,,,MUSICAL PERFORMANCE (INSTRUMENTAL MUSIC)
+演奏 (Furigana),,,,えんそう
+演奏 (Meaning),,,,MUSICAL PERFORMANCE (PERFORMANCE)
+奈良県 (Furigana),,,,ならけん
+奈良県 (Meaning),,,,NARA PREFECTURE
+必需品 (Furigana),,,,ひつじゅひん
+必需品 (Meaning),,,,NECESSITIES (ESSENTIALS)
+沖縄 (Furigana),,,,おきなわ
+沖縄 (Meaning),,,,OKINAWA
+老齢 (Furigana),,,,ろうれい
+老齢 (Meaning),,,,OLD AGE
+却って (Furigana),,,,かえって
+却って (Meaning),,,,ON THE CONTRARY (INSTEAD)
+抑圧 (Furigana),,,,よくあつ
+抑圧 (Meaning),,,,OPPRESSION
+一般的 (Furigana),,,,いっぱんてき
+一般的 (Meaning),,,,ORDINARY (GENERAL, COMMON)
+完璧 (Furigana),,,,かんぺき
+完璧 (Meaning),,,,PERFECT (FLAWLESS, COMPLETE)
+妊婦 (Furigana),,,,にんぷ
+妊婦 (Meaning),,,,PREGNANT WOMAN
+奥深い (Furigana),,,,おくぶかい
+奥深い (Meaning),,,,PROFOUND (DEEP)
+生還 (Furigana),,,,せいかん
+生還 (Meaning),,,,REACHING HOME PLATE (RETURNING ALIVE)
+却下 (Furigana),,,,きゃっか
+却下 (Meaning),,,,REJECTION (DISMISSAL)
+遠慮 (Furigana),,,,えんりょ
+遠慮 (Meaning),,,,RESTRAINT (DECLINE, HESITATION)
+返還 (Furigana),,,,へんかん
+返還 (Meaning),,,,RETURN (RESTORATION)
+還元 (Furigana),,,,かんげん
+還元 (Meaning),,,,RETURN TO ORIGINS (REDUCTION)
+縄張り (Furigana),,,,なわばり
+縄張り (Meaning),,,,ROPE OFF (TURF, TERRITORY, DOMAIN)
+内緒 (Furigana),,,,ないしょ
+内緒 (Meaning),,,,SECRET (CONFIDENTIAL)
+選択 (Furigana),,,,せんたく
+選択 (Meaning),,,,SELECTION (CHOICE)
+対称 (Furigana),,,,たいしょう
+対称 (Meaning),,,,SYMMETRY
+お見舞い (Furigana),,,,おみまい
+お見舞い (Meaning),,,,SYMPATHY VISIT
+傾向 (Furigana),,,,けいこう
+傾向 (Meaning),,,,TENDENCY
+廃止する (Furigana),,,,はいしする
+廃止する (Meaning),,,,TO ABOLISH
+同伴する (Furigana),,,,どうはんする
+同伴する (Meaning),,,,TO ACCOMPANY
+伴う (Furigana),,,,ともなう
+伴う (Meaning),,,,TO ACCOMPANY
+避ける (Furigana),,,,さける
+避ける (Meaning),,,,TO AVOID (TO DODGE)
+傾く (Furigana),,,,かたむく
+傾く (Meaning),,,,TO BE LEANED (TO BE TILTED)
+妊娠する (Furigana),,,,にんしんする
+妊娠する (Meaning),,,,TO BE PREGNANT (TO GET PREGNANT)
+噛む (Furigana),,,,かむ
+噛む (Meaning),,,,TO BITE (TO CHEW)
+致す (Furigana),,,,いたす
+致す (Meaning),,,,TO DO
+描く (Furigana),,,,かく
+描く (Meaning),,,,TO DRAW (TO SKETCH)
+託す (Furigana),,,,たくす
+託す (Meaning),,,,TO ENTRUST
+逃げる (Furigana),,,,にげる
+逃げる (Meaning),,,,TO ESCAPE (TO FLEE, TO RUN AWAY)
+超す (Furigana),,,,こす
+超す (Meaning),,,,TO EXCEED (TO GO OVER, TO SURPASS)
+及ぼす (Furigana),,,,およぼす
+及ぼす (Meaning),,,,TO EXERT (TO CAUSE)
+一緒 (Furigana),,,,いっしょ
+一緒 (Meaning),,,,TOGETHER
+贈る (Furigana),,,,おくる
+贈る (Meaning),,,,TO GIVE A PRESENT (TO GIVE)
+扱う (Furigana),,,,あつかう
+扱う (Meaning),,,,TO HANDLE (TO TREAT)
+緩む (Furigana),,,,ゆるむ
+緩む (Meaning),,,,TO LOOSEN
+維持する (Furigana),,,,いじする
+維持する (Meaning),,,,TO MAINTAIN
+一致する (Furigana),,,,いっちする
+一致する (Meaning),,,,TO MATCH
+賄う (Furigana),,,,まかなう
+賄う (Meaning),,,,TO PAY (TO COVER)
+指摘する (Furigana),,,,してきする
+指摘する (Meaning),,,,TO POINT OUT (TO IDENTIFY)
+刊行する (Furigana),,,,かんこうする
+刊行する (Meaning),,,,TO PUBLISH
+頼る (Furigana),,,,たよる
+頼る (Meaning),,,,TO RELY ON (TO TRUST, TO DEPEND ON)
+戻す (Furigana),,,,もどす
+戻す (Meaning),,,,TO RETURN (TO RETURN SOMETHING)
+繰る (Furigana),,,,くる
+繰る (Meaning),,,,TO SPIN (TO TURN OVER, TO REEL IN, TO SHUFFLE)
+懸ける (Furigana),,,,かける
+懸ける (Meaning),,,,TO STAKE (TO RISK)
+踏み込む (Furigana),,,,ふみこむ
+踏み込む (Meaning),,,,TO STEP INTO (TO RUSH INTO)
+伸ばす (Furigana),,,,のばす
+伸ばす (Meaning),,,,TO STRETCH SOMETHING
+降ろす (Furigana),,,,おろす
+降ろす (Meaning),,,,TO TAKE DOWN (TO LAUNCH, TO DROP, TO LOWER, TO BRING DOWN)
+乗り換える (Furigana),,,,のりかえる
+乗り換える (Meaning),,,,TO TRANSFER (TO CHANGE TRAINS)
+貿易会社 (Furigana),,,,ぼうえきがいしゃ
+貿易会社 (Meaning),,,,TRADING FIRM
 盤 (Furigana),,,,ばん
 盤 (Meaning),,,,TRAY (BOARD, DISC)
-信 (Furigana),,,,しん
-信 (Meaning),,,,TRUST (ENTRUSTING)
-奥 (Furigana),,,,おく
-奥 (Meaning),,,,WIFE
-仮 (Furigana),,,,か
-仮 (Meaning),,,,WORKING NAME (TENTATIVE NAME)
-欠 (Furigana),,,,けつ
-欠 (Meaning),,,,YAWN (YAWNING)
-年 (Furigana),,,,ねん
-年 (Meaning),,,,YEARS OLD (AGE)
+信託 (Furigana),,,,しんたく
+信託 (Meaning),,,,TRUST (ENTRUSTING)
+奥さん (Furigana),,,,おくさん
+奥さん (Meaning),,,,WIFE
+仮称 (Furigana),,,,かしょう
+仮称 (Meaning),,,,WORKING NAME (TENTATIVE NAME)
+欠伸 (Furigana),,,,あくび
+欠伸 (Meaning),,,,YAWN (YAWNING)
+年齢 (Furigana),,,,ねんれい
+年齢 (Meaning),,,,YEARS OLD (AGE)

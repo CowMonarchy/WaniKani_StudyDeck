@@ -42,10 +42,10 @@
 奇 (Meaning),,,,Odd
 衆 (Onyomi),,,,しゅう
 衆 (Meaning),,,,Populace
-潔 (Onyomi),,,,けつ
-潔 (Meaning),,,,Pure
 清 (Onyomi),,,,せい
 清 (Meaning),,,,Pure
+潔 (Onyomi),,,,けつ
+潔 (Meaning),,,,Pure
 録 (Onyomi),,,,ろく
 録 (Meaning),,,,Record
 逆 (Onyomi),,,,ぎゃく
@@ -66,243 +66,243 @@
 傘 (Meaning),,,,Umbrella
 婦 (Onyomi),,,,ふ
 婦 (Meaning),,,,Wife
-絶 (Furigana),,,,ぜつ
-絶 (Meaning),,,,ABSOLUTELY (WITHOUT FAIL, UNCONDITIONALLY)
-進 (Furigana),,,,しん
-進 (Meaning),,,,ADVANCE (CHARGE)
-前 (Furigana),,,,ぜん
-前 (Meaning),,,,ADVANCE TICKET (TICKET SOLD IN ADVANCE)
-巨 (Furigana),,,,きょ
-巨 (Meaning),,,,A GIANT (GIANT)
-軍 (Furigana),,,,ぐん
-軍 (Meaning),,,,ARMY (AN ARMY)
-矢 (Furigana),,,,や
-矢 (Meaning),,,,ARROW (ARROW SYMBOL)
-金 (Furigana),,,,きん
-金 (Meaning),,,,A SAFE (SAFE)
-星 (Furigana),,,,せい
-星 (Meaning),,,,ASTROLOGY (HOROSCOPE)
-攻 (Furigana),,,,こう
-攻 (Meaning),,,,ATTACK
+絶対 (Furigana),,,,ぜったい
+絶対 (Meaning),,,,ABSOLUTELY (WITHOUT FAIL, UNCONDITIONALLY)
+進撃 (Furigana),,,,しんげき
+進撃 (Meaning),,,,ADVANCE (CHARGE)
+前売り券 (Furigana),,,,まえうりけん
+前売り券 (Meaning),,,,ADVANCE TICKET (TICKET SOLD IN ADVANCE)
+巨人 (Furigana),,,,きょじん
+巨人 (Meaning),,,,A GIANT (GIANT)
+軍隊 (Furigana),,,,ぐんたい
+軍隊 (Meaning),,,,ARMY (AN ARMY)
+矢印 (Furigana),,,,やじるし
+矢印 (Meaning),,,,ARROW (ARROW SYMBOL)
+金庫 (Furigana),,,,きんこ
+金庫 (Meaning),,,,A SAFE (SAFE)
+星占い (Furigana),,,,ほしうらない
+星占い (Meaning),,,,ASTROLOGY (HOROSCOPE)
+攻撃 (Furigana),,,,こうげき
+攻撃 (Meaning),,,,ATTACK
 浜 (Furigana),,,,はま
 浜 (Meaning),,,,BEACH
-浜 (Furigana),,,,はま
-浜 (Meaning),,,,BEACH
-何 (Furigana),,,,なに
-何 (Meaning),,,,BECAUSE (THE REASON IS)
-有 (Furigana),,,,ゆう
-有 (Meaning),,,,BENEFICIAL (USEFUL)
-大 (Furigana),,,,たい
-大 (Meaning),,,,BIG MISTAKE
-回 (Furigana),,,,かい
-回 (Meaning),,,,BOOK OF TICKETS (TRAIN TICKETS, TRAIN COUPONS)
-菓 (Furigana),,,,か
-菓 (Meaning),,,,CANDY STORE (CANDY SHOP, SWEET STORE, SWEET SHOP)
-幼 (Furigana),,,,よう
-幼 (Meaning),,,,CHILDHOOD
-幼 (Furigana),,,,よう
-幼 (Meaning),,,,CHILDISH (IMMATURE)
-幼 (Furigana),,,,よう
-幼 (Meaning),,,,CHILDISH (VERY YOUNG, IMMATURE)
-幼 (Furigana),,,,よう
-幼 (Meaning),,,,CHILDREN (CHILD, TODDLER)
-児 (Furigana),,,,じ
-児 (Meaning),,,,CHILDREN
-清 (Furigana),,,,せい
-清 (Meaning),,,,CLEAN (CLEANNESS, CLEANLINESS)
-冷 (Furigana),,,,れい
-冷 (Meaning),,,,COLD (COOL, COLD TO THE TOUCH)
-比 (Furigana),,,,ひ
-比 (Meaning),,,,COMPARATIVELY (RELATIVELY)
-憲 (Furigana),,,,けん
-憲 (Meaning),,,,CONSTITUTION
-憲 (Furigana),,,,けん
-憲 (Meaning),,,,CONSTITUTIONAL GOVERNMENT
-冷 (Furigana),,,,れい
-冷 (Meaning),,,,COOL HEADED (CALM, COMPOSURE)
-反 (Furigana),,,,はん
-反 (Meaning),,,,COUNTERATTACK (COUNTER OFFENSIVE)
-従 (Furigana),,,,じゅう
-従 (Meaning),,,,COUSIN (MALE COUSIN)
-創 (Furigana),,,,そう
-創 (Meaning),,,,CREATIVE
-創 (Furigana),,,,そう
-創 (Meaning),,,,CREATIVE POWER (CREATIVITY)
-処 (Furigana),,,,しょ
-処 (Meaning),,,,DEAL WITH (TAKE CARE OF, PROCESS)
-程 (Furigana),,,,てい
-程 (Meaning),,,,DEGREE (EXTENT, LEVEL)
-微 (Furigana),,,,び
-微 (Meaning),,,,DELICATE (FAINT, INDISTINCT, DIM)
-絶 (Furigana),,,,ぜつ
-絶 (Meaning),,,,DESPAIR (HOPELESSNESS)
-直 (Furigana),,,,ちょく
-直 (Meaning),,,,DIRECTLY (DIRECT)
-処 (Furigana),,,,しょ
-処 (Meaning),,,,DISPOSAL
-入 (Furigana),,,,にゅう
-入 (Meaning),,,,ENLIST IN THE ARMY (ENLIST)
-程 (Furigana),,,,てい
+浜辺 (Furigana),,,,はまべ
+浜辺 (Meaning),,,,BEACH
+何故なら (Furigana),,,,なぜなら
+何故なら (Meaning),,,,BECAUSE (THE REASON IS)
+有益 (Furigana),,,,ゆうえき
+有益 (Meaning),,,,BENEFICIAL (USEFUL)
+大間違い (Furigana),,,,おおまちがい
+大間違い (Meaning),,,,BIG MISTAKE
+回数券 (Furigana),,,,かいすうけん
+回数券 (Meaning),,,,BOOK OF TICKETS (TRAIN TICKETS, TRAIN COUPONS)
+菓子屋 (Furigana),,,,かしや
+菓子屋 (Meaning),,,,CANDY STORE (CANDY SHOP, SWEET STORE, SWEET SHOP)
+幼年時代 (Furigana),,,,ようねんじだい
+幼年時代 (Meaning),,,,CHILDHOOD
+幼稚 (Furigana),,,,ようち
+幼稚 (Meaning),,,,CHILDISH (IMMATURE)
+幼い (Furigana),,,,おさない
+幼い (Meaning),,,,CHILDISH (VERY YOUNG, IMMATURE)
+幼児 (Furigana),,,,ようじ
+幼児 (Meaning),,,,CHILDREN (CHILD, TODDLER)
+児童 (Furigana),,,,じどう
+児童 (Meaning),,,,CHILDREN
+清潔 (Furigana),,,,せいけつ
+清潔 (Meaning),,,,CLEAN (CLEANNESS, CLEANLINESS)
+冷たい (Furigana),,,,つめたい
+冷たい (Meaning),,,,COLD (COOL, COLD TO THE TOUCH)
+比較的 (Furigana),,,,ひかくてき
+比較的 (Meaning),,,,COMPARATIVELY (RELATIVELY)
+憲法 (Furigana),,,,けんぽう
+憲法 (Meaning),,,,CONSTITUTION
+憲政 (Furigana),,,,けんせい
+憲政 (Meaning),,,,CONSTITUTIONAL GOVERNMENT
+冷静 (Furigana),,,,れいせい
+冷静 (Meaning),,,,COOL HEADED (CALM, COMPOSURE)
+反攻 (Furigana),,,,はんこう
+反攻 (Meaning),,,,COUNTERATTACK (COUNTER OFFENSIVE)
+従兄弟 (Furigana),,,,いとこ
+従兄弟 (Meaning),,,,COUSIN (MALE COUSIN)
+創造的 (Furigana),,,,そうぞうてき
+創造的 (Meaning),,,,CREATIVE
+創造力 (Furigana),,,,そうぞうりょく
+創造力 (Meaning),,,,CREATIVE POWER (CREATIVITY)
+処理 (Furigana),,,,しょり
+処理 (Meaning),,,,DEAL WITH (TAKE CARE OF, PROCESS)
+程度 (Furigana),,,,ていど
+程度 (Meaning),,,,DEGREE (EXTENT, LEVEL)
+微か (Furigana),,,,かすか
+微か (Meaning),,,,DELICATE (FAINT, INDISTINCT, DIM)
+絶望 (Furigana),,,,ぜつぼう
+絶望 (Meaning),,,,DESPAIR (HOPELESSNESS)
+直接的 (Furigana),,,,ちょくせつてき
+直接的 (Meaning),,,,DIRECTLY (DIRECT)
+処分 (Furigana),,,,しょぶん
+処分 (Meaning),,,,DISPOSAL
+入隊 (Furigana),,,,にゅうたい
+入隊 (Meaning),,,,ENLIST IN THE ARMY (ENLIST)
+程 (Furigana),,,,ほど
 程 (Meaning),,,,EXTENT (AN EXTENT)
-不 (Furigana),,,,ふ
-不 (Meaning),,,,FILTHY (DIRTY)
-凍 (Furigana),,,,とう
-凍 (Meaning),,,,FREEZE
-冷 (Furigana),,,,れい
-冷 (Meaning),,,,FREEZER
-凍 (Furigana),,,,とう
-凍 (Meaning),,,,FREEZE TO DEATH
-振 (Furigana),,,,しん
-振 (Meaning),,,,FURIGANA (SMALL KANA NEXT TO KANJI)
-博 (Furigana),,,,はく
-博 (Meaning),,,,GAMBLING
-車 (Furigana),,,,しゃ
-車 (Meaning),,,,GARAGE
-大 (Furigana),,,,たい
-大 (Meaning),,,,GENERAL PUBLIC
-身 (Furigana),,,,しん
-身 (Meaning),,,,GESTURE
-家 (Furigana),,,,か
-家 (Meaning),,,,HOUSEKEEPER (MAID)
-衆 (Furigana),,,,しゅう
-衆 (Meaning),,,,HOUSE OF REPRESENTATIVES
-主 (Furigana),,,,しゅ
-主 (Meaning),,,,HOUSEWIFE
-巨 (Furigana),,,,きょ
-巨 (Meaning),,,,HUGE (GIGANTIC, ENORMOUS)
-夫 (Furigana),,,,ふう
-夫 (Meaning),,,,HUSBAND AND WIFE (WIFE AND HUSBAND, MARRIED COUPLE)
-移 (Furigana),,,,い
-移 (Meaning),,,,IMMIGRATION (EMIGRATION, EMIGRANT, IMMIGRANT, MIGRATION, MIGRANT)
-並 (Furigana),,,,へい
-並 (Meaning),,,,IN A ROW (ARRANGE IN A ROW)
-婦 (Furigana),,,,ふ
-婦 (Meaning),,,,LADY
-郵 (Furigana),,,,ゆう
-郵 (Meaning),,,,MAILBOX (POSTBOX)
-専 (Furigana),,,,せん
-専 (Meaning),,,,MAJOR (COLLEGE MAJOR, FIELD OF STUDY)
-修 (Furigana),,,,しゅう
-修 (Meaning),,,,MASTER'S DEGREE
-微 (Furigana),,,,び
-微 (Meaning),,,,MICROORGANISM (MICROBE)
-移 (Furigana),,,,い
-移 (Meaning),,,,MIGRATION (IMMIGRATION)
-移 (Furigana),,,,い
-移 (Meaning),,,,MOVEMENT (TRANSFER, REMOVAL, MIGRATION)
-博 (Furigana),,,,はく
-博 (Meaning),,,,MUSEUM
-国 (Furigana),,,,こく
-国 (Meaning),,,,NATIONAL INTERESTS (NATIONAL BENEFIT)
-微 (Furigana),,,,び
-微 (Meaning),,,,NOT SO GOOD (NOT REALLY, DELICATE, COMPLICATED, DOUBTFUL)
+不潔 (Furigana),,,,ふけつ
+不潔 (Meaning),,,,FILTHY (DIRTY)
+凍結 (Furigana),,,,とうけつ
+凍結 (Meaning),,,,FREEZE
+冷凍庫 (Furigana),,,,れいとうこ
+冷凍庫 (Meaning),,,,FREEZER
+凍死 (Furigana),,,,とうし
+凍死 (Meaning),,,,FREEZE TO DEATH
+振り仮名 (Furigana),,,,ふりがな
+振り仮名 (Meaning),,,,FURIGANA (SMALL KANA NEXT TO KANJI)
+博打 (Furigana),,,,ばくち
+博打 (Meaning),,,,GAMBLING
+車庫 (Furigana),,,,しゃこ
+車庫 (Meaning),,,,GARAGE
+大衆 (Furigana),,,,たいしゅう
+大衆 (Meaning),,,,GENERAL PUBLIC
+身振り (Furigana),,,,みぶり
+身振り (Meaning),,,,GESTURE
+家政婦 (Furigana),,,,かせいふ
+家政婦 (Meaning),,,,HOUSEKEEPER (MAID)
+衆議院 (Furigana),,,,しゅうぎいん
+衆議院 (Meaning),,,,HOUSE OF REPRESENTATIVES
+主婦 (Furigana),,,,しゅふ
+主婦 (Meaning),,,,HOUSEWIFE
+巨大 (Furigana),,,,きょだい
+巨大 (Meaning),,,,HUGE (GIGANTIC, ENORMOUS)
+夫婦 (Furigana),,,,ふうふ
+夫婦 (Meaning),,,,HUSBAND AND WIFE (WIFE AND HUSBAND, MARRIED COUPLE)
+移民 (Furigana),,,,いみん
+移民 (Meaning),,,,IMMIGRATION (EMIGRATION, EMIGRANT, IMMIGRANT, MIGRATION, MIGRANT)
+並列 (Furigana),,,,へいれつ
+並列 (Meaning),,,,IN A ROW (ARRANGE IN A ROW)
+婦人 (Furigana),,,,ふじん
+婦人 (Meaning),,,,LADY
+郵便箱 (Furigana),,,,ゆうびんばこ
+郵便箱 (Meaning),,,,MAILBOX (POSTBOX)
+専攻 (Furigana),,,,せんこう
+専攻 (Meaning),,,,MAJOR (COLLEGE MAJOR, FIELD OF STUDY)
+修士 (Furigana),,,,しゅうし
+修士 (Meaning),,,,MASTER'S DEGREE
+微生物 (Furigana),,,,びせいぶつ
+微生物 (Meaning),,,,MICROORGANISM (MICROBE)
+移住 (Furigana),,,,いじゅう
+移住 (Meaning),,,,MIGRATION (IMMIGRATION)
+移動 (Furigana),,,,いどう
+移動 (Meaning),,,,MOVEMENT (TRANSFER, REMOVAL, MIGRATION)
+博物館 (Furigana),,,,はくぶつかん
+博物館 (Meaning),,,,MUSEUM
+国益 (Furigana),,,,こくえき
+国益 (Meaning),,,,NATIONAL INTERESTS (NATIONAL BENEFIT)
+微妙 (Furigana),,,,びみょう
+微妙 (Meaning),,,,NOT SO GOOD (NOT REALLY, DELICATE, COMPLICATED, DOUBTFUL)
 妙 (Furigana),,,,みょう
 妙 (Meaning),,,,ODD (UNUSUAL, STRANGE)
-逆 (Furigana),,,,ぎゃく
-逆 (Meaning),,,,OPPOSITE EFFECT
-並 (Furigana),,,,へい
+逆効果 (Furigana),,,,ぎゃくこうか
+逆効果 (Meaning),,,,OPPOSITE EFFECT
+並 (Furigana),,,,なみ
 並 (Meaning),,,,ORDINARY (AVERAGE)
-逆 (Furigana),,,,ぎゃく
-逆 (Meaning),,,,PARADOX
-並 (Furigana),,,,へい
-並 (Meaning),,,,PARALLEL
-旅 (Furigana),,,,りょ
-旅 (Meaning),,,,PASSPORT
-郵 (Furigana),,,,ゆう
-郵 (Meaning),,,,POST NUMBER (POSTAL CODE, POSTCODE, ZIP CODE)
-郵 (Furigana),,,,ゆう
-郵 (Meaning),,,,POST OFFICE
-精 (Furigana),,,,せい
-精 (Meaning),,,,PRECISION (ACCURACY)
-過 (Furigana),,,,か
-過 (Meaning),,,,PROCESS (A PROCESS)
-利 (Furigana),,,,り
-利 (Meaning),,,,PROFIT
-公 (Furigana),,,,こう
-公 (Meaning),,,,PUBLIC BENEFIT (PUBLIC INTEREST)
-潔 (Furigana),,,,けつ
-潔 (Meaning),,,,PURE (PURE HEARTED, GRACIOUS)
-清 (Furigana),,,,せい
-清 (Meaning),,,,PURE (CLEAN)
-記 (Furigana),,,,き
-記 (Meaning),,,,RECORD (DOCUMENT)
-登 (Furigana),,,,とう
-登 (Meaning),,,,REGISTRATION
-修 (Furigana),,,,しゅう
-修 (Meaning),,,,REPAIR
+逆説 (Furigana),,,,ぎゃくせつ
+逆説 (Meaning),,,,PARADOX
+並行 (Furigana),,,,へいこう
+並行 (Meaning),,,,PARALLEL
+旅券 (Furigana),,,,りょけん
+旅券 (Meaning),,,,PASSPORT
+郵便番号 (Furigana),,,,ゆうびんばんごう
+郵便番号 (Meaning),,,,POST NUMBER (POSTAL CODE, POSTCODE, ZIP CODE)
+郵便局 (Furigana),,,,ゆうびんきょく
+郵便局 (Meaning),,,,POST OFFICE
+精度 (Furigana),,,,せいど
+精度 (Meaning),,,,PRECISION (ACCURACY)
+過程 (Furigana),,,,かてい
+過程 (Meaning),,,,PROCESS (A PROCESS)
+利益 (Furigana),,,,りえき
+利益 (Meaning),,,,PROFIT
+公益 (Furigana),,,,こうえき
+公益 (Meaning),,,,PUBLIC BENEFIT (PUBLIC INTEREST)
+清い (Furigana),,,,きよい
+清い (Meaning),,,,PURE (CLEAN)
+潔い (Furigana),,,,いさぎよい
+潔い (Meaning),,,,PURE (PURE HEARTED, GRACIOUS)
+記録 (Furigana),,,,きろく
+記録 (Meaning),,,,RECORD (DOCUMENT)
+登録 (Furigana),,,,とうろく
+登録 (Meaning),,,,REGISTRATION
+修理 (Furigana),,,,しゅうり
+修理 (Meaning),,,,REPAIR
 逆 (Furigana),,,,ぎゃく
 逆 (Meaning),,,,REVERSE (OPPOSITE)
-修 (Furigana),,,,しゅう
-修 (Meaning),,,,RHETORIC
-刺 (Furigana),,,,し
-刺 (Meaning),,,,SASHIMI
-貯 (Furigana),,,,ちょ
-貯 (Meaning),,,,SAVINGS BOX (PIGGY BANK, BANK, MONEY BOX)
-日 (Furigana),,,,にち
-日 (Meaning),,,,SCHEDULE (AGENDA)
-兵 (Furigana),,,,へい
-兵 (Meaning),,,,SOLDIER (SAILOR)
-録 (Furigana),,,,ろく
-録 (Meaning),,,,SOUND RECORDING (AUDIO RECORDING)
-精 (Furigana),,,,せい
-精 (Meaning),,,,SPIRIT (MIND, SOUL)
-隊 (Furigana),,,,たい
-隊 (Meaning),,,,SQUAD (PARTY, TEAM)
-絶 (Furigana),,,,ぜつ
-絶 (Meaning),,,,SUPERB VIEW (SPLENDID VIEW, STUNNING VIEW, SPECTACULAR VIEW, GREAT VIEW)
-独 (Furigana),,,,どく
-独 (Meaning),,,,TALKING TO YOURSELF
-解 (Furigana),,,,かい
-解 (Meaning),,,,THAWING (DEFROSTING, UNZIPPING)
-故 (Furigana),,,,こ
-故 (Meaning),,,,THEREFORE (CONSEQUENTLY)
-券 (Furigana),,,,けん
-券 (Meaning),,,,TICKET
-攻 (Furigana),,,,こう
-攻 (Meaning),,,,TO ATTACK (TO ASSAULT, TO ASSAIL)
-並 (Furigana),,,,へい
-並 (Meaning),,,,TO BE LINED UP
-痛 (Furigana),,,,つう
-痛 (Meaning),,,,TO BE PAINFUL (TO HURT)
-比 (Furigana),,,,ひ
-比 (Meaning),,,,TO COMPARE
-凍 (Furigana),,,,とう
-凍 (Meaning),,,,TO FREEZE (TO BE FROZEN)
-逆 (Furigana),,,,ぎゃく
-逆 (Meaning),,,,TO GO AGAINST (TO OPPOSE, TO BE CONTRARY TO)
-輸 (Furigana),,,,ゆ
-輸 (Meaning),,,,TO IMPORT
-面 (Furigana),,,,めん
-面 (Meaning),,,,TO INTERVIEW WITH (TO INTERVIEW)
-間 (Furigana),,,,かん
-間 (Meaning),,,,TO MAKE A MISTAKE (TO CONFUSE, TO MISTAKE)
-回 (Furigana),,,,かい
-回 (Meaning),,,,TO RECOVER
-退 (Furigana),,,,たい
-退 (Meaning),,,,TO RETREAT (TO WITHDRAW, TO RESIGN)
-絶 (Furigana),,,,ぜつ
-絶 (Meaning),,,,TO SEVER (TO CUT OFF, TO ABSTAIN FROM)
-移 (Furigana),,,,い
-移 (Meaning),,,,TO SHIFT (TO TRANSFER)
-撃 (Furigana),,,,げき
-撃 (Meaning),,,,TO SHOOT (TO ATTACK, TO FIRE A GUN)
-無 (Furigana),,,,む
-無 (Meaning),,,,TOTAL ABSORPTION (ECSTASY)
-研 (Furigana),,,,けん
-研 (Meaning),,,,TRAINING (IN SERVICE TRAINING, STUDY)
-処 (Furigana),,,,しょ
-処 (Meaning),,,,TREATMENT (MEASURE, DISPOSAL, DEAL WITH)
+修辞学 (Furigana),,,,しゅうじがく
+修辞学 (Meaning),,,,RHETORIC
+刺身 (Furigana),,,,さしみ
+刺身 (Meaning),,,,SASHIMI
+貯金箱 (Furigana),,,,ちょきんばこ
+貯金箱 (Meaning),,,,SAVINGS BOX (PIGGY BANK, BANK, MONEY BOX)
+日程 (Furigana),,,,にってい
+日程 (Meaning),,,,SCHEDULE (AGENDA)
+兵隊 (Furigana),,,,へいたい
+兵隊 (Meaning),,,,SOLDIER (SAILOR)
+録音 (Furigana),,,,ろくおん
+録音 (Meaning),,,,SOUND RECORDING (AUDIO RECORDING)
+精神 (Furigana),,,,せいしん
+精神 (Meaning),,,,SPIRIT (MIND, SOUL)
+〜隊 (Furigana),,,,たい
+〜隊 (Meaning),,,,SQUAD (PARTY, TEAM)
+絶景 (Furigana),,,,ぜっけい
+絶景 (Meaning),,,,SUPERB VIEW (SPLENDID VIEW, STUNNING VIEW, SPECTACULAR VIEW, GREAT VIEW)
+独り言 (Furigana),,,,ひとりごと
+独り言 (Meaning),,,,TALKING TO YOURSELF
+解凍 (Furigana),,,,かいとう
+解凍 (Meaning),,,,THAWING (DEFROSTING, UNZIPPING)
+故に (Furigana),,,,ゆえに
+故に (Meaning),,,,THEREFORE (CONSEQUENTLY)
+〜券 (Furigana),,,,けん
+〜券 (Meaning),,,,TICKET
+攻める (Furigana),,,,せめる
+攻める (Meaning),,,,TO ATTACK (TO ASSAULT, TO ASSAIL)
+並ぶ (Furigana),,,,ならぶ
+並ぶ (Meaning),,,,TO BE LINED UP
+痛む (Furigana),,,,いたむ
+痛む (Meaning),,,,TO BE PAINFUL (TO HURT)
+比較する (Furigana),,,,ひかくする
+比較する (Meaning),,,,TO COMPARE
+凍る (Furigana),,,,こおる
+凍る (Meaning),,,,TO FREEZE (TO BE FROZEN)
+逆らう (Furigana),,,,さからう
+逆らう (Meaning),,,,TO GO AGAINST (TO OPPOSE, TO BE CONTRARY TO)
+輸入する (Furigana),,,,ゆにゅうする
+輸入する (Meaning),,,,TO IMPORT
+面接する (Furigana),,,,めんせつする
+面接する (Meaning),,,,TO INTERVIEW WITH (TO INTERVIEW)
+間違える (Furigana),,,,まちがえる
+間違える (Meaning),,,,TO MAKE A MISTAKE (TO CONFUSE, TO MISTAKE)
+回復する (Furigana),,,,かいふくする
+回復する (Meaning),,,,TO RECOVER
+退く (Furigana),,,,しりぞく
+退く (Meaning),,,,TO RETREAT (TO WITHDRAW, TO RESIGN)
+絶つ (Furigana),,,,たつ
+絶つ (Meaning),,,,TO SEVER (TO CUT OFF, TO ABSTAIN FROM)
+移す (Furigana),,,,うつす
+移す (Meaning),,,,TO SHIFT (TO TRANSFER)
+撃つ (Furigana),,,,うつ
+撃つ (Meaning),,,,TO SHOOT (TO ATTACK, TO FIRE A GUN)
+無我夢中 (Furigana),,,,むがむちゅう
+無我夢中 (Meaning),,,,TOTAL ABSORPTION (ECSTASY)
+研修 (Furigana),,,,けんしゅう
+研修 (Meaning),,,,TRAINING (IN SERVICE TRAINING, STUDY)
+処置 (Furigana),,,,しょち
+処置 (Meaning),,,,TREATMENT (MEASURE, DISPOSAL, DEAL WITH)
 傘 (Furigana),,,,かさ
 傘 (Meaning),,,,UMBRELLA
-傘 (Furigana),,,,かさ
-傘 (Meaning),,,,UMBRELLA STAND (UMBRELLA HOLDER)
-庫 (Furigana),,,,こ
+傘立て (Furigana),,,,かさたて
+傘立て (Meaning),,,,UMBRELLA STAND (UMBRELLA HOLDER)
+庫 (Furigana),,,,くら
 庫 (Meaning),,,,WAREHOUSE (GRANARY)
-我 (Furigana),,,,が
-我 (Meaning),,,,WE (US)
-針 (Furigana),,,,しん
-針 (Meaning),,,,WIRE
-妙 (Furigana),,,,みょう
-妙 (Meaning),,,,WONDER DRUG (MIRACLE CURE)
-横 (Furigana),,,,よこ
-横 (Meaning),,,,YOKOHAMA
+我々 (Furigana),,,,われわれ
+我々 (Meaning),,,,WE (US)
+針金 (Furigana),,,,はりがね
+針金 (Meaning),,,,WIRE
+妙薬 (Furigana),,,,みょうやく
+妙薬 (Meaning),,,,WONDER DRUG (MIRACLE CURE)
+横浜 (Furigana),,,,よこはま
+横浜 (Meaning),,,,YOKOHAMA

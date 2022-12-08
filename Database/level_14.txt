@@ -62,245 +62,245 @@
 希 (Meaning),,,,Wish
 狼 (Onyomi),,,,おおかみ
 狼 (Meaning),,,,Wolf
-能 (Furigana),,,,のう
-能 (Meaning),,,,ABILITY (CAPABILITY)
+能力 (Furigana),,,,のうりょく
+能力 (Meaning),,,,ABILITY (CAPABILITY)
 約 (Furigana),,,,やく
 約 (Meaning),,,,ABOUT (APPROXIMATELY)
-知 (Furigana),,,,ち
-知 (Meaning),,,,ACQUAINTANCE
-的 (Furigana),,,,てき
-的 (Meaning),,,,AL (LIKE, TYPICAL)
-周 (Furigana),,,,しゅう
-周 (Meaning),,,,ANNIVERSARY
-芸 (Furigana),,,,げい
-芸 (Meaning),,,,ART (THE ARTS, FINE ART)
-協 (Furigana),,,,きょう
-協 (Meaning),,,,ASSOCIATION (ORGANIZATION, SOCIETY)
-雰 (Furigana),,,,ふん
-雰 (Meaning),,,,ATMOSPHERE (AMBIENCE, AMBIANCE, MOOD)
-自 (Furigana),,,,じ
-自 (Meaning),,,,AUTOMATIC
-悪 (Furigana),,,,あく
-悪 (Meaning),,,,BAD EXAMPLE (BAD PRECEDENT)
-気 (Furigana),,,,き
-気 (Meaning),,,,BAD FEELING (FEELING BAD, FEELING TERRIBLE, UNPLEASANT, GROSS)
-骨 (Furigana),,,,こつ
+知り合い (Furigana),,,,しりあい
+知り合い (Meaning),,,,ACQUAINTANCE
+〜的 (Furigana),,,,てき
+〜的 (Meaning),,,,AL (LIKE, TYPICAL)
+周年 (Furigana),,,,しゅうねん
+周年 (Meaning),,,,ANNIVERSARY
+芸術 (Furigana),,,,げいじゅつ
+芸術 (Meaning),,,,ART (THE ARTS, FINE ART)
+協会 (Furigana),,,,きょうかい
+協会 (Meaning),,,,ASSOCIATION (ORGANIZATION, SOCIETY)
+雰囲気 (Furigana),,,,ふんいき
+雰囲気 (Meaning),,,,ATMOSPHERE (AMBIENCE, AMBIANCE, MOOD)
+自動 (Furigana),,,,じどう
+自動 (Meaning),,,,AUTOMATIC
+悪例 (Furigana),,,,あくれい
+悪例 (Meaning),,,,BAD EXAMPLE (BAD PRECEDENT)
+気持ち悪い (Furigana),,,,きもちわるい
+気持ち悪い (Meaning),,,,BAD FEELING (FEELING BAD, FEELING TERRIBLE, UNPLEASANT, GROSS)
+骨 (Furigana),,,,ほね
 骨 (Meaning),,,,BONE
-骨 (Furigana),,,,こつ
-骨 (Meaning),,,,BROKEN BONE (FRACTURE, BONE FRACTURE)
-束 (Furigana),,,,そく
+骨折 (Furigana),,,,こっせつ
+骨折 (Meaning),,,,BROKEN BONE (FRACTURE, BONE FRACTURE)
+束 (Furigana),,,,たば
 束 (Meaning),,,,BUNDLE (BUNCH)
-人 (Furigana),,,,にん
-人 (Meaning),,,,CARROT
-場 (Furigana),,,,じょう
-場 (Meaning),,,,CASE (CIRCUMSTANCE, SITUATION)
-人 (Furigana),,,,にん
-人 (Meaning),,,,CHARACTER (PERSONALITY)
-周 (Furigana),,,,しゅう
-周 (Meaning),,,,CIRCUMFERENCE (PERIMETER, EDGE, SURROUNDINGS, LOCALITY, NEIGHBORHOOD)
-芸 (Furigana),,,,げい
-芸 (Meaning),,,,COMEDIAN (PERFORMER, ENTERTAINER)
-完 (Furigana),,,,かん
-完 (Meaning),,,,COMPLETE (PERFECT, PERFECTION, COMPLETENESS)
-完 (Furigana),,,,かん
-完 (Meaning),,,,COMPLETION (ACCOMPLISHMENT)
-完 (Furigana),,,,かん
-完 (Meaning),,,,COMPLETION (COMPLETE, FINISH, CONCLUSION)
-妥 (Furigana),,,,だ
-妥 (Meaning),,,,COMPROMISE (GIVING IN)
-具 (Furigana),,,,ぐ
-具 (Meaning),,,,CONDITION (STATE, HEALTH)
-料 (Furigana),,,,りょう
-料 (Meaning),,,,COOKING (CUISINE, DISH)
-協 (Furigana),,,,きょう
-協 (Meaning),,,,COOPERATION (COLLABORATION, ASSISTANCE)
-周 (Furigana),,,,しゅう
-周 (Meaning),,,,CYCLE (PERIOD)
-深 (Furigana),,,,しん
-深 (Meaning),,,,DEPTH (PROFUNDITY)
-願 (Furigana),,,,がん
-願 (Meaning),,,,DESIRE (WISH, ASPIRATION)
-失 (Furigana),,,,しつ
-失 (Meaning),,,,DISAPPOINTMENT (DESPAIR)
-消 (Furigana),,,,しょう
-消 (Meaning),,,,ERASER (RUBBER)
-悪 (Furigana),,,,あく
-悪 (Meaning),,,,EVIL INTENT (MALICE, ILL WILL)
-例 (Furigana),,,,れい
-例 (Meaning),,,,EXAMPLE SENTENCE (MODEL SENTENCE, SAMPLE SENTENCE)
-例 (Furigana),,,,れい
-例 (Meaning),,,,EXCEPTION
-女 (Furigana),,,,じょ
-女 (Meaning),,,,FEMALE (WOMAN, LADY)
-美 (Furigana),,,,び
-美 (Meaning),,,,FINE ART (ART)
-例 (Furigana),,,,れい
-例 (Meaning),,,,FOR EXAMPLE (FOR INSTANCE, SUPPOSING THAT)
-基 (Furigana),,,,き
-基 (Meaning),,,,FOUNDATION (BASICS)
-試 (Furigana),,,,し
-試 (Meaning),,,,GAME (MATCH)
-芸 (Furigana),,,,げい
-芸 (Meaning),,,,GEISHA
+人参 (Furigana),,,,にんじん
+人参 (Meaning),,,,CARROT
+場合 (Furigana),,,,ばあい
+場合 (Meaning),,,,CASE (CIRCUMSTANCE, SITUATION)
+人格 (Furigana),,,,じんかく
+人格 (Meaning),,,,CHARACTER (PERSONALITY)
+周り (Furigana),,,,まわり
+周り (Meaning),,,,CIRCUMFERENCE (PERIMETER, EDGE, SURROUNDINGS, LOCALITY, NEIGHBORHOOD)
+芸人 (Furigana),,,,げいにん
+芸人 (Meaning),,,,COMEDIAN (PERFORMER, ENTERTAINER)
+完全 (Furigana),,,,かんぜん
+完全 (Meaning),,,,COMPLETE (PERFECT, PERFECTION, COMPLETENESS)
+完成 (Furigana),,,,かんせい
+完成 (Meaning),,,,COMPLETION (ACCOMPLISHMENT)
+完了 (Furigana),,,,かんりょう
+完了 (Meaning),,,,COMPLETION (COMPLETE, FINISH, CONCLUSION)
+妥協 (Furigana),,,,だきょう
+妥協 (Meaning),,,,COMPROMISE (GIVING IN)
+具合 (Furigana),,,,ぐあい
+具合 (Meaning),,,,CONDITION (STATE, HEALTH)
+料理 (Furigana),,,,りょうり
+料理 (Meaning),,,,COOKING (CUISINE, DISH)
+協力 (Furigana),,,,きょうりょく
+協力 (Meaning),,,,COOPERATION (COLLABORATION, ASSISTANCE)
+周期 (Furigana),,,,しゅうき
+周期 (Meaning),,,,CYCLE (PERIOD)
+深さ (Furigana),,,,ふかさ
+深さ (Meaning),,,,DEPTH (PROFUNDITY)
+願望 (Furigana),,,,がんぼう
+願望 (Meaning),,,,DESIRE (WISH, ASPIRATION)
+失望 (Furigana),,,,しつぼう
+失望 (Meaning),,,,DISAPPOINTMENT (DESPAIR)
+消しゴム (Furigana),,,,けしごむ
+消しゴム (Meaning),,,,ERASER (RUBBER)
+悪気 (Furigana),,,,わるぎ
+悪気 (Meaning),,,,EVIL INTENT (MALICE, ILL WILL)
+例文 (Furigana),,,,れいぶん
+例文 (Meaning),,,,EXAMPLE SENTENCE (MODEL SENTENCE, SAMPLE SENTENCE)
+例外 (Furigana),,,,れいがい
+例外 (Meaning),,,,EXCEPTION
+女性 (Furigana),,,,じょせい
+女性 (Meaning),,,,FEMALE (WOMAN, LADY)
+美術 (Furigana),,,,びじゅつ
+美術 (Meaning),,,,FINE ART (ART)
+例えば (Furigana),,,,たとえば
+例えば (Meaning),,,,FOR EXAMPLE (FOR INSTANCE, SUPPOSING THAT)
+基本 (Furigana),,,,きほん
+基本 (Meaning),,,,FOUNDATION (BASICS)
+試合 (Furigana),,,,しあい
+試合 (Meaning),,,,GAME (MATCH)
+芸者 (Furigana),,,,げいしゃ
+芸者 (Meaning),,,,GEISHA
 性 (Furigana),,,,せい
 性 (Meaning),,,,GENDER (NATURE, SEX)
-良 (Furigana),,,,りょう
-良 (Meaning),,,,GOOD (FAVORABLE, SATISFACTORY)
-卒 (Furigana),,,,そつ
-卒 (Meaning),,,,GRADUATION
-固 (Furigana),,,,こ
-固 (Meaning),,,,HARD (TOUGH, FIRM)
-念 (Furigana),,,,ねん
-念 (Meaning),,,,HEART'S DESIRE (EARNEST WISH)
-希 (Furigana),,,,き
-希 (Meaning),,,,HOPE (WISH, ASPIRATION)
-消 (Furigana),,,,しょう
-消 (Meaning),,,,INDIGESTION
-材 (Furigana),,,,ざい
-材 (Meaning),,,,INGREDIENTS (MATERIAL)
-一 (Furigana),,,,いち
-一 (Meaning),,,,INSTANCE (EXAMPLE)
-本 (Furigana),,,,ほん
-本 (Meaning),,,,INSTINCT
-意 (Furigana),,,,い
-意 (Meaning),,,,INTENTIONAL (ON PURPOSE)
-着 (Furigana),,,,ちゃく
-着 (Meaning),,,,KIMONO (CLOTHES)
-材 (Furigana),,,,ざい
-材 (Meaning),,,,LUMBER (TIMBER, WOOD)
-男 (Furigana),,,,だん
-男 (Meaning),,,,MALE (MAN, GUY)
-意 (Furigana),,,,い
-意 (Meaning),,,,MALICIOUS (MEAN, JERK)
-近 (Furigana),,,,きん
-近 (Meaning),,,,CONTEMPORARY (MODERN)
-山 (Furigana),,,,さん
-山 (Meaning),,,,MOUNTAIN CLIMBING
-動 (Furigana),,,,どう
-動 (Meaning),,,,MOVEMENT (ACTIVITY, TREND, DEVELOPMENT, CHANGE)
-一 (Furigana),,,,いち
-一 (Meaning),,,,ONE TIME AROUND (ONCE AROUND)
-残 (Furigana),,,,ざん
-残 (Meaning),,,,OVERTIME
-周 (Furigana),,,,しゅう
-周 (Meaning),,,,PERIMETER (CIRCUMFERENCE, SURROUNDINGS, ENVIRONS)
-性 (Furigana),,,,せい
-性 (Meaning),,,,PERSONALITY (CHARACTER)
+良好 (Furigana),,,,りょうこう
+良好 (Meaning),,,,GOOD (FAVORABLE, SATISFACTORY)
+卒業 (Furigana),,,,そつぎょう
+卒業 (Meaning),,,,GRADUATION
+固い (Furigana),,,,かたい
+固い (Meaning),,,,HARD (TOUGH, FIRM)
+念願 (Furigana),,,,ねんがん
+念願 (Meaning),,,,HEART'S DESIRE (EARNEST WISH)
+希望 (Furigana),,,,きぼう
+希望 (Meaning),,,,HOPE (WISH, ASPIRATION)
+消化不良 (Furigana),,,,しょうかふりょう
+消化不良 (Meaning),,,,INDIGESTION
+材料 (Furigana),,,,ざいりょう
+材料 (Meaning),,,,INGREDIENTS (MATERIAL)
+一例 (Furigana),,,,いちれい
+一例 (Meaning),,,,INSTANCE (EXAMPLE)
+本能 (Furigana),,,,ほんのう
+本能 (Meaning),,,,INSTINCT
+意図的 (Furigana),,,,いとてき
+意図的 (Meaning),,,,INTENTIONAL (ON PURPOSE)
+着物 (Furigana),,,,きもの
+着物 (Meaning),,,,KIMONO (CLOTHES)
+材木 (Furigana),,,,ざいもく
+材木 (Meaning),,,,LUMBER (TIMBER, WOOD)
+男性 (Furigana),,,,だんせい
+男性 (Meaning),,,,MALE (MAN, GUY)
+意地悪 (Furigana),,,,いじわる
+意地悪 (Meaning),,,,MALICIOUS (MEAN, JERK)
+近代的 (Furigana),,,,きんだいてき
+近代的 (Meaning),,,,CONTEMPORARY (MODERN)
+山登り (Furigana),,,,やまのぼり
+山登り (Meaning),,,,MOUNTAIN CLIMBING
+動き (Furigana),,,,うごき
+動き (Meaning),,,,MOVEMENT (ACTIVITY, TREND, DEVELOPMENT, CHANGE)
+一周 (Furigana),,,,いっしゅう
+一周 (Meaning),,,,ONE TIME AROUND (ONCE AROUND)
+残業 (Furigana),,,,ざんぎょう
+残業 (Meaning),,,,OVERTIME
+周囲 (Furigana),,,,しゅうい
+周囲 (Meaning),,,,PERIMETER (CIRCUMFERENCE, SURROUNDINGS, ENVIRONS)
+性格 (Furigana),,,,せいかく
+性格 (Meaning),,,,PERSONALITY (CHARACTER)
 松 (Furigana),,,,まつ
 松 (Meaning),,,,PINE (PINE TREE)
-松 (Furigana),,,,まつ
-松 (Meaning),,,,PINE NEEDLE
-流 (Furigana),,,,りゅう
-流 (Meaning),,,,POPULAR PHRASE (CATCHPHRASE, POPULAR WORD, BUZZWORD)
-流 (Furigana),,,,りゅう
-流 (Meaning),,,,POPULAR SONG
-約 (Furigana),,,,やく
-約 (Meaning),,,,PROMISE (APPOINTMENT, PACT)
-目 (Furigana),,,,め
-目 (Meaning),,,,PURPOSE (GOAL, MOTIVE)
-理 (Furigana),,,,り
-理 (Meaning),,,,REASON (SENSE, INTELLECT)
-残 (Furigana),,,,ざん
-残 (Meaning),,,,REMAINDER (REMNANT, LEFTOVER, RESIDUE)
-予 (Furigana),,,,よ
-予 (Meaning),,,,RESERVATION (APPOINTMENT)
-回 (Furigana),,,,かい
-回 (Meaning),,,,ROTATING SUSHI (CONVEYOR BELT SUSHI, REVOLVING SUSHI, SUSHI TRAIN, SUSHI GO ROUND)
-文 (Furigana),,,,ぶん
-文 (Meaning),,,,SCHOOL FESTIVAL (CULTURE FESTIVAL, ARTS FESTIVAL)
-性 (Furigana),,,,せい
-性 (Meaning),,,,SEXUALLY TRANSMITTED DISEASE (STD, SEXUALLY TRANSMITTED INFECTION, STI)
-格 (Furigana),,,,かく
-格 (Meaning),,,,SHAPE (FORM, POSTURE, APPEARANCE)
-芸 (Furigana),,,,げい
-芸 (Meaning),,,,SHOW BUSINESS (ENTERTAINMENT INDUSTRY)
-合 (Furigana),,,,ごう
-合 (Meaning),,,,SIGNAL (SIGN)
-骨 (Furigana),,,,こつ
-骨 (Meaning),,,,SKELETON
-技 (Furigana),,,,ぎ
-技 (Meaning),,,,SKILL (ABILITY)
-特 (Furigana),,,,とく
-特 (Meaning),,,,SPECIALTY
-言 (Furigana),,,,げん
-言 (Meaning),,,,SPEECH (EXPRESSION, WORDING, LANGUAGE, DICTION)
-運 (Furigana),,,,うん
-運 (Meaning),,,,SPORTS DAY
-待 (Furigana),,,,たい
-待 (Meaning),,,,STOOD UP (WAITING IN VAIN)
+松葉 (Furigana),,,,まつば
+松葉 (Meaning),,,,PINE NEEDLE
+流行語 (Furigana),,,,りゅうこうご
+流行語 (Meaning),,,,POPULAR PHRASE (CATCHPHRASE, POPULAR WORD, BUZZWORD)
+流行歌 (Furigana),,,,りゅうこうか
+流行歌 (Meaning),,,,POPULAR SONG
+約束 (Furigana),,,,やくそく
+約束 (Meaning),,,,PROMISE (APPOINTMENT, PACT)
+目的 (Furigana),,,,もくてき
+目的 (Meaning),,,,PURPOSE (GOAL, MOTIVE)
+理性 (Furigana),,,,りせい
+理性 (Meaning),,,,REASON (SENSE, INTELLECT)
+残り (Furigana),,,,のこり
+残り (Meaning),,,,REMAINDER (REMNANT, LEFTOVER, RESIDUE)
+予約 (Furigana),,,,よやく
+予約 (Meaning),,,,RESERVATION (APPOINTMENT)
+回転ずし (Furigana),,,,かいてんずし
+回転ずし (Meaning),,,,ROTATING SUSHI (CONVEYOR BELT SUSHI, REVOLVING SUSHI, SUSHI TRAIN, SUSHI GO ROUND)
+文化祭 (Furigana),,,,ぶんかさい
+文化祭 (Meaning),,,,SCHOOL FESTIVAL (CULTURE FESTIVAL, ARTS FESTIVAL)
+性病 (Furigana),,,,せいびょう
+性病 (Meaning),,,,SEXUALLY TRANSMITTED DISEASE (STD, SEXUALLY TRANSMITTED INFECTION, STI)
+格好 (Furigana),,,,かっこう
+格好 (Meaning),,,,SHAPE (FORM, POSTURE, APPEARANCE)
+芸能界 (Furigana),,,,げいのうかい
+芸能界 (Meaning),,,,SHOW BUSINESS (ENTERTAINMENT INDUSTRY)
+合図 (Furigana),,,,あいず
+合図 (Meaning),,,,SIGNAL (SIGN)
+骨格 (Furigana),,,,こっかく
+骨格 (Meaning),,,,SKELETON
+技能 (Furigana),,,,ぎのう
+技能 (Meaning),,,,SKILL (ABILITY)
+特技 (Furigana),,,,とくぎ
+特技 (Meaning),,,,SPECIALTY
+言葉つき (Furigana),,,,ことばつき
+言葉つき (Meaning),,,,SPEECH (EXPRESSION, WORDING, LANGUAGE, DICTION)
+運動会 (Furigana),,,,うんどうかい
+運動会 (Meaning),,,,SPORTS DAY
+待ちぼうけ (Furigana),,,,まちぼうけ
+待ちぼうけ (Meaning),,,,STOOD UP (WAITING IN VAIN)
 苺 (Furigana),,,,いちご
 苺 (Meaning),,,,STRAWBERRY
-頑 (Furigana),,,,がん
-頑 (Meaning),,,,STUBBORN
-水 (Furigana),,,,すい
-水 (Meaning),,,,SWIMSUIT (BATHING SUIT, SWIMWEAR)
-才 (Furigana),,,,さい
-才 (Meaning),,,,TALENT (ABILITY, GENIUS)
-技 (Furigana),,,,ぎ
+頑固 (Furigana),,,,がんこ
+頑固 (Meaning),,,,STUBBORN
+水着 (Furigana),,,,みずぎ
+水着 (Meaning),,,,SWIMSUIT (BATHING SUIT, SWIMWEAR)
+才能 (Furigana),,,,さいのう
+才能 (Meaning),,,,TALENT (ABILITY, GENIUS)
+技 (Furigana),,,,わざ
 技 (Meaning),,,,TECHNIQUE (ART, SKILL)
-四 (Furigana),,,,し
-四 (Meaning),,,,THE FOUR SEASONS (FOUR SEASONS)
-間 (Furigana),,,,かん
-間 (Meaning),,,,TO BE IN TIME FOR (TO MAKE IT ON TIME, TO BE ON TIME FOR)
-落 (Furigana),,,,らく
-落 (Meaning),,,,TO CALM DOWN
-参 (Furigana),,,,さん
-参 (Meaning),,,,TO COME (TO GO, TO VISIT, TO BE DEFEATED, TO BE AT A LOSS)
-消 (Furigana),,,,しょう
-消 (Meaning),,,,TO DIGEST (TO USE UP)
-消 (Furigana),,,,しょう
-消 (Meaning),,,,TO DISAPPEAR (TO GO OUT, TO TURN OFF)
-期 (Furigana),,,,き
-期 (Meaning),,,,TO EXPECT (TO ANTICIPATE)
-折 (Furigana),,,,せつ
-折 (Meaning),,,,TO FOLD SOMETHING (TO BREAK SOMETHING)
-合 (Furigana),,,,ごう
-合 (Meaning),,,,TO JOIN TOGETHER (TO UNIFY, TO MATCH)
-待 (Furigana),,,,たい
-待 (Meaning),,,,TO MAKE SOMEONE WAIT (TO KEEP SOMEONE WAITING)
-動 (Furigana),,,,どう
-動 (Meaning),,,,TO MOVE SOMETHING
-残 (Furigana),,,,ざん
-残 (Meaning),,,,TOO BAD (UNFORTUNATE, REGRETTABLE, DISAPPOINTING)
-合 (Furigana),,,,ごう
-合 (Meaning),,,,TO PASS A TEST (TO PASS AN EXAM)
-着 (Furigana),,,,ちゃく
-着 (Meaning),,,,TO PUT ON (TO WEAR)
-残 (Furigana),,,,ざん
-残 (Meaning),,,,TO REMAIN BEHIND (TO REMAIN, TO STAY BEHIND)
-回 (Furigana),,,,かい
-回 (Meaning),,,,TO ROTATE (TO REVOLVE)
-流 (Furigana),,,,りゅう
-流 (Meaning),,,,TO STREAM (TO FLOW)
-勉 (Furigana),,,,べん
-勉 (Meaning),,,,TO STUDY
-囲 (Furigana),,,,い
-囲 (Meaning),,,,TO SURROUND (TO ENCLOSE)
-旅 (Furigana),,,,りょ
-旅 (Meaning),,,,TO TRAVEL (TO TAKE A TRIP)
-起 (Furigana),,,,お
-起 (Meaning),,,,TO WAKE SOMEONE UP (TO CAUSE SOMETHING)
-温 (Furigana),,,,おん
-温 (Meaning),,,,TO WARM UP (TO GET WARM)
-望 (Furigana),,,,ぼう
-望 (Meaning),,,,TO WISH (TO DESIRE, TO WISH FOR)
-旅 (Furigana),,,,りょ
-旅 (Meaning),,,,TRAVELER (TOURIST)
-下 (Furigana),,,,か
-下 (Meaning),,,,UNDERWEAR
-悪 (Furigana),,,,あく
-悪 (Meaning),,,,VERBAL ABUSE (SAYING BAD THINGS, INSULT, SLANDER, BAD MOUTH)
-日 (Furigana),,,,にち
-日 (Meaning),,,,VERY JAPANESE (TYPICALLY JAPANESE)
-待 (Furigana),,,,たい
-待 (Meaning),,,,WAITING ROOM (MEETING PLACE)
-狼 (Furigana),,,,おおかみ
-狼 (Meaning),,,,WEREWOLF
-望 (Furigana),,,,ぼう
-望 (Meaning),,,,WISH (HOPE, DESIRE)
-折 (Furigana),,,,せつ
-折 (Meaning),,,,WITH TROUBLE (VALUABLE, RARE)
+四季 (Furigana),,,,しき
+四季 (Meaning),,,,THE FOUR SEASONS (FOUR SEASONS)
+間に合う (Furigana),,,,まにあう
+間に合う (Meaning),,,,TO BE IN TIME FOR (TO MAKE IT ON TIME, TO BE ON TIME FOR)
+落ち着く (Furigana),,,,おちつく
+落ち着く (Meaning),,,,TO CALM DOWN
+参る (Furigana),,,,まいる
+参る (Meaning),,,,TO COME (TO GO, TO VISIT, TO BE DEFEATED, TO BE AT A LOSS)
+消化する (Furigana),,,,しょうかする
+消化する (Meaning),,,,TO DIGEST (TO USE UP)
+消える (Furigana),,,,きえる
+消える (Meaning),,,,TO DISAPPEAR (TO GO OUT, TO TURN OFF)
+期待する (Furigana),,,,きたいする
+期待する (Meaning),,,,TO EXPECT (TO ANTICIPATE)
+折る (Furigana),,,,おる
+折る (Meaning),,,,TO FOLD SOMETHING (TO BREAK SOMETHING)
+合わせる (Furigana),,,,あわせる
+合わせる (Meaning),,,,TO JOIN TOGETHER (TO UNIFY, TO MATCH)
+待たせる (Furigana),,,,またせる
+待たせる (Meaning),,,,TO MAKE SOMEONE WAIT (TO KEEP SOMEONE WAITING)
+動かす (Furigana),,,,うごかす
+動かす (Meaning),,,,TO MOVE SOMETHING
+残念 (Furigana),,,,ざんねん
+残念 (Meaning),,,,TOO BAD (UNFORTUNATE, REGRETTABLE, DISAPPOINTING)
+合格する (Furigana),,,,ごうかくする
+合格する (Meaning),,,,TO PASS A TEST (TO PASS AN EXAM)
+着ける (Furigana),,,,つける
+着ける (Meaning),,,,TO PUT ON (TO WEAR)
+残る (Furigana),,,,のこる
+残る (Meaning),,,,TO REMAIN BEHIND (TO REMAIN, TO STAY BEHIND)
+回転する (Furigana),,,,かいてんする
+回転する (Meaning),,,,TO ROTATE (TO REVOLVE)
+流れる (Furigana),,,,ながれる
+流れる (Meaning),,,,TO STREAM (TO FLOW)
+勉強する (Furigana),,,,べんきょうする
+勉強する (Meaning),,,,TO STUDY
+囲む (Furigana),,,,かこむ
+囲む (Meaning),,,,TO SURROUND (TO ENCLOSE)
+旅行する (Furigana),,,,りょこうする
+旅行する (Meaning),,,,TO TRAVEL (TO TAKE A TRIP)
+起こす (Furigana),,,,おこす
+起こす (Meaning),,,,TO WAKE SOMEONE UP (TO CAUSE SOMETHING)
+温まる (Furigana),,,,あたたまる
+温まる (Meaning),,,,TO WARM UP (TO GET WARM)
+望む (Furigana),,,,のぞむ
+望む (Meaning),,,,TO WISH (TO DESIRE, TO WISH FOR)
+旅行者 (Furigana),,,,りょこうしゃ
+旅行者 (Meaning),,,,TRAVELER (TOURIST)
+下着 (Furigana),,,,したぎ
+下着 (Meaning),,,,UNDERWEAR
+悪口 (Furigana),,,,わるくち
+悪口 (Meaning),,,,VERBAL ABUSE (SAYING BAD THINGS, INSULT, SLANDER, BAD MOUTH)
+日本的 (Furigana),,,,にほんてき
+日本的 (Meaning),,,,VERY JAPANESE (TYPICALLY JAPANESE)
+待合 (Furigana),,,,まちあい
+待合 (Meaning),,,,WAITING ROOM (MEETING PLACE)
+狼男 (Furigana),,,,おおかみおとこ
+狼男 (Meaning),,,,WEREWOLF
+望み (Furigana),,,,のぞみ
+望み (Meaning),,,,WISH (HOPE, DESIRE)
+折角 (Furigana),,,,せっかく
+折角 (Meaning),,,,WITH TROUBLE (VALUABLE, RARE)
 狼 (Furigana),,,,おおかみ
 狼 (Meaning),,,,WOLF
-木 (Furigana),,,,もく
-木 (Meaning),,,,WOOD (LUMBER)
+木材 (Furigana),,,,もくざい
+木材 (Meaning),,,,WOOD (LUMBER)

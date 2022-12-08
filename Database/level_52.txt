@@ -68,205 +68,205 @@
 膨 (Meaning),,,,Swell
 遇 (Onyomi),,,,ぐう
 遇 (Meaning),,,,Treatment
-殊 (Furigana),,,,しゅ
-殊 (Meaning),,,,ADMIRABLE
-不 (Furigana),,,,ふ
-不 (Meaning),,,,ADULTERY
-没 (Furigana),,,,ぼつ
-没 (Meaning),,,,AFTER DEATH (POSTHUMOUSLY)
-覇 (Furigana),,,,は
-覇 (Meaning),,,,AMBITION (ASPIRATION, SPIRIT)
-出 (Furigana),,,,しゅつ
-出 (Meaning),,,,APPEARING FREQUENTLY (INFESTING)
-綾 (Furigana),,,,あや
-綾 (Meaning),,,,AYANO
-擁 (Furigana),,,,よう
-擁 (Meaning),,,,BACKING (SUPPORT)
-風 (Furigana),,,,ふう
-風 (Meaning),,,,BATH
-封 (Furigana),,,,ふう
-封 (Meaning),,,,BLOCKADE (FREEZING)
-綾 (Furigana),,,,あや
-綾 (Meaning),,,,CAT'S CRADLE
-陥 (Furigana),,,,かん
-陥 (Meaning),,,,CAVE IN (COLLAPSE, SINKING, DEPRESSION)
-鎖 (Furigana),,,,さ
+殊勝 (Furigana),,,,しゅしょう
+殊勝 (Meaning),,,,ADMIRABLE
+不倫 (Furigana),,,,ふりん
+不倫 (Meaning),,,,ADULTERY
+没後 (Furigana),,,,ぼつご
+没後 (Meaning),,,,AFTER DEATH (POSTHUMOUSLY)
+覇気 (Furigana),,,,はき
+覇気 (Meaning),,,,AMBITION (ASPIRATION, SPIRIT)
+出没 (Furigana),,,,しゅつぼつ
+出没 (Meaning),,,,APPEARING FREQUENTLY (INFESTING)
+綾乃 (Furigana),,,,あやの
+綾乃 (Meaning),,,,AYANO
+擁立 (Furigana),,,,ようりつ
+擁立 (Meaning),,,,BACKING (SUPPORT)
+お風呂 (Furigana),,,,おふろ
+お風呂 (Meaning),,,,BATH
+封鎖 (Furigana),,,,ふうさ
+封鎖 (Meaning),,,,BLOCKADE (FREEZING)
+綾取り (Furigana),,,,あやとり
+綾取り (Meaning),,,,CAT'S CRADLE
+陥没 (Furigana),,,,かんぼつ
+陥没 (Meaning),,,,CAVE IN (COLLAPSE, SINKING, DEPRESSION)
+鎖 (Furigana),,,,くさり
 鎖 (Meaning),,,,CHAIN (CHAINS)
-連 (Furigana),,,,れん
-連 (Meaning),,,,CHAIN (CHAINING, CONNECTION)
-突 (Furigana),,,,とつ
-突 (Meaning),,,,CHARGE (RUSH, LIGHTNING ATTACK)
-慢 (Furigana),,,,まん
-慢 (Meaning),,,,CHRONIC
-陳 (Furigana),,,,ちん
-陳 (Meaning),,,,CLICHED (STALE, HACKNEYED)
-閉 (Furigana),,,,へい
-閉 (Meaning),,,,CLOSING (CLOSURE, SHUTDOWN, LOCKOUT, UNSOCIABLE)
-冷 (Furigana),,,,れい
-冷 (Meaning),,,,COLD RECEPTION (INHOSPITALITY)
-制 (Furigana),,,,せい
-制 (Meaning),,,,CONQUEST (DOMINATION, MASTERY)
-恒 (Furigana),,,,こう
-恒 (Meaning),,,,CONSTANT (ROUTINE)
-大 (Furigana),,,,たい
-大 (Meaning),,,,DAISUKE (TAIFU, OSUKE)
-欠 (Furigana),,,,けつ
-欠 (Meaning),,,,DEFECT (FAULT, DEFICIENCY, DEFORMITY)
-遭 (Furigana),,,,そう
-遭 (Meaning),,,,DISASTER (SHIPWRECK, ACCIDENT, BEING STRANDED)
+連鎖 (Furigana),,,,れんさ
+連鎖 (Meaning),,,,CHAIN (CHAINING, CONNECTION)
+突貫 (Furigana),,,,とっかん
+突貫 (Meaning),,,,CHARGE (RUSH, LIGHTNING ATTACK)
+慢性 (Furigana),,,,まんせい
+慢性 (Meaning),,,,CHRONIC
+陳腐 (Furigana),,,,ちんぷ
+陳腐 (Meaning),,,,CLICHED (STALE, HACKNEYED)
+閉鎖 (Furigana),,,,へいさ
+閉鎖 (Meaning),,,,CLOSING (CLOSURE, SHUTDOWN, LOCKOUT, UNSOCIABLE)
+冷遇 (Furigana),,,,れいぐう
+冷遇 (Meaning),,,,COLD RECEPTION (INHOSPITALITY)
+制覇 (Furigana),,,,せいは
+制覇 (Meaning),,,,CONQUEST (DOMINATION, MASTERY)
+恒常 (Furigana),,,,こうじょう
+恒常 (Meaning),,,,CONSTANT (ROUTINE)
+大輔 (Furigana),,,,だいすけ
+大輔 (Meaning),,,,DAISUKE (TAIFU, OSUKE)
+欠陥 (Furigana),,,,けっかん
+欠陥 (Meaning),,,,DEFECT (FAULT, DEFICIENCY, DEFORMITY)
+遭難 (Furigana),,,,そうなん
+遭難 (Meaning),,,,DISASTER (SHIPWRECK, ACCIDENT, BEING STRANDED)
 没 (Furigana),,,,ぼつ
 没 (Meaning),,,,DISCARD (REJECT, DEATH)
-抱 (Furigana),,,,だ
-抱 (Meaning),,,,EMBRACE (HUG)
-遭 (Furigana),,,,そう
-遭 (Meaning),,,,ENCOUNTER
-我 (Furigana),,,,が
-我 (Meaning),,,,ENDURANCE (PERSEVERANCE, TOLERANCE, PATIENCE, SELF CONTROL)
-境 (Furigana),,,,きょう
-境 (Meaning),,,,ENVIRONMENT (CIRCUMSTANCES)
-噴 (Furigana),,,,ふん
-噴 (Meaning),,,,ERUPTION
-恒 (Furigana),,,,こう
-恒 (Meaning),,,,ESTABLISHED PRACTICE (CUSTOM)
-倫 (Furigana),,,,りん
-倫 (Meaning),,,,ETHICS (MORALS)
-陳 (Furigana),,,,ちん
-陳 (Meaning),,,,EXHIBITION (DISPLAY, SHOW)
-膨 (Furigana),,,,ぼう
-膨 (Meaning),,,,EXPANSION (SWELLING, INCREASE, GROWTH)
+抱擁 (Furigana),,,,ほうよう
+抱擁 (Meaning),,,,EMBRACE (HUG)
+遭遇 (Furigana),,,,そうぐう
+遭遇 (Meaning),,,,ENCOUNTER
+我慢 (Furigana),,,,がまん
+我慢 (Meaning),,,,ENDURANCE (PERSEVERANCE, TOLERANCE, PATIENCE, SELF CONTROL)
+境遇 (Furigana),,,,きょうぐう
+境遇 (Meaning),,,,ENVIRONMENT (CIRCUMSTANCES)
+噴火 (Furigana),,,,ふんか
+噴火 (Meaning),,,,ERUPTION
+恒例 (Furigana),,,,こうれい
+恒例 (Meaning),,,,ESTABLISHED PRACTICE (CUSTOM)
+倫理 (Furigana),,,,りんり
+倫理 (Meaning),,,,ETHICS (MORALS)
+陳列 (Furigana),,,,ちんれつ
+陳列 (Meaning),,,,EXHIBITION (DISPLAY, SHOW)
+膨張 (Furigana),,,,ぼうちょう
+膨張 (Meaning),,,,EXPANSION (SWELLING, INCREASE, GROWTH)
 隼 (Furigana),,,,はやぶさ
 隼 (Meaning),,,,FALCON
-陥 (Furigana),,,,かん
-陥 (Meaning),,,,FALL (SINKING, SURRENDER)
-没 (Furigana),,,,ぼつ
-没 (Meaning),,,,FORFEITURE (SEIZURE, CONFISCATION, IMPOUNDING)
-覇 (Furigana),,,,は
-覇 (Meaning),,,,HEGEMONY (SUPREMACY)
-膨 (Furigana),,,,ぼう
-膨 (Meaning),,,,HUGE (BULKY, ENORMOUS, EXTENSIVE)
-猟 (Furigana),,,,りょう
-猟 (Meaning),,,,HUNTER (HUNTSMAN)
-狩 (Furigana),,,,か
-狩 (Meaning),,,,HUNTING
+陥落 (Furigana),,,,かんらく
+陥落 (Meaning),,,,FALL (SINKING, SURRENDER)
+没収 (Furigana),,,,ぼっしゅう
+没収 (Meaning),,,,FORFEITURE (SEIZURE, CONFISCATION, IMPOUNDING)
+覇権 (Furigana),,,,はけん
+覇権 (Meaning),,,,HEGEMONY (SUPREMACY)
+膨大 (Furigana),,,,ぼうだい
+膨大 (Meaning),,,,HUGE (BULKY, ENORMOUS, EXTENSIVE)
+猟師 (Furigana),,,,りょうし
+猟師 (Meaning),,,,HUNTER (HUNTSMAN)
+狩猟 (Furigana),,,,しゅりょう
+狩猟 (Meaning),,,,HUNTING
 猟 (Furigana),,,,りょう
 猟 (Meaning),,,,HUNTING (GAME)
-猟 (Furigana),,,,りょう
-猟 (Meaning),,,,HUNTING DOG (HOUND)
-没 (Furigana),,,,ぼつ
-没 (Meaning),,,,IMMERSING ONESELF (IMMERSING YOURSELF, IMMERSE ONESELF, IMMERSE YOURSELF)
-埋 (Furigana),,,,う
-埋 (Meaning),,,,IMPLANTATION (BURIAL, EMBEDDING)
-必 (Furigana),,,,ひつ
-必 (Meaning),,,,INDISPENSABLE (REQUIRED, ESSENTIAL)
-惰 (Furigana),,,,だ
-惰 (Meaning),,,,INERTIA (HABIT, MOMENTUM)
-孤 (Furigana),,,,こ
-孤 (Meaning),,,,ISOLATION (ALONE, FRIENDLESS)
-孤 (Furigana),,,,こ
-孤 (Meaning),,,,ISOLATION (LONELINESS, SOLITUDE)
-噴 (Furigana),,,,ふん
-噴 (Meaning),,,,JET (SPRAY, INJECTION, JET PROPULSION)
-戦 (Furigana),,,,せん
-戦 (Meaning),,,,KILLED IN ACTION (DEATH IN BATTLE, KIA)
-怠 (Furigana),,,,たい
-怠 (Meaning),,,,LAZINESS (IDLENESS, SLOTH)
-偏 (Furigana),,,,へん
-偏 (Meaning),,,,NARROW MINDED (INTOLERANCE)
-鎖 (Furigana),,,,さ
-鎖 (Meaning),,,,NATIONAL ISOLATION (EXCLUSION OF FOREIGNERS)
-怠 (Furigana),,,,たい
-怠 (Meaning),,,,NEGLIGENCE (PROCRASTINATION, CARELESSNESS)
-一 (Furigana),,,,いち
-一 (Meaning),,,,ONE PIECE OF SUSHI (CONSISTENCY, INTEGRATION)
-秩 (Furigana),,,,ちつ
-秩 (Meaning),,,,ORDER (REGULARITY, SYSTEM, METHOD)
-発 (Furigana),,,,はつ
-発 (Meaning),,,,ORIGIN
-孤 (Furigana),,,,こ
-孤 (Meaning),,,,ORPHAN
-芳 (Furigana),,,,ほう
-芳 (Meaning),,,,PERFUME (FRAGRANCE, AROMA)
-恒 (Furigana),,,,こう
-恒 (Meaning),,,,PERMANENT (PERPETUAL)
-貫 (Furigana),,,,かん
-貫 (Meaning),,,,PERSISTENCE (ACCOMPLISHMENT, CARRY THROUGH, PERSEVERANCE, REALIZATION, REALISATION)
-陳 (Furigana),,,,ちん
-陳 (Meaning),,,,PETITION (APPEAL)
-貫 (Furigana),,,,かん
-貫 (Meaning),,,,PIERCE (PENETRATE, PERFORATE)
-密 (Furigana),,,,みつ
-密 (Meaning),,,,POACHING
-優 (Furigana),,,,ゆう
-優 (Meaning),,,,PREFERENTIAL TREATMENT (FAVORABLE TREATMENT)
-偏 (Furigana),,,,へん
-偏 (Meaning),,,,PREJUDICE
-自 (Furigana),,,,じ
-自 (Meaning),,,,PRIDE (BOAST)
-擁 (Furigana),,,,よう
-擁 (Meaning),,,,PROTECTION (ADVOCACY, SUPPORT, DEFENCE)
-食 (Furigana),,,,しょく
-食 (Meaning),,,,PROVISIONS (RATIONS, STAPLE FOODS)
-颯 (Furigana),,,,さつ
-颯 (Meaning),,,,QUICKLY (SUDDENLY)
-賠 (Furigana),,,,ばい
-賠 (Meaning),,,,REPARATIONS (COMPENSATION)
-没 (Furigana),,,,ぼつ
-没 (Meaning),,,,RUIN (FALL, COLLAPSE)
-不 (Furigana),,,,ふ
-不 (Meaning),,,,SCANDAL
-沈 (Furigana),,,,ちん
-沈 (Meaning),,,,SINKING (GOING DOWN, SUBMERSION)
-緩 (Furigana),,,,ゆる
-緩 (Meaning),,,,SLOW (SLUGGISH, DULL)
-孤 (Furigana),,,,こ
-孤 (Meaning),,,,SOLITARY ISLAND
-特 (Furigana),,,,とく
-特 (Meaning),,,,SPECIAL (UNIQUE)
-噴 (Furigana),,,,ふん
-噴 (Meaning),,,,SPEWING (GUSHING, SPOUTING, ERUPTION)
-恒 (Furigana),,,,こう
-恒 (Meaning),,,,STAR
-陳 (Furigana),,,,ちん
-陳 (Meaning),,,,STATEMENT (DECLARATION, ALLEGATION)
-示 (Furigana),,,,じ
-示 (Meaning),,,,SUGGESTION (HINT, IMPLICATION)
-日 (Furigana),,,,にち
-日 (Meaning),,,,SUNSET
-覇 (Furigana),,,,は
-覇 (Meaning),,,,SUPREME RULER (CHAMPION)
-貫 (Furigana),,,,かん
-貫 (Meaning),,,,SUSHI PIECES COUNTER (COUNTER FOR PIECES OF SUSHI)
-芳 (Furigana),,,,ほう
-芳 (Meaning),,,,SWEET (FRAGRANT, AROMATIC, GOOD)
+猟犬 (Furigana),,,,りょうけん
+猟犬 (Meaning),,,,HUNTING DOG (HOUND)
+没頭 (Furigana),,,,ぼっとう
+没頭 (Meaning),,,,IMMERSING ONESELF (IMMERSING YOURSELF, IMMERSE ONESELF, IMMERSE YOURSELF)
+埋没 (Furigana),,,,まいぼつ
+埋没 (Meaning),,,,IMPLANTATION (BURIAL, EMBEDDING)
+必須 (Furigana),,,,ひっす
+必須 (Meaning),,,,INDISPENSABLE (REQUIRED, ESSENTIAL)
+惰性 (Furigana),,,,だせい
+惰性 (Meaning),,,,INERTIA (HABIT, MOMENTUM)
+孤立 (Furigana),,,,こりつ
+孤立 (Meaning),,,,ISOLATION (ALONE, FRIENDLESS)
+孤独 (Furigana),,,,こどく
+孤独 (Meaning),,,,ISOLATION (LONELINESS, SOLITUDE)
+噴射 (Furigana),,,,ふんしゃ
+噴射 (Meaning),,,,JET (SPRAY, INJECTION, JET PROPULSION)
+戦没 (Furigana),,,,せんぼつ
+戦没 (Meaning),,,,KILLED IN ACTION (DEATH IN BATTLE, KIA)
+怠惰 (Furigana),,,,たいだ
+怠惰 (Meaning),,,,LAZINESS (IDLENESS, SLOTH)
+偏狭 (Furigana),,,,へんきょう
+偏狭 (Meaning),,,,NARROW MINDED (INTOLERANCE)
+鎖国 (Furigana),,,,さこく
+鎖国 (Meaning),,,,NATIONAL ISOLATION (EXCLUSION OF FOREIGNERS)
+怠慢 (Furigana),,,,たいまん
+怠慢 (Meaning),,,,NEGLIGENCE (PROCRASTINATION, CARELESSNESS)
+一貫 (Furigana),,,,いっかん
+一貫 (Meaning),,,,ONE PIECE OF SUSHI (CONSISTENCY, INTEGRATION)
+秩序 (Furigana),,,,ちつじょ
+秩序 (Meaning),,,,ORDER (REGULARITY, SYSTEM, METHOD)
+発祥 (Furigana),,,,はっしょう
+発祥 (Meaning),,,,ORIGIN
+孤児 (Furigana),,,,こじ
+孤児 (Meaning),,,,ORPHAN
+芳香 (Furigana),,,,ほうこう
+芳香 (Meaning),,,,PERFUME (FRAGRANCE, AROMA)
+恒久 (Furigana),,,,こうきゅう
+恒久 (Meaning),,,,PERMANENT (PERPETUAL)
+貫徹 (Furigana),,,,かんてつ
+貫徹 (Meaning),,,,PERSISTENCE (ACCOMPLISHMENT, CARRY THROUGH, PERSEVERANCE, REALIZATION, REALISATION)
+陳情 (Furigana),,,,ちんじょう
+陳情 (Meaning),,,,PETITION (APPEAL)
+貫通 (Furigana),,,,かんつう
+貫通 (Meaning),,,,PIERCE (PENETRATE, PERFORATE)
+密猟 (Furigana),,,,みつりょう
+密猟 (Meaning),,,,POACHING
+優遇 (Furigana),,,,ゆうぐう
+優遇 (Meaning),,,,PREFERENTIAL TREATMENT (FAVORABLE TREATMENT)
+偏見 (Furigana),,,,へんけん
+偏見 (Meaning),,,,PREJUDICE
+自慢 (Furigana),,,,じまん
+自慢 (Meaning),,,,PRIDE (BOAST)
+擁護 (Furigana),,,,ようご
+擁護 (Meaning),,,,PROTECTION (ADVOCACY, SUPPORT, DEFENCE)
+食糧 (Furigana),,,,しょくりょう
+食糧 (Meaning),,,,PROVISIONS (RATIONS, STAPLE FOODS)
+颯と (Furigana),,,,さっと
+颯と (Meaning),,,,QUICKLY (SUDDENLY)
+賠償 (Furigana),,,,ばいしょう
+賠償 (Meaning),,,,REPARATIONS (COMPENSATION)
+没落 (Furigana),,,,ぼつらく
+没落 (Meaning),,,,RUIN (FALL, COLLAPSE)
+不祥事 (Furigana),,,,ふしょうじ
+不祥事 (Meaning),,,,SCANDAL
+沈没 (Furigana),,,,ちんぼつ
+沈没 (Meaning),,,,SINKING (GOING DOWN, SUBMERSION)
+緩慢 (Furigana),,,,かんまん
+緩慢 (Meaning),,,,SLOW (SLUGGISH, DULL)
+孤島 (Furigana),,,,ことう
+孤島 (Meaning),,,,SOLITARY ISLAND
+特殊 (Furigana),,,,とくしゅ
+特殊 (Meaning),,,,SPECIAL (UNIQUE)
+噴出 (Furigana),,,,ふんしゅつ
+噴出 (Meaning),,,,SPEWING (GUSHING, SPOUTING, ERUPTION)
+恒星 (Furigana),,,,こうせい
+恒星 (Meaning),,,,STAR
+陳述 (Furigana),,,,ちんじゅつ
+陳述 (Meaning),,,,STATEMENT (DECLARATION, ALLEGATION)
+示唆 (Furigana),,,,しさ
+示唆 (Meaning),,,,SUGGESTION (HINT, IMPLICATION)
+日没 (Furigana),,,,にちぼつ
+日没 (Meaning),,,,SUNSET
+覇者 (Furigana),,,,はしゃ
+覇者 (Meaning),,,,SUPREME RULER (CHAMPION)
+〜貫 (Furigana),,,,かん
+〜貫 (Meaning),,,,SUSHI PIECES COUNTER (COUNTER FOR PIECES OF SUSHI)
+芳しい (Furigana),,,,かんばしい
+芳しい (Meaning),,,,SWEET (FRAGRANT, AROMATIC, GOOD)
 茨 (Furigana),,,,いばら
 茨 (Meaning),,,,THORN (BRIAR, WILD ROSE)
-偏 (Furigana),,,,へん
-偏 (Meaning),,,,TO BE BIASED (TO BE ONE SIDED, TO BE PARTIAL, TO BE PREJUDICED)
-怠 (Furigana),,,,たい
-怠 (Meaning),,,,TO BE NEGLIGENT (TO NEGLECT, TO SHIRK, TO BE OFF ONE'S GUARD)
-陥 (Furigana),,,,かん
-陥 (Meaning),,,,TO CAVE IN (TO COLLAPSE, TO FALL, TO TRAP)
-貫 (Furigana),,,,かん
-貫 (Meaning),,,,TO GO THROUGH (TO PIERCE, TO PENETRATE, TO PERSIST, TO STICK TO)
-擁 (Furigana),,,,よう
-擁 (Meaning),,,,TO HAVE (TO POSSESS)
-遭 (Furigana),,,,そう
-遭 (Meaning),,,,TO MEET (TO ENCOUNTER)
-膨 (Furigana),,,,ぼう
-膨 (Meaning),,,,TO SWELL (TO EXPAND, TO BE INFLATED, TO DISTEND, TO BULGE)
-待 (Furigana),,,,たい
-待 (Meaning),,,,TREATMENT (RECEPTION)
-処 (Furigana),,,,しょ
-処 (Meaning),,,,TREATMENT (DEALING WITH)
-偏 (Furigana),,,,へん
-偏 (Meaning),,,,UNBALANCED DIET (PICKY EATING)
-犠 (Furigana),,,,ぎ
-犠 (Meaning),,,,VICTIM (SACRIFICE, SCAPEGOAT)
-噴 (Furigana),,,,ふん
-噴 (Meaning),,,,VOLCANIC SMOKE
-鰐 (Furigana),,,,わに
-鰐 (Meaning),,,,WANIKANI
-噴 (Furigana),,,,ふん
-噴 (Meaning),,,,WATER FOUNTAIN
-連 (Furigana),,,,れん
-連 (Meaning),,,,WINNING STREAK (SUCCESSIVE VICTORIES , CONSECUTIVE CHAMPIONSHIPS)
+偏る (Furigana),,,,かたよる
+偏る (Meaning),,,,TO BE BIASED (TO BE ONE SIDED, TO BE PARTIAL, TO BE PREJUDICED)
+怠る (Furigana),,,,おこたる
+怠る (Meaning),,,,TO BE NEGLIGENT (TO NEGLECT, TO SHIRK, TO BE OFF ONE'S GUARD)
+陥る (Furigana),,,,おちいる
+陥る (Meaning),,,,TO CAVE IN (TO COLLAPSE, TO FALL, TO TRAP)
+貫く (Furigana),,,,つらぬく
+貫く (Meaning),,,,TO GO THROUGH (TO PIERCE, TO PENETRATE, TO PERSIST, TO STICK TO)
+擁する (Furigana),,,,ようする
+擁する (Meaning),,,,TO HAVE (TO POSSESS)
+遭う (Furigana),,,,あう
+遭う (Meaning),,,,TO MEET (TO ENCOUNTER)
+膨れる (Furigana),,,,ふくれる
+膨れる (Meaning),,,,TO SWELL (TO EXPAND, TO BE INFLATED, TO DISTEND, TO BULGE)
+待遇 (Furigana),,,,たいぐう
+待遇 (Meaning),,,,TREATMENT (RECEPTION)
+処遇 (Furigana),,,,しょぐう
+処遇 (Meaning),,,,TREATMENT (DEALING WITH)
+偏食 (Furigana),,,,へんしょく
+偏食 (Meaning),,,,UNBALANCED DIET (PICKY EATING)
+犠牲 (Furigana),,,,ぎせい
+犠牲 (Meaning),,,,VICTIM (SACRIFICE, SCAPEGOAT)
+噴煙 (Furigana),,,,ふんえん
+噴煙 (Meaning),,,,VOLCANIC SMOKE
+鰐蟹 (Furigana),,,,わにかに
+鰐蟹 (Meaning),,,,WANIKANI
+噴水 (Furigana),,,,ふんすい
+噴水 (Meaning),,,,WATER FOUNTAIN
+連覇 (Furigana),,,,れんぱ
+連覇 (Meaning),,,,WINNING STREAK (SUCCESSIVE VICTORIES , CONSECUTIVE CHAMPIONSHIPS)
