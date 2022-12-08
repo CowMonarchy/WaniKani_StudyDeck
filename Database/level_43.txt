@@ -1,0 +1,290 @@
+襲 (Onyomi),,,,しゅう
+襲 (Meaning),,,,Attack
+沼 (Onyomi),,,,ぬま
+沼 (Meaning),,,,Bog
+朗 (Onyomi),,,,ろう
+朗 (Meaning),,,,Bright
+摩 (Onyomi),,,,ま
+摩 (Meaning),,,,Chafe
+趣 (Onyomi),,,,しゅ
+趣 (Meaning),,,,Charm
+懲 (Onyomi),,,,ちょう
+懲 (Meaning),,,,Chastise
+慰 (Onyomi),,,,い
+慰 (Meaning),,,,Consolation
+懇 (Onyomi),,,,こん
+懇 (Meaning),,,,Courteous
+筒 (Onyomi),,,,とう
+筒 (Meaning),,,,Cylinder
+滅 (Onyomi),,,,めつ
+滅 (Meaning),,,,Destroy
+距 (Onyomi),,,,きょ
+距 (Meaning),,,,Distance
+籍 (Onyomi),,,,せき
+籍 (Meaning),,,,Enroll
+露 (Onyomi),,,,ろ
+露 (Meaning),,,,Expose
+炉 (Onyomi),,,,ろ
+炉 (Meaning),,,,Furnace
+柔 (Onyomi),,,,じゅう
+柔 (Meaning),,,,Gentle
+擦 (Onyomi),,,,さつ
+擦 (Meaning),,,,Grate
+琴 (Onyomi),,,,こと
+琴 (Meaning),,,,Harp
+垣 (Onyomi),,,,かき
+垣 (Meaning),,,,Hedge
+即 (Onyomi),,,,そく
+即 (Meaning),,,,Instant
+威 (Onyomi),,,,い
+威 (Meaning),,,,Majesty
+滋 (Onyomi),,,,じ
+滋 (Meaning),,,,Nourishing
+牧 (Onyomi),,,,ぼく
+牧 (Meaning),,,,Pasture
+泰 (Onyomi),,,,たい
+泰 (Meaning),,,,Peace
+旨 (Onyomi),,,,し
+旨 (Meaning),,,,Point
+刷 (Onyomi),,,,さつ
+刷 (Meaning),,,,Printing
+珍 (Onyomi),,,,ちん
+珍 (Meaning),,,,Rare
+封 (Onyomi),,,,ふう
+封 (Meaning),,,,Seal
+斉 (Onyomi),,,,せい
+斉 (Meaning),,,,Simultaneous
+沈 (Onyomi),,,,ちん
+沈 (Meaning),,,,Sink
+撲 (Onyomi),,,,ぼく
+撲 (Meaning),,,,Slap
+裂 (Onyomi),,,,れつ
+裂 (Meaning),,,,Split
+潮 (Onyomi),,,,ちょう
+潮 (Meaning),,,,Tide
+貢 (Onyomi),,,,こう
+貢 (Meaning),,,,Tribute
+誰 (Onyomi),,,,だれ
+誰 (Meaning),,,,Who
+空 (Furigana),,,,くう
+空 (Meaning),,,,AIR RAID (AIR ATTACK)
+御 (Furigana),,,,ご
+御 (Meaning),,,,AMULET (TALISMAN)
+球 (Furigana),,,,きゅう
+球 (Meaning),,,,A PITCHER'S STUFF (PITCHER'S STUFF)
+原 (Furigana),,,,げん
+原 (Meaning),,,,ATOMIC REACTOR (NUCLEAR REACTOR)
+襲 (Furigana),,,,しゅう
+襲 (Meaning),,,,ATTACK (ASSAULT)
+権 (Furigana),,,,けん
+権 (Meaning),,,,AUTHORITY
+凄 (Furigana),,,,せい
+凄 (Meaning),,,,AWFULLY (VERY, IMMENSELY)
+軍 (Furigana),,,,ぐん
+軍 (Meaning),,,,BATTLESHIP ISLAND (GUNKANJIMA)
+高 (Furigana),,,,こう
+高 (Meaning),,,,BLAST FURNACE
+沼 (Furigana),,,,ぬま
+沼 (Meaning),,,,BOG (SWAMP)
+泥 (Furigana),,,,でい
+泥 (Meaning),,,,BOG (MARSH)
+決 (Furigana),,,,けつ
+決 (Meaning),,,,BREAKDOWN (RUPTURE)
+朗 (Furigana),,,,ろう
+朗 (Meaning),,,,BRIGHT (CHEERFUL)
+明 (Furigana),,,,めい
+明 (Meaning),,,,BRIGHT (CHEERFUL, CLEAR)
+包 (Furigana),,,,ほう
+包 (Meaning),,,,BUNDLE (PACKAGE, PARCEL)
+趣 (Furigana),,,,しゅ
+趣 (Meaning),,,,CHARM (VIBE, TASTE, GIST)
+国 (Furigana),,,,こく
+国 (Meaning),,,,CITIZENSHIP
+慰 (Furigana),,,,い
+慰 (Meaning),,,,COMPENSATION (CONSOLATION MONEY, REPARATION, SETTLEMENT)
+慰 (Furigana),,,,い
+慰 (Meaning),,,,CONDOLENCES (SYMPATHY CALL)
+慰 (Furigana),,,,い
+慰 (Meaning),,,,CONSOLATION
+貢 (Furigana),,,,こう
+貢 (Meaning),,,,CONTRIBUTION
+逆 (Furigana),,,,ぎゃく
+逆 (Meaning),,,,COUNTERATTACK
+珍 (Furigana),,,,ちん
+珍 (Meaning),,,,DELICACY
+旨 (Furigana),,,,し
+旨 (Meaning),,,,DELICIOUS (SKILLFUL, CLEVER)
+絶 (Furigana),,,,ぜつ
+絶 (Meaning),,,,DESTRUCTION (EXTINCTION)
+壊 (Furigana),,,,かい
+壊 (Meaning),,,,DESTRUCTION (ANNIHILATION)
+露 (Furigana),,,,ろ
+露 (Meaning),,,,DEW
+威 (Furigana),,,,い
+威 (Meaning),,,,DIGNITY (MAJESTY)
+懲 (Furigana),,,,ちょう
+懲 (Meaning),,,,DISCIPLINE (PUNISHMENT)
+暴 (Furigana),,,,ぼう
+暴 (Meaning),,,,DISCLOSURE (EXPOSURE)
+幻 (Furigana),,,,げん
+幻 (Meaning),,,,DISILLUSIONMENT
+距 (Furigana),,,,きょ
+距 (Meaning),,,,DISTANCE (RANGE)
+滅 (Furigana),,,,めつ
+滅 (Meaning),,,,DOWNFALL (RUIN, DESTRUCTION)
+封 (Furigana),,,,ふう
+封 (Meaning),,,,ENVELOPE
+露 (Furigana),,,,ろ
+露 (Meaning),,,,EXPOSURE (PHOTOGRAPHIC EXPOSURE)
+撲 (Furigana),,,,ぼく
+撲 (Meaning),,,,EXTERMINATION (ERADICATION)
+偽 (Furigana),,,,ぎ
+偽 (Meaning),,,,FAKE (COUNTERFEIT)
+濡 (Furigana),,,,ぬ
+濡 (Meaning),,,,FALSE ACCUSATIONS (FALSE CHARGES, BASELESS ACCUSATIONS)
+戸 (Furigana),,,,と
+戸 (Meaning),,,,FAMILY REGISTER (CENSUS)
+垣 (Furigana),,,,かき
+垣 (Meaning),,,,FENCE (HEDGE, WALL)
+封 (Furigana),,,,ふう
+封 (Meaning),,,,FEUDALISM
+暖 (Furigana),,,,だん
+暖 (Meaning),,,,FIREPLACE (HEARTH, STOVE)
+露 (Furigana),,,,ろ
+露 (Meaning),,,,FRANK (BLUNT)
+摩 (Furigana),,,,ま
+摩 (Meaning),,,,FRICTION
+懇 (Furigana),,,,こん
+懇 (Meaning),,,,FRIENDLY CHAT (FRIENDLY TALK)
+懇 (Furigana),,,,こん
+懇 (Meaning),,,,FRIENDSHIP
+柔 (Furigana),,,,じゅう
+柔 (Meaning),,,,GENTLE (FLEXIBLE, SOFT, TENDER)
+柔 (Furigana),,,,じゅう
+柔 (Meaning),,,,GENTLENESS
+旨 (Furigana),,,,し
+旨 (Meaning),,,,GIST (PRINCIPLE)
+朗 (Furigana),,,,ろう
+朗 (Meaning),,,,GOOD NEWS
+垣 (Furigana),,,,かき
+垣 (Meaning),,,,HEDGE (FENCE)
+満 (Furigana),,,,まん
+満 (Meaning),,,,HIGH TIDE (FULL TIDE)
+趣 (Furigana),,,,しゅ
+趣 (Meaning),,,,HOBBY
+即 (Furigana),,,,そく
+即 (Meaning),,,,IMMEDIATE (INSTANTANEOUS)
+即 (Furigana),,,,そく
+即 (Meaning),,,,IMMEDIATE (INSTANT)
+即 (Furigana),,,,そく
+即 (Meaning),,,,IMMEDIATE EFFECT (INSTANT EFFECT)
+即 (Furigana),,,,そく
+即 (Meaning),,,,IMPROVISATION
+誠 (Furigana),,,,せい
+誠 (Meaning),,,,INDEED (REALLY, SINCERELY)
+懇 (Furigana),,,,こん
+懇 (Meaning),,,,INFORMAL TALK (FRIENDLY TALK)
+伺 (Furigana),,,,うかが
+伺 (Meaning),,,,INQUIRY (ENQUIRY, QUESTION, VISIT)
+即 (Furigana),,,,そく
+即 (Meaning),,,,INSTANT DEATH
+懇 (Furigana),,,,こん
+懇 (Meaning),,,,INTIMACY (KINDNESS, CLOSENESS)
+柔 (Furigana),,,,じゅう
+柔 (Meaning),,,,JUDO (JUUDOU)
+琴 (Furigana),,,,こと
+琴 (Meaning),,,,KOTO (JAPANESE HARP, JAPANESE ZITHER)
+牧 (Furigana),,,,ぼく
+牧 (Meaning),,,,LIVESTOCK FARM (RANCH, STATION)
+沼 (Furigana),,,,ぬま
+沼 (Meaning),,,,MARSHLAND (WETLAND, SWAMPLAND)
+沼 (Furigana),,,,ぬま
+沼 (Meaning),,,,MARSHY RICE FIELD (MARSHY RICE PADDY)
+滋 (Furigana),,,,じ
+滋 (Meaning),,,,NOURISHMENT
+炉 (Furigana),,,,ろ
+炉 (Meaning),,,,NUCLEAR REACTOR CORE
+牧 (Furigana),,,,ぼく
+牧 (Meaning),,,,PASTOR (MINISTER, CLERGYMAN)
+牧 (Furigana),,,,ぼく
+牧 (Meaning),,,,PASTURE (GRASS)
+牧 (Furigana),,,,ぼく
+牧 (Meaning),,,,PASTURE LAND (RANCH)
+安 (Furigana),,,,あん
+安 (Meaning),,,,PEACE (SECURITY)
+筒 (Furigana),,,,とう
+筒 (Meaning),,,,PIPE (CYLINDER, TUBE)
+要 (Furigana),,,,よう
+要 (Meaning),,,,POINT (ESSENTIALS)
+論 (Furigana),,,,ろん
+論 (Meaning),,,,POINT OF AN ARGUMENT
+印 (Furigana),,,,いん
+印 (Meaning),,,,PRINTING
+珍 (Furigana),,,,ちん
+珍 (Meaning),,,,RARE (UNUSUAL, CURIOUS)
+珍 (Furigana),,,,ちん
+珍 (Meaning),,,,RARE (CURIOUS, STRANGE)
+即 (Furigana),,,,そく
+即 (Meaning),,,,SAME DAY
+封 (Furigana),,,,ふう
+封 (Meaning),,,,SEAL
+封 (Furigana),,,,ふう
+封 (Meaning),,,,SEALED LETTER
+一 (Furigana),,,,いち
+一 (Meaning),,,,SIMULTANEOUS (ALL AT ONCE)
+慰 (Furigana),,,,い
+慰 (Meaning),,,,SOLACE (RELAXATION)
+誰 (Furigana),,,,だれ
+誰 (Meaning),,,,SOMEONE
+分 (Furigana),,,,ぶん
+分 (Meaning),,,,SPLIT (DIVISION)
+沈 (Furigana),,,,ちん
+沈 (Meaning),,,,STAGNATION (INACTIVITY)
+石 (Furigana),,,,せき
+石 (Meaning),,,,STONE WALL
+露 (Furigana),,,,ろ
+露 (Meaning),,,,STREET STALL (STAND, BOOTH)
+相 (Furigana),,,,そう
+相 (Meaning),,,,SUMO WRESTLING (SUMO)
+奇 (Furigana),,,,き
+奇 (Meaning),,,,SURPRISE ATTACK
+沼 (Furigana),,,,ぬま
+沼 (Meaning),,,,SWAMP (MARSH)
+風 (Furigana),,,,ふう
+風 (Meaning),,,,TIDE (CURRENT, TREND)
+潮 (Furigana),,,,ちょう
+潮 (Meaning),,,,TIDE (CURRENT)
+潮 (Furigana),,,,ちょう
+潮 (Meaning),,,,TIDE (TIDAL CURRENT)
+襲 (Furigana),,,,しゅう
+襲 (Meaning),,,,TO ATTACK
+埋 (Furigana),,,,う
+埋 (Meaning),,,,TO BE BURIED (TO BE SURROUNDED, TO OVERFLOW, TO BE FILLED)
+揚 (Furigana),,,,あ
+揚 (Meaning),,,,TO BE FRIED UP (TO BE DEEP FRIED, TO BE UP)
+威 (Furigana),,,,い
+威 (Meaning),,,,TO BE PROUD (TO BE ARROGANT)
+擦 (Furigana),,,,さつ
+擦 (Meaning),,,,TO CHAFE (TO RUB)
+慰 (Furigana),,,,い
+慰 (Meaning),,,,TO CONSOLE
+滅 (Furigana),,,,めつ
+滅 (Meaning),,,,TO DESTROY (TO ANNIHILATE)
+群 (Furigana),,,,ぐん
+群 (Meaning),,,,TO FLOCK (TO CROWD)
+潜 (Furigana),,,,せん
+潜 (Meaning),,,,TO GO UNDER (TO DIVE UNDERWATER, TO GO UNDERGROUND, TO PASS THROUGH)
+懲 (Furigana),,,,ちょう
+懲 (Meaning),,,,TO LEARN BY EXPERIENCE
+刷 (Furigana),,,,さつ
+刷 (Meaning),,,,TO PRINT
+沈 (Furigana),,,,ちん
+沈 (Meaning),,,,TO SINK
+裂 (Furigana),,,,れつ
+裂 (Meaning),,,,TO TEAR (TO RIP UP)
+開 (Furigana),,,,かい
+開 (Meaning),,,,UNSEALED LETTER
+誰 (Furigana),,,,だれ
+誰 (Meaning),,,,WHO
+浴 (Furigana),,,,よく
+浴 (Meaning),,,,YUKATA

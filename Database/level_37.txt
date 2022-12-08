@@ -1,0 +1,300 @@
+患 (Onyomi),,,,かん
+患 (Meaning),,,,Afflicted
+狙 (Onyomi),,,,そ
+狙 (Meaning),,,,Aim
+陣 (Onyomi),,,,じん
+陣 (Meaning),,,,Army Base
+塁 (Onyomi),,,,るい
+塁 (Meaning),,,,Base
+弾 (Onyomi),,,,だん
+弾 (Meaning),,,,Bullet
+葬 (Onyomi),,,,そう
+葬 (Meaning),,,,Burial
+抗 (Onyomi),,,,こう
+抗 (Meaning),,,,Confront
+崩 (Onyomi),,,,ほう
+崩 (Meaning),,,,Crumble
+遣 (Onyomi),,,,けん
+遣 (Meaning),,,,Dispatch
+掲 (Onyomi),,,,けい
+掲 (Meaning),,,,Display
+爆 (Onyomi),,,,ばく
+爆 (Meaning),,,,Explode
+眉 (Onyomi),,,,み
+眉 (Meaning),,,,Eyebrows
+恵 (Onyomi),,,,え
+恵 (Meaning),,,,Favor
+漁 (Onyomi),,,,ぎょ
+漁 (Meaning),,,,Fishing
+香 (Onyomi),,,,こう
+香 (Meaning),,,,Fragrance
+湾 (Onyomi),,,,わん
+湾 (Meaning),,,,Gulf
+跳 (Onyomi),,,,ちょう
+跳 (Meaning),,,,Hop
+抱 (Onyomi),,,,だ
+抱 (Meaning),,,,Hug
+旬 (Onyomi),,,,しゅん
+旬 (Meaning),,,,In Season
+聴 (Onyomi),,,,ちょう
+聴 (Meaning),,,,Listen
+臨 (Onyomi),,,,りん
+臨 (Meaning),,,,Look To
+兆 (Onyomi),,,,ちょう
+兆 (Meaning),,,,Omen
+契 (Onyomi),,,,けい
+契 (Meaning),,,,Pledge
+刑 (Onyomi),,,,けい
+刑 (Meaning),,,,Punish
+募 (Onyomi),,,,ぼ
+募 (Meaning),,,,Recruit
+償 (Onyomi),,,,しょう
+償 (Meaning),,,,Reparation
+抵 (Onyomi),,,,てい
+抵 (Meaning),,,,Resist
+戻 (Onyomi),,,,もど
+戻 (Meaning),,,,Return
+昭 (Onyomi),,,,しょう
+昭 (Meaning),,,,Shining
+串 (Onyomi),,,,くし
+串 (Meaning),,,,Skewer
+闘 (Onyomi),,,,とう
+闘 (Meaning),,,,Struggle
+執 (Onyomi),,,,しゅう
+執 (Meaning),,,,Tenacious
+跡 (Onyomi),,,,せき
+跡 (Meaning),,,,Traces
+削 (Onyomi),,,,さく
+削 (Meaning),,,,Whittle Down
+狙 (Furigana),,,,そ
+狙 (Meaning),,,,AIM
+抗 (Furigana),,,,こう
+抗 (Meaning),,,,ANTIBODY
+患 (Furigana),,,,かん
+患 (Meaning),,,,A PATIENT (PATIENT, MEDICAL PATIENT)
+応 (Furigana),,,,おう
+応 (Meaning),,,,APPLICATION
+陣 (Furigana),,,,じん
+陣 (Meaning),,,,ARMY BASE (ARMY CAMP, GROUP)
+執 (Furigana),,,,しゅう
+執 (Meaning),,,,ATTACHMENT TO (TENACITY, OBSESSED WITH, ATTACHMENT)
+塁 (Furigana),,,,るい
+塁 (Meaning),,,,BASEBALL BASE (BASE)
+塁 (Furigana),,,,るい
+塁 (Meaning),,,,BASEBALL UMPIRE (UMPIRE)
+塁 (Furigana),,,,るい
+塁 (Meaning),,,,BASE HIT (SINGLE)
+戦 (Furigana),,,,せん
+戦 (Meaning),,,,BATTLE (A BATTLE)
+爆 (Furigana),,,,ばく
+爆 (Meaning),,,,BOMB
+爆 (Furigana),,,,ばく
+爆 (Meaning),,,,BOMBING
+眉 (Furigana),,,,み
+眉 (Meaning),,,,BROW (GLABELLA)
+弾 (Furigana),,,,だん
+弾 (Meaning),,,,BULLET
+弾 (Furigana),,,,だん
+弾 (Meaning),,,,BULLET
+陣 (Furigana),,,,じん
+陣 (Meaning),,,,CAMP
+契 (Furigana),,,,けい
+契 (Meaning),,,,CHANCE (OPPORTUNITY, TURNING POINT)
+崩 (Furigana),,,,ほう
+崩 (Meaning),,,,COLLAPSE (CRUMBLING, BREAKING DOWN)
+契 (Furigana),,,,けい
+契 (Meaning),,,,CONTRACT (AGREEMENT)
+火 (Furigana),,,,か
+火 (Meaning),,,,CREMATION
+死 (Furigana),,,,し
+死 (Meaning),,,,DEATH PENALTY
+削 (Furigana),,,,さく
+削 (Meaning),,,,DELETION (ELIMINATION, DELETE)
+派 (Furigana),,,,は
+派 (Meaning),,,,DISPATCH (DEPLOYMENT, TEMPORARY)
+酔 (Furigana),,,,すい
+酔 (Meaning),,,,DRUNK
+弾 (Furigana),,,,だん
+弾 (Meaning),,,,ELASTICITY (FLEXIBILITY)
+急 (Furigana),,,,きゅう
+急 (Meaning),,,,EMERGENCY PATIENT
+証 (Furigana),,,,しょう
+証 (Meaning),,,,EVIDENCE (PROOF, TRACES)
+試 (Furigana),,,,し
+試 (Meaning),,,,EXAM HELL (EXAMINATION HELL)
+爆 (Furigana),,,,ばく
+爆 (Meaning),,,,EXPLOSION
+爆 (Furigana),,,,ばく
+爆 (Meaning),,,,EXPLOSIVE LAUGHTER
+眉 (Furigana),,,,み
+眉 (Meaning),,,,EYEBROWS (BROW)
+闘 (Furigana),,,,とう
+闘 (Meaning),,,,FIGHTING SPIRIT
+上 (Furigana),,,,じょう
+上 (Meaning),,,,FIRST TEN DAYS OF THE MONTH (BEGINNING OF MONTH, BEGINNING OF THE MONTH)
+漁 (Furigana),,,,ぎょ
+漁 (Meaning),,,,FISHERMAN
+漁 (Furigana),,,,ぎょ
+漁 (Meaning),,,,FISHING BOAT (FISHING VESSEL)
+漁 (Furigana),,,,ぎょ
+漁 (Meaning),,,,FISHING INDUSTRY (FISHERY)
+香 (Furigana),,,,こう
+香 (Meaning),,,,FRAGRANCE (AROMA)
+募 (Furigana),,,,ぼ
+募 (Meaning),,,,FUNDRAISING
+葬 (Furigana),,,,そう
+葬 (Meaning),,,,FUNERAL
+給 (Furigana),,,,きゅう
+給 (Meaning),,,,GAS STATION (FILLING STATION, PETROL STATION)
+大 (Furigana),,,,たい
+大 (Meaning),,,,GENERALLY (USUALLY, IN MOST CASES)
+串 (Furigana),,,,くし
+串 (Meaning),,,,GRILLED SKEWERS
+湾 (Furigana),,,,わん
+湾 (Meaning),,,,GULF (BAY, INLET)
+二 (Furigana),,,,に
+二 (Meaning),,,,HANGOVER
+聴 (Furigana),,,,ちょう
+聴 (Meaning),,,,HEARING ABILITY
+抱 (Furigana),,,,だ
+抱 (Meaning),,,,HOLDING IN ONE'S ARMS (CARRYING)
+香 (Furigana),,,,こう
+香 (Meaning),,,,HONG KONG
+旬 (Furigana),,,,しゅん
+旬 (Meaning),,,,IN SEASON
+刑 (Furigana),,,,けい
+刑 (Meaning),,,,JAIL (PRISON)
+香 (Furigana),,,,こう
+香 (Meaning),,,,KAGAWA PREFECTURE
+下 (Furigana),,,,か
+下 (Meaning),,,,LAST TEN DAYS OF THE MONTH (END OF MONTH, END OF THE MONTH)
+紹 (Furigana),,,,しょう
+紹 (Meaning),,,,LETTER OF INTRODUCTION
+終 (Furigana),,,,しゅう
+終 (Meaning),,,,LIFE SENTENCE
+聴 (Furigana),,,,ちょう
+聴 (Meaning),,,,LISTENER
+一 (Furigana),,,,いち
+一 (Meaning),,,,LIVING ALONE
+中 (Furigana),,,,ちゅう
+中 (Meaning),,,,MIDDLE TEN DAYS OF THE MONTH (MIDDLE OF THE MONTH, MIDDLE OF MONTH)
+奇 (Furigana),,,,き
+奇 (Meaning),,,,MIRACLE
+味 (Furigana),,,,み
+味 (Meaning),,,,MISO SOUP
+掲 (Furigana),,,,けい
+掲 (Meaning),,,,NOTICE (BULLETIN)
+油 (Furigana),,,,ゆ
+油 (Meaning),,,,OIL PAINTING
+前 (Furigana),,,,ぜん
+前 (Meaning),,,,OMEN (SIGN)
+払 (Furigana),,,,はら
+払 (Meaning),,,,PAYMENT (A PAYMENT)
+香 (Furigana),,,,こう
+香 (Meaning),,,,PERFUME (SCENT)
+刑 (Furigana),,,,けい
+刑 (Meaning),,,,POLICE DETECTIVE (DETECTIVE, CRIMINAL CASE)
+鍋 (Furigana),,,,なべ
+鍋 (Meaning),,,,POT (STEW, HOTPOT)
+刑 (Furigana),,,,けい
+刑 (Meaning),,,,PRISON TERM
+掲 (Furigana),,,,けい
+掲 (Meaning),,,,PUBLICATION (PRINT)
+刑 (Furigana),,,,けい
+刑 (Meaning),,,,PUNISHMENT (PENALTY)
+募 (Furigana),,,,ぼ
+募 (Meaning),,,,RECRUITING (SOLICITATION)
+削 (Furigana),,,,さく
+削 (Meaning),,,,REDUCTION (CUTBACK)
+弁 (Furigana),,,,べん
+弁 (Meaning),,,,REIMBURSEMENT (COMPENSATION)
+抗 (Furigana),,,,こう
+抗 (Meaning),,,,RESISTANCE
+遺 (Furigana),,,,い
+遺 (Meaning),,,,RUINS (HISTORIC RUINS, REMAINS, HISTORIC REMAINS)
+船 (Furigana),,,,せん
+船 (Meaning),,,,SEASICKNESS
+臨 (Furigana),,,,りん
+臨 (Meaning),,,,SEASIDE (COASTAL)
+自 (Furigana),,,,じ
+自 (Meaning),,,,SELF INTRODUCTION
+恥 (Furigana),,,,は
+恥 (Meaning),,,,SHAMELESS PERSON
+彼 (Furigana),,,,かれ
+彼 (Meaning),,,,SHE (GIRLFRIEND)
+狙 (Furigana),,,,そ
+狙 (Meaning),,,,SHOOTING (SNIPING)
+昭 (Furigana),,,,しょう
+昭 (Meaning),,,,SHOWA ERA (SHOUWA ERA, SHOWA, SHOUWA, SHOWA EMPEROR, SHOUWA EMPEROR)
+兆 (Furigana),,,,ちょう
+兆 (Meaning),,,,SIGN (INDICATION)
+串 (Furigana),,,,くし
+串 (Meaning),,,,SKEWER (SPIT)
+遅 (Furigana),,,,ち
+遅 (Meaning),,,,SLOW (LATE)
+汁 (Furigana),,,,じゅう
+汁 (Meaning),,,,SOUPS (SOUP)
+自 (Furigana),,,,じ
+自 (Meaning),,,,SUICIDE BOMB
+甘 (Furigana),,,,あま
+甘 (Meaning),,,,SWEET VINEGAR
+台 (Furigana),,,,だい
+台 (Meaning),,,,TAIWAN
+臨 (Furigana),,,,りん
+臨 (Meaning),,,,TEMPORARY (PROVISIONAL)
+募 (Furigana),,,,ぼ
+募 (Meaning),,,,TO APPEAL FOR SOMETHING (TO INVITE SOMETHING, TO RAISE SOMETHING, TO GROW VIOLENT, TO BECOME STRONGER)
+患 (Furigana),,,,かん
+患 (Meaning),,,,TO BE AFFLICTED WITH (TO SUFFER FROM)
+恥 (Furigana),,,,は
+恥 (Meaning),,,,TO BE SHY (TO BE BASHFUL)
+弾 (Furigana),,,,だん
+弾 (Meaning),,,,TO BOUNCE (TO BE LIVELY)
+葬 (Furigana),,,,そう
+葬 (Meaning),,,,TO BURY (TO INTER)
+償 (Furigana),,,,しょう
+償 (Meaning),,,,TO COMPENSATE FOR (TO MAKE UP FOR, TO ATONE FOR)
+遣 (Furigana),,,,けん
+遣 (Meaning),,,,TO CONSIDER (TO MAKE USE OF)
+対 (Furigana),,,,たい
+対 (Meaning),,,,TO COUNTER (TO BE ONCOMING, TO COME TOWARDS)
+崩 (Furigana),,,,ほう
+崩 (Meaning),,,,TO DEMOLISH (TO BREAK, TO PULL DOWN, TO CRUMBLE)
+恵 (Furigana),,,,え
+恵 (Meaning),,,,TO DO A FAVOR (TO BLESS, TO GIVE OUT OF PITY, TO DONATE OUT OF CHARITY)
+臨 (Furigana),,,,りん
+臨 (Meaning),,,,TO FACE
+破 (Furigana),,,,は
+破 (Meaning),,,,TO GET TORN (TO GET BROKEN, TO GET RIPPED)
+抱 (Furigana),,,,だ
+抱 (Meaning),,,,TO HUG (TO EMBRACE, TO HOLD, TO CHERISH, TO BEAR)
+紹 (Furigana),,,,しょう
+紹 (Meaning),,,,TO INTRODUCE
+跳 (Furigana),,,,ちょう
+跳 (Meaning),,,,TO JUMP (TO HOP, TO LEAP)
+聴 (Furigana),,,,ちょう
+聴 (Meaning),,,,TO LISTEN TO (TO HEAR, TO LISTEN)
+掲 (Furigana),,,,けい
+掲 (Meaning),,,,TO PUT UP A SIGN (TO PUT UP)
+反 (Furigana),,,,はん
+反 (Meaning),,,,TO REBEL
+抵 (Furigana),,,,てい
+抵 (Meaning),,,,TO RESIST
+戻 (Furigana),,,,もど
+戻 (Meaning),,,,TO RETURN (TO BE RETURNED)
+闘 (Furigana),,,,とう
+闘 (Meaning),,,,TO STRUGGLE (TO FIGHT)
+盛 (Furigana),,,,せい
+盛 (Meaning),,,,TO SWELL (TO GET EXCITED)
+執 (Furigana),,,,しゅう
+執 (Meaning),,,,TO TAKE CONTROL (TO CARRY OUT)
+削 (Furigana),,,,さく
+削 (Meaning),,,,TO WHITTLE SOMETHING DOWN (TO SHAVE SOMETHING DOWN, TO REDUCE SOMETHING)
+跡 (Furigana),,,,せき
+跡 (Meaning),,,,TRACES (MARK)
+盗 (Furigana),,,,とう
+盗 (Meaning),,,,WIRETAPPING (BUGGING)
+知 (Furigana),,,,ち
+知 (Meaning),,,,WISDOM (INTELLIGENCE)
+執 (Furigana),,,,しゅう
+執 (Meaning),,,,WRITING (WRITE FOR A MAGAZINE)

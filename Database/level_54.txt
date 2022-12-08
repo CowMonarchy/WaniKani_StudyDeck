@@ -1,0 +1,302 @@
+庶 (Onyomi),,,,しょ
+庶 (Meaning),,,,All
+且 (Onyomi),,,,か
+且 (Meaning),,,,Also
+顕 (Onyomi),,,,けん
+顕 (Meaning),,,,Appear
+杏 (Onyomi),,,,あんず
+杏 (Meaning),,,,Apricot
+栞 (Onyomi),,,,しおり
+栞 (Meaning),,,,Bookmark
+欄 (Onyomi),,,,らん
+欄 (Meaning),,,,Column
+冠 (Onyomi),,,,かん
+冠 (Meaning),,,,Crown
+酷 (Onyomi),,,,こく
+酷 (Meaning),,,,Cruel
+叙 (Onyomi),,,,じょ
+叙 (Meaning),,,,Describe
+逸 (Onyomi),,,,いつ
+逸 (Meaning),,,,Deviate
+紋 (Onyomi),,,,もん
+紋 (Meaning),,,,Family Crest
+阿 (Onyomi),,,,あ
+阿 (Meaning),,,,Flatter
+愚 (Onyomi),,,,ぐ
+愚 (Meaning),,,,Foolish
+尚 (Onyomi),,,,しょう
+尚 (Meaning),,,,Furthermore
+拐 (Onyomi),,,,かい
+拐 (Meaning),,,,Kidnap
+悠 (Onyomi),,,,ゆう
+悠 (Meaning),,,,Leisure
+勲 (Onyomi),,,,くん
+勲 (Meaning),,,,Merit
+疎 (Onyomi),,,,そ
+疎 (Meaning),,,,Neglect
+謡 (Onyomi),,,,よう
+謡 (Meaning),,,,Noh Chanting
+栽 (Onyomi),,,,さい
+栽 (Meaning),,,,Planting
+践 (Onyomi),,,,せん
+践 (Meaning),,,,Practice
+呈 (Onyomi),,,,てい
+呈 (Meaning),,,,Present
+傲 (Onyomi),,,,ごう
+傲 (Meaning),,,,Proud
+疾 (Onyomi),,,,しつ
+疾 (Meaning),,,,Rapidly
+茜 (Onyomi),,,,あかね
+茜 (Meaning),,,,Red Dye
+酬 (Onyomi),,,,しゅう
+酬 (Meaning),,,,Repay
+呆 (Onyomi),,,,ほう
+呆 (Meaning),,,,Shock
+鎌 (Onyomi),,,,かま
+鎌 (Meaning),,,,Sickle
+粛 (Onyomi),,,,しゅく
+粛 (Meaning),,,,Solemn
+茎 (Onyomi),,,,くき
+茎 (Meaning),,,,Stem
+痴 (Onyomi),,,,ち
+痴 (Meaning),,,,Stupid
+哺 (Onyomi),,,,ほ
+哺 (Meaning),,,,Suckle
+荘 (Onyomi),,,,そう
+荘 (Meaning),,,,Villa
+鯨 (Onyomi),,,,げい
+鯨 (Meaning),,,,Whale
+卸 (Onyomi),,,,おろし
+卸 (Meaning),,,,Wholesale
+顕 (Furigana),,,,けん
+顕 (Meaning),,,,ACTUAL (OBVIOUS, EXPLICIT, OVERT, APPARENT, EVIDENT)
+逸 (Furigana),,,,いつ
+逸 (Meaning),,,,ANECDOTE
+杏 (Furigana),,,,あんず
+杏 (Meaning),,,,APRICOT
+兵 (Furigana),,,,へい
+兵 (Meaning),,,,ARMY PROVISIONS (PROVISIONS)
+自 (Furigana),,,,じ
+自 (Meaning),,,,AUTOBIOGRAPHY
+哺 (Furigana),,,,ほ
+哺 (Meaning),,,,BABY BOTTLE
+風 (Furigana),,,,ふう
+風 (Meaning),,,,BATHROOM
+偏 (Furigana),,,,へん
+偏 (Meaning),,,,BIAS (DEVIATION, PREJUDICE)
+空 (Furigana),,,,くう
+空 (Meaning),,,,BLANK SPACE
+盆 (Furigana),,,,ぼん
+盆 (Meaning),,,,BONSAI
+栞 (Furigana),,,,しおり
+栞 (Meaning),,,,BOOKMARK
+和 (Furigana),,,,わ
+和 (Meaning),,,,BUDDHIST HIGH PRIEST (HIGH PRIEST, BUDDHIST PRIEST)
+欄 (Furigana),,,,らん
+欄 (Meaning),,,,COLUMN (COLUMN OF TEXT, FIELD)
+叙 (Furigana),,,,じょ
+叙 (Meaning),,,,CONFERRING OF DECORATIONS (DECORATE)
+紋 (Furigana),,,,もん
+紋 (Meaning),,,,CREST (COAT OF ARMS)
+茜 (Furigana),,,,あかね
+茜 (Meaning),,,,CRIMSON (DARK RED)
+王 (Furigana),,,,おう
+王 (Meaning),,,,CROWN (DIADEM, BOTTLE CAP)
+冠 (Furigana),,,,かん
+冠 (Meaning),,,,CROWN (DIADEM, CORONET, TRADITIONAL CAP)
+酷 (Furigana),,,,こく
+酷 (Meaning),,,,CRUEL (AWFUL, SEVERE)
+冷 (Furigana),,,,れい
+冷 (Meaning),,,,CRUEL (COLDHEARTED, RELENTLESS, RUTHLESS)
+残 (Furigana),,,,ざん
+残 (Meaning),,,,CRUELTY (HARSHNESS)
+栽 (Furigana),,,,さい
+栽 (Meaning),,,,CULTIVATION (GROWING)
+勲 (Furigana),,,,くん
+勲 (Meaning),,,,DECORATION (ORDER, MEDAL)
+痴 (Furigana),,,,ち
+痴 (Meaning),,,,DEMENTIA
+過 (Furigana),,,,か
+過 (Meaning),,,,DEPOPULATION
+叙 (Furigana),,,,じょ
+叙 (Meaning),,,,DESCRIPTION
+逸 (Furigana),,,,いつ
+逸 (Meaning),,,,DEVIATION (DEPARTURE)
+露 (Furigana),,,,ろ
+露 (Meaning),,,,DISCOVERY (DETECTION, EXPOSURE)
+疾 (Furigana),,,,しつ
+疾 (Meaning),,,,DISEASE (AILMENT, DISORDER)
+無 (Furigana),,,,む
+無 (Meaning),,,,DISORDER (CHAOS, CONFUSION)
+叙 (Furigana),,,,じょ
+叙 (Meaning),,,,EPIC POEM (DESCRIPTIVE POETRY)
+殊 (Furigana),,,,しゅ
+殊 (Meaning),,,,ESPECIALLY (PARTICULARLY, ADDITIONALLY, UNUSUALLY)
+必 (Furigana),,,,ひつ
+必 (Meaning),,,,ESSENTIAL CONDITION (REQUISITE, MUST)
+疎 (Furigana),,,,そ
+疎 (Meaning),,,,ESTRANGEMENT (NEGLECT)
+疎 (Furigana),,,,そ
+疎 (Meaning),,,,ESTRANGEMENT (NEGLECT, ALIENATION)
+悠 (Furigana),,,,ゆう
+悠 (Meaning),,,,ETERNITY (PERPETUITY, PERMANENCE)
+倫 (Furigana),,,,りん
+倫 (Meaning),,,,ETHICAL
+倫 (Furigana),,,,りん
+倫 (Meaning),,,,ETHICS (MORAL PHILOSOPHY)
+疎 (Furigana),,,,そ
+疎 (Meaning),,,,EVACUATION
+秀 (Furigana),,,,しゅう
+秀 (Meaning),,,,EXCELLENCE
+応 (Furigana),,,,おう
+応 (Meaning),,,,EXCHANGE (RECIPROCATION)
+酷 (Furigana),,,,こく
+酷 (Meaning),,,,EXPLOITATION (OVERUSE, ABUSE)
+露 (Furigana),,,,ろ
+露 (Meaning),,,,EXPOSURE (DISCLOSURE)
+紋 (Furigana),,,,もん
+紋 (Meaning),,,,FAMILY CREST (CREST, COAT OF ARMS)
+指 (Furigana),,,,し
+指 (Meaning),,,,FINGERPRINT
+民 (Furigana),,,,みん
+民 (Meaning),,,,FOLK SONG (POPULAR SONG)
+阿 (Furigana),,,,あ
+阿 (Meaning),,,,FOOL (SIMPLETON, IDIOT)
+愚 (Furigana),,,,ぐ
+愚 (Meaning),,,,FOOLISH (SILLY, FOLLY, FOOLISHNESS)
+尚 (Furigana),,,,しょう
+尚 (Meaning),,,,FURTHERMORE (STILL, MORE, GREATER)
+疾 (Furigana),,,,しつ
+疾 (Meaning),,,,GALE (STRONG WIND, FRESH BREEZE)
+逸 (Furigana),,,,いつ
+逸 (Meaning),,,,GEM (TREASURE, ARTICLE OF RARE BEAUTY, FINE ARTICLE)
+庶 (Furigana),,,,しょ
+庶 (Meaning),,,,GENERAL AFFAIRS
+銀 (Furigana),,,,ぎん
+銀 (Meaning),,,,GINKGO (GINKGO NUT, GINKGO TREE)
+厳 (Furigana),,,,げん
+厳 (Meaning),,,,GRAVITY (SOLEMNITY, SEVERITY, SERIOUSNESS)
+欄 (Furigana),,,,らん
+欄 (Meaning),,,,GUARDRAIL (HANDRAIL, BANNISTER)
+酷 (Furigana),,,,こく
+酷 (Meaning),,,,HARSH (SEVERE, CRUEL, TERRIBLE)
+高 (Furigana),,,,こう
+高 (Meaning),,,,HIGH (NOBLE, REFINED)
+別 (Furigana),,,,べつ
+別 (Meaning),,,,HOLIDAY HOUSE (VILLA)
+顕 (Furigana),,,,けん
+顕 (Meaning),,,,HONORING
+茨 (Furigana),,,,いばら
+茨 (Meaning),,,,IBARAKI PREFECTURE
+愚 (Furigana),,,,ぐ
+愚 (Meaning),,,,IDLE COMPLAINT (GRUMBLE)
+疾 (Furigana),,,,しつ
+疾 (Meaning),,,,ILLNESS (DISEASE)
+酷 (Furigana),,,,こく
+酷 (Meaning),,,,INTENSE HEAT
+誘 (Furigana),,,,ゆう
+誘 (Meaning),,,,KIDNAPPING (ABDUCTION)
+悠 (Furigana),,,,ゆう
+悠 (Meaning),,,,LEISURELY (SLOW, DELIBERATE, EASYGOING)
+叙 (Furigana),,,,じょ
+叙 (Meaning),,,,LYRICISM (DESCRIPTION OF FEELINGS, EXPRESSION OF FEELINGS)
+欄 (Furigana),,,,らん
+欄 (Meaning),,,,MARGIN
+庶 (Furigana),,,,しょ
+庶 (Meaning),,,,MASSES (COMMON PEOPLE)
+殊 (Furigana),,,,しゅ
+殊 (Meaning),,,,MERITORIOUS DEEDS
+新 (Furigana),,,,しん
+新 (Meaning),,,,METABOLISM
+痴 (Furigana),,,,ち
+痴 (Meaning),,,,MOLESTER (PERVERT)
+最 (Furigana),,,,さい
+最 (Meaning),,,,MOST FAVORABLE TREATMENT (WARMEST RECEPTION)
+山 (Furigana),,,,さん
+山 (Meaning),,,,MOUNTAIN RETREAT (MOUNTAIN COTTAGE, MOUNTAIN VILLA)
+疎 (Furigana),,,,そ
+疎 (Meaning),,,,MUTUAL UNDERSTANDING (REMOVAL OF BLOCKAGE, DRAINAGE)
+童 (Furigana),,,,どう
+童 (Meaning),,,,NURSERY RHYME (CHILDREN'S SONG)
+哺 (Furigana),,,,ほ
+哺 (Meaning),,,,NURSING (SUCKLING)
+孤 (Furigana),,,,こ
+孤 (Meaning),,,,ORPHANAGE
+実 (Furigana),,,,じつ
+実 (Meaning),,,,PRACTICE (PUT INTO PRACTICE)
+時 (Furigana),,,,じ
+時 (Meaning),,,,PREMATURE
+贈 (Furigana),,,,ぞう
+贈 (Meaning),,,,PRESENTATION
+進 (Furigana),,,,しん
+進 (Meaning),,,,PRESENTATION
+傲 (Furigana),,,,ごう
+傲 (Meaning),,,,PRIDE (HAUGHTINESS, ARROGANCE, INSOLENCE)
+風 (Furigana),,,,ふう
+風 (Meaning),,,,PUBLIC BATHHOUSE
+悠 (Furigana),,,,ゆう
+悠 (Meaning),,,,QUIET (CALM, LEISURELY, EASY)
+顕 (Furigana),,,,けん
+顕 (Meaning),,,,REMARKABLE (STRIKING, OBVIOUS)
+賠 (Furigana),,,,ばい
+賠 (Meaning),,,,REPARATIONS (COMPENSATION)
+酷 (Furigana),,,,こく
+酷 (Meaning),,,,RESEMBLANCE (RESEMBLE)
+報 (Furigana),,,,ほう
+報 (Meaning),,,,REWARD (COMPENSATION)
+波 (Furigana),,,,は
+波 (Meaning),,,,RIPPLE (REPERCUSSIONS)
+自 (Furigana),,,,じ
+自 (Meaning),,,,SELF CONTROL (SELF DISCIPLINE, SELF RESTRAINT)
+酷 (Furigana),,,,こく
+酷 (Meaning),,,,SEVERE CRITICISM (DAMNATION)
+過 (Furigana),,,,か
+過 (Meaning),,,,SEVERITY (RIGOR, CRUELTY, HARSH)
+陳 (Furigana),,,,ちん
+陳 (Meaning),,,,SHOWROOM
+鎌 (Furigana),,,,かま
+鎌 (Meaning),,,,SICKLE (SCYTHE)
+静 (Furigana),,,,せい
+静 (Meaning),,,,SILENT
+荘 (Furigana),,,,そう
+荘 (Meaning),,,,SOLEMNITY (GRAVITY)
+歌 (Furigana),,,,か
+歌 (Meaning),,,,SONG (BALLAD)
+疎 (Furigana),,,,そ
+疎 (Meaning),,,,SPARSE (THIN, SCATTERED, STRAGGLING, SPORADIC)
+疾 (Furigana),,,,しつ
+疾 (Meaning),,,,SPRINT (DASH)
+茎 (Furigana),,,,くき
+茎 (Meaning),,,,STEM (STALK)
+噴 (Furigana),,,,ふん
+噴 (Meaning),,,,TO BURST OUT (TO SPOUT OUT)
+膨 (Furigana),,,,ぼう
+膨 (Meaning),,,,TO EXPAND (TO SWELL, TO GET BIG, TO BECOME INFLATED)
+貫 (Furigana),,,,かん
+貫 (Meaning),,,,TO FOLLOW (TO STICK WITH, TO STICK TO, TO GO THROUGH)
+呆 (Furigana),,,,ほう
+呆 (Meaning),,,,TO GROW SENILE (TO BE MENTALLY SLOW)
+音 (Furigana),,,,おん
+音 (Meaning),,,,TONE DEAFNESS (TONE DEAF, OFF KEY)
+怠 (Furigana),,,,たい
+怠 (Meaning),,,,TO NEGLECT (TO BE IDLE, TO SLACK)
+卸 (Furigana),,,,おろし
+卸 (Meaning),,,,TO SELL WHOLESALE (TO GRATE)
+逸 (Furigana),,,,いつ
+逸 (Meaning),,,,TO TURN AWAY (TO AVERT)
+空 (Furigana),,,,くう
+空 (Meaning),,,,VAIN (GROUNDLESS, FUTILE)
+犠 (Furigana),,,,ぎ
+犠 (Meaning),,,,VICTIM
+鯨 (Furigana),,,,げい
+鯨 (Meaning),,,,WHALE
+鯨 (Furigana),,,,げい
+鯨 (Meaning),,,,WHALE MEAT
+捕 (Furigana),,,,ほ
+捕 (Meaning),,,,WHALING (WHALE FISHING)
+卸 (Furigana),,,,おろし
+卸 (Meaning),,,,WHOLESALE
+卸 (Furigana),,,,おろし
+卸 (Meaning),,,,WHOLESALE
+卸 (Furigana),,,,おろし
+卸 (Meaning),,,,WHOLESALE PRICE

@@ -1,0 +1,272 @@
+析 (Onyomi),,,,せき
+析 (Meaning),,,,Analysis
+弧 (Onyomi),,,,こ
+弧 (Meaning),,,,Arc
+到 (Onyomi),,,,とう
+到 (Meaning),,,,Arrival
+軸 (Onyomi),,,,じく
+軸 (Meaning),,,,Axis
+綱 (Onyomi),,,,つな
+綱 (Meaning),,,,Cable
+挑 (Onyomi),,,,ちょう
+挑 (Meaning),,,,Challenge
+焦 (Onyomi),,,,しょう
+焦 (Meaning),,,,Char
+掘 (Onyomi),,,,くつ
+掘 (Meaning),,,,Dig
+紛 (Onyomi),,,,ふん
+紛 (Meaning),,,,Distract
+範 (Onyomi),,,,はん
+範 (Meaning),,,,Example
+括 (Onyomi),,,,かつ
+括 (Meaning),,,,Fasten
+床 (Onyomi),,,,しょう
+床 (Meaning),,,,Floor
+握 (Onyomi),,,,あく
+握 (Meaning),,,,Grip
+枢 (Onyomi),,,,すう
+枢 (Meaning),,,,Hinge
+揚 (Onyomi),,,,あ
+揚 (Meaning),,,,Hoist
+潟 (Onyomi),,,,かた
+潟 (Meaning),,,,Lagoon
+芝 (Onyomi),,,,しば
+芝 (Meaning),,,,Lawn
+肝 (Onyomi),,,,かん
+肝 (Meaning),,,,Liver
+餅 (Onyomi),,,,もち
+餅 (Meaning),,,,Mochi
+喪 (Onyomi),,,,そう
+喪 (Meaning),,,,Mourning
+網 (Onyomi),,,,もう
+網 (Meaning),,,,Netting
+克 (Onyomi),,,,こく
+克 (Meaning),,,,Overcome
+泊 (Onyomi),,,,はく
+泊 (Meaning),,,,Overnight
+双 (Onyomi),,,,そう
+双 (Meaning),,,,Pair
+柄 (Onyomi),,,,がら
+柄 (Meaning),,,,Pattern
+哲 (Onyomi),,,,てつ
+哲 (Meaning),,,,Philosophy
+斎 (Onyomi),,,,さい
+斎 (Meaning),,,,Purification
+袋 (Onyomi),,,,ふくろ
+袋 (Meaning),,,,Sack
+揺 (Onyomi),,,,よう
+揺 (Meaning),,,,Shake
+滑 (Onyomi),,,,かつ
+滑 (Meaning),,,,Slippery
+堅 (Onyomi),,,,かた
+堅 (Meaning),,,,Solid
+暫 (Onyomi),,,,ざん
+暫 (Meaning),,,,Temporarily
+糾 (Onyomi),,,,きゅう
+糾 (Meaning),,,,Twist
+荒 (Onyomi),,,,あ
+荒 (Meaning),,,,Wild
+挑 (Furigana),,,,ちょう
+挑 (Meaning),,,,A CHALLENGE (CHALLENGE)
+一 (Furigana),,,,いち
+一 (Meaning),,,,ALL TOGETHER (BATCH, ONE LUMP)
+解 (Furigana),,,,かい
+解 (Meaning),,,,ANALYSIS
+分 (Furigana),,,,ぶん
+分 (Meaning),,,,ANALYSIS
+円 (Furigana),,,,えん
+円 (Meaning),,,,ARC
+到 (Furigana),,,,とう
+到 (Meaning),,,,ARRIVAL
+中 (Furigana),,,,ちゅう
+中 (Meaning),,,,AXIS (PIVOT)
+軸 (Furigana),,,,じく
+軸 (Meaning),,,,AXIS
+枢 (Furigana),,,,すう
+枢 (Meaning),,,,AXLE (PIVOT)
+双 (Furigana),,,,そう
+双 (Meaning),,,,BINOCULARS
+糾 (Furigana),,,,きゅう
+糾 (Meaning),,,,BLAME
+中 (Furigana),,,,ちゅう
+中 (Meaning),,,,CENTER (CENTRE, PIVOT)
+通 (Furigana),,,,つう
+通 (Meaning),,,,COMMUNICATIONS NETWORK
+紛 (Furigana),,,,ふん
+紛 (Meaning),,,,COMPLICATION (CONFUSION)
+克 (Furigana),,,,こく
+克 (Meaning),,,,CONQUEST
+克 (Furigana),,,,こく
+克 (Meaning),,,,DETAILED
+不 (Furigana),,,,ふ
+不 (Meaning),,,,DISOBEDIENT CHILD (UNFILIAL CHILD)
+円 (Furigana),,,,えん
+円 (Meaning),,,,EFFORTLESS (SMOOTH)
+範 (Furigana),,,,はん
+範 (Meaning),,,,EXAMPLE (MODEL)
+発 (Furigana),,,,はつ
+発 (Meaning),,,,EXCAVATION (DIGGING UP, DISCOVERY)
+模 (Furigana),,,,も
+模 (Meaning),,,,EXEMPLIFICATION (MODEL, EXAMPLE)
+範 (Furigana),,,,はん
+範 (Meaning),,,,EXTENT (SCOPE)
+親 (Furigana),,,,しん
+親 (Meaning),,,,FILIAL PIETY
+床 (Furigana),,,,しょう
+床 (Meaning),,,,FLOOR
+焦 (Furigana),,,,しょう
+焦 (Meaning),,,,FOCAL POINT (FOCUS)
+暫 (Furigana),,,,ざん
+暫 (Meaning),,,,FOR A LITTLE WHILE (IN A LITTLE WHILE, FOR A MOMENT)
+斎 (Furigana),,,,さい
+斎 (Meaning),,,,FUNERAL HALL
+袋 (Furigana),,,,ふくろ
+袋 (Meaning),,,,GARBAGE BAG (GARBAGE SACK, RUBBISH BAG, TRASH BAG)
+握 (Furigana),,,,あく
+握 (Meaning),,,,GRIP (GRIP STRENGTH, HANDGRIP)
+握 (Furigana),,,,あく
+握 (Meaning),,,,HANDSHAKE (SHAKING HANDS)
+掛 (Furigana),,,,か
+掛 (Meaning),,,,HANGING SCROLL
+肝 (Furigana),,,,かん
+肝 (Meaning),,,,HEPATITIS
+温 (Furigana),,,,おん
+温 (Meaning),,,,HOTBED (BREEDING GROUND)
+殺 (Furigana),,,,さつ
+殺 (Meaning),,,,INSECTICIDE (PESTICIDE)
+親 (Furigana),,,,しん
+親 (Meaning),,,,LACK OF FILIAL PIETY (DISOBEDIENCE TO PARENTS)
+潟 (Furigana),,,,かた
+潟 (Meaning),,,,LAGOON
+芝 (Furigana),,,,しば
+芝 (Meaning),,,,LAWN (TURF)
+芝 (Furigana),,,,しば
+芝 (Meaning),,,,LAWN (TURF)
+芝 (Furigana),,,,しば
+芝 (Meaning),,,,LAWN
+肝 (Furigana),,,,かん
+肝 (Meaning),,,,LIVER (CHUTZPAH, COURAGE)
+肝 (Furigana),,,,かん
+肝 (Meaning),,,,LIVER
+宿 (Furigana),,,,しゅく
+宿 (Meaning),,,,LODGING (STAY THE NIGHT)
+喪 (Furigana),,,,そう
+喪 (Meaning),,,,LOSS (FORFEIT)
+餅 (Furigana),,,,もち
+餅 (Meaning),,,,MOCHI (STICKY RICE CAKE)
+喪 (Furigana),,,,そう
+喪 (Meaning),,,,MOURNING
+福 (Furigana),,,,ふく
+福 (Meaning),,,,MYSTERY BAG (MYSTERY SACK, LUCKY BAG)
+国 (Furigana),,,,こく
+国 (Meaning),,,,NATIONAL CHARACTER
+網 (Furigana),,,,もう
+網 (Meaning),,,,NET (NETTING, WEB)
+一 (Furigana),,,,いち
+一 (Meaning),,,,ONE NIGHT'S STAY
+不 (Furigana),,,,ふ
+不 (Meaning),,,,OPACITY (OPAQUE)
+双 (Furigana),,,,そう
+双 (Meaning),,,,PAIR
+括 (Furigana),,,,かつ
+括 (Meaning),,,,PARENTHESES (BRACKETS)
+柄 (Furigana),,,,がら
+柄 (Meaning),,,,PATTERN (DESIGN)
+人 (Furigana),,,,にん
+人 (Meaning),,,,PERSONAL CHARACTER (PERSONALITY, CHARACTER)
+哲 (Furigana),,,,てつ
+哲 (Meaning),,,,PHILOSOPHY
+携 (Furigana),,,,けい
+携 (Meaning),,,,PORTABLE PHONE (CELL PHONE, MOBILE PHONE)
+挑 (Furigana),,,,ちょう
+挑 (Meaning),,,,PROVOCATION
+拉 (Furigana),,,,ら
+拉 (Meaning),,,,RAMEN (RAMEN NOODLES)
+起 (Furigana),,,,お
+起 (Meaning),,,,RISING (GETTING OUT OF BED)
+綱 (Furigana),,,,つな
+綱 (Meaning),,,,ROPE (SUMO CHAMPION'S BELT)
+袋 (Furigana),,,,ふくろ
+袋 (Meaning),,,,SACK (BAG)
+犠 (Furigana),,,,ぎ
+犠 (Meaning),,,,SACRIFICE FLY
+動 (Furigana),,,,どう
+動 (Meaning),,,,SHAKING (TREMBLING, JOLT)
+病 (Furigana),,,,びょう
+病 (Meaning),,,,SICKBED
+小 (Furigana),,,,しょう
+小 (Meaning),,,,SMALL BUILD (SMALL STATURE, PETITE)
+堅 (Furigana),,,,かた
+堅 (Meaning),,,,SOLID (SERIOUS, UPRIGHT, HARD)
+素 (Furigana),,,,そ
+素 (Meaning),,,,SOMEN (SOMEN NOODLES, FINE WHITE NOODLES)
+最 (Furigana),,,,さい
+最 (Meaning),,,,STATE OF THE ART (CUTTING EDGE)
+書 (Furigana),,,,しょ
+書 (Meaning),,,,STUDY (DEN, LIBRARY)
+総 (Furigana),,,,そう
+総 (Meaning),,,,SYNTHESIS (RECAP)
+暫 (Furigana),,,,ざん
+暫 (Meaning),,,,TENTATIVE (TEMPORARY)
+干 (Furigana),,,,かん
+干 (Meaning),,,,TIDAL FLAT (TIDELAND)
+焦 (Furigana),,,,しょう
+焦 (Meaning),,,,TO BE BURNED (TO GET BURNED)
+吹 (Furigana),,,,ふ
+吹 (Meaning),,,,TO BEGIN TO BLOW (TO BREATHE OUT, TO BURST OUT LAUGHING)
+荒 (Furigana),,,,あ
+荒 (Meaning),,,,TO BE STORMY (TO BE ROUGH)
+透 (Furigana),,,,とう
+透 (Meaning),,,,TO BE TRANSPARENT (TO BE CLEAR, TO BE SEE-THROUGH)
+吹 (Furigana),,,,ふ
+吹 (Meaning),,,,TO BLOW AWAY
+吹 (Furigana),,,,ふ
+吹 (Meaning),,,,TO BLOW IN
+挑 (Furigana),,,,ちょう
+挑 (Meaning),,,,TO CHALLENGE SOMEONE (TO CHALLENGE SOMETHING, TO CHALLENGE)
+掘 (Furigana),,,,くつ
+掘 (Meaning),,,,TO DIG
+薄 (Furigana),,,,はく
+薄 (Meaning),,,,TO DILUTE (TO WATER DOWN)
+紛 (Furigana),,,,ふん
+紛 (Meaning),,,,TO DIVERT (TO DISTRACT)
+逃 (Furigana),,,,とう
+逃 (Meaning),,,,TO ESCAPE
+握 (Furigana),,,,あく
+握 (Meaning),,,,TO GRASP (TO CLASP)
+揚 (Furigana),,,,あ
+揚 (Meaning),,,,TO HOIST (TO FLY, TO RAISE, TO DEEP FRY)
+逃 (Furigana),,,,とう
+逃 (Meaning),,,,TO LET GO (TO SET FREE, TO LET ESCAPE)
+駆 (Furigana),,,,か
+駆 (Meaning),,,,TO RUN AROUND
+駆 (Furigana),,,,か
+駆 (Meaning),,,,TO RUSH INTO
+駆 (Furigana),,,,か
+駆 (Meaning),,,,TO RUSH OUT
+揺 (Furigana),,,,よう
+揺 (Meaning),,,,TO SHAKE (TO JOLT)
+東 (Furigana),,,,とう
+東 (Meaning),,,,TOSHIBA (TOUSHIBA)
+滑 (Furigana),,,,かつ
+滑 (Meaning),,,,TO SLIDE (TO SLIP)
+泊 (Furigana),,,,はく
+泊 (Meaning),,,,TO STAY THE NIGHT (TO STAY AT)
+括 (Furigana),,,,かつ
+括 (Meaning),,,,TO TIE UP (TO FASTEN, TO TIE TOGETHER, TO BIND)
+口 (Furigana),,,,こう
+口 (Meaning),,,,TO WHISTLE
+交 (Furigana),,,,こう
+交 (Meaning),,,,TRAFFIC NETWORK (TRANSPORTATION NETWORK)
+綱 (Furigana),,,,つな
+綱 (Meaning),,,,TUG OF WAR
+双 (Furigana),,,,そう
+双 (Meaning),,,,TWINS
+二 (Furigana),,,,に
+二 (Meaning),,,,TWO NIGHT'S STAY
+統 (Furigana),,,,とう
+統 (Meaning),,,,UNIFICATION (GENERALIZATION, MANAGEMENT)
+荒 (Furigana),,,,あ
+荒 (Meaning),,,,WILD (ROUGH)
+横 (Furigana),,,,よこ
+横 (Meaning),,,,YOKOZUNA (SUMO GRAND CHAMPION)

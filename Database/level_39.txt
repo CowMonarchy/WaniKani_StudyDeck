@@ -1,0 +1,284 @@
+控 (Onyomi),,,,ひか
+控 (Meaning),,,,Abstain
+宛 (Onyomi),,,,あて
+宛 (Meaning),,,,Address
+充 (Onyomi),,,,じゅう
+充 (Meaning),,,,Allocate
+渋 (Onyomi),,,,じゅう
+渋 (Meaning),,,,Bitter
+岐 (Onyomi),,,,き
+岐 (Meaning),,,,Branch Off
+埋 (Onyomi),,,,う
+埋 (Meaning),,,,Bury
+鈴 (Onyomi),,,,りん
+鈴 (Meaning),,,,Buzzer
+埼 (Onyomi),,,,さい
+埼 (Meaning),,,,Cape
+棋 (Onyomi),,,,き
+棋 (Meaning),,,,Chess Piece
+囚 (Onyomi),,,,しゅう
+囚 (Meaning),,,,Criminal
+譲 (Onyomi),,,,じょう
+譲 (Meaning),,,,Defer
+雇 (Onyomi),,,,こ
+雇 (Meaning),,,,Employ
+免 (Onyomi),,,,めん
+免 (Meaning),,,,Excuse
+群 (Onyomi),,,,ぐん
+群 (Meaning),,,,Flock
+枠 (Onyomi),,,,わく
+枠 (Meaning),,,,Frame
+銃 (Onyomi),,,,じゅう
+銃 (Meaning),,,,Gun
+仙 (Onyomi),,,,せん
+仙 (Meaning),,,,Hermit
+邦 (Onyomi),,,,ほう
+邦 (Meaning),,,,Home Country
+御 (Onyomi),,,,ご
+御 (Meaning),,,,Honorable
+慎 (Onyomi),,,,しん
+慎 (Meaning),,,,Humility
+躍 (Onyomi),,,,やく
+躍 (Meaning),,,,Leap
+謙 (Onyomi),,,,けん
+謙 (Meaning),,,,Modesty
+阜 (Onyomi),,,,ふ
+阜 (Meaning),,,,Mound
+片 (Onyomi),,,,かた
+片 (Meaning),,,,One Sided
+項 (Onyomi),,,,こう
+項 (Meaning),,,,Paragraph
+斐 (Onyomi),,,,い
+斐 (Meaning),,,,Patterned
+隆 (Onyomi),,,,りゅう
+隆 (Meaning),,,,Prosperity
+圏 (Onyomi),,,,けん
+圏 (Meaning),,,,Range
+勧 (Onyomi),,,,かん
+勧 (Meaning),,,,Recommend
+拒 (Onyomi),,,,きょ
+拒 (Meaning),,,,Refuse
+稲 (Onyomi),,,,いね
+稲 (Meaning),,,,Rice Plant
+奪 (Onyomi),,,,うば
+奪 (Meaning),,,,Rob
+鋼 (Onyomi),,,,こう
+鋼 (Meaning),,,,Steel
+甲 (Onyomi),,,,こう
+甲 (Meaning),,,,Turtle Shell
+壁 (Onyomi),,,,かべ
+壁 (Meaning),,,,Wall
+祉 (Onyomi),,,,し
+祉 (Meaning),,,,Welfare
+活 (Furigana),,,,かつ
+活 (Meaning),,,,ACTIVITIES (GREAT EFFORTS)
+宛 (Furigana),,,,あて
+宛 (Meaning),,,,ADDRESSEE (NAME, ADDRESS, NAME AND ADDRESS)
+小 (Furigana),,,,しょう
+小 (Meaning),,,,ALLOWANCE (SPENDING MONEY)
+南 (Furigana),,,,なん
+南 (Meaning),,,,ANTARCTIC CIRCLE (ANTARCTICA)
+原 (Furigana),,,,げん
+原 (Meaning),,,,ATOMIC BOMB
+控 (Furigana),,,,ひか
+控 (Meaning),,,,BACKUP (RESERVE, SPARE, COPY, STUB)
+渋 (Furigana),,,,じゅう
+渋 (Meaning),,,,BITTER FLAVOR (BITTER)
+片 (Furigana),,,,かた
+片 (Meaning),,,,BROKEN LANGUAGE (A FEW WORDS, BROKEN JAPANESE, BROKEN ENGLISH)
+掲 (Furigana),,,,けい
+掲 (Meaning),,,,BULLETIN BOARD
+免 (Furigana),,,,めん
+免 (Meaning),,,,CERTIFICATE (LICENSE, DIPLOMA)
+言 (Furigana),,,,げん
+言 (Meaning),,,,CHOICE OF WORDS
+連 (Furigana),,,,れん
+連 (Meaning),,,,COMMONWEALTH (FEDERATION)
+死 (Furigana),,,,し
+死 (Meaning),,,,CONDEMNED CRIMINAL (DEATH ROW CONVICT)
+御 (Furigana),,,,ご
+御 (Meaning),,,,COOKED RICE (MEAL)
+群 (Furigana),,,,ぐん
+群 (Meaning),,,,CROWD (MULTITUDE)
+水 (Furigana),,,,すい
+水 (Meaning),,,,DAFFODIL
+銃 (Furigana),,,,じゅう
+銃 (Meaning),,,,DEATH BY SHOOTING
+慎 (Furigana),,,,しん
+慎 (Meaning),,,,DISCREET (CAREFUL)
+呼 (Furigana),,,,よ
+呼 (Meaning),,,,DOORBELL
+甲 (Furigana),,,,こう
+甲 (Meaning),,,,EFFECT (RESULT, WORTH)
+雇 (Furigana),,,,こ
+雇 (Meaning),,,,EMPLOYMENT
+英 (Furigana),,,,えい
+英 (Meaning),,,,ENGLISH SPEAKING WORLD
+免 (Furigana),,,,めん
+免 (Meaning),,,,EXEMPTION (EXCLUSION)
+眉 (Furigana),,,,み
+眉 (Meaning),,,,EYEBROW
+邦 (Furigana),,,,ほう
+邦 (Meaning),,,,FELLOW COUNTRYMAN (JAPANESE NATIONAL, COMPATRIOT)
+群 (Furigana),,,,ぐん
+群 (Meaning),,,,FLOCK
+足 (Furigana),,,,そく
+足 (Meaning),,,,FOOTPRINT
+片 (Furigana),,,,かた
+片 (Meaning),,,,FRAGMENT (ONE OF A PAIR, INCOMPLETE)
+枠 (Furigana),,,,わく
+枠 (Meaning),,,,FRAME (LIMIT)
+枠 (Furigana),,,,わく
+枠 (Meaning),,,,FRAME (FRAMEWORK)
+充 (Furigana),,,,じゅう
+充 (Meaning),,,,FULLNESS (BEEFING UP)
+岐 (Furigana),,,,き
+岐 (Meaning),,,,GIFU
+棋 (Furigana),,,,き
+棋 (Meaning),,,,GO HALL (GO CLUB, GO INSTITUTION)
+銃 (Furigana),,,,じゅう
+銃 (Meaning),,,,GUN (FIREARM)
+群 (Furigana),,,,ぐん
+群 (Meaning),,,,GUNMA PREFECTURE
+跡 (Furigana),,,,せき
+跡 (Meaning),,,,HEIR (HEIRESS, SUCCESSOR)
+仙 (Furigana),,,,せん
+仙 (Meaning),,,,HERMIT (MOUNTAIN MAN)
+本 (Furigana),,,,ほん
+本 (Meaning),,,,HOME RUN (HOMER)
+謙 (Furigana),,,,けん
+謙 (Meaning),,,,HUMBLE JAPANESE (HUMBLE LANGUAGE)
+要 (Furigana),,,,よう
+要 (Meaning),,,,IMPORTANT POINTS (MAIN POINTS)
+項 (Furigana),,,,こう
+項 (Meaning),,,,ITEM (ENTRY, CLAUSE, DATA ITEM)
+跳 (Furigana),,,,ちょう
+跳 (Meaning),,,,JUMP (LEAP, BOUND, SKIP)
+縄 (Furigana),,,,じょう
+縄 (Meaning),,,,JUMP ROPE (SKIPPING ROPE)
+片 (Furigana),,,,かた
+片 (Meaning),,,,KATAKANA
+飛 (Furigana),,,,ひ
+飛 (Meaning),,,,LEAPING
+免 (Furigana),,,,めん
+免 (Meaning),,,,LICENSE (CERTIFICATE, PERMIT)
+躍 (Furigana),,,,やく
+躍 (Meaning),,,,LIVELY MOTION (THROB)
+事 (Furigana),,,,じ
+事 (Meaning),,,,MATTER (ITEM, FACTS)
+謙 (Furigana),,,,けん
+謙 (Meaning),,,,MODESTY (HUMILITY)
+募 (Furigana),,,,ぼ
+募 (Meaning),,,,NOW HIRING (NOW RECRUITING)
+由 (Furigana),,,,ゆう
+由 (Meaning),,,,OF HONORABLE LINEAGE (VENERABLE)
+片 (Furigana),,,,かた
+片 (Meaning),,,,ONE HANDED
+片 (Furigana),,,,かた
+片 (Meaning),,,,ONE WAY
+圏 (Furigana),,,,けん
+圏 (Meaning),,,,OUT OF RANGE
+短 (Furigana),,,,たん
+短 (Meaning),,,,PISTOL (REVOLVER)
+囚 (Furigana),,,,しゅう
+囚 (Meaning),,,,PRISONER (CONVICT)
+隆 (Furigana),,,,りゅう
+隆 (Meaning),,,,PROSPERITY
+隆 (Furigana),,,,りゅう
+隆 (Meaning),,,,PROTUBERANCE (BULGE)
+充 (Furigana),,,,じゅう
+充 (Meaning),,,,RECHARGE
+勧 (Furigana),,,,かん
+勧 (Meaning),,,,RECOMMENDATION (OFFICIAL ADVICE)
+拒 (Furigana),,,,きょ
+拒 (Meaning),,,,REFUSAL (REJECTION)
+補 (Furigana),,,,ほ
+補 (Meaning),,,,RESUPPLY (REFILL)
+稲 (Furigana),,,,いね
+稲 (Meaning),,,,RICE CULTIVATION (RICE CROP)
+稲 (Furigana),,,,いね
+稲 (Meaning),,,,RICE FIELD (RICE PADDY, PADDY FIELD)
+稲 (Furigana),,,,いね
+稲 (Meaning),,,,RICE PLANT
+銃 (Furigana),,,,じゅう
+銃 (Meaning),,,,RIFLE BULLET (BULLET)
+躍 (Furigana),,,,やく
+躍 (Meaning),,,,RUSH (DASH, ONSLAUGHT)
+埼 (Furigana),,,,さい
+埼 (Meaning),,,,SAITAMA PREFECTURE
+仙 (Furigana),,,,せん
+仙 (Meaning),,,,SENDAI
+将 (Furigana),,,,しょう
+将 (Meaning),,,,SHOGI (SHOUGI, JAPANESE CHESS)
+棋 (Furigana),,,,き
+棋 (Meaning),,,,SHOGI PLAYER (GO PLAYER)
+鈴 (Furigana),,,,りん
+鈴 (Meaning),,,,SMALL BELL (BELL)
+勧 (Furigana),,,,かん
+勧 (Meaning),,,,SOLICITATION (INVITATION)
+御 (Furigana),,,,ご
+御 (Meaning),,,,SORRY (I BEG YOUR PARDON)
+鋼 (Furigana),,,,こう
+鋼 (Meaning),,,,STEEL
+製 (Furigana),,,,せい
+製 (Meaning),,,,STEEL MANUFACTURE
+鋼 (Furigana),,,,こう
+鋼 (Meaning),,,,STEEL MATERIAL
+免 (Furigana),,,,めん
+免 (Meaning),,,,TAX EXEMPTION
+狙 (Furigana),,,,そ
+狙 (Meaning),,,,TO AIM AT (TO AIM)
+応 (Furigana),,,,おう
+応 (Meaning),,,,TO APPLY FOR (TO ENLIST, TO ANSWER AN AD)
+慎 (Furigana),,,,しん
+慎 (Meaning),,,,TO BE DISCREET (TO BE CAREFUL)
+埋 (Furigana),,,,う
+埋 (Meaning),,,,TO BURY
+譲 (Furigana),,,,じょう
+譲 (Meaning),,,,TO CONCEDE (TO HAND OVER, TO TURN OVER)
+崩 (Furigana),,,,ほう
+崩 (Meaning),,,,TO CRUMBLE (TO COLLAPSE)
+削 (Furigana),,,,さく
+削 (Meaning),,,,TO DELETE (TO ELIMINATE)
+雇 (Furigana),,,,こ
+雇 (Meaning),,,,TO EMPLOY (TO HIRE)
+免 (Furigana),,,,めん
+免 (Meaning),,,,TO ESCAPE SOMETHING (TO AVOID SOMETHING)
+解 (Furigana),,,,かい
+解 (Meaning),,,,TO FIRE SOMEONE (TO FIRE)
+跳 (Furigana),,,,ちょう
+跳 (Meaning),,,,TO JUMP (TO LEAP, TO HOP)
+躍 (Furigana),,,,やく
+躍 (Meaning),,,,TO LEAP (TO JUMP, TO BOUNCE)
+御 (Furigana),,,,ご
+御 (Meaning),,,,TO LOOK (TO PLEASE LOOK)
+弾 (Furigana),,,,だん
+弾 (Meaning),,,,TO PLAY A STRINGED INSTRUMENT (TO PLAY)
+掲 (Furigana),,,,けい
+掲 (Meaning),,,,TO PUBLISH (TO PRINT)
+勧 (Furigana),,,,かん
+勧 (Meaning),,,,TO RECOMMEND (TO SUGGEST, TO ADVISE, TO OFFER)
+拒 (Furigana),,,,きょ
+拒 (Meaning),,,,TO REFUSE (TO REJECT)
+払 (Furigana),,,,はら
+払 (Meaning),,,,TO REPAY (TO REFUND, TO REIMBURSE)
+奪 (Furigana),,,,うば
+奪 (Meaning),,,,TO ROB (TO STEAL BY FORCE)
+取 (Furigana),,,,しゅ
+取 (Meaning),,,,TO TAKE BACK
+渋 (Furigana),,,,じゅう
+渋 (Meaning),,,,TRAFFIC JAM (TRAFFIC CONGESTION)
+移 (Furigana),,,,い
+移 (Meaning),,,,TRANSFER (ASSIGNMENT)
+邦 (Furigana),,,,ほう
+邦 (Meaning),,,,TRANSLATION INTO JAPANESE (TRANSLATION TO JAPANESE)
+甲 (Furigana),,,,こう
+甲 (Meaning),,,,TURTLE SHELL (INSTEP, BACK OF THE HAND)
+壁 (Furigana),,,,かべ
+壁 (Meaning),,,,WALL
+壁 (Furigana),,,,かべ
+壁 (Meaning),,,,WALLPAPER
+戻 (Furigana),,,,もど
+戻 (Meaning),,,,WAY BACK (THE WAY BACK)
+福 (Furigana),,,,ふく
+福 (Meaning),,,,WELFARE (WELL BEING)

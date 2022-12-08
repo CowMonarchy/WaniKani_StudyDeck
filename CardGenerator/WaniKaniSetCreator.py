@@ -139,7 +139,7 @@ class WaniKani :
 
 
 #Script Run 
-level = 30  # <-------Choose Starting Level Here 
+level = 60  # <-------Choose Starting Level Here 
 Site = WaniKani()
 
 Site.ENoTabi_WaniKani(level)

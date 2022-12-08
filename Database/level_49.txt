@@ -1,0 +1,290 @@
+概 (Onyomi),,,,がい
+概 (Meaning),,,,Approximation
+拘 (Onyomi),,,,こう
+拘 (Meaning),,,,Arrest
+煮 (Onyomi),,,,に
+煮 (Meaning),,,,Boil
+覆 (Onyomi),,,,ふく
+覆 (Meaning),,,,Capsize
+駒 (Onyomi),,,,こま
+駒 (Meaning),,,,Chess Piece
+悟 (Onyomi),,,,ご
+悟 (Meaning),,,,Comprehension
+慌 (Onyomi),,,,こう
+慌 (Meaning),,,,Confused
+謀 (Onyomi),,,,ぼう
+謀 (Meaning),,,,Conspire
+鶴 (Onyomi),,,,つる
+鶴 (Meaning),,,,Crane
+拓 (Onyomi),,,,たく
+拓 (Meaning),,,,Cultivation
+衰 (Onyomi),,,,すい
+衰 (Meaning),,,,Decline
+奨 (Onyomi),,,,しょう
+奨 (Meaning),,,,Encourage
+淡 (Onyomi),,,,たん
+淡 (Meaning),,,,Faint
+礎 (Onyomi),,,,そ
+礎 (Meaning),,,,Foundation
+陛 (Onyomi),,,,へい
+陛 (Meaning),,,,Highness
+浸 (Onyomi),,,,しん
+浸 (Meaning),,,,Immersed
+劣 (Onyomi),,,,れつ
+劣 (Meaning),,,,Inferiority
+勘 (Onyomi),,,,かん
+勘 (Meaning),,,,Intuition
+隔 (Onyomi),,,,かく
+隔 (Meaning),,,,Isolate
+蹴 (Onyomi),,,,け
+蹴 (Meaning),,,,Kick
+桑 (Onyomi),,,,くわ
+桑 (Meaning),,,,Mulberry
+尼 (Onyomi),,,,に
+尼 (Meaning),,,,Nun
+珠 (Onyomi),,,,しゅ
+珠 (Meaning),,,,Pearl
+抽 (Onyomi),,,,ちゅう
+抽 (Meaning),,,,Pluck
+壇 (Onyomi),,,,だん
+壇 (Meaning),,,,Podium
+陶 (Onyomi),,,,とう
+陶 (Meaning),,,,Pottery
+妃 (Onyomi),,,,ひ
+妃 (Meaning),,,,Princess
+刈 (Onyomi),,,,か
+刈 (Meaning),,,,Prune
+紫 (Onyomi),,,,し
+紫 (Meaning),,,,Purple
+唯 (Onyomi),,,,ゆい
+唯 (Meaning),,,,Solely
+剛 (Onyomi),,,,ごう
+剛 (Meaning),,,,Sturdy
+征 (Onyomi),,,,せい
+征 (Meaning),,,,Subjugate
+誓 (Onyomi),,,,せい
+誓 (Meaning),,,,Vow
+俗 (Onyomi),,,,ぞく
+俗 (Meaning),,,,Vulgar
+潤 (Onyomi),,,,じゅん
+潤 (Meaning),,,,Watered
+抽 (Furigana),,,,ちゅう
+抽 (Meaning),,,,ABSTRACT (ABSTRACTION)
+概 (Furigana),,,,がい
+概 (Meaning),,,,APPROXIMATION (ROUGH ESTIMATE)
+煮 (Furigana),,,,に
+煮 (Meaning),,,,BOILED FOODS (STEWED FOODS)
+仏 (Furigana),,,,ぶつ
+仏 (Meaning),,,,BUDDHIST ALTAR
+珠 (Furigana),,,,しゅ
+珠 (Meaning),,,,CALCULATION WITH ABACUS
+転 (Furigana),,,,てん
+転 (Meaning),,,,CAPSIZING (OVERTURN)
+陶 (Furigana),,,,とう
+陶 (Meaning),,,,CERAMIC ART (CERAMICS)
+駒 (Furigana),,,,こま
+駒 (Meaning),,,,CHESS PIECE (SHOGI PIECE, GAME PIECE)
+俗 (Furigana),,,,ぞく
+俗 (Meaning),,,,COLLOQUIALISM (COLLOQUIAL LANGUAGE)
+征 (Furigana),,,,せい
+征 (Meaning),,,,CONQUEST (SUBJUGATION)
+陰 (Furigana),,,,いん
+陰 (Meaning),,,,CONSPIRACY
+鶴 (Furigana),,,,つる
+鶴 (Meaning),,,,CRANE
+皇 (Furigana),,,,こう
+皇 (Meaning),,,,CROWN PRINCESS
+貨 (Furigana),,,,か
+貨 (Meaning),,,,CURRENCY VALUE
+衰 (Furigana),,,,すい
+衰 (Meaning),,,,DECLINE (DECAY)
+拘 (Furigana),,,,こう
+拘 (Meaning),,,,DETENTION (CONFINEMENT)
+劣 (Furigana),,,,れつ
+劣 (Meaning),,,,DETERIORATION (DEGRADATION)
+不 (Furigana),,,,ふ
+不 (Meaning),,,,DIMNESS (OBSCURITY, UNCLEAR, UNINTELLIGIBLE)
+侵 (Furigana),,,,しん
+侵 (Meaning),,,,EROSION (CORROSION)
+隔 (Furigana),,,,かく
+隔 (Meaning),,,,EVERY OTHER MONTH
+隔 (Furigana),,,,かく
+隔 (Meaning),,,,EVERY OTHER WEEK
+遠 (Furigana),,,,えん
+遠 (Meaning),,,,EXPEDITION (CAMPAIGN)
+抽 (Furigana),,,,ちゅう
+抽 (Meaning),,,,EXTRACTION (SELECTION, SAMPLING, ABSTRACTION)
+淡 (Furigana),,,,たん
+淡 (Meaning),,,,FAINT (PALE)
+団 (Furigana),,,,だん
+団 (Meaning),,,,FAN (UCHIWA)
+花 (Furigana),,,,はな
+花 (Meaning),,,,FLOWER BED
+扇 (Furigana),,,,せん
+扇 (Meaning),,,,FOLDING FAN
+民 (Furigana),,,,みん
+民 (Meaning),,,,FOLK CUSTOMS (ETHNIC CUSTOMS)
+礎 (Furigana),,,,そ
+礎 (Meaning),,,,FOUNDATION (CORNERSTONE)
+基 (Furigana),,,,き
+基 (Meaning),,,,FOUNDATION (FUNDAMENTALS)
+淡 (Furigana),,,,たん
+淡 (Meaning),,,,FRESH WATER
+概 (Furigana),,,,がい
+概 (Meaning),,,,GENERAL IDEA (CONCEPT, NOTION)
+婆 (Furigana),,,,ば
+婆 (Meaning),,,,GRANNY (GRANDMA, OLD LADY, OLD WOMAN)
+恨 (Furigana),,,,こん
+恨 (Meaning),,,,GRUDGE (RESENTMENT, MALICE)
+憎 (Furigana),,,,ぞう
+憎 (Meaning),,,,HATEFUL
+憎 (Furigana),,,,ぞう
+憎 (Meaning),,,,HATEFUL (ABOMINABLE, DETESTABLE)
+憎 (Furigana),,,,ぞう
+憎 (Meaning),,,,HATRED
+劣 (Furigana),,,,れつ
+劣 (Meaning),,,,INFERIORITY (COARSENESS)
+劣 (Furigana),,,,れつ
+劣 (Meaning),,,,INFERIORITY COMPLEX (SENSE OF INFERIORITY)
+大 (Furigana),,,,たい
+大 (Meaning),,,,IN GENERAL (MAINLY, MOSTLY)
+勘 (Furigana),,,,かん
+勘 (Meaning),,,,INTUITION (PERCEPTION, HUNCH)
+隔 (Furigana),,,,かく
+隔 (Meaning),,,,ISOLATION (QUARANTINE)
+抽 (Furigana),,,,ちゅう
+抽 (Meaning),,,,LOTTERY (RAFFLE)
+覆 (Furigana),,,,ふく
+覆 (Meaning),,,,MASK
+唯 (Furigana),,,,ゆい
+唯 (Meaning),,,,MATERIALISM
+勘 (Furigana),,,,かん
+勘 (Meaning),,,,MISUNDERSTANDING (WRONG GUESS)
+草 (Furigana),,,,くさ
+草 (Meaning),,,,MOWING
+桑 (Furigana),,,,くわ
+桑 (Meaning),,,,MULBERRY FIELD
+桑 (Furigana),,,,くわ
+桑 (Meaning),,,,MULBERRY FIELD (MULBERRY PLANTATION)
+桑 (Furigana),,,,くわ
+桑 (Meaning),,,,MULBERRY TREE (MULBERRY)
+雑 (Furigana),,,,ざつ
+雑 (Meaning),,,,NEW YEAR'S DISH (MOCHI SOUP)
+尼 (Furigana),,,,に
+尼 (Meaning),,,,NUN
+尼 (Furigana),,,,に
+尼 (Meaning),,,,NUN (PRIESTESS)
+唯 (Furigana),,,,ゆい
+唯 (Meaning),,,,ONLY (SOLE, UNIQUE)
+概 (Furigana),,,,がい
+概 (Meaning),,,,OUTLINE (SUMMARY)
+恐 (Furigana),,,,きょう
+恐 (Meaning),,,,PANIC (SCARE)
+勘 (Furigana),,,,かん
+勘 (Meaning),,,,PARDON (FORGIVENESS)
+真 (Furigana),,,,しん
+真 (Meaning),,,,PEARL
+浸 (Furigana),,,,しん
+浸 (Meaning),,,,PERMEATION (SOAKING, OSMOSIS)
+壇 (Furigana),,,,だん
+壇 (Meaning),,,,PODIUM (PLATFORM)
+陶 (Furigana),,,,とう
+陶 (Meaning),,,,POTTERY (CERAMICS)
+妃 (Furigana),,,,ひ
+妃 (Meaning),,,,PRINCESS
+利 (Furigana),,,,り
+利 (Meaning),,,,PROFIT (RETURNS)
+紫 (Furigana),,,,し
+紫 (Meaning),,,,PURPLE
+王 (Furigana),,,,おう
+王 (Meaning),,,,QUEEN
+無 (Furigana),,,,む
+無 (Meaning),,,,RECKLESS (THOUGHTLESS, UNPREMEDITATED)
+開 (Furigana),,,,かい
+開 (Meaning),,,,RECLAMATION (CULTIVATION, PIONEERING)
+推 (Furigana),,,,すい
+推 (Meaning),,,,RECOMMENDATION (ENDORSEMENT)
+花 (Furigana),,,,はな
+花 (Meaning),,,,RED LIGHT DISTRICT (PLEASURE QUARTERS, WORLD OF THE GEISHA)
+覚 (Furigana),,,,かく
+覚 (Meaning),,,,RESOLUTION (READINESS, PREPAREDNESS, RESIGNATION)
+憩 (Furigana),,,,けい
+憩 (Meaning),,,,REST
+休 (Furigana),,,,きゅう
+休 (Meaning),,,,REST AREA (REST STOP)
+数 (Furigana),,,,すう
+数 (Meaning),,,,ROSARY (PRAYER BEADS)
+奨 (Furigana),,,,しょう
+奨 (Meaning),,,,SCHOLARSHIP (STIPEND)
+老 (Furigana),,,,ろう
+老 (Meaning),,,,SENILITY (SENILE DECAY)
+俗 (Furigana),,,,ぞく
+俗 (Meaning),,,,SLANG (COMMON, VULGAR, LOCAL MANNERS, LOCAL CUSTOMS, MUNDANE)
+唯 (Furigana),,,,ゆい
+唯 (Meaning),,,,SOLELY (ONLY, MERELY, SIMPLY, JUST)
+間 (Furigana),,,,かん
+間 (Meaning),,,,SPACE (INTERVAL, GAP)
+割 (Furigana),,,,わり
+割 (Meaning),,,,SPLITTING THE COST (SPLITTING THE BILL)
+粘 (Furigana),,,,ねん
+粘 (Meaning),,,,STICKINESS
+気 (Furigana),,,,き
+気 (Meaning),,,,STRONG SPIRIT (BACKBONE)
+浸 (Furigana),,,,しん
+浸 (Meaning),,,,SUBMERSION (FLOOD)
+詐 (Furigana),,,,さ
+詐 (Meaning),,,,SWINDLER (CON ARTIST, SCAMMER)
+勘 (Furigana),,,,かん
+勘 (Meaning),,,,TAKING INTO CONSIDERATION (GIVING CONSIDERATION)
+疲 (Furigana),,,,ひ
+疲 (Meaning),,,,THANK YOU (THAT'S ENOUGH FOR TODAY, GOOD WORK)
+炊 (Furigana),,,,すい
+炊 (Meaning),,,,TO BE COOKED (TO BE BOILED, TO BE DONE COOKING)
+劣 (Furigana),,,,れつ
+劣 (Meaning),,,,TO BE INFERIOR TO
+潤 (Furigana),,,,じゅん
+潤 (Meaning),,,,TO BE MOIST (TO BE DAMP, TO BE WATERED)
+覆 (Furigana),,,,ふく
+覆 (Meaning),,,,TO BE OVERTURNED (TO BE REVERSED, TO BE RETRACTED, TO TOPPLE OVER)
+砕 (Furigana),,,,さい
+砕 (Meaning),,,,TO BE SMASHED (TO BE SHATTERED, TO BREAK)
+浸 (Furigana),,,,しん
+浸 (Meaning),,,,TO BE SOAKED IN (TO BE SUBMERGED, TO BE FLOODED)
+煮 (Furigana),,,,に
+煮 (Meaning),,,,TO BOIL SOMETHING (TO SIMMER SOMETHING)
+謀 (Furigana),,,,ぼう
+謀 (Meaning),,,,TO CONSPIRE (TO PLOT)
+衰 (Furigana),,,,すい
+衰 (Meaning),,,,TO DECLINE (TO DECAY, TO BECOME WEAK, TO WITHER)
+挿 (Furigana),,,,そう
+挿 (Meaning),,,,TO INSERT
+隔 (Furigana),,,,かく
+隔 (Meaning),,,,TO ISOLATE (TO PARTITION, TO SEPARATE)
+蹴 (Furigana),,,,け
+蹴 (Meaning),,,,TO KICK (TO REJECT)
+一 (Furigana),,,,いち
+一 (Meaning),,,,TO KICK (TO REJECT, TO FLATLY REJECT, TO BRUSH ASIDE, TO EASILY BEAT)
+刈 (Furigana),,,,か
+刈 (Meaning),,,,TO MOW (TO REAP, TO HARVEST)
+慌 (Furigana),,,,こう
+慌 (Meaning),,,,TO PANIC (TO HURRY, TO RUSH, TO BE UPSET)
+哀 (Furigana),,,,あい
+哀 (Meaning),,,,TO PITY (TO HAVE MERCY ON)
+刈 (Furigana),,,,か
+刈 (Meaning),,,,TO PRUNE (TO MOW, TO CUT)
+悟 (Furigana),,,,ご
+悟 (Meaning),,,,TO REALIZE
+紫 (Furigana),,,,し
+紫 (Meaning),,,,ULTRAVIOLET RAYS
+一 (Furigana),,,,いち
+一 (Meaning),,,,UNCONDITIONALLY (AS A RULE)
+剛 (Furigana),,,,ごう
+剛 (Meaning),,,,VIGOR (VIGOUR, VIRILITY)
+紫 (Furigana),,,,し
+紫 (Meaning),,,,VIOLET (PURPLE)
+誓 (Furigana),,,,せい
+誓 (Meaning),,,,VOW (OATH)
+誓 (Furigana),,,,せい
+誓 (Meaning),,,,VOW (PLEDGE, OATH, COVENANT)
+陛 (Furigana),,,,へい
+陛 (Meaning),,,,YOUR MAJESTY (HIS MAJESTY, HER MAJESTY)

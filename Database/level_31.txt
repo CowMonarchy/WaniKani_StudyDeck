@@ -1,0 +1,296 @@
+帯 (Onyomi),,,,たい
+帯 (Meaning),,,,Belt
+廊 (Onyomi),,,,ろう
+廊 (Meaning),,,,Corridor
+離 (Onyomi),,,,り
+離 (Meaning),,,,Detach
+径 (Onyomi),,,,けい
+径 (Meaning),,,,Diameter
+融 (Onyomi),,,,ゆう
+融 (Meaning),,,,Dissolve
+均 (Onyomi),,,,きん
+均 (Meaning),,,,Equal
+豪 (Onyomi),,,,ごう
+豪 (Meaning),,,,Exceptional
+除 (Onyomi),,,,じょ
+除 (Meaning),,,,Exclude
+貨 (Onyomi),,,,か
+貨 (Meaning),,,,Freight
+孫 (Onyomi),,,,そん
+孫 (Meaning),,,,Grandchild
+墓 (Onyomi),,,,ぼ
+墓 (Meaning),,,,Grave
+幾 (Onyomi),,,,いく
+幾 (Meaning),,,,How Many
+尋 (Onyomi),,,,じん
+尋 (Meaning),,,,Inquire
+編 (Onyomi),,,,へん
+編 (Meaning),,,,Knit
+陸 (Onyomi),,,,りく
+陸 (Meaning),,,,Land
+探 (Onyomi),,,,たん
+探 (Meaning),,,,Look For
+鑑 (Onyomi),,,,かん
+鑑 (Meaning),,,,Model
+泥 (Onyomi),,,,でい
+泥 (Meaning),,,,Mud
+巣 (Onyomi),,,,す
+巣 (Meaning),,,,Nest
+普 (Onyomi),,,,ふ
+普 (Meaning),,,,Normal
+棒 (Onyomi),,,,ぼう
+棒 (Meaning),,,,Pole
+粉 (Onyomi),,,,ふん
+粉 (Meaning),,,,Powder
+既 (Onyomi),,,,き
+既 (Meaning),,,,Previously
+救 (Onyomi),,,,きゅう
+救 (Meaning),,,,Rescue
+似 (Onyomi),,,,に
+似 (Meaning),,,,Resemble
+富 (Onyomi),,,,ふ
+富 (Meaning),,,,Rich
+散 (Onyomi),,,,さん
+散 (Meaning),,,,Scatter
+華 (Onyomi),,,,か
+華 (Meaning),,,,Showy
+嘆 (Onyomi),,,,たん
+嘆 (Meaning),,,,Sigh
+偵 (Onyomi),,,,てい
+偵 (Meaning),,,,Spy
+驚 (Onyomi),,,,きょう
+驚 (Meaning),,,,Surprised
+掃 (Onyomi),,,,そう
+掃 (Meaning),,,,Sweep
+菜 (Onyomi),,,,さい
+菜 (Meaning),,,,Vegetable
+脈 (Onyomi),,,,みゃく
+脈 (Meaning),,,,Vein
+徳 (Onyomi),,,,とく
+徳 (Meaning),,,,Virtue
+倉 (Onyomi),,,,そう
+倉 (Meaning),,,,Warehouse
+豊 (Furigana),,,,ほう
+豊 (Meaning),,,,ABUNDANT (PLENTIFUL, RICH)
+驚 (Furigana),,,,きょう
+驚 (Meaning),,,,ADMIRATION (WONDER)
+航 (Furigana),,,,こう
+航 (Meaning),,,,AIRPLANE TICKET (PLANE TICKET)
+既 (Furigana),,,,き
+既 (Meaning),,,,ALREADY (PREVIOUSLY)
+救 (Furigana),,,,きゅう
+救 (Meaning),,,,AMBULANCE
+鑑 (Furigana),,,,かん
+鑑 (Meaning),,,,APPRAISAL (EXPERT OPINION, JUDGEMENT)
+散 (Furigana),,,,さん
+散 (Meaning),,,,A STROLL (A WALK, STROLL, WALK)
+平 (Furigana),,,,へい
+平 (Meaning),,,,AVERAGE (MEAN)
+巣 (Furigana),,,,す
+巣 (Meaning),,,,BEEHIVE
+血 (Furigana),,,,けつ
+血 (Meaning),,,,BLOOD VESSEL (BLOOD RELATIONSHIP)
+用 (Furigana),,,,よう
+用 (Meaning),,,,BODYGUARD (BOUNCER, GUARD)
+中 (Furigana),,,,ちゅう
+中 (Meaning),,,,CHINESE
+掃 (Furigana),,,,そう
+掃 (Meaning),,,,CLEANING
+大 (Furigana),,,,たい
+大 (Meaning),,,,CONTINENT
+廊 (Furigana),,,,ろう
+廊 (Meaning),,,,CORRIDOR (HALLWAY)
+通 (Furigana),,,,つう
+通 (Meaning),,,,CURRENCY
+既 (Furigana),,,,き
+既 (Meaning),,,,DECIDED (SETTLED)
+子 (Furigana),,,,し
+子 (Meaning),,,,DESCENDANT
+直 (Furigana),,,,ちょく
+直 (Meaning),,,,DIAMETER
+解 (Furigana),,,,かい
+解 (Meaning),,,,DISSOLUTION (BREAKUP, BREAKING UP)
+離 (Furigana),,,,り
+離 (Meaning),,,,DIVORCE
+編 (Furigana),,,,へん
+編 (Meaning),,,,EDIT
+編 (Furigana),,,,へん
+編 (Meaning),,,,EDITOR
+均 (Furigana),,,,きん
+均 (Meaning),,,,EQUALITY (UNIFORMITY, EVENNESS)
+除 (Furigana),,,,じょ
+除 (Meaning),,,,EXCEPTION (EXCLUSION)
+感 (Furigana),,,,かん
+感 (Meaning),,,,EXCLAMATION MARK (EXCLAMATION POINT)
+既 (Furigana),,,,き
+既 (Meaning),,,,EXISTING
+恐 (Furigana),,,,きょう
+恐 (Meaning),,,,FEAR (HORROR, ANXIETY, CONCERN, UNEASINESS, DREAD)
+融 (Furigana),,,,ゆう
+融 (Meaning),,,,FINANCING (LOAN)
+華 (Furigana),,,,か
+華 (Meaning),,,,FLOWER ARRANGEMENT
+壊 (Furigana),,,,かい
+壊 (Meaning),,,,FRAGILE THING (BREAKABLES, FRAGILE ITEM)
+貨 (Furigana),,,,か
+貨 (Meaning),,,,FREIGHT (CARGO)
+融 (Furigana),,,,ゆう
+融 (Meaning),,,,FUSION
+華 (Furigana),,,,か
+華 (Meaning),,,,GAUDY (POMP, SPLENDOR, SPLENDOUR)
+幾 (Furigana),,,,いく
+幾 (Meaning),,,,GEOMETRY
+孫 (Furigana),,,,そん
+孫 (Meaning),,,,GRANDCHILD
+墓 (Furigana),,,,ぼ
+墓 (Meaning),,,,GRAVE
+墓 (Furigana),,,,ぼ
+墓 (Meaning),,,,GRAVEYARD (CEMETERY)
+花 (Furigana),,,,はな
+花 (Meaning),,,,HAY FEVER (POLLINOSIS)
+幾 (Furigana),,,,いく
+幾 (Meaning),,,,HOW MANY (HOW OLD)
+幾 (Furigana),,,,いく
+幾 (Meaning),,,,HOW MANY TIMES (HOW OFTEN)
+幾 (Furigana),,,,いく
+幾 (Meaning),,,,HOW MUCH
+真 (Furigana),,,,しん
+真 (Meaning),,,,IMPERSONATION (MIMICRY, IMITATION)
+陸 (Furigana),,,,りく
+陸 (Meaning),,,,LAND ARMY (ARMY)
+巣 (Furigana),,,,す
+巣 (Meaning),,,,LEAVE THE NEST (BECOME INDEPENDENT)
+豪 (Furigana),,,,ごう
+豪 (Meaning),,,,LUXURIOUS (SPLENDID, LUXURY)
+雄 (Furigana),,,,ゆう
+雄 (Meaning),,,,MALE
+雄 (Furigana),,,,ゆう
+雄 (Meaning),,,,MALE DOG
+外 (Furigana),,,,がい
+外 (Meaning),,,,MINISTER OF FOREIGN AFFAIRS
+道 (Furigana),,,,どう
+道 (Meaning),,,,MORALS (MORALITY)
+山 (Furigana),,,,さん
+山 (Meaning),,,,MOUNTAIN RANGE
+富 (Furigana),,,,ふ
+富 (Meaning),,,,MT FUJI (MOUNT FUJI)
+泥 (Furigana),,,,でい
+泥 (Meaning),,,,MUD
+泥 (Furigana),,,,でい
+泥 (Meaning),,,,MUDDY WATER
+巣 (Furigana),,,,す
+巣 (Meaning),,,,NEST (HABITAT)
+普 (Furigana),,,,ふ
+普 (Meaning),,,,NORMAL (NORMALLY)
+帯 (Furigana),,,,たい
+帯 (Meaning),,,,OBI (BELT)
+我 (Furigana),,,,が
+我 (Meaning),,,,OUR COUNTRY
+人 (Furigana),,,,にん
+人 (Meaning),,,,PERSONAL CONNECTIONS (NETWORK)
+画 (Furigana),,,,が
+画 (Meaning),,,,PICTURE GALLERY
+棒 (Furigana),,,,ぼう
+棒 (Meaning),,,,POLE (WOODEN POLE, ROD)
+粉 (Furigana),,,,ふん
+粉 (Meaning),,,,POWDER (FLOUR)
+粉 (Furigana),,,,ふん
+粉 (Meaning),,,,POWDERED
+総 (Furigana),,,,そう
+総 (Meaning),,,,PRIME MINISTER
+探 (Furigana),,,,たん
+探 (Meaning),,,,PRIVATE DETECTIVE (PRIVATE INVESTIGATOR, DETECTIVE, SLEUTH, INVESTIGATOR)
+恐 (Furigana),,,,きょう
+恐 (Meaning),,,,PROBABLY (PERHAPS, LIKELY, I DARE SAY, MAYBE, AS LIKELY AS NOT)
+尋 (Furigana),,,,じん
+尋 (Meaning),,,,QUESTIONING
+半 (Furigana),,,,はん
+半 (Meaning),,,,RADIUS
+探 (Furigana),,,,たん
+探 (Meaning),,,,ACADEMIC INQUIRY (RESEARCH)
+内 (Furigana),,,,ない
+内 (Meaning),,,,SCOUTING (RECONNAISSANCE, SECRET INVESTIGATION)
+印 (Furigana),,,,いん
+印 (Meaning),,,,SEAL
+分 (Furigana),,,,ぶん
+分 (Meaning),,,,SEGREGATION (SEPARATION)
+華 (Furigana),,,,か
+華 (Meaning),,,,SHOWY (GORGEOUS, GLAMOROUS)
+嘆 (Furigana),,,,たん
+嘆 (Meaning),,,,SIGH (LAMENT)
+巣 (Furigana),,,,す
+巣 (Meaning),,,,SPIDERWEB
+倉 (Furigana),,,,そう
+倉 (Meaning),,,,STOREHOUSE (WAREHOUSE)
+鼻 (Furigana),,,,はな
+鼻 (Meaning),,,,STUFFY NOSE (BLOCKED NOSE)
+均 (Furigana),,,,きん
+均 (Meaning),,,,SYMMETRY (BALANCE)
+壊 (Furigana),,,,かい
+壊 (Meaning),,,,TO BE BROKEN (TO GET BROKEN)
+延 (Furigana),,,,えん
+延 (Meaning),,,,TO BE EXTENDED (TO BE DELAYED, TO BE PROLONGED)
+富 (Furigana),,,,ふ
+富 (Meaning),,,,TO BE RICH (TO BE WEALTHY)
+散 (Furigana),,,,さん
+散 (Meaning),,,,TO BE SCATTERED (TO GET SCATTERED, TO SCATTER)
+驚 (Furigana),,,,きょう
+驚 (Meaning),,,,TO BE SURPRISED (TO BE SHOCKED)
+思 (Furigana),,,,おも
+思 (Meaning),,,,TO BROOD (TO THINK HARD, TO WORRY)
+除 (Furigana),,,,じょ
+除 (Meaning),,,,TO EXCLUDE (TO REMOVE)
+恐 (Furigana),,,,きょう
+恐 (Meaning),,,,TO FEAR (TO DREAD)
+照 (Furigana),,,,しょう
+照 (Meaning),,,,TO ILLUMINATE
+尋 (Furigana),,,,じん
+尋 (Meaning),,,,TO INQUIRE (TO ASK)
+絶 (Furigana),,,,ぜつ
+絶 (Meaning),,,,TO KILL OFF (TO LET DIE OUT)
+編 (Furigana),,,,へん
+編 (Meaning),,,,TO KNIT
+徳 (Furigana),,,,とく
+徳 (Meaning),,,,TOKUGAWA (TOKUGAWA SHOGUN)
+徳 (Furigana),,,,とく
+徳 (Meaning),,,,TOKUSHIMA PREFECTURE
+嘆 (Furigana),,,,たん
+嘆 (Meaning),,,,TO LAMENT (TO GRIEVE)
+迷 (Furigana),,,,めい
+迷 (Meaning),,,,TO LEAD ASTRAY (TO PERPLEX)
+探 (Furigana),,,,たん
+探 (Meaning),,,,TO LOOK FOR (TO SEARCH FOR)
+積 (Furigana),,,,せき
+積 (Meaning),,,,TO PILE THINGS UP (TO ACCUMULATE)
+救 (Furigana),,,,きゅう
+救 (Meaning),,,,TO RESCUE
+似 (Furigana),,,,に
+似 (Meaning),,,,TO RESEMBLE (TO LOOK LIKE)
+離 (Furigana),,,,り
+離 (Meaning),,,,TO SEPARATE (TO LEAVE)
+主 (Furigana),,,,しゅ
+主 (Meaning),,,,TO SPONSOR (TO PROMOTE)
+見 (Furigana),,,,み
+見 (Meaning),,,,TO STARE AT
+緊 (Furigana),,,,きん
+緊 (Meaning),,,,TO STRESS (TO STRESS OUT, TO BE NERVOUS)
+掃 (Furigana),,,,そう
+掃 (Meaning),,,,TO SWEEP
+催 (Furigana),,,,さい
+催 (Meaning),,,,TO URGE (TO PRESS FOR, TO DEMAND)
+地 (Furigana),,,,ち
+地 (Meaning),,,,UNDERGROUND SHOPPING MALL (UNDERGROUND SHOPPING CENTER, SHOPPING CENTRE)
+普 (Furigana),,,,ふ
+普 (Meaning),,,,USUAL (USUALLY, ALWAYS)
+野 (Furigana),,,,や
+野 (Meaning),,,,VEGETABLE
+菜 (Furigana),,,,さい
+菜 (Meaning),,,,VEGETARIAN DIET
+倉 (Furigana),,,,そう
+倉 (Meaning),,,,WAREHOUSE
+富 (Furigana),,,,ふ
+富 (Meaning),,,,WEALTH (RICHES)
+富 (Furigana),,,,ふ
+富 (Meaning),,,,WEALTHY (AFFLUENT, RICH)
+地 (Furigana),,,,ち
+地 (Meaning),,,,ZONE (DISTRICT)
